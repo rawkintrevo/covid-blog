@@ -11,7 +11,7 @@ jobs:
       - name: Build Site
         run: |
           docker run \
-                 -v ${{ github.workspace }}/src:/srv/jekyll -v ${{ github.workspace }}/src/_site:/srv/jekyll/_site \
+                 -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
                  jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && JEKYLL_ENV=production jekyll build"
       - name: Deploy to Firebase
         uses: w9jds/firebase-action@master
