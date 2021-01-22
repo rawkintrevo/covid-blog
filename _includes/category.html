@@ -2,7 +2,65 @@
 	<header class="post-header home">
 		<div class="post-title">Category - <span id='category-name'></span></div>
 	</header>
+	{{ page.url }}, {{ page.path }}
+	<ul>
+		{% for post in site.categories[cat] %}
+		<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+		{% endfor %}
+	</ul>
+<!--	<div>-->
+<!--		{% assign page_depth = page.url | split: '/' | size %}-->
+<!--		{% assign page_parent = page.url | split: '/' | last %}-->
+<!--		{% for node in site.pages offset:1 %}-->
+<!--		{% if node.url == '/' %}-->
+<!--		{{ continue }}-->
+<!--		{% else %}-->
+<!--		{% assign split_path = node.url | split: "/" %}-->
+<!--		{% assign node_last = split_path | last %}-->
+<!--		{% assign node_parent = node.url | remove: node_last | split: '/' | last %}-->
+<!--		{% assign node_url = node.url %}-->
+<!--		{% for slug in split_path offset:1 %}-->
+<!--		{% assign slug = slug %}-->
+<!--		{% assign slug_depth = forloop.index %}-->
+<!--		{% endfor %}-->
+<!--		{% if slug_depth == page_depth and page_parent == node_parent %}-->
+<!--		<li><a href="{{ node_url }}">{{ slug }}</a></li>-->
+<!--		{% endif %}-->
+<!--		{% if slug_depth == 1 and page.url == '/' and slug != 'search.json' and   slug != 'sitemap.xml' %}-->
+<!--		<li><a href="{{ node_url }}">{{{slug}}</a></li>-->
+<!--		{% endif %}-->
+<!--		{% endif %}-->
+<!--		{% endfor %}-->
+<!--	</div>-->
+<!--	{{ category-name }}-->
+<!--	<ul>-->
+<!--		{% for category in site.categories %}-->
+<!--		<li><a name="{{ category | first }}">{{ category | first }}</a>-->
+<!--			<ul>-->
+<!--				{% for post in category.last %}-->
+<!--				<li><a href="{{ post.url }}">{{ post.title }}</a></li>-->
+<!--				{% endfor %}-->
+<!--			</ul>-->
+<!--		</li>-->
+<!--		{% endfor %}-->
+<!--	</ul>-->
 
+<!--	<div>-->
+<!--		{% for cat in page.categories %}-->
+<!--		<h1>{{ cat }}</h1>-->
+<!--		<ul>-->
+<!--			{% for post in site.categories[cat] %}-->
+<!--			<li><a href="{{ post.url }}">{{ post.title }}</a></li>-->
+<!--			{% endfor %}-->
+<!--		</ul>-->
+<!--		{% endfor %}-->
+<!--	</div>-->
+<!--	<div>-->
+<!--		{% for post in site.categories.[page.category] %}-->
+<!--		<h2><a href=""></a></h2>-->
+<!--		<p></p>-->
+<!--		{% endfor %}-->
+<!--	</div>-->
 	<div class="post-content">
 		{%- if site.posts.size > 0 -%}
 		<ul class="post-list">

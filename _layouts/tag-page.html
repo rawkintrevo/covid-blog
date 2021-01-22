@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+
+<h1>{{ page.title }}</h1>
+
+<article class="page">
+    {%- for post in site.posts -%}
+        {%- if post.tags contains page.title -%}
+            <a href="{{ post.url }}">{{post.title}}</a><br/>
+        {%- endif -%}
+    {%- endfor -%}
+</article>
+
+

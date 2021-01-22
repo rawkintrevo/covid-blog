@@ -2,10 +2,16 @@
   <header class="post-header home">
     <div class="post-title">Articles</div>
   </header>
-
+  Baz
   <div class="post-content">
-   Something else here now.
+    {% assign states = site.states | split: ", " %}
+    {%- for s in states -%}
+      {{ s }}<br/>
+    {%- endfor -%}
   </div>
+
+
+
 </article>
 
 

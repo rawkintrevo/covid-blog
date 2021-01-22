@@ -30,14 +30,16 @@
 
 <div class="sidebar-item sidebar-nav">
   	<ul class="nav">
-			<li class="nav-title">Categories</li>
-	    {% for category in site.categories %}
-	    <li>
-	    	<a class="nav-item" href="{{ root_url }}/{{ site.category_dir }}#{{ category | first }}">
-				<span class="name">{{ category | first }}</span>
-				<span class="badge">{{ category | last | size }}</span>
-	    	</a>
- 		</li>
+			<li class="nav-title">States</li>
+
+		{% assign states = site.states | split: ", " %}
+		{%- for s in states -%}
+			<li>
+				<a class="nav-item" href="/states/{{ s }}">
+					<span class="name">{{ s }}</span>
+					<span class="badge">{{ site.categories[s] | last | size }}</span>
+				</a>
+			</li>
 	    {% endfor %}
 	  </nav>
 	</ul>

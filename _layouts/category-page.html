@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+
+<h1>{{ page.title }}</h1>
+
+<article class="page">
+    {%- for post in site.posts -%}
+        {%- if post.categories contains page.title -%}
+            <a href="/tag/{{post.tags[0]}}">{{post.tags[0]}} County</a><br/>
+        {%- endif -%}
+    {%- endfor -%}
+</article>
+
+
