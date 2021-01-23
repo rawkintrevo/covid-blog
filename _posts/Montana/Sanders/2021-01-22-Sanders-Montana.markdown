@@ -14,11 +14,11 @@ tags: [Sanders-Montana]
 In the last 7 days[3] we project there have been
 - *2* new cases of COVID-19
 - *0* people have died of COVID-19
-- *19* people have recovered from COVID-19[1]
+- *47* people have recovered from COVID-19[1]
 
 The population in this census area is 12113. By our calculations:
 - 4.38% of the population have had COVID-19.[2]
-- 0.73% of the population or 88.0 people are actively fighting the virus.
+- 0.50% of the population or 60.0 people are actively fighting the virus.
 
 ## Synopsis
 

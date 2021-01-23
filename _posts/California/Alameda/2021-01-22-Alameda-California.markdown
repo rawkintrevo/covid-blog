@@ -12,13 +12,13 @@ tags: [Alameda-California]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *4771* new cases of COVID-19
-- *12* people have died of COVID-19
-- *1473* people have recovered from COVID-19[1]
+- *5175* new cases of COVID-19
+- *66* people have died of COVID-19
+- *2460* people have recovered from COVID-19[1]
 
 The population in this census area is 1671329. By our calculations:
-- 4.11% of the population have had COVID-19.[2]
-- 0.96% of the population or 16015.0 people are actively fighting the virus.
+- 4.13% of the population have had COVID-19.[2]
+- 0.92% of the population or 15378.0 people are actively fighting the virus.
 
 ## Synopsis
 

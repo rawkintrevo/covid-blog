@@ -12,13 +12,13 @@ tags: [Troup-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *328* new cases of COVID-19
-- *8* people have died of COVID-19
-- *95* people have recovered from COVID-19[1]
+- *367* new cases of COVID-19
+- *9* people have died of COVID-19
+- *144* people have recovered from COVID-19[1]
 
 The population in this census area is 69922. By our calculations:
-- 8.75% of the population have had COVID-19.[2]
-- 1.50% of the population or 1049.0 people are actively fighting the virus.
+- 8.81% of the population have had COVID-19.[2]
+- 1.48% of the population or 1038.0 people are actively fighting the virus.
 
 ## Synopsis
 

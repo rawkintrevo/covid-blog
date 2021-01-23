@@ -12,13 +12,13 @@ tags: [Webster-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *49* new cases of COVID-19
+- *58* new cases of COVID-19
 - *2* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *20* people have recovered from COVID-19[1]
 
 The population in this census area is 12942. By our calculations:
-- 7.58% of the population have had COVID-19.[2]
-- 1.84% of the population or 238.0 people are actively fighting the virus.
+- 7.65% of the population have had COVID-19.[2]
+- 1.75% of the population or 227.0 people are actively fighting the virus.
 
 ## Synopsis
 

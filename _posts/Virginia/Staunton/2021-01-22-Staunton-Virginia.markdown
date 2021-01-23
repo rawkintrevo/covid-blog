@@ -12,13 +12,13 @@ tags: [Staunton-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *123* new cases of COVID-19
+- *129* new cases of COVID-19
 - *7* people have died of COVID-19
-- *49* people have recovered from COVID-19[1]
+- *65* people have recovered from COVID-19[1]
 
 The population in this census area is 24932. By our calculations:
-- 8.37% of the population have had COVID-19.[2]
-- 1.80% of the population or 449.0 people are actively fighting the virus.
+- 8.39% of the population have had COVID-19.[2]
+- 1.76% of the population or 439.0 people are actively fighting the virus.
 
 ## Synopsis
 

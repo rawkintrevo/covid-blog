@@ -12,12 +12,12 @@ tags: [Hamilton-New York]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *4* new cases of COVID-19
+- *7* new cases of COVID-19
 - *0* people have died of COVID-19
-- *12* people have recovered from COVID-19[1]
+- *15* people have recovered from COVID-19[1]
 
 The population in this census area is 4416. By our calculations:
-- 3.33% of the population have had COVID-19.[2]
+- 3.40% of the population have had COVID-19.[2]
 - 0.79% of the population or 35.0 people are actively fighting the virus.
 
 ## Synopsis

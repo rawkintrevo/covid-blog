@@ -12,13 +12,13 @@ tags: [Prince George's-Maryland]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *2442* new cases of COVID-19
-- *36* people have died of COVID-19
-- *981* people have recovered from COVID-19[1]
+- *2801* new cases of COVID-19
+- *38* people have died of COVID-19
+- *1527* people have recovered from COVID-19[1]
 
 The population in this census area is 909327. By our calculations:
-- 7.04% of the population have had COVID-19.[2]
-- 0.94% of the population or 8526.0 people are actively fighting the virus.
+- 7.08% of the population have had COVID-19.[2]
+- 0.92% of the population or 8337.0 people are actively fighting the virus.
 
 ## Synopsis
 

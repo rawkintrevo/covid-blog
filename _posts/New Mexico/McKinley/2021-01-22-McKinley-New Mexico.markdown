@@ -12,13 +12,13 @@ tags: [McKinley-New Mexico]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *226* new cases of COVID-19
-- *21* people have died of COVID-19
-- *156* people have recovered from COVID-19[1]
+- *315* new cases of COVID-19
+- *24* people have died of COVID-19
+- *222* people have recovered from COVID-19[1]
 
 The population in this census area is 71367. By our calculations:
-- 15.43% of the population have had COVID-19.[2]
-- 1.45% of the population or 1037.0 people are actively fighting the virus.
+- 15.55% of the population have had COVID-19.[2]
+- 1.48% of the population or 1057.0 people are actively fighting the virus.
 
 ## Synopsis
 

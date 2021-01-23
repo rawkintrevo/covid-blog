@@ -14,11 +14,11 @@ tags: [Mellette-South Dakota]
 In the last 7 days[3] we project there have been
 - *3* new cases of COVID-19
 - *0* people have died of COVID-19
-- *-1* people have recovered from COVID-19[1]
+- *3* people have recovered from COVID-19[1]
 
 The population in this census area is 2061. By our calculations:
 - 11.31% of the population have had COVID-19.[2]
-- 0.87% of the population or 18.0 people are actively fighting the virus.
+- 0.68% of the population or 14.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Hampton-South Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *92* new cases of COVID-19
+- *116* new cases of COVID-19
 - *0* people have died of COVID-19
-- *25* people have recovered from COVID-19[1]
+- *34* people have recovered from COVID-19[1]
 
 The population in this census area is 19222. By our calculations:
-- 7.07% of the population have had COVID-19.[2]
-- 1.34% of the population or 257.0 people are actively fighting the virus.
+- 7.19% of the population have had COVID-19.[2]
+- 1.42% of the population or 272.0 people are actively fighting the virus.
 
 ## Synopsis
 

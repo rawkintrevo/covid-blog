@@ -12,13 +12,13 @@ tags: [Pecos-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *-43* new cases of COVID-19
+- *-34* new cases of COVID-19
 - *0* people have died of COVID-19
-- *29* people have recovered from COVID-19[1]
+- *30* people have recovered from COVID-19[1]
 
 The population in this census area is 15823. By our calculations:
-- 8.30% of the population have had COVID-19.[2]
-- -0.10% of the population or -16.0 people are actively fighting the virus.
+- 8.35% of the population have had COVID-19.[2]
+- -0.05% of the population or -8.0 people are actively fighting the virus.
 
 ## Synopsis
 

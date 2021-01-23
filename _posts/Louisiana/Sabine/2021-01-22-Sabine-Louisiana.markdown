@@ -12,13 +12,13 @@ tags: [Sabine-Louisiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *86* new cases of COVID-19
+- *105* new cases of COVID-19
 - *1* people have died of COVID-19
 - *31* people have recovered from COVID-19[1]
 
 The population in this census area is 23884. By our calculations:
-- 10.12% of the population have had COVID-19.[2]
-- 1.46% of the population or 349.0 people are actively fighting the virus.
+- 10.20% of the population have had COVID-19.[2]
+- 1.54% of the population or 368.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [DeSoto-Mississippi]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *596* new cases of COVID-19
-- *18* people have died of COVID-19
-- *360* people have recovered from COVID-19[1]
+- *700* new cases of COVID-19
+- *19* people have died of COVID-19
+- *497* people have recovered from COVID-19[1]
 
 The population in this census area is 184945. By our calculations:
-- 9.37% of the population have had COVID-19.[2]
-- 1.30% of the population or 2397.0 people are actively fighting the virus.
+- 9.43% of the population have had COVID-19.[2]
+- 1.28% of the population or 2363.0 people are actively fighting the virus.
 
 ## Synopsis
 

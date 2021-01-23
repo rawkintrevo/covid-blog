@@ -12,13 +12,13 @@ tags: [Hood-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *306* new cases of COVID-19
+- *335* new cases of COVID-19
 - *9* people have died of COVID-19
 - *127* people have recovered from COVID-19[1]
 
 The population in this census area is 61643. By our calculations:
-- 8.57% of the population have had COVID-19.[2]
-- 2.12% of the population or 1307.0 people are actively fighting the virus.
+- 8.62% of the population have had COVID-19.[2]
+- 2.17% of the population or 1336.0 people are actively fighting the virus.
 
 ## Synopsis
 

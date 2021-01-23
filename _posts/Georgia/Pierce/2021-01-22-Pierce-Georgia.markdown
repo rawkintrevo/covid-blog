@@ -12,13 +12,13 @@ tags: [Pierce-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *88* new cases of COVID-19
+- *107* new cases of COVID-19
 - *3* people have died of COVID-19
-- *31* people have recovered from COVID-19[1]
+- *52* people have recovered from COVID-19[1]
 
 The population in this census area is 19465. By our calculations:
-- 10.49% of the population have had COVID-19.[2]
-- 1.86% of the population or 363.0 people are actively fighting the virus.
+- 10.59% of the population have had COVID-19.[2]
+- 1.85% of the population or 361.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Coconino-Arizona]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *796* new cases of COVID-19
-- *8* people have died of COVID-19
-- *351* people have recovered from COVID-19[1]
+- *931* new cases of COVID-19
+- *11* people have died of COVID-19
+- *441* people have recovered from COVID-19[1]
 
 The population in this census area is 143476. By our calculations:
-- 9.91% of the population have had COVID-19.[2]
-- 1.97% of the population or 2823.0 people are actively fighting the virus.
+- 10.01% of the population have had COVID-19.[2]
+- 2.00% of the population or 2865.0 people are actively fighting the virus.
 
 ## Synopsis
 

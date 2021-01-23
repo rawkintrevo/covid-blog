@@ -12,13 +12,13 @@ tags: [Pope-Minnesota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *6* new cases of COVID-19
+- *7* new cases of COVID-19
 - *0* people have died of COVID-19
-- *1* people have recovered from COVID-19[1]
+- *3* people have recovered from COVID-19[1]
 
 The population in this census area is 11249. By our calculations:
-- 6.59% of the population have had COVID-19.[2]
-- 0.44% of the population or 50.0 people are actively fighting the virus.
+- 6.60% of the population have had COVID-19.[2]
+- 0.44% of the population or 49.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Woodward-Oklahoma]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *102* new cases of COVID-19
+- *112* new cases of COVID-19
 - *1* people have died of COVID-19
-- *3* people have recovered from COVID-19[1]
+- *15* people have recovered from COVID-19[1]
 
 The population in this census area is 20211. By our calculations:
-- 14.12% of the population have had COVID-19.[2]
-- 1.93% of the population or 391.0 people are actively fighting the virus.
+- 14.17% of the population have had COVID-19.[2]
+- 1.92% of the population or 389.0 people are actively fighting the virus.
 
 ## Synopsis
 

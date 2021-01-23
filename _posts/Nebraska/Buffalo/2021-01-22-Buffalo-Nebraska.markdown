@@ -12,13 +12,13 @@ tags: [Buffalo-Nebraska]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *97* new cases of COVID-19
+- *115* new cases of COVID-19
 - *1* people have died of COVID-19
-- *33* people have recovered from COVID-19[1]
+- *41* people have recovered from COVID-19[1]
 
 The population in this census area is 49659. By our calculations:
-- 9.42% of the population have had COVID-19.[2]
-- 0.69% of the population or 341.0 people are actively fighting the virus.
+- 9.45% of the population have had COVID-19.[2]
+- 0.71% of the population or 351.0 people are actively fighting the virus.
 
 ## Synopsis
 

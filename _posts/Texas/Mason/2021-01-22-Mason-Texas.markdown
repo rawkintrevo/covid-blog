@@ -12,13 +12,13 @@ tags: [Mason-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *16* new cases of COVID-19
+- *20* new cases of COVID-19
 - *0* people have died of COVID-19
-- *7* people have recovered from COVID-19[1]
+- *8* people have recovered from COVID-19[1]
 
 The population in this census area is 4274. By our calculations:
-- 7.98% of the population have had COVID-19.[2]
-- 1.75% of the population or 75.0 people are actively fighting the virus.
+- 8.07% of the population have had COVID-19.[2]
+- 1.82% of the population or 78.0 people are actively fighting the virus.
 
 ## Synopsis
 

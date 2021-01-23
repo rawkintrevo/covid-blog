@@ -12,13 +12,13 @@ tags: [Brown-South Dakota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *69* new cases of COVID-19
+- *83* new cases of COVID-19
 - *5* people have died of COVID-19
-- *24* people have recovered from COVID-19[1]
+- *55* people have recovered from COVID-19[1]
 
 The population in this census area is 38839. By our calculations:
-- 12.35% of the population have had COVID-19.[2]
-- 0.92% of the population or 356.0 people are actively fighting the virus.
+- 12.39% of the population have had COVID-19.[2]
+- 0.87% of the population or 339.0 people are actively fighting the virus.
 
 ## Synopsis
 

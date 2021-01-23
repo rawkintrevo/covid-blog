@@ -12,13 +12,13 @@ tags: [Bannock-Idaho]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *164* new cases of COVID-19
+- *185* new cases of COVID-19
 - *3* people have died of COVID-19
-- *63* people have recovered from COVID-19[1]
+- *103* people have recovered from COVID-19[1]
 
 The population in this census area is 87808. By our calculations:
-- 8.15% of the population have had COVID-19.[2]
-- 0.80% of the population or 703.0 people are actively fighting the virus.
+- 8.18% of the population have had COVID-19.[2]
+- 0.78% of the population or 684.0 people are actively fighting the virus.
 
 ## Synopsis
 

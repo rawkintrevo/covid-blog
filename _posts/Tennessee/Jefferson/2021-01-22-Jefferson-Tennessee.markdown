@@ -12,13 +12,13 @@ tags: [Jefferson-Tennessee]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *228* new cases of COVID-19
-- *1* people have died of COVID-19
-- *33* people have recovered from COVID-19[1]
+- *259* new cases of COVID-19
+- *3* people have died of COVID-19
+- *188* people have recovered from COVID-19[1]
 
 The population in this census area is 54495. By our calculations:
-- 8.88% of the population have had COVID-19.[2]
-- 1.77% of the population or 963.0 people are actively fighting the virus.
+- 8.94% of the population have had COVID-19.[2]
+- 1.54% of the population or 837.0 people are actively fighting the virus.
 
 ## Synopsis
 

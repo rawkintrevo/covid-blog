@@ -12,13 +12,13 @@ tags: [Towner-North Dakota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *6* new cases of COVID-19
-- *0* people have died of COVID-19
-- *5* people have recovered from COVID-19[1]
+- *5* new cases of COVID-19
+- *1* people have died of COVID-19
+- *4* people have recovered from COVID-19[1]
 
 The population in this census area is 2189. By our calculations:
 - 13.34% of the population have had COVID-19.[2]
-- 0.78% of the population or 17.0 people are actively fighting the virus.
+- 0.73% of the population or 16.0 people are actively fighting the virus.
 
 ## Synopsis
 

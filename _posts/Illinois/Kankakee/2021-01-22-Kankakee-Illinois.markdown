@@ -12,13 +12,13 @@ tags: [Kankakee-Illinois]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *222* new cases of COVID-19
-- *5* people have died of COVID-19
-- *51* people have recovered from COVID-19[1]
+- *268* new cases of COVID-19
+- *10* people have died of COVID-19
+- *124* people have recovered from COVID-19[1]
 
 The population in this census area is 109862. By our calculations:
-- 10.51% of the population have had COVID-19.[2]
-- 0.75% of the population or 827.0 people are actively fighting the virus.
+- 10.55% of the population have had COVID-19.[2]
+- 0.72% of the population or 795.0 people are actively fighting the virus.
 
 ## Synopsis
 

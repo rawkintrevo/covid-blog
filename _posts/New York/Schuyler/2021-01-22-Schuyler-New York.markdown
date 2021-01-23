@@ -12,13 +12,13 @@ tags: [Schuyler-New York]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *50* new cases of COVID-19
+- *56* new cases of COVID-19
 - *0* people have died of COVID-19
-- *19* people have recovered from COVID-19[1]
+- *42* people have recovered from COVID-19[1]
 
 The population in this census area is 17807. By our calculations:
-- 4.07% of the population have had COVID-19.[2]
-- 1.07% of the population or 190.0 people are actively fighting the virus.
+- 4.10% of the population have had COVID-19.[2]
+- 0.97% of the population or 173.0 people are actively fighting the virus.
 
 ## Synopsis
 

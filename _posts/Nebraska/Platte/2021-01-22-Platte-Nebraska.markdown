@@ -12,13 +12,13 @@ tags: [Platte-Nebraska]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *55* new cases of COVID-19
+- *66* new cases of COVID-19
 - *0* people have died of COVID-19
-- *21* people have recovered from COVID-19[1]
+- *24* people have recovered from COVID-19[1]
 
 The population in this census area is 33470. By our calculations:
-- 11.07% of the population have had COVID-19.[2]
-- 0.55% of the population or 183.0 people are actively fighting the virus.
+- 11.10% of the population have had COVID-19.[2]
+- 0.57% of the population or 191.0 people are actively fighting the virus.
 
 ## Synopsis
 

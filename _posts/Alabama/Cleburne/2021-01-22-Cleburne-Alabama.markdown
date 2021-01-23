@@ -12,13 +12,13 @@ tags: [Cleburne-Alabama]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *39* new cases of COVID-19
-- *0* people have died of COVID-19
-- *25* people have recovered from COVID-19[1]
+- *45* new cases of COVID-19
+- *1* people have died of COVID-19
+- *34* people have recovered from COVID-19[1]
 
 The population in this census area is 14910. By our calculations:
-- 7.98% of the population have had COVID-19.[2]
-- 0.99% of the population or 147.0 people are actively fighting the virus.
+- 8.03% of the population have had COVID-19.[2]
+- 0.96% of the population or 143.0 people are actively fighting the virus.
 
 ## Synopsis
 

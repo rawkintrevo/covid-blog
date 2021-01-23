@@ -12,13 +12,13 @@ tags: [Durham-North Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *788* new cases of COVID-19
-- *11* people have died of COVID-19
-- *159* people have recovered from COVID-19[1]
+- *908* new cases of COVID-19
+- *19* people have died of COVID-19
+- *524* people have recovered from COVID-19[1]
 
 The population in this census area is 321488. By our calculations:
-- 5.59% of the population have had COVID-19.[2]
-- 0.97% of the population or 3104.0 people are actively fighting the virus.
+- 5.63% of the population have had COVID-19.[2]
+- 0.89% of the population or 2851.0 people are actively fighting the virus.
 
 ## Synopsis
 

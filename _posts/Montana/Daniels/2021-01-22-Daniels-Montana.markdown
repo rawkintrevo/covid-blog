@@ -12,13 +12,13 @@ tags: [Daniels-Montana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *16* new cases of COVID-19
+- *21* new cases of COVID-19
 - *0* people have died of COVID-19
 - *0* people have recovered from COVID-19[1]
 
 The population in this census area is 1690. By our calculations:
-- 10.30% of the population have had COVID-19.[2]
-- 2.13% of the population or 36.0 people are actively fighting the virus.
+- 10.59% of the population have had COVID-19.[2]
+- 2.43% of the population or 41.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Ochiltree-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *9* new cases of COVID-19
-- *1* people have died of COVID-19
-- *23* people have recovered from COVID-19[1]
+- *8* new cases of COVID-19
+- *2* people have died of COVID-19
+- *22* people have recovered from COVID-19[1]
 
 The population in this census area is 9836. By our calculations:
 - 9.86% of the population have had COVID-19.[2]
-- 0.56% of the population or 55.0 people are actively fighting the virus.
+- 0.55% of the population or 54.0 people are actively fighting the virus.
 
 ## Synopsis
 

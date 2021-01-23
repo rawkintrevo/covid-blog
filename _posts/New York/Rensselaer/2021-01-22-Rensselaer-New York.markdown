@@ -12,13 +12,13 @@ tags: [Rensselaer-New York]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *684* new cases of COVID-19
-- *6* people have died of COVID-19
-- *279* people have recovered from COVID-19[1]
+- *829* new cases of COVID-19
+- *8* people have died of COVID-19
+- *436* people have recovered from COVID-19[1]
 
 The population in this census area is 158714. By our calculations:
-- 4.39% of the population have had COVID-19.[2]
-- 1.58% of the population or 2512.0 people are actively fighting the virus.
+- 4.48% of the population have had COVID-19.[2]
+- 1.57% of the population or 2498.0 people are actively fighting the virus.
 
 ## Synopsis
 

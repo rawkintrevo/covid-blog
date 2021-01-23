@@ -12,13 +12,13 @@ tags: [Renville-Minnesota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *13* new cases of COVID-19
+- *16* new cases of COVID-19
 - *1* people have died of COVID-19
-- *-2* people have recovered from COVID-19[1]
+- *8* people have recovered from COVID-19[1]
 
 The population in this census area is 14548. By our calculations:
-- 9.45% of the population have had COVID-19.[2]
-- 0.57% of the population or 83.0 people are actively fighting the virus.
+- 9.47% of the population have had COVID-19.[2]
+- 0.52% of the population or 76.0 people are actively fighting the virus.
 
 ## Synopsis
 

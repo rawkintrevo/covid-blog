@@ -12,13 +12,13 @@ tags: [Somerset-Pennsylvania]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *231* new cases of COVID-19
-- *25* people have died of COVID-19
-- *171* people have recovered from COVID-19[1]
+- *253* new cases of COVID-19
+- *28* people have died of COVID-19
+- *231* people have recovered from COVID-19[1]
 
 The population in this census area is 73447. By our calculations:
-- 8.25% of the population have had COVID-19.[2]
-- 1.44% of the population or 1061.0 people are actively fighting the virus.
+- 8.28% of the population have had COVID-19.[2]
+- 1.39% of the population or 1020.0 people are actively fighting the virus.
 
 ## Synopsis
 

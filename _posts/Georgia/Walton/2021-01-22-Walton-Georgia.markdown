@@ -12,13 +12,13 @@ tags: [Walton-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *552* new cases of COVID-19
-- *19* people have died of COVID-19
-- *312* people have recovered from COVID-19[1]
+- *621* new cases of COVID-19
+- *21* people have died of COVID-19
+- *414* people have recovered from COVID-19[1]
 
 The population in this census area is 94593. By our calculations:
-- 8.01% of the population have had COVID-19.[2]
-- 1.92% of the population or 1819.0 people are actively fighting the virus.
+- 8.09% of the population have had COVID-19.[2]
+- 1.89% of the population or 1784.0 people are actively fighting the virus.
 
 ## Synopsis
 

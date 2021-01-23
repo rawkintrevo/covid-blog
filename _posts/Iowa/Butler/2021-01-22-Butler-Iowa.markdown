@@ -12,12 +12,12 @@ tags: [Butler-Iowa]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *37* new cases of COVID-19
+- *43* new cases of COVID-19
 - *1* people have died of COVID-19
-- *22* people have recovered from COVID-19[1]
+- *28* people have recovered from COVID-19[1]
 
 The population in this census area is 14439. By our calculations:
-- 10.33% of the population have had COVID-19.[2]
+- 10.37% of the population have had COVID-19.[2]
 - 1.39% of the population or 200.0 people are actively fighting the virus.
 
 ## Synopsis

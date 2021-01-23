@@ -12,13 +12,13 @@ tags: [Dewey-South Dakota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *13* new cases of COVID-19
+- *14* new cases of COVID-19
 - *3* people have died of COVID-19
-- *1* people have recovered from COVID-19[1]
+- *38* people have recovered from COVID-19[1]
 
 The population in this census area is 5892. By our calculations:
-- 23.27% of the population have had COVID-19.[2]
-- 1.73% of the population or 102.0 people are actively fighting the virus.
+- 23.29% of the population have had COVID-19.[2]
+- 1.12% of the population or 66.0 people are actively fighting the virus.
 
 ## Synopsis
 

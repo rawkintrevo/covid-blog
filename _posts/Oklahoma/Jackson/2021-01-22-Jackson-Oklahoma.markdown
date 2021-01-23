@@ -12,13 +12,13 @@ tags: [Jackson-Oklahoma]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *57* new cases of COVID-19
+- *67* new cases of COVID-19
 - *2* people have died of COVID-19
-- *11* people have recovered from COVID-19[1]
+- *30* people have recovered from COVID-19[1]
 
 The population in this census area is 24530. By our calculations:
-- 10.65% of the population have had COVID-19.[2]
-- 1.11% of the population or 272.0 people are actively fighting the virus.
+- 10.69% of the population have had COVID-19.[2]
+- 1.07% of the population or 263.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Travis-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *3599* new cases of COVID-19
-- *43* people have died of COVID-19
-- *377* people have recovered from COVID-19[1]
+- *4307* new cases of COVID-19
+- *50* people have died of COVID-19
+- *1332* people have recovered from COVID-19[1]
 
 The population in this census area is 1273954. By our calculations:
-- 4.95% of the population have had COVID-19.[2]
-- 0.97% of the population or 12311.0 people are actively fighting the virus.
+- 5.00% of the population have had COVID-19.[2]
+- 0.95% of the population or 12057.0 people are actively fighting the virus.
 
 ## Synopsis
 

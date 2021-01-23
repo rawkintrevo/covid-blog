@@ -12,13 +12,13 @@ tags: [Union-Arkansas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *164* new cases of COVID-19
-- *6* people have died of COVID-19
-- *137* people have recovered from COVID-19[1]
+- *198* new cases of COVID-19
+- *7* people have died of COVID-19
+- *167* people have recovered from COVID-19[1]
 
 The population in this census area is 38682. By our calculations:
-- 7.87% of the population have had COVID-19.[2]
-- 1.31% of the population or 507.0 people are actively fighting the virus.
+- 7.96% of the population have had COVID-19.[2]
+- 1.32% of the population or 510.0 people are actively fighting the virus.
 
 ## Synopsis
 

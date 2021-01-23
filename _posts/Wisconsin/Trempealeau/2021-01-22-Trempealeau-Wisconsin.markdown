@@ -12,13 +12,13 @@ tags: [Trempealeau-Wisconsin]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *65* new cases of COVID-19
-- *1* people have died of COVID-19
+- *73* new cases of COVID-19
+- *2* people have died of COVID-19
 - *38* people have recovered from COVID-19[1]
 
 The population in this census area is 29649. By our calculations:
-- 11.13% of the population have had COVID-19.[2]
-- 0.78% of the population or 231.0 people are actively fighting the virus.
+- 11.16% of the population have had COVID-19.[2]
+- 0.80% of the population or 238.0 people are actively fighting the virus.
 
 ## Synopsis
 

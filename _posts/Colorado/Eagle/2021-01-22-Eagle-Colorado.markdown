@@ -12,13 +12,13 @@ tags: [Eagle-Colorado]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *226* new cases of COVID-19
+- *284* new cases of COVID-19
 - *0* people have died of COVID-19
-- *68* people have recovered from COVID-19[1]
+- *80* people have recovered from COVID-19[1]
 
 The population in this census area is 55127. By our calculations:
-- 7.37% of the population have had COVID-19.[2]
-- 1.21% of the population or 669.0 people are actively fighting the virus.
+- 7.48% of the population have had COVID-19.[2]
+- 1.30% of the population or 715.0 people are actively fighting the virus.
 
 ## Synopsis
 

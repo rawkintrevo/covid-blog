@@ -12,13 +12,13 @@ tags: [Umatilla-Oregon]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *320* new cases of COVID-19
+- *354* new cases of COVID-19
 - *6* people have died of COVID-19
-- *139* people have recovered from COVID-19[1]
+- *249* people have recovered from COVID-19[1]
 
 The population in this census area is 77950. By our calculations:
-- 8.80% of the population have had COVID-19.[2]
-- 1.54% of the population or 1200.0 people are actively fighting the virus.
+- 8.84% of the population have had COVID-19.[2]
+- 1.44% of the population or 1124.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Carroll-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *75* new cases of COVID-19
-- *11* people have died of COVID-19
+- *84* new cases of COVID-19
+- *12* people have died of COVID-19
 - *20* people have recovered from COVID-19[1]
 
 The population in this census area is 29791. By our calculations:
-- 6.28% of the population have had COVID-19.[2]
-- 1.18% of the population or 351.0 people are actively fighting the virus.
+- 6.31% of the population have had COVID-19.[2]
+- 1.21% of the population or 359.0 people are actively fighting the virus.
 
 ## Synopsis
 

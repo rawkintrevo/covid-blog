@@ -12,13 +12,13 @@ tags: [Person-North Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *154* new cases of COVID-19
-- *3* people have died of COVID-19
-- *24* people have recovered from COVID-19[1]
+- *174* new cases of COVID-19
+- *5* people have died of COVID-19
+- *87* people have recovered from COVID-19[1]
 
 The population in this census area is 39490. By our calculations:
-- 5.66% of the population have had COVID-19.[2]
-- 1.44% of the population or 570.0 people are actively fighting the virus.
+- 5.71% of the population have had COVID-19.[2]
+- 1.33% of the population or 525.0 people are actively fighting the virus.
 
 ## Synopsis
 

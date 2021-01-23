@@ -12,13 +12,13 @@ tags: [Burleigh-North Dakota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *108* new cases of COVID-19
-- *1* people have died of COVID-19
-- *92* people have recovered from COVID-19[1]
+- *129* new cases of COVID-19
+- *3* people have died of COVID-19
+- *104* people have recovered from COVID-19[1]
 
 The population in this census area is 95626. By our calculations:
-- 14.72% of the population have had COVID-19.[2]
-- 0.41% of the population or 389.0 people are actively fighting the virus.
+- 14.74% of the population have had COVID-19.[2]
+- 0.41% of the population or 396.0 people are actively fighting the virus.
 
 ## Synopsis
 

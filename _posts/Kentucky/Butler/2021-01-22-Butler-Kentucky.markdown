@@ -12,13 +12,13 @@ tags: [Butler-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *59* new cases of COVID-19
+- *68* new cases of COVID-19
 - *1* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *31* people have recovered from COVID-19[1]
 
 The population in this census area is 12879. By our calculations:
-- 8.04% of the population have had COVID-19.[2]
-- 1.89% of the population or 243.0 people are actively fighting the virus.
+- 8.11% of the population have had COVID-19.[2]
+- 1.72% of the population or 221.0 people are actively fighting the virus.
 
 ## Synopsis
 

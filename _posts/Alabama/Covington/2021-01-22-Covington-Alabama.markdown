@@ -12,13 +12,13 @@ tags: [Covington-Alabama]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *70* new cases of COVID-19
+- *85* new cases of COVID-19
 - *1* people have died of COVID-19
-- *61* people have recovered from COVID-19[1]
+- *78* people have recovered from COVID-19[1]
 
 The population in this census area is 37049. By our calculations:
-- 8.98% of the population have had COVID-19.[2]
-- 0.99% of the population or 366.0 people are actively fighting the virus.
+- 9.02% of the population have had COVID-19.[2]
+- 0.98% of the population or 364.0 people are actively fighting the virus.
 
 ## Synopsis
 

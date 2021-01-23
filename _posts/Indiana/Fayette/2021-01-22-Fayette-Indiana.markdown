@@ -12,13 +12,13 @@ tags: [Fayette-Indiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *47* new cases of COVID-19
+- *59* new cases of COVID-19
 - *0* people have died of COVID-19
-- *47* people have recovered from COVID-19[1]
+- *57* people have recovered from COVID-19[1]
 
 The population in this census area is 23102. By our calculations:
-- 10.56% of the population have had COVID-19.[2]
-- 0.93% of the population or 214.0 people are actively fighting the virus.
+- 10.61% of the population have had COVID-19.[2]
+- 0.93% of the population or 216.0 people are actively fighting the virus.
 
 ## Synopsis
 

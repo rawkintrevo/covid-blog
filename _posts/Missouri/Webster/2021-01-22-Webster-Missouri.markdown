@@ -12,13 +12,13 @@ tags: [Webster-Missouri]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *71* new cases of COVID-19
+- *85* new cases of COVID-19
 - *1* people have died of COVID-19
-- *81* people have recovered from COVID-19[1]
+- *92* people have recovered from COVID-19[1]
 
 The population in this census area is 39592. By our calculations:
-- 7.10% of the population have had COVID-19.[2]
-- 0.87% of the population or 345.0 people are actively fighting the virus.
+- 7.14% of the population have had COVID-19.[2]
+- 0.88% of the population or 348.0 people are actively fighting the virus.
 
 ## Synopsis
 

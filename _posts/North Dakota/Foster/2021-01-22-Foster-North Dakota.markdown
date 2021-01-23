@@ -12,13 +12,13 @@ tags: [Foster-North Dakota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *6* new cases of COVID-19
+- *8* new cases of COVID-19
 - *0* people have died of COVID-19
 - *1* people have recovered from COVID-19[1]
 
 The population in this census area is 3210. By our calculations:
-- 16.88% of the population have had COVID-19.[2]
-- 0.53% of the population or 17.0 people are actively fighting the virus.
+- 16.95% of the population have had COVID-19.[2]
+- 0.59% of the population or 19.0 people are actively fighting the virus.
 
 ## Synopsis
 

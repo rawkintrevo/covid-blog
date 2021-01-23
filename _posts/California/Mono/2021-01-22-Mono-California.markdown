@@ -14,11 +14,11 @@ tags: [Mono-California]
 In the last 7 days[3] we project there have been
 - *44* new cases of COVID-19
 - *0* people have died of COVID-19
-- *4* people have recovered from COVID-19[1]
+- *18* people have recovered from COVID-19[1]
 
 The population in this census area is 14444. By our calculations:
 - 7.78% of the population have had COVID-19.[2]
-- 1.57% of the population or 227.0 people are actively fighting the virus.
+- 1.47% of the population or 213.0 people are actively fighting the virus.
 
 ## Synopsis
 

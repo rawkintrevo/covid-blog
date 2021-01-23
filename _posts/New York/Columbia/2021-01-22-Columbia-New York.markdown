@@ -12,13 +12,13 @@ tags: [Columbia-New York]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *315* new cases of COVID-19
-- *6* people have died of COVID-19
-- *96* people have recovered from COVID-19[1]
+- *368* new cases of COVID-19
+- *7* people have died of COVID-19
+- *133* people have recovered from COVID-19[1]
 
 The population in this census area is 59461. By our calculations:
-- 4.24% of the population have had COVID-19.[2]
-- 1.39% of the population or 827.0 people are actively fighting the virus.
+- 4.34% of the population have had COVID-19.[2]
+- 1.42% of the population or 842.0 people are actively fighting the virus.
 
 ## Synopsis
 

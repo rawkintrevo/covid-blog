@@ -12,13 +12,13 @@ tags: [Fremont-Idaho]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *22* new cases of COVID-19
+- *28* new cases of COVID-19
 - *0* people have died of COVID-19
-- *3* people have recovered from COVID-19[1]
+- *4* people have recovered from COVID-19[1]
 
 The population in this census area is 13099. By our calculations:
-- 7.07% of the population have had COVID-19.[2]
-- 0.42% of the population or 55.0 people are actively fighting the virus.
+- 7.12% of the population have had COVID-19.[2]
+- 0.46% of the population or 60.0 people are actively fighting the virus.
 
 ## Synopsis
 

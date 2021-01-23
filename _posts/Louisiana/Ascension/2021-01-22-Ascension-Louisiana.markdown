@@ -12,13 +12,13 @@ tags: [Ascension-Louisiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *351* new cases of COVID-19
+- *455* new cases of COVID-19
 - *10* people have died of COVID-19
 - *63* people have recovered from COVID-19[1]
 
 The population in this census area is 126604. By our calculations:
-- 7.59% of the population have had COVID-19.[2]
-- 1.36% of the population or 1726.0 people are actively fighting the virus.
+- 7.67% of the population have had COVID-19.[2]
+- 1.45% of the population or 1830.0 people are actively fighting the virus.
 
 ## Synopsis
 

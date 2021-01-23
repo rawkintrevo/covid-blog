@@ -12,13 +12,13 @@ tags: [Franklin-Missouri]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *226* new cases of COVID-19
+- *286* new cases of COVID-19
 - *5* people have died of COVID-19
-- *185* people have recovered from COVID-19[1]
+- *237* people have recovered from COVID-19[1]
 
 The population in this census area is 103967. By our calculations:
-- 7.40% of the population have had COVID-19.[2]
-- 0.98% of the population or 1021.0 people are actively fighting the virus.
+- 7.46% of the population have had COVID-19.[2]
+- 0.99% of the population or 1029.0 people are actively fighting the virus.
 
 ## Synopsis
 

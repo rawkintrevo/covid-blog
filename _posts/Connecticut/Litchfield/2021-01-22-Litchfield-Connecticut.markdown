@@ -12,13 +12,13 @@ tags: [Litchfield-Connecticut]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *468* new cases of COVID-19
-- *2* people have died of COVID-19
-- *52* people have recovered from COVID-19[1]
+- *518* new cases of COVID-19
+- *3* people have died of COVID-19
+- *216* people have recovered from COVID-19[1]
 
 The population in this census area is 180333. By our calculations:
-- 5.14% of the population have had COVID-19.[2]
-- 0.96% of the population or 1724.0 people are actively fighting the virus.
+- 5.17% of the population have had COVID-19.[2]
+- 0.89% of the population or 1609.0 people are actively fighting the virus.
 
 ## Synopsis
 

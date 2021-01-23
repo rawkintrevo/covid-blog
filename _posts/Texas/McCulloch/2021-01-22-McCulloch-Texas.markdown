@@ -12,13 +12,13 @@ tags: [McCulloch-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *13* new cases of COVID-19
+- *16* new cases of COVID-19
 - *0* people have died of COVID-19
-- *11* people have recovered from COVID-19[1]
+- *15* people have recovered from COVID-19[1]
 
 The population in this census area is 7984. By our calculations:
-- 5.89% of the population have had COVID-19.[2]
-- 0.28% of the population or 22.0 people are actively fighting the virus.
+- 5.92% of the population have had COVID-19.[2]
+- 0.26% of the population or 21.0 people are actively fighting the virus.
 
 ## Synopsis
 

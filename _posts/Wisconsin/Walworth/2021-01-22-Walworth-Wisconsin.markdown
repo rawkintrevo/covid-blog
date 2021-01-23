@@ -12,13 +12,13 @@ tags: [Walworth-Wisconsin]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *190* new cases of COVID-19
-- *9* people have died of COVID-19
-- *51* people have recovered from COVID-19[1]
+- *243* new cases of COVID-19
+- *10* people have died of COVID-19
+- *50* people have recovered from COVID-19[1]
 
 The population in this census area is 103868. By our calculations:
-- 10.13% of the population have had COVID-19.[2]
-- 1.02% of the population or 1058.0 people are actively fighting the virus.
+- 10.18% of the population have had COVID-19.[2]
+- 1.07% of the population or 1111.0 people are actively fighting the virus.
 
 ## Synopsis
 

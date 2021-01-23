@@ -12,13 +12,13 @@ tags: [Madison-Missouri]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *9* new cases of COVID-19
+- *18* new cases of COVID-19
 - *2* people have died of COVID-19
-- *32* people have recovered from COVID-19[1]
+- *37* people have recovered from COVID-19[1]
 
 The population in this census area is 12088. By our calculations:
-- 10.72% of the population have had COVID-19.[2]
-- 0.65% of the population or 78.0 people are actively fighting the virus.
+- 10.80% of the population have had COVID-19.[2]
+- 0.68% of the population or 82.0 people are actively fighting the virus.
 
 ## Synopsis
 

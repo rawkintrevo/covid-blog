@@ -12,13 +12,13 @@ tags: [Lavaca-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *45* new cases of COVID-19
+- *77* new cases of COVID-19
 - *4* people have died of COVID-19
 - *6* people have recovered from COVID-19[1]
 
 The population in this census area is 20154. By our calculations:
-- 9.34% of the population have had COVID-19.[2]
-- 0.90% of the population or 181.0 people are actively fighting the virus.
+- 9.50% of the population have had COVID-19.[2]
+- 1.06% of the population or 213.0 people are actively fighting the virus.
 
 ## Synopsis
 

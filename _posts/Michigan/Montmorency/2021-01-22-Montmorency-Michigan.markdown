@@ -13,12 +13,12 @@ tags: [Montmorency-Michigan]
 
 In the last 7 days[3] we project there have been
 - *6* new cases of COVID-19
-- *0* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *1* people have died of COVID-19
+- *31* people have recovered from COVID-19[1]
 
 The population in this census area is 9328. By our calculations:
-- 3.68% of the population have had COVID-19.[2]
-- 0.57% of the population or 53.0 people are actively fighting the virus.
+- 3.69% of the population have had COVID-19.[2]
+- 0.23% of the population or 21.0 people are actively fighting the virus.
 
 ## Synopsis
 

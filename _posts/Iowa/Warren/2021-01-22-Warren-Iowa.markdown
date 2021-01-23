@@ -12,13 +12,13 @@ tags: [Warren-Iowa]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *183* new cases of COVID-19
-- *1* people have died of COVID-19
-- *75* people have recovered from COVID-19[1]
+- *212* new cases of COVID-19
+- *2* people have died of COVID-19
+- *84* people have recovered from COVID-19[1]
 
 The population in this census area is 51466. By our calculations:
-- 8.72% of the population have had COVID-19.[2]
-- 1.26% of the population or 650.0 people are actively fighting the virus.
+- 8.78% of the population have had COVID-19.[2]
+- 1.30% of the population or 669.0 people are actively fighting the virus.
 
 ## Synopsis
 

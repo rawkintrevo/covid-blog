@@ -12,13 +12,13 @@ tags: [Madison-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *351* new cases of COVID-19
+- *463* new cases of COVID-19
 - *5* people have died of COVID-19
-- *-3* people have recovered from COVID-19[1]
+- *117* people have recovered from COVID-19[1]
 
 The population in this census area is 92987. By our calculations:
-- 7.56% of the population have had COVID-19.[2]
-- 1.41% of the population or 1311.0 people are actively fighting the virus.
+- 7.68% of the population have had COVID-19.[2]
+- 1.40% of the population or 1303.0 people are actively fighting the virus.
 
 ## Synopsis
 

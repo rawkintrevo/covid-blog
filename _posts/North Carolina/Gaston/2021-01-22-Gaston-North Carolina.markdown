@@ -12,13 +12,13 @@ tags: [Gaston-North Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1038* new cases of COVID-19
-- *19* people have died of COVID-19
-- *196* people have recovered from COVID-19[1]
+- *1177* new cases of COVID-19
+- *25* people have died of COVID-19
+- *766* people have recovered from COVID-19[1]
 
 The population in this census area is 224529. By our calculations:
-- 8.84% of the population have had COVID-19.[2]
-- 1.91% of the population or 4290.0 people are actively fighting the virus.
+- 8.91% of the population have had COVID-19.[2]
+- 1.72% of the population or 3853.0 people are actively fighting the virus.
 
 ## Synopsis
 

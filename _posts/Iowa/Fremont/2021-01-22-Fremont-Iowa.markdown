@@ -12,13 +12,13 @@ tags: [Fremont-Iowa]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *16* new cases of COVID-19
+- *19* new cases of COVID-19
 - *1* people have died of COVID-19
-- *6* people have recovered from COVID-19[1]
+- *7* people have recovered from COVID-19[1]
 
 The population in this census area is 6960. By our calculations:
-- 7.43% of the population have had COVID-19.[2]
-- 0.63% of the population or 44.0 people are actively fighting the virus.
+- 7.47% of the population have had COVID-19.[2]
+- 0.66% of the population or 46.0 people are actively fighting the virus.
 
 ## Synopsis
 

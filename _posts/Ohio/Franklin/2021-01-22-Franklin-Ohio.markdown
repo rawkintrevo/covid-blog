@@ -12,13 +12,13 @@ tags: [Franklin-Ohio]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *3743* new cases of COVID-19
+- *4536* new cases of COVID-19
 - *2* people have died of COVID-19
-- *944* people have recovered from COVID-19[1]
+- *2447* people have recovered from COVID-19[1]
 
 The population in this census area is 1316756. By our calculations:
-- 7.54% of the population have had COVID-19.[2]
-- 1.15% of the population or 15113.0 people are actively fighting the virus.
+- 7.60% of the population have had COVID-19.[2]
+- 1.09% of the population or 14403.0 people are actively fighting the virus.
 
 ## Synopsis
 

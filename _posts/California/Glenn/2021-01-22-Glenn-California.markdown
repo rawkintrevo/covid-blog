@@ -12,13 +12,13 @@ tags: [Glenn-California]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *153* new cases of COVID-19
+- *160* new cases of COVID-19
 - *1* people have died of COVID-19
-- *29* people have recovered from COVID-19[1]
+- *65* people have recovered from COVID-19[1]
 
 The population in this census area is 28393. By our calculations:
-- 6.86% of the population have had COVID-19.[2]
-- 1.61% of the population or 458.0 people are actively fighting the virus.
+- 6.89% of the population have had COVID-19.[2]
+- 1.51% of the population or 429.0 people are actively fighting the virus.
 
 ## Synopsis
 

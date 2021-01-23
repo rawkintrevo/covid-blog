@@ -12,13 +12,13 @@ tags: [McLennan-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *866* new cases of COVID-19
-- *19* people have died of COVID-19
-- *451* people have recovered from COVID-19[1]
+- *939* new cases of COVID-19
+- *27* people have died of COVID-19
+- *441* people have recovered from COVID-19[1]
 
 The population in this census area is 256623. By our calculations:
-- 8.69% of the population have had COVID-19.[2]
-- 1.25% of the population or 3202.0 people are actively fighting the virus.
+- 8.72% of the population have had COVID-19.[2]
+- 1.28% of the population or 3277.0 people are actively fighting the virus.
 
 ## Synopsis
 

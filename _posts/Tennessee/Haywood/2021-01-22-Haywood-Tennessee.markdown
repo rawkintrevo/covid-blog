@@ -12,13 +12,13 @@ tags: [Haywood-Tennessee]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *63* new cases of COVID-19
-- *1* people have died of COVID-19
-- *13* people have recovered from COVID-19[1]
+- *68* new cases of COVID-19
+- *3* people have died of COVID-19
+- *67* people have recovered from COVID-19[1]
 
 The population in this census area is 17304. By our calculations:
-- 13.93% of the population have had COVID-19.[2]
-- 1.34% of the population or 232.0 people are actively fighting the virus.
+- 13.97% of the population have had COVID-19.[2]
+- 1.05% of the population or 181.0 people are actively fighting the virus.
 
 ## Synopsis
 

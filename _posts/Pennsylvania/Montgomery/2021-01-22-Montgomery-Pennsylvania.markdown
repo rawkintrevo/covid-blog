@@ -12,13 +12,13 @@ tags: [Montgomery-Pennsylvania]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *2072* new cases of COVID-19
-- *56* people have died of COVID-19
-- *961* people have recovered from COVID-19[1]
+- *2368* new cases of COVID-19
+- *64* people have died of COVID-19
+- *1462* people have recovered from COVID-19[1]
 
 The population in this census area is 830915. By our calculations:
-- 5.36% of the population have had COVID-19.[2]
-- 0.90% of the population or 7501.0 people are actively fighting the virus.
+- 5.40% of the population have had COVID-19.[2]
+- 0.88% of the population or 7288.0 people are actively fighting the virus.
 
 ## Synopsis
 

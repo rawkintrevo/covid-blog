@@ -12,13 +12,13 @@ tags: [Dodge-Wisconsin]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *135* new cases of COVID-19
+- *169* new cases of COVID-19
 - *4* people have died of COVID-19
-- *80* people have recovered from COVID-19[1]
+- *93* people have recovered from COVID-19[1]
 
 The population in this census area is 87839. By our calculations:
-- 13.25% of the population have had COVID-19.[2]
-- 0.66% of the population or 576.0 people are actively fighting the virus.
+- 13.29% of the population have had COVID-19.[2]
+- 0.68% of the population or 597.0 people are actively fighting the virus.
 
 ## Synopsis
 

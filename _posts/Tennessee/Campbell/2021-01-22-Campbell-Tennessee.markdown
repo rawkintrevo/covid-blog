@@ -12,13 +12,13 @@ tags: [Campbell-Tennessee]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *139* new cases of COVID-19
+- *182* new cases of COVID-19
 - *1* people have died of COVID-19
-- *71* people have recovered from COVID-19[1]
+- *171* people have recovered from COVID-19[1]
 
 The population in this census area is 39842. By our calculations:
-- 8.25% of the population have had COVID-19.[2]
-- 1.25% of the population or 500.0 people are actively fighting the virus.
+- 8.36% of the population have had COVID-19.[2]
+- 1.11% of the population or 443.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Peoria-Illinois]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *461* new cases of COVID-19
-- *14* people have died of COVID-19
-- *167* people have recovered from COVID-19[1]
+- *557* new cases of COVID-19
+- *19* people have died of COVID-19
+- *394* people have recovered from COVID-19[1]
 
 The population in this census area is 179179. By our calculations:
-- 8.44% of the population have had COVID-19.[2]
-- 1.07% of the population or 1911.0 people are actively fighting the virus.
+- 8.50% of the population have had COVID-19.[2]
+- 0.99% of the population or 1775.0 people are actively fighting the virus.
 
 ## Synopsis
 

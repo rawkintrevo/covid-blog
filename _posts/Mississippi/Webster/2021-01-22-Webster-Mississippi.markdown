@@ -12,13 +12,13 @@ tags: [Webster-Mississippi]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *39* new cases of COVID-19
+- *43* new cases of COVID-19
 - *0* people have died of COVID-19
-- *53* people have recovered from COVID-19[1]
+- *58* people have recovered from COVID-19[1]
 
 The population in this census area is 9689. By our calculations:
-- 9.69% of the population have had COVID-19.[2]
-- 1.49% of the population or 144.0 people are actively fighting the virus.
+- 9.73% of the population have had COVID-19.[2]
+- 1.48% of the population or 143.0 people are actively fighting the virus.
 
 ## Synopsis
 

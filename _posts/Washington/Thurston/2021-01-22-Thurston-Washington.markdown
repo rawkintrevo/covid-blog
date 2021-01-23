@@ -12,13 +12,13 @@ tags: [Thurston-Washington]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *234* new cases of COVID-19
-- *2* people have died of COVID-19
-- *115* people have recovered from COVID-19[1]
+- *327* new cases of COVID-19
+- *5* people have died of COVID-19
+- *112* people have recovered from COVID-19[1]
 
 The population in this census area is 290536. By our calculations:
-- 2.02% of the population have had COVID-19.[2]
-- 0.38% of the population or 1091.0 people are actively fighting the virus.
+- 2.05% of the population have had COVID-19.[2]
+- 0.41% of the population or 1184.0 people are actively fighting the virus.
 
 ## Synopsis
 

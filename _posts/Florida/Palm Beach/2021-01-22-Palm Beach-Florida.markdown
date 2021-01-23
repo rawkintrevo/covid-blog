@@ -12,13 +12,13 @@ tags: [Palm Beach-Florida]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *4455* new cases of COVID-19
-- *52* people have died of COVID-19
-- *953* people have recovered from COVID-19[1]
+- *5279* new cases of COVID-19
+- *57* people have died of COVID-19
+- *3017* people have recovered from COVID-19[1]
 
 The population in this census area is 1496770. By our calculations:
-- 6.64% of the population have had COVID-19.[2]
-- 1.08% of the population or 16216.0 people are actively fighting the virus.
+- 6.69% of the population have had COVID-19.[2]
+- 1.00% of the population or 14971.0 people are actively fighting the virus.
 
 ## Synopsis
 

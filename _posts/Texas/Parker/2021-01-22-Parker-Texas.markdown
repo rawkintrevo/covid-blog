@@ -12,13 +12,13 @@ tags: [Parker-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *860* new cases of COVID-19
-- *7* people have died of COVID-19
-- *259* people have recovered from COVID-19[1]
+- *930* new cases of COVID-19
+- *12* people have died of COVID-19
+- *254* people have recovered from COVID-19[1]
 
 The population in this census area is 142878. By our calculations:
-- 8.35% of the population have had COVID-19.[2]
-- 2.19% of the population or 3122.0 people are actively fighting the virus.
+- 8.40% of the population have had COVID-19.[2]
+- 2.23% of the population or 3192.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -14,11 +14,11 @@ tags: [Churchill-Nevada]
 In the last 7 days[3] we project there have been
 - *131* new cases of COVID-19
 - *2* people have died of COVID-19
-- *-2* people have recovered from COVID-19[1]
+- *13* people have recovered from COVID-19[1]
 
 The population in this census area is 24909. By our calculations:
 - 6.95% of the population have had COVID-19.[2]
-- 1.39% of the population or 345.0 people are actively fighting the virus.
+- 1.32% of the population or 330.0 people are actively fighting the virus.
 
 ## Synopsis
 

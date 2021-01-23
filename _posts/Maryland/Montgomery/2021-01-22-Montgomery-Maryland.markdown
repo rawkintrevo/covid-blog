@@ -12,13 +12,13 @@ tags: [Montgomery-Maryland]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *2327* new cases of COVID-19
-- *34* people have died of COVID-19
-- *906* people have recovered from COVID-19[1]
+- *2644* new cases of COVID-19
+- *45* people have died of COVID-19
+- *1322* people have recovered from COVID-19[1]
 
 The population in this census area is 1050688. By our calculations:
-- 5.25% of the population have had COVID-19.[2]
-- 0.77% of the population or 8108.0 people are actively fighting the virus.
+- 5.29% of the population have had COVID-19.[2]
+- 0.76% of the population or 7998.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -14,11 +14,11 @@ tags: [Kings-California]
 In the last 7 days[3] we project there have been
 - *1097* new cases of COVID-19
 - *38* people have died of COVID-19
-- *300* people have recovered from COVID-19[1]
+- *580* people have recovered from COVID-19[1]
 
 The population in this census area is 152940. By our calculations:
 - 12.81% of the population have had COVID-19.[2]
-- 2.25% of the population or 3436.0 people are actively fighting the virus.
+- 2.06% of the population or 3156.0 people are actively fighting the virus.
 
 ## Synopsis
 

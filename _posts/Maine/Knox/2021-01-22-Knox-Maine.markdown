@@ -12,13 +12,13 @@ tags: [Knox-Maine]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *63* new cases of COVID-19
+- *67* new cases of COVID-19
 - *0* people have died of COVID-19
 - *12* people have recovered from COVID-19[1]
 
 The population in this census area is 39772. By our calculations:
-- 1.32% of the population have had COVID-19.[2]
-- 0.38% of the population or 152.0 people are actively fighting the virus.
+- 1.33% of the population have had COVID-19.[2]
+- 0.39% of the population or 156.0 people are actively fighting the virus.
 
 ## Synopsis
 

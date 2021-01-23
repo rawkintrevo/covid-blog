@@ -12,13 +12,13 @@ tags: [Sheridan-Wyoming]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *66* new cases of COVID-19
+- *70* new cases of COVID-19
 - *1* people have died of COVID-19
-- *20* people have recovered from COVID-19[1]
+- *32* people have recovered from COVID-19[1]
 
 The population in this census area is 30485. By our calculations:
-- 9.21% of the population have had COVID-19.[2]
-- 0.86% of the population or 263.0 people are actively fighting the virus.
+- 9.22% of the population have had COVID-19.[2]
+- 0.84% of the population or 255.0 people are actively fighting the virus.
 
 ## Synopsis
 

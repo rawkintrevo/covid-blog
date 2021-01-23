@@ -12,13 +12,13 @@ tags: [Russell-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *39* new cases of COVID-19
+- *59* new cases of COVID-19
 - *1* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *5* people have recovered from COVID-19[1]
 
 The population in this census area is 17923. By our calculations:
-- 7.24% of the population have had COVID-19.[2]
-- 1.03% of the population or 185.0 people are actively fighting the virus.
+- 7.35% of the population have had COVID-19.[2]
+- 1.12% of the population or 200.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [New Madrid-Missouri]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *13* new cases of COVID-19
+- *26* new cases of COVID-19
 - *1* people have died of COVID-19
-- *17* people have recovered from COVID-19[1]
+- *18* people have recovered from COVID-19[1]
 
 The population in this census area is 17076. By our calculations:
-- 10.00% of the population have had COVID-19.[2]
-- 0.44% of the population or 75.0 people are actively fighting the virus.
+- 10.08% of the population have had COVID-19.[2]
+- 0.51% of the population or 87.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Carroll-Mississippi]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *29* new cases of COVID-19
-- *1* people have died of COVID-19
-- *12* people have recovered from COVID-19[1]
+- *34* new cases of COVID-19
+- *2* people have died of COVID-19
+- *15* people have recovered from COVID-19[1]
 
 The population in this census area is 9947. By our calculations:
-- 10.59% of the population have had COVID-19.[2]
-- 1.12% of the population or 111.0 people are actively fighting the virus.
+- 10.65% of the population have had COVID-19.[2]
+- 1.13% of the population or 112.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Wayne-Indiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *222* new cases of COVID-19
-- *4* people have died of COVID-19
-- *122* people have recovered from COVID-19[1]
+- *259* new cases of COVID-19
+- *6* people have died of COVID-19
+- *155* people have recovered from COVID-19[1]
 
 The population in this census area is 65884. By our calculations:
-- 9.16% of the population have had COVID-19.[2]
-- 1.11% of the population or 730.0 people are actively fighting the virus.
+- 9.22% of the population have had COVID-19.[2]
+- 1.11% of the population or 732.0 people are actively fighting the virus.
 
 ## Synopsis
 

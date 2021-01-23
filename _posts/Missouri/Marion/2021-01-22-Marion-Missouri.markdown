@@ -12,13 +12,13 @@ tags: [Marion-Missouri]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *32* new cases of COVID-19
+- *36* new cases of COVID-19
 - *2* people have died of COVID-19
-- *43* people have recovered from COVID-19[1]
+- *53* people have recovered from COVID-19[1]
 
 The population in this census area is 28530. By our calculations:
-- 8.86% of the population have had COVID-19.[2]
-- 0.55% of the population or 158.0 people are actively fighting the virus.
+- 8.87% of the population have had COVID-19.[2]
+- 0.53% of the population or 152.0 people are actively fighting the virus.
 
 ## Synopsis
 

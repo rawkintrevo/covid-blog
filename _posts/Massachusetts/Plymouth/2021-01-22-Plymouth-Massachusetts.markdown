@@ -12,13 +12,13 @@ tags: [Plymouth-Massachusetts]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *2243* new cases of COVID-19
-- *29* people have died of COVID-19
-- *475* people have recovered from COVID-19[1]
+- *2580* new cases of COVID-19
+- *40* people have died of COVID-19
+- *1155* people have recovered from COVID-19[1]
 
 The population in this census area is 521202. By our calculations:
-- 6.26% of the population have had COVID-19.[2]
-- 1.53% of the population or 7961.0 people are actively fighting the virus.
+- 6.33% of the population have had COVID-19.[2]
+- 1.46% of the population or 7607.0 people are actively fighting the virus.
 
 ## Synopsis
 

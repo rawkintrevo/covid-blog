@@ -12,13 +12,13 @@ tags: [Cochise-Arizona]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *360* new cases of COVID-19
-- *10* people have died of COVID-19
-- *246* people have recovered from COVID-19[1]
+- *488* new cases of COVID-19
+- *15* people have died of COVID-19
+- *329* people have recovered from COVID-19[1]
 
 The population in this census area is 125922. By our calculations:
-- 7.74% of the population have had COVID-19.[2]
-- 1.67% of the population or 2104.0 people are actively fighting the virus.
+- 7.85% of the population have had COVID-19.[2]
+- 1.70% of the population or 2144.0 people are actively fighting the virus.
 
 ## Synopsis
 

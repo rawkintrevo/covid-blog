@@ -12,13 +12,13 @@ tags: [Mills-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *73* new cases of COVID-19
+- *72* new cases of COVID-19
 - *2* people have died of COVID-19
 - *15* people have recovered from COVID-19[1]
 
 The population in this census area is 4873. By our calculations:
-- 7.67% of the population have had COVID-19.[2]
-- 1.89% of the population or 92.0 people are actively fighting the virus.
+- 7.65% of the population have had COVID-19.[2]
+- 1.87% of the population or 91.0 people are actively fighting the virus.
 
 ## Synopsis
 

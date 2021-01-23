@@ -12,13 +12,13 @@ tags: [Niagara-New York]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *962* new cases of COVID-19
-- *19* people have died of COVID-19
-- *491* people have recovered from COVID-19[1]
+- *1140* new cases of COVID-19
+- *22* people have died of COVID-19
+- *639* people have recovered from COVID-19[1]
 
 The population in this census area is 209281. By our calculations:
-- 5.84% of the population have had COVID-19.[2]
-- 1.62% of the population or 3390.0 people are actively fighting the virus.
+- 5.93% of the population have had COVID-19.[2]
+- 1.63% of the population or 3417.0 people are actively fighting the virus.
 
 ## Synopsis
 

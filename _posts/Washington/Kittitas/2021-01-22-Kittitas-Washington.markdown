@@ -12,13 +12,13 @@ tags: [Kittitas-Washington]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *48* new cases of COVID-19
+- *57* new cases of COVID-19
 - *0* people have died of COVID-19
 - *14* people have recovered from COVID-19[1]
 
 The population in this census area is 47935. By our calculations:
-- 4.13% of the population have had COVID-19.[2]
-- 0.60% of the population or 289.0 people are actively fighting the virus.
+- 4.15% of the population have had COVID-19.[2]
+- 0.62% of the population or 298.0 people are actively fighting the virus.
 
 ## Synopsis
 

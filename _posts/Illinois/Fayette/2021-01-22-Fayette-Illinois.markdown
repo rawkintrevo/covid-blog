@@ -12,13 +12,13 @@ tags: [Fayette-Illinois]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *58* new cases of COVID-19
+- *72* new cases of COVID-19
 - *0* people have died of COVID-19
-- *19* people have recovered from COVID-19[1]
+- *34* people have recovered from COVID-19[1]
 
 The population in this census area is 21336. By our calculations:
-- 13.70% of the population have had COVID-19.[2]
-- 1.19% of the population or 253.0 people are actively fighting the virus.
+- 13.76% of the population have had COVID-19.[2]
+- 1.18% of the population or 252.0 people are actively fighting the virus.
 
 ## Synopsis
 

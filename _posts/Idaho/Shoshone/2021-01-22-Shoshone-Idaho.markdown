@@ -12,13 +12,13 @@ tags: [Shoshone-Idaho]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *21* new cases of COVID-19
+- *22* new cases of COVID-19
 - *0* people have died of COVID-19
-- *6* people have recovered from COVID-19[1]
+- *11* people have recovered from COVID-19[1]
 
 The population in this census area is 12882. By our calculations:
 - 7.27% of the population have had COVID-19.[2]
-- 0.71% of the population or 92.0 people are actively fighting the virus.
+- 0.68% of the population or 88.0 people are actively fighting the virus.
 
 ## Synopsis
 

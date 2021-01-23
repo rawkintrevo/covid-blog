@@ -12,13 +12,13 @@ tags: [Monroe-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *98* new cases of COVID-19
+- *117* new cases of COVID-19
 - *8* people have died of COVID-19
-- *58* people have recovered from COVID-19[1]
+- *80* people have recovered from COVID-19[1]
 
 The population in this census area is 27578. By our calculations:
-- 7.18% of the population have had COVID-19.[2]
-- 1.24% of the population or 341.0 people are actively fighting the virus.
+- 7.25% of the population have had COVID-19.[2]
+- 1.23% of the population or 338.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Hillsborough-Florida]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *3990* new cases of COVID-19
-- *33* people have died of COVID-19
-- *898* people have recovered from COVID-19[1]
+- *4831* new cases of COVID-19
+- *50* people have died of COVID-19
+- *3222* people have recovered from COVID-19[1]
 
 The population in this census area is 1471968. By our calculations:
-- 6.39% of the population have had COVID-19.[2]
-- 1.14% of the population or 16749.0 people are actively fighting the virus.
+- 6.45% of the population have had COVID-19.[2]
+- 1.04% of the population or 15249.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Dixie-Florida]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *46* new cases of COVID-19
+- *50* new cases of COVID-19
 - *1* people have died of COVID-19
-- *16* people have recovered from COVID-19[1]
+- *53* people have recovered from COVID-19[1]
 
 The population in this census area is 16826. By our calculations:
-- 7.89% of the population have had COVID-19.[2]
-- 1.26% of the population or 212.0 people are actively fighting the virus.
+- 7.92% of the population have had COVID-19.[2]
+- 1.06% of the population or 179.0 people are actively fighting the virus.
 
 ## Synopsis
 

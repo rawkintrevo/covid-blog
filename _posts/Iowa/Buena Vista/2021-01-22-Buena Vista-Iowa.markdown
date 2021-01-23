@@ -12,13 +12,13 @@ tags: [Buena Vista-Iowa]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *48* new cases of COVID-19
-- *0* people have died of COVID-19
-- *29* people have recovered from COVID-19[1]
+- *61* new cases of COVID-19
+- *1* people have died of COVID-19
+- *39* people have recovered from COVID-19[1]
 
 The population in this census area is 19620. By our calculations:
-- 20.07% of the population have had COVID-19.[2]
-- 1.06% of the population or 208.0 people are actively fighting the virus.
+- 20.14% of the population have had COVID-19.[2]
+- 1.07% of the population or 210.0 people are actively fighting the virus.
 
 ## Synopsis
 

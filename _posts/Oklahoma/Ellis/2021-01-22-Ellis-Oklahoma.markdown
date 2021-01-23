@@ -12,12 +12,12 @@ tags: [Ellis-Oklahoma]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *5* new cases of COVID-19
+- *6* new cases of COVID-19
 - *0* people have died of COVID-19
-- *3* people have recovered from COVID-19[1]
+- *4* people have recovered from COVID-19[1]
 
 The population in this census area is 3859. By our calculations:
-- 8.55% of the population have had COVID-19.[2]
+- 8.58% of the population have had COVID-19.[2]
 - 0.54% of the population or 21.0 people are actively fighting the virus.
 
 ## Synopsis

@@ -12,13 +12,13 @@ tags: [Hamilton-Indiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1132* new cases of COVID-19
-- *11* people have died of COVID-19
-- *686* people have recovered from COVID-19[1]
+- *1352* new cases of COVID-19
+- *12* people have died of COVID-19
+- *947* people have recovered from COVID-19[1]
 
 The population in this census area is 338011. By our calculations:
-- 8.53% of the population have had COVID-19.[2]
-- 1.33% of the population or 4495.0 people are actively fighting the virus.
+- 8.59% of the population have had COVID-19.[2]
+- 1.32% of the population or 4453.0 people are actively fighting the virus.
 
 ## Synopsis
 

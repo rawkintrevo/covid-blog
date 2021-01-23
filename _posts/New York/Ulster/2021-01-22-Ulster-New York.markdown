@@ -12,13 +12,13 @@ tags: [Ulster-New York]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *624* new cases of COVID-19
-- *17* people have died of COVID-19
-- *236* people have recovered from COVID-19[1]
+- *700* new cases of COVID-19
+- *20* people have died of COVID-19
+- *350* people have recovered from COVID-19[1]
 
 The population in this census area is 177573. By our calculations:
-- 4.40% of the population have had COVID-19.[2]
-- 1.08% of the population or 1912.0 people are actively fighting the virus.
+- 4.45% of the population have had COVID-19.[2]
+- 1.05% of the population or 1871.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Arapahoe-Colorado]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1083* new cases of COVID-19
-- *8* people have died of COVID-19
-- *759* people have recovered from COVID-19[1]
+- *1286* new cases of COVID-19
+- *7* people have died of COVID-19
+- *980* people have recovered from COVID-19[1]
 
 The population in this census area is 656590. By our calculations:
-- 6.56% of the population have had COVID-19.[2]
-- 0.70% of the population or 4618.0 people are actively fighting the virus.
+- 6.59% of the population have had COVID-19.[2]
+- 0.70% of the population or 4601.0 people are actively fighting the virus.
 
 ## Synopsis
 

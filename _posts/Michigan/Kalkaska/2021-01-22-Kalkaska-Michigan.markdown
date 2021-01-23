@@ -12,13 +12,13 @@ tags: [Kalkaska-Michigan]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *11* new cases of COVID-19
+- *12* new cases of COVID-19
 - *0* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *5* people have recovered from COVID-19[1]
 
 The population in this census area is 18038. By our calculations:
-- 2.93% of the population have had COVID-19.[2]
-- 0.20% of the population or 36.0 people are actively fighting the virus.
+- 2.94% of the population have had COVID-19.[2]
+- 0.18% of the population or 32.0 people are actively fighting the virus.
 
 ## Synopsis
 

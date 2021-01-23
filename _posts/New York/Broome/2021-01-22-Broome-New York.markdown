@@ -12,13 +12,13 @@ tags: [Broome-New York]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *783* new cases of COVID-19
-- *15* people have died of COVID-19
-- *288* people have recovered from COVID-19[1]
+- *992* new cases of COVID-19
+- *18* people have died of COVID-19
+- *469* people have recovered from COVID-19[1]
 
 The population in this census area is 190488. By our calculations:
-- 5.91% of the population have had COVID-19.[2]
-- 1.52% of the population or 2888.0 people are actively fighting the virus.
+- 6.02% of the population have had COVID-19.[2]
+- 1.53% of the population or 2913.0 people are actively fighting the virus.
 
 ## Synopsis
 

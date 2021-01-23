@@ -12,13 +12,13 @@ tags: [Sequatchie-Tennessee]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *58* new cases of COVID-19
+- *60* new cases of COVID-19
 - *0* people have died of COVID-19
-- *3* people have recovered from COVID-19[1]
+- *52* people have recovered from COVID-19[1]
 
 The population in this census area is 15026. By our calculations:
-- 9.20% of the population have had COVID-19.[2]
-- 1.56% of the population or 234.0 people are actively fighting the virus.
+- 9.22% of the population have had COVID-19.[2]
+- 1.24% of the population or 187.0 people are actively fighting the virus.
 
 ## Synopsis
 

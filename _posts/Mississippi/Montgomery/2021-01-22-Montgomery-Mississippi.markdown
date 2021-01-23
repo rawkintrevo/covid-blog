@@ -12,13 +12,13 @@ tags: [Montgomery-Mississippi]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *28* new cases of COVID-19
+- *36* new cases of COVID-19
 - *2* people have died of COVID-19
-- *20* people have recovered from COVID-19[1]
+- *23* people have recovered from COVID-19[1]
 
 The population in this census area is 9775. By our calculations:
-- 11.26% of the population have had COVID-19.[2]
-- 1.04% of the population or 102.0 people are actively fighting the virus.
+- 11.35% of the population have had COVID-19.[2]
+- 1.09% of the population or 107.0 people are actively fighting the virus.
 
 ## Synopsis
 

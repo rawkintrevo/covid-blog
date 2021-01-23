@@ -12,13 +12,13 @@ tags: [Middlesex-Massachusetts]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *4550* new cases of COVID-19
-- *82* people have died of COVID-19
-- *1272* people have recovered from COVID-19[1]
+- *5419* new cases of COVID-19
+- *94* people have died of COVID-19
+- *2856* people have recovered from COVID-19[1]
 
 The population in this census area is 1611699. By our calculations:
-- 5.87% of the population have had COVID-19.[2]
-- 1.11% of the population or 17946.0 people are actively fighting the virus.
+- 5.93% of the population have had COVID-19.[2]
+- 1.07% of the population or 17219.0 people are actively fighting the virus.
 
 ## Synopsis
 

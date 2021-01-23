@@ -12,13 +12,13 @@ tags: [Gibson-Indiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *138* new cases of COVID-19
+- *167* new cases of COVID-19
 - *3* people have died of COVID-19
-- *83* people have recovered from COVID-19[1]
+- *115* people have recovered from COVID-19[1]
 
 The population in this census area is 33659. By our calculations:
-- 10.77% of the population have had COVID-19.[2]
-- 1.67% of the population or 563.0 people are actively fighting the virus.
+- 10.86% of the population have had COVID-19.[2]
+- 1.66% of the population or 560.0 people are actively fighting the virus.
 
 ## Synopsis
 

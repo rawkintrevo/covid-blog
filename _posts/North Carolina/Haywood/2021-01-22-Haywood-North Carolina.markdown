@@ -12,13 +12,13 @@ tags: [Haywood-North Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *212* new cases of COVID-19
-- *0* people have died of COVID-19
-- *45* people have recovered from COVID-19[1]
+- *252* new cases of COVID-19
+- *1* people have died of COVID-19
+- *171* people have recovered from COVID-19[1]
 
 The population in this census area is 62317. By our calculations:
-- 4.79% of the population have had COVID-19.[2]
-- 1.34% of the population or 838.0 people are actively fighting the virus.
+- 4.86% of the population have had COVID-19.[2]
+- 1.21% of the population or 751.0 people are actively fighting the virus.
 
 ## Synopsis
 

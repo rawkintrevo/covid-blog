@@ -12,13 +12,13 @@ tags: [Union-New Jersey]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1875* new cases of COVID-19
-- *21* people have died of COVID-19
-- *539* people have recovered from COVID-19[1]
+- *2135* new cases of COVID-19
+- *28* people have died of COVID-19
+- *855* people have recovered from COVID-19[1]
 
 The population in this census area is 556341. By our calculations:
-- 8.67% of the population have had COVID-19.[2]
-- 1.97% of the population or 10951.0 people are actively fighting the virus.
+- 8.72% of the population have had COVID-19.[2]
+- 1.96% of the population or 10888.0 people are actively fighting the virus.
 
 ## Synopsis
 

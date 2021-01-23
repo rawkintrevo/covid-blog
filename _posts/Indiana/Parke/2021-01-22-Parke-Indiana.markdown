@@ -12,13 +12,13 @@ tags: [Parke-Indiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *27* new cases of COVID-19
+- *30* new cases of COVID-19
 - *0* people have died of COVID-19
-- *16* people have recovered from COVID-19[1]
+- *25* people have recovered from COVID-19[1]
 
 The population in this census area is 16937. By our calculations:
-- 7.66% of the population have had COVID-19.[2]
-- 0.73% of the population or 123.0 people are actively fighting the virus.
+- 7.68% of the population have had COVID-19.[2]
+- 0.69% of the population or 117.0 people are actively fighting the virus.
 
 ## Synopsis
 

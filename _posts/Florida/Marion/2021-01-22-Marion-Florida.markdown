@@ -12,13 +12,13 @@ tags: [Marion-Florida]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1199* new cases of COVID-19
-- *31* people have died of COVID-19
-- *342* people have recovered from COVID-19[1]
+- *1400* new cases of COVID-19
+- *33* people have died of COVID-19
+- *988* people have recovered from COVID-19[1]
 
 The population in this census area is 365579. By our calculations:
-- 6.19% of the population have had COVID-19.[2]
-- 1.30% of the population or 4750.0 people are actively fighting the virus.
+- 6.25% of the population have had COVID-19.[2]
+- 1.18% of the population or 4303.0 people are actively fighting the virus.
 
 ## Synopsis
 

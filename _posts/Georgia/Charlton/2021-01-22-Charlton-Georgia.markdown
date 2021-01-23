@@ -12,13 +12,13 @@ tags: [Charlton-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *39* new cases of COVID-19
-- *2* people have died of COVID-19
-- *10* people have recovered from COVID-19[1]
+- *42* new cases of COVID-19
+- *3* people have died of COVID-19
+- *16* people have recovered from COVID-19[1]
 
 The population in this census area is 13392. By our calculations:
-- 8.83% of the population have had COVID-19.[2]
-- 1.13% of the population or 151.0 people are actively fighting the virus.
+- 8.86% of the population have had COVID-19.[2]
+- 1.10% of the population or 147.0 people are actively fighting the virus.
 
 ## Synopsis
 

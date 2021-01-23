@@ -12,13 +12,13 @@ tags: [Benton-Oregon]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *102* new cases of COVID-19
+- *128* new cases of COVID-19
 - *1* people have died of COVID-19
-- *24* people have recovered from COVID-19[1]
+- *64* people have recovered from COVID-19[1]
 
 The population in this census area is 93053. By our calculations:
-- 1.87% of the population have had COVID-19.[2]
-- 0.42% of the population or 393.0 people are actively fighting the virus.
+- 1.90% of the population have had COVID-19.[2]
+- 0.41% of the population or 379.0 people are actively fighting the virus.
 
 ## Synopsis
 

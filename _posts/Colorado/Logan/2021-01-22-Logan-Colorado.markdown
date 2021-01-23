@@ -12,13 +12,13 @@ tags: [Logan-Colorado]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *52* new cases of COVID-19
-- *1* people have died of COVID-19
-- *32* people have recovered from COVID-19[1]
+- *96* new cases of COVID-19
+- *2* people have died of COVID-19
+- *47* people have recovered from COVID-19[1]
 
 The population in this census area is 22409. By our calculations:
-- 15.64% of the population have had COVID-19.[2]
-- 1.13% of the population or 254.0 people are actively fighting the virus.
+- 15.84% of the population have had COVID-19.[2]
+- 1.26% of the population or 282.0 people are actively fighting the virus.
 
 ## Synopsis
 

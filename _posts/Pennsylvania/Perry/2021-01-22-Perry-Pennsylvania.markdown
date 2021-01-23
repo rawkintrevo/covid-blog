@@ -12,13 +12,13 @@ tags: [Perry-Pennsylvania]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *103* new cases of COVID-19
-- *9* people have died of COVID-19
-- *39* people have recovered from COVID-19[1]
+- *114* new cases of COVID-19
+- *10* people have died of COVID-19
+- *68* people have recovered from COVID-19[1]
 
 The population in this census area is 46272. By our calculations:
-- 4.89% of the population have had COVID-19.[2]
-- 1.06% of the population or 491.0 people are actively fighting the virus.
+- 4.91% of the population have had COVID-19.[2]
+- 1.02% of the population or 472.0 people are actively fighting the virus.
 
 ## Synopsis
 

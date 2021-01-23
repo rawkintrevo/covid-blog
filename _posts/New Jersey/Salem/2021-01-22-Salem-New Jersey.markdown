@@ -12,13 +12,13 @@ tags: [Salem-New Jersey]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *199* new cases of COVID-19
-- *7* people have died of COVID-19
-- *114* people have recovered from COVID-19[1]
+- *242* new cases of COVID-19
+- *8* people have died of COVID-19
+- *169* people have recovered from COVID-19[1]
 
 The population in this census area is 62385. By our calculations:
-- 6.38% of the population have had COVID-19.[2]
-- 1.86% of the population or 1159.0 people are actively fighting the virus.
+- 6.45% of the population have had COVID-19.[2]
+- 1.84% of the population or 1146.0 people are actively fighting the virus.
 
 ## Synopsis
 

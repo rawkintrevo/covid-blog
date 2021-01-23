@@ -12,13 +12,13 @@ tags: [Lewis-New York]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *197* new cases of COVID-19
+- *215* new cases of COVID-19
 - *3* people have died of COVID-19
-- *84* people have recovered from COVID-19[1]
+- *104* people have recovered from COVID-19[1]
 
 The population in this census area is 26296. By our calculations:
-- 5.86% of the population have had COVID-19.[2]
-- 2.23% of the population or 587.0 people are actively fighting the virus.
+- 5.92% of the population have had COVID-19.[2]
+- 2.22% of the population or 585.0 people are actively fighting the virus.
 
 ## Synopsis
 

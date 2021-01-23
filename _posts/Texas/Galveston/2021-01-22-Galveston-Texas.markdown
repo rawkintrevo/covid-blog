@@ -12,13 +12,13 @@ tags: [Galveston-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *2618* new cases of COVID-19
-- *16* people have died of COVID-19
-- *595* people have recovered from COVID-19[1]
+- *2722* new cases of COVID-19
+- *17* people have died of COVID-19
+- *593* people have recovered from COVID-19[1]
 
 The population in this census area is 342139. By our calculations:
-- 8.10% of the population have had COVID-19.[2]
-- 1.74% of the population or 5958.0 people are actively fighting the virus.
+- 8.14% of the population have had COVID-19.[2]
+- 1.77% of the population or 6063.0 people are actively fighting the virus.
 
 ## Synopsis
 

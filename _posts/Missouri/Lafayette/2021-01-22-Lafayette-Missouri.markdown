@@ -12,13 +12,13 @@ tags: [Lafayette-Missouri]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *51* new cases of COVID-19
+- *64* new cases of COVID-19
 - *1* people have died of COVID-19
-- *36* people have recovered from COVID-19[1]
+- *58* people have recovered from COVID-19[1]
 
 The population in this census area is 32708. By our calculations:
-- 7.07% of the population have had COVID-19.[2]
-- 0.66% of the population or 215.0 people are actively fighting the virus.
+- 7.11% of the population have had COVID-19.[2]
+- 0.63% of the population or 206.0 people are actively fighting the virus.
 
 ## Synopsis
 

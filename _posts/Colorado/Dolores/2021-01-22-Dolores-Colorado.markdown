@@ -12,13 +12,13 @@ tags: [Dolores-Colorado]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1* new cases of COVID-19
+- *3* new cases of COVID-19
 - *0* people have died of COVID-19
 - *0* people have recovered from COVID-19[1]
 
 The population in this census area is 2055. By our calculations:
-- 2.73% of the population have had COVID-19.[2]
-- 0.19% of the population or 4.0 people are actively fighting the virus.
+- 2.82% of the population have had COVID-19.[2]
+- 0.29% of the population or 6.0 people are actively fighting the virus.
 
 ## Synopsis
 

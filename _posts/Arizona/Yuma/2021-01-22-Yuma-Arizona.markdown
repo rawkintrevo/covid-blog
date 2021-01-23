@@ -12,13 +12,13 @@ tags: [Yuma-Arizona]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1571* new cases of COVID-19
-- *38* people have died of COVID-19
-- *665* people have recovered from COVID-19[1]
+- *1703* new cases of COVID-19
+- *46* people have died of COVID-19
+- *1219* people have recovered from COVID-19[1]
 
 The population in this census area is 213787. By our calculations:
-- 15.70% of the population have had COVID-19.[2]
-- 2.63% of the population or 5632.0 people are actively fighting the virus.
+- 15.77% of the population have had COVID-19.[2]
+- 2.43% of the population or 5202.0 people are actively fighting the virus.
 
 ## Synopsis
 

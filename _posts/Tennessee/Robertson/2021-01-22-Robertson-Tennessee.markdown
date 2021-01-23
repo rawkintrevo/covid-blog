@@ -12,13 +12,13 @@ tags: [Robertson-Tennessee]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *308* new cases of COVID-19
-- *0* people have died of COVID-19
-- *59* people have recovered from COVID-19[1]
+- *345* new cases of COVID-19
+- *1* people have died of COVID-19
+- *241* people have recovered from COVID-19[1]
 
 The population in this census area is 71813. By our calculations:
-- 10.78% of the population have had COVID-19.[2]
-- 1.67% of the population or 1197.0 people are actively fighting the virus.
+- 10.83% of the population have had COVID-19.[2]
+- 1.46% of the population or 1051.0 people are actively fighting the virus.
 
 ## Synopsis
 

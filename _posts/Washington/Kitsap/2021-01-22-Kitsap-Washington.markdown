@@ -12,13 +12,13 @@ tags: [Kitsap-Washington]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *204* new cases of COVID-19
-- *2* people have died of COVID-19
-- *79* people have recovered from COVID-19[1]
+- *245* new cases of COVID-19
+- *6* people have died of COVID-19
+- *75* people have recovered from COVID-19[1]
 
 The population in this census area is 271473. By our calculations:
-- 1.77% of the population have had COVID-19.[2]
-- 0.33% of the population or 900.0 people are actively fighting the virus.
+- 1.79% of the population have had COVID-19.[2]
+- 0.35% of the population or 941.0 people are actively fighting the virus.
 
 ## Synopsis
 

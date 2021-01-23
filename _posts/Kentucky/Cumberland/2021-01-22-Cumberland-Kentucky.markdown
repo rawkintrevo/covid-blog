@@ -12,13 +12,13 @@ tags: [Cumberland-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *21* new cases of COVID-19
+- *28* new cases of COVID-19
 - *0* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *17* people have recovered from COVID-19[1]
 
 The population in this census area is 6614. By our calculations:
-- 8.03% of the population have had COVID-19.[2]
-- 2.04% of the population or 135.0 people are actively fighting the virus.
+- 8.13% of the population have had COVID-19.[2]
+- 1.89% of the population or 125.0 people are actively fighting the virus.
 
 ## Synopsis
 

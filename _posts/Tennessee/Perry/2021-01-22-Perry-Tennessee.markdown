@@ -12,13 +12,13 @@ tags: [Perry-Tennessee]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *20* new cases of COVID-19
+- *22* new cases of COVID-19
 - *1* people have died of COVID-19
-- *8* people have recovered from COVID-19[1]
+- *20* people have recovered from COVID-19[1]
 
 The population in this census area is 8076. By our calculations:
-- 11.80% of the population have had COVID-19.[2]
-- 1.19% of the population or 96.0 people are actively fighting the virus.
+- 11.83% of the population have had COVID-19.[2]
+- 1.06% of the population or 86.0 people are actively fighting the virus.
 
 ## Synopsis
 

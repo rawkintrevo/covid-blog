@@ -12,13 +12,13 @@ tags: [Indian River-Florida]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *493* new cases of COVID-19
-- *12* people have died of COVID-19
-- *117* people have recovered from COVID-19[1]
+- *602* new cases of COVID-19
+- *16* people have died of COVID-19
+- *434* people have recovered from COVID-19[1]
 
 The population in this census area is 159923. By our calculations:
-- 5.62% of the population have had COVID-19.[2]
-- 1.30% of the population or 2073.0 people are actively fighting the virus.
+- 5.69% of the population have had COVID-19.[2]
+- 1.16% of the population or 1861.0 people are actively fighting the virus.
 
 ## Synopsis
 

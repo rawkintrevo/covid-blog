@@ -12,13 +12,13 @@ tags: [Pulaski-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *105* new cases of COVID-19
-- *0* people have died of COVID-19
-- *78* people have recovered from COVID-19[1]
+- *171* new cases of COVID-19
+- *1* people have died of COVID-19
+- *83* people have recovered from COVID-19[1]
 
 The population in this census area is 34027. By our calculations:
-- 5.76% of the population have had COVID-19.[2]
-- 1.14% of the population or 389.0 people are actively fighting the virus.
+- 5.95% of the population have had COVID-19.[2]
+- 1.32% of the population or 449.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [McCook-South Dakota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *2* new cases of COVID-19
+- *4* new cases of COVID-19
 - *0* people have died of COVID-19
 - *-1* people have recovered from COVID-19[1]
 
 The population in this census area is 5586. By our calculations:
-- 12.73% of the population have had COVID-19.[2]
-- 0.50% of the population or 28.0 people are actively fighting the virus.
+- 12.76% of the population have had COVID-19.[2]
+- 0.54% of the population or 30.0 people are actively fighting the virus.
 
 ## Synopsis
 

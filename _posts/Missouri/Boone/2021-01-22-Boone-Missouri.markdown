@@ -12,13 +12,13 @@ tags: [Boone-Missouri]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *288* new cases of COVID-19
+- *354* new cases of COVID-19
 - *4* people have died of COVID-19
-- *233* people have recovered from COVID-19[1]
+- *322* people have recovered from COVID-19[1]
 
 The population in this census area is 180463. By our calculations:
-- 8.19% of the population have had COVID-19.[2]
-- 0.70% of the population or 1261.0 people are actively fighting the virus.
+- 8.22% of the population have had COVID-19.[2]
+- 0.69% of the population or 1238.0 people are actively fighting the virus.
 
 ## Synopsis
 

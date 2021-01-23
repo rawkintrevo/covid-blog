@@ -12,13 +12,13 @@ tags: [Cibola-New Mexico]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *48* new cases of COVID-19
-- *5* people have died of COVID-19
-- *46* people have recovered from COVID-19[1]
+- *58* new cases of COVID-19
+- *7* people have died of COVID-19
+- *62* people have recovered from COVID-19[1]
 
 The population in this census area is 26675. By our calculations:
-- 9.40% of the population have had COVID-19.[2]
-- 0.81% of the population or 215.0 people are actively fighting the virus.
+- 9.45% of the population have had COVID-19.[2]
+- 0.78% of the population or 207.0 people are actively fighting the virus.
 
 ## Synopsis
 

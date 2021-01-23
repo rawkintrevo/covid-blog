@@ -12,13 +12,13 @@ tags: [Austin-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *125* new cases of COVID-19
-- *1* people have died of COVID-19
-- *14* people have recovered from COVID-19[1]
+- *128* new cases of COVID-19
+- *2* people have died of COVID-19
+- *25* people have recovered from COVID-19[1]
 
 The population in this census area is 30032. By our calculations:
-- 4.76% of the population have had COVID-19.[2]
-- 1.30% of the population or 391.0 people are actively fighting the virus.
+- 4.78% of the population have had COVID-19.[2]
+- 1.27% of the population or 382.0 people are actively fighting the virus.
 
 ## Synopsis
 

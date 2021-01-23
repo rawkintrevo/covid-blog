@@ -12,13 +12,13 @@ tags: [Jackson-Missouri]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *753* new cases of COVID-19
-- *10* people have died of COVID-19
-- *483* people have recovered from COVID-19[1]
+- *863* new cases of COVID-19
+- *12* people have died of COVID-19
+- *629* people have recovered from COVID-19[1]
 
 The population in this census area is 703011. By our calculations:
-- 3.83% of the population have had COVID-19.[2]
-- 0.46% of the population or 3206.0 people are actively fighting the virus.
+- 3.85% of the population have had COVID-19.[2]
+- 0.45% of the population or 3168.0 people are actively fighting the virus.
 
 ## Synopsis
 

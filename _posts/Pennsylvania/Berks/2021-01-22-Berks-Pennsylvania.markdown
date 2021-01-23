@@ -12,13 +12,13 @@ tags: [Berks-Pennsylvania]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1473* new cases of COVID-19
-- *38* people have died of COVID-19
-- *574* people have recovered from COVID-19[1]
+- *1637* new cases of COVID-19
+- *54* people have died of COVID-19
+- *851* people have recovered from COVID-19[1]
 
 The population in this census area is 421164. By our calculations:
-- 6.95% of the population have had COVID-19.[2]
-- 1.25% of the population or 5273.0 people are actively fighting the virus.
+- 6.99% of the population have had COVID-19.[2]
+- 1.22% of the population or 5144.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Camp-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *54* new cases of COVID-19
+- *57* new cases of COVID-19
 - *2* people have died of COVID-19
-- *11* people have recovered from COVID-19[1]
+- *21* people have recovered from COVID-19[1]
 
 The population in this census area is 13094. By our calculations:
-- 7.45% of the population have had COVID-19.[2]
-- 1.51% of the population or 198.0 people are actively fighting the virus.
+- 7.48% of the population have had COVID-19.[2]
+- 1.46% of the population or 191.0 people are actively fighting the virus.
 
 ## Synopsis
 

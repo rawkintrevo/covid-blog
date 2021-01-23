@@ -12,13 +12,13 @@ tags: [Jefferson-Nebraska]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *14* new cases of COVID-19
+- *18* new cases of COVID-19
 - *0* people have died of COVID-19
-- *9* people have recovered from COVID-19[1]
+- *11* people have recovered from COVID-19[1]
 
 The population in this census area is 7046. By our calculations:
-- 8.50% of the population have had COVID-19.[2]
-- 0.62% of the population or 44.0 people are actively fighting the virus.
+- 8.56% of the population have had COVID-19.[2]
+- 0.65% of the population or 46.0 people are actively fighting the virus.
 
 ## Synopsis
 

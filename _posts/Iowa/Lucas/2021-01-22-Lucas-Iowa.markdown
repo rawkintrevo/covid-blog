@@ -12,13 +12,13 @@ tags: [Lucas-Iowa]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *12* new cases of COVID-19
+- *15* new cases of COVID-19
 - *1* people have died of COVID-19
-- *12* people have recovered from COVID-19[1]
+- *18* people have recovered from COVID-19[1]
 
 The population in this census area is 8600. By our calculations:
-- 7.65% of the population have had COVID-19.[2]
-- 0.83% of the population or 71.0 people are actively fighting the virus.
+- 7.69% of the population have had COVID-19.[2]
+- 0.79% of the population or 68.0 people are actively fighting the virus.
 
 ## Synopsis
 

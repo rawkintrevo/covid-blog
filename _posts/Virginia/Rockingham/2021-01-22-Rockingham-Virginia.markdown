@@ -12,13 +12,13 @@ tags: [Rockingham-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *311* new cases of COVID-19
-- *7* people have died of COVID-19
-- *132* people have recovered from COVID-19[1]
+- *378* new cases of COVID-19
+- *11* people have died of COVID-19
+- *171* people have recovered from COVID-19[1]
 
 The population in this census area is 81948. By our calculations:
-- 6.25% of the population have had COVID-19.[2]
-- 1.38% of the population or 1127.0 people are actively fighting the virus.
+- 6.34% of the population have had COVID-19.[2]
+- 1.40% of the population or 1151.0 people are actively fighting the virus.
 
 ## Synopsis
 

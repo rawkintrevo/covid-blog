@@ -12,13 +12,13 @@ tags: [Sheboygan-Wisconsin]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *242* new cases of COVID-19
-- *4* people have died of COVID-19
-- *72* people have recovered from COVID-19[1]
+- *257* new cases of COVID-19
+- *7* people have died of COVID-19
+- *144* people have recovered from COVID-19[1]
 
 The population in this census area is 115340. By our calculations:
-- 11.14% of the population have had COVID-19.[2]
-- 0.85% of the population or 980.0 people are actively fighting the virus.
+- 11.16% of the population have had COVID-19.[2]
+- 0.80% of the population or 920.0 people are actively fighting the virus.
 
 ## Synopsis
 

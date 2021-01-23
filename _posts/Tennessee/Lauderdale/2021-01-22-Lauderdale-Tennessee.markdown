@@ -12,13 +12,13 @@ tags: [Lauderdale-Tennessee]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *64* new cases of COVID-19
+- *68* new cases of COVID-19
 - *0* people have died of COVID-19
-- *15* people have recovered from COVID-19[1]
+- *81* people have recovered from COVID-19[1]
 
 The population in this census area is 25633. By our calculations:
-- 11.51% of the population have had COVID-19.[2]
-- 1.25% of the population or 321.0 people are actively fighting the virus.
+- 11.53% of the population have had COVID-19.[2]
+- 1.01% of the population or 259.0 people are actively fighting the virus.
 
 ## Synopsis
 

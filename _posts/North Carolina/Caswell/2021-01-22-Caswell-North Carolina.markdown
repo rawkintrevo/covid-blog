@@ -12,13 +12,13 @@ tags: [Caswell-North Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *136* new cases of COVID-19
-- *0* people have died of COVID-19
-- *12* people have recovered from COVID-19[1]
+- *145* new cases of COVID-19
+- *1* people have died of COVID-19
+- *52* people have recovered from COVID-19[1]
 
 The population in this census area is 22604. By our calculations:
-- 6.87% of the population have had COVID-19.[2]
-- 1.73% of the population or 391.0 people are actively fighting the virus.
+- 6.91% of the population have had COVID-19.[2]
+- 1.59% of the population or 359.0 people are actively fighting the virus.
 
 ## Synopsis
 

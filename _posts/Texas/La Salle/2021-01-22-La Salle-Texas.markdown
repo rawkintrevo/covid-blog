@@ -12,13 +12,13 @@ tags: [La Salle-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *118* new cases of COVID-19
-- *0* people have died of COVID-19
-- *51* people have recovered from COVID-19[1]
+- *115* new cases of COVID-19
+- *2* people have died of COVID-19
+- *49* people have recovered from COVID-19[1]
 
 The population in this census area is 7520. By our calculations:
-- 10.86% of the population have had COVID-19.[2]
-- 1.98% of the population or 149.0 people are actively fighting the virus.
+- 10.85% of the population have had COVID-19.[2]
+- 1.94% of the population or 146.0 people are actively fighting the virus.
 
 ## Synopsis
 

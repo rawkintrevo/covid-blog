@@ -12,13 +12,13 @@ tags: [Hennepin-Minnesota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1422* new cases of COVID-19
-- *22* people have died of COVID-19
-- *378* people have recovered from COVID-19[1]
+- *1627* new cases of COVID-19
+- *25* people have died of COVID-19
+- *856* people have recovered from COVID-19[1]
 
 The population in this census area is 1265843. By our calculations:
-- 7.37% of the population have had COVID-19.[2]
-- 0.52% of the population or 6644.0 people are actively fighting the virus.
+- 7.39% of the population have had COVID-19.[2]
+- 0.50% of the population or 6368.0 people are actively fighting the virus.
 
 ## Synopsis
 

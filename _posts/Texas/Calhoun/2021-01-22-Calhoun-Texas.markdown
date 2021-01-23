@@ -12,13 +12,13 @@ tags: [Calhoun-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *55* new cases of COVID-19
+- *132* new cases of COVID-19
 - *2* people have died of COVID-19
 - *4* people have recovered from COVID-19[1]
 
 The population in this census area is 21290. By our calculations:
-- 6.50% of the population have had COVID-19.[2]
-- 0.83% of the population or 177.0 people are actively fighting the virus.
+- 6.86% of the population have had COVID-19.[2]
+- 1.19% of the population or 254.0 people are actively fighting the virus.
 
 ## Synopsis
 

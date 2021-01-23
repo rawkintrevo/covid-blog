@@ -12,13 +12,13 @@ tags: [Fulton-Arkansas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *14* new cases of COVID-19
+- *18* new cases of COVID-19
 - *1* people have died of COVID-19
-- *28* people have recovered from COVID-19[1]
+- *36* people have recovered from COVID-19[1]
 
 The population in this census area is 12477. By our calculations:
-- 8.06% of the population have had COVID-19.[2]
-- 0.87% of the population or 108.0 people are actively fighting the virus.
+- 8.09% of the population have had COVID-19.[2]
+- 0.83% of the population or 104.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Orangeburg-South Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *591* new cases of COVID-19
+- *665* new cases of COVID-19
 - *9* people have died of COVID-19
-- *69* people have recovered from COVID-19[1]
+- *132* people have recovered from COVID-19[1]
 
 The population in this census area is 86175. By our calculations:
-- 7.88% of the population have had COVID-19.[2]
-- 1.92% of the population or 1658.0 people are actively fighting the virus.
+- 7.96% of the population have had COVID-19.[2]
+- 1.94% of the population or 1669.0 people are actively fighting the virus.
 
 ## Synopsis
 

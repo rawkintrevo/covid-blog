@@ -12,13 +12,13 @@ tags: [Erie-Pennsylvania]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *683* new cases of COVID-19
-- *25* people have died of COVID-19
-- *298* people have recovered from COVID-19[1]
+- *773* new cases of COVID-19
+- *34* people have died of COVID-19
+- *459* people have recovered from COVID-19[1]
 
 The population in this census area is 269728. By our calculations:
-- 5.35% of the population have had COVID-19.[2]
-- 0.93% of the population or 2511.0 people are actively fighting the virus.
+- 5.38% of the population have had COVID-19.[2]
+- 0.90% of the population or 2431.0 people are actively fighting the virus.
 
 ## Synopsis
 

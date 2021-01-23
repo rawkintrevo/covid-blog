@@ -12,13 +12,13 @@ tags: [Calhoun-South Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *50* new cases of COVID-19
+- *61* new cases of COVID-19
 - *2* people have died of COVID-19
-- *11* people have recovered from COVID-19[1]
+- *19* people have recovered from COVID-19[1]
 
 The population in this census area is 14553. By our calculations:
-- 6.96% of the population have had COVID-19.[2]
-- 1.37% of the population or 200.0 people are actively fighting the virus.
+- 7.04% of the population have had COVID-19.[2]
+- 1.39% of the population or 203.0 people are actively fighting the virus.
 
 ## Synopsis
 

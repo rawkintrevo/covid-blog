@@ -12,13 +12,13 @@ tags: [Loudoun-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1508* new cases of COVID-19
-- *5* people have died of COVID-19
-- *351* people have recovered from COVID-19[1]
+- *1689* new cases of COVID-19
+- *6* people have died of COVID-19
+- *479* people have recovered from COVID-19[1]
 
 The population in this census area is 413538. By our calculations:
-- 4.20% of the population have had COVID-19.[2]
-- 0.73% of the population or 3007.0 people are actively fighting the virus.
+- 4.25% of the population have had COVID-19.[2]
+- 0.74% of the population or 3059.0 people are actively fighting the virus.
 
 ## Synopsis
 

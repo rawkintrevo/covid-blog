@@ -12,13 +12,13 @@ tags: [Randolph-Alabama]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *45* new cases of COVID-19
-- *0* people have died of COVID-19
-- *27* people have recovered from COVID-19[1]
+- *55* new cases of COVID-19
+- *1* people have died of COVID-19
+- *31* people have recovered from COVID-19[1]
 
 The population in this census area is 22722. By our calculations:
-- 6.25% of the population have had COVID-19.[2]
-- 0.66% of the population or 150.0 people are actively fighting the virus.
+- 6.30% of the population have had COVID-19.[2]
+- 0.68% of the population or 155.0 people are actively fighting the virus.
 
 ## Synopsis
 

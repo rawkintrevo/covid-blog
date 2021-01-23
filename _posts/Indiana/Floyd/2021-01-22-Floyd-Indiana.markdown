@@ -12,13 +12,13 @@ tags: [Floyd-Indiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *296* new cases of COVID-19
-- *3* people have died of COVID-19
-- *162* people have recovered from COVID-19[1]
+- *347* new cases of COVID-19
+- *4* people have died of COVID-19
+- *224* people have recovered from COVID-19[1]
 
 The population in this census area is 78522. By our calculations:
-- 7.99% of the population have had COVID-19.[2]
-- 1.33% of the population or 1044.0 people are actively fighting the virus.
+- 8.05% of the population have had COVID-19.[2]
+- 1.31% of the population or 1032.0 people are actively fighting the virus.
 
 ## Synopsis
 

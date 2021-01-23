@@ -12,13 +12,13 @@ tags: [Douglas-Wisconsin]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *148* new cases of COVID-19
+- *173* new cases of COVID-19
 - *1* people have died of COVID-19
-- *41* people have recovered from COVID-19[1]
+- *55* people have recovered from COVID-19[1]
 
 The population in this census area is 43150. By our calculations:
-- 9.22% of the population have had COVID-19.[2]
-- 1.06% of the population or 457.0 people are actively fighting the virus.
+- 9.28% of the population have had COVID-19.[2]
+- 1.08% of the population or 468.0 people are actively fighting the virus.
 
 ## Synopsis
 

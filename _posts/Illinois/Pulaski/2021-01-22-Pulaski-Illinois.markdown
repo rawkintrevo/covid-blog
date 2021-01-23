@@ -12,13 +12,13 @@ tags: [Pulaski-Illinois]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *20* new cases of COVID-19
+- *25* new cases of COVID-19
 - *0* people have died of COVID-19
-- *10* people have recovered from COVID-19[1]
+- *13* people have recovered from COVID-19[1]
 
 The population in this census area is 5335. By our calculations:
-- 11.53% of the population have had COVID-19.[2]
-- 1.03% of the population or 55.0 people are actively fighting the virus.
+- 11.62% of the population have had COVID-19.[2]
+- 1.07% of the population or 57.0 people are actively fighting the virus.
 
 ## Synopsis
 

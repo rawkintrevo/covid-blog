@@ -12,13 +12,13 @@ tags: [Passaic-New Jersey]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1439* new cases of COVID-19
-- *30* people have died of COVID-19
-- *491* people have recovered from COVID-19[1]
+- *1769* new cases of COVID-19
+- *34* people have died of COVID-19
+- *730* people have recovered from COVID-19[1]
 
 The population in this census area is 501826. By our calculations:
-- 9.64% of the population have had COVID-19.[2]
-- 1.53% of the population or 7682.0 people are actively fighting the virus.
+- 9.70% of the population have had COVID-19.[2]
+- 1.55% of the population or 7769.0 people are actively fighting the virus.
 
 ## Synopsis
 

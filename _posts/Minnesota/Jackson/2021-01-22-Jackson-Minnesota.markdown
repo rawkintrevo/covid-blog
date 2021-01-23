@@ -12,13 +12,13 @@ tags: [Jackson-Minnesota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *15* new cases of COVID-19
+- *18* new cases of COVID-19
 - *0* people have died of COVID-19
-- *7* people have recovered from COVID-19[1]
+- *14* people have recovered from COVID-19[1]
 
 The population in this census area is 9846. By our calculations:
-- 8.73% of the population have had COVID-19.[2]
-- 0.68% of the population or 67.0 people are actively fighting the virus.
+- 8.76% of the population have had COVID-19.[2]
+- 0.64% of the population or 63.0 people are actively fighting the virus.
 
 ## Synopsis
 

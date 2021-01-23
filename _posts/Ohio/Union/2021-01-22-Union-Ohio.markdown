@@ -12,13 +12,13 @@ tags: [Union-Ohio]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *185* new cases of COVID-19
+- *225* new cases of COVID-19
 - *1* people have died of COVID-19
-- *78* people have recovered from COVID-19[1]
+- *182* people have recovered from COVID-19[1]
 
 The population in this census area is 58988. By our calculations:
-- 7.47% of the population have had COVID-19.[2]
-- 1.36% of the population or 803.0 people are actively fighting the virus.
+- 7.54% of the population have had COVID-19.[2]
+- 1.25% of the population or 739.0 people are actively fighting the virus.
 
 ## Synopsis
 

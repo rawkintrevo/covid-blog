@@ -12,13 +12,13 @@ tags: [Lamar-Mississippi]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *194* new cases of COVID-19
+- *250* new cases of COVID-19
 - *3* people have died of COVID-19
-- *125* people have recovered from COVID-19[1]
+- *175* people have recovered from COVID-19[1]
 
 The population in this census area is 63343. By our calculations:
-- 7.75% of the population have had COVID-19.[2]
-- 1.17% of the population or 739.0 people are actively fighting the virus.
+- 7.84% of the population have had COVID-19.[2]
+- 1.18% of the population or 745.0 people are actively fighting the virus.
 
 ## Synopsis
 

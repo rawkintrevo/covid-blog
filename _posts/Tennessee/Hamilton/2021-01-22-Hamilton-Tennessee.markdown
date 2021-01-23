@@ -12,13 +12,13 @@ tags: [Hamilton-Tennessee]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1265* new cases of COVID-19
-- *8* people have died of COVID-19
-- *405* people have recovered from COVID-19[1]
+- *1463* new cases of COVID-19
+- *13* people have died of COVID-19
+- *1253* people have recovered from COVID-19[1]
 
 The population in this census area is 367804. By our calculations:
-- 9.53% of the population have had COVID-19.[2]
-- 1.75% of the population or 6447.0 people are actively fighting the virus.
+- 9.58% of the population have had COVID-19.[2]
+- 1.57% of the population or 5792.0 people are actively fighting the virus.
 
 ## Synopsis
 

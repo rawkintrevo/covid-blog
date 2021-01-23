@@ -14,11 +14,11 @@ tags: [Monterey-California]
 In the last 7 days[3] we project there have been
 - *1975* new cases of COVID-19
 - *7* people have died of COVID-19
-- *957* people have recovered from COVID-19[1]
+- *1560* people have recovered from COVID-19[1]
 
 The population in this census area is 434061. By our calculations:
 - 8.40% of the population have had COVID-19.[2]
-- 1.97% of the population or 8541.0 people are actively fighting the virus.
+- 1.83% of the population or 7938.0 people are actively fighting the virus.
 
 ## Synopsis
 

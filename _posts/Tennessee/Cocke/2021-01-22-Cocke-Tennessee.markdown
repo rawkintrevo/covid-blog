@@ -12,13 +12,13 @@ tags: [Cocke-Tennessee]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *118* new cases of COVID-19
+- *134* new cases of COVID-19
 - *2* people have died of COVID-19
-- *22* people have recovered from COVID-19[1]
+- *148* people have recovered from COVID-19[1]
 
 The population in this census area is 36004. By our calculations:
-- 9.68% of the population have had COVID-19.[2]
-- 1.76% of the population or 632.0 people are actively fighting the virus.
+- 9.73% of the population have had COVID-19.[2]
+- 1.45% of the population or 522.0 people are actively fighting the virus.
 
 ## Synopsis
 

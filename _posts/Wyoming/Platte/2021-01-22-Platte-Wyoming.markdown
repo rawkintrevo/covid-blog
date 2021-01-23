@@ -12,13 +12,13 @@ tags: [Platte-Wyoming]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *30* new cases of COVID-19
+- *32* new cases of COVID-19
 - *1* people have died of COVID-19
-- *5* people have recovered from COVID-19[1]
+- *6* people have recovered from COVID-19[1]
 
 The population in this census area is 8393. By our calculations:
-- 6.43% of the population have had COVID-19.[2]
-- 1.17% of the population or 98.0 people are actively fighting the virus.
+- 6.46% of the population have had COVID-19.[2]
+- 1.18% of the population or 99.0 people are actively fighting the virus.
 
 ## Synopsis
 

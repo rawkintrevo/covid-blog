@@ -12,13 +12,13 @@ tags: [Marion-Oregon]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *507* new cases of COVID-19
+- *588* new cases of COVID-19
 - *9* people have died of COVID-19
-- *182* people have recovered from COVID-19[1]
+- *512* people have recovered from COVID-19[1]
 
 The population in this census area is 347818. By our calculations:
-- 4.71% of the population have had COVID-19.[2]
-- 0.70% of the population or 2425.0 people are actively fighting the virus.
+- 4.74% of the population have had COVID-19.[2]
+- 0.63% of the population or 2176.0 people are actively fighting the virus.
 
 ## Synopsis
 

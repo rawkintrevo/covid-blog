@@ -12,13 +12,13 @@ tags: [Wilson-North Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *284* new cases of COVID-19
+- *314* new cases of COVID-19
 - *1* people have died of COVID-19
-- *62* people have recovered from COVID-19[1]
+- *203* people have recovered from COVID-19[1]
 
 The population in this census area is 81801. By our calculations:
-- 8.42% of the population have had COVID-19.[2]
-- 1.65% of the population or 1348.0 people are actively fighting the virus.
+- 8.45% of the population have had COVID-19.[2]
+- 1.51% of the population or 1237.0 people are actively fighting the virus.
 
 ## Synopsis
 

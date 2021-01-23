@@ -12,13 +12,13 @@ tags: [Imperial-California]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *602* new cases of COVID-19
-- *14* people have died of COVID-19
-- *349* people have recovered from COVID-19[1]
+- *637* new cases of COVID-19
+- *26* people have died of COVID-19
+- *558* people have recovered from COVID-19[1]
 
 The population in this census area is 181215. By our calculations:
-- 13.98% of the population have had COVID-19.[2]
-- 1.53% of the population or 2778.0 people are actively fighting the virus.
+- 14.01% of the population have had COVID-19.[2]
+- 1.43% of the population or 2592.0 people are actively fighting the virus.
 
 ## Synopsis
 

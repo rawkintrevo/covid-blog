@@ -12,13 +12,13 @@ tags: [Taylor-Florida]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *89* new cases of COVID-19
-- *2* people have died of COVID-19
-- *19* people have recovered from COVID-19[1]
+- *105* new cases of COVID-19
+- *4* people have died of COVID-19
+- *60* people have recovered from COVID-19[1]
 
 The population in this census area is 21569. By our calculations:
-- 10.71% of the population have had COVID-19.[2]
-- 1.56% of the population or 337.0 people are actively fighting the virus.
+- 10.79% of the population have had COVID-19.[2]
+- 1.44% of the population or 310.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Venango-Pennsylvania]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *97* new cases of COVID-19
-- *5* people have died of COVID-19
-- *78* people have recovered from COVID-19[1]
+- *102* new cases of COVID-19
+- *8* people have died of COVID-19
+- *122* people have recovered from COVID-19[1]
 
 The population in this census area is 50668. By our calculations:
-- 5.81% of the population have had COVID-19.[2]
-- 1.02% of the population or 517.0 people are actively fighting the virus.
+- 5.83% of the population have had COVID-19.[2]
+- 0.94% of the population or 475.0 people are actively fighting the virus.
 
 ## Synopsis
 

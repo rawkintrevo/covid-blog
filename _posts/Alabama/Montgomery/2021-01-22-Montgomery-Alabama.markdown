@@ -12,13 +12,13 @@ tags: [Montgomery-Alabama]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *779* new cases of COVID-19
-- *11* people have died of COVID-19
-- *241* people have recovered from COVID-19[1]
+- *911* new cases of COVID-19
+- *22* people have died of COVID-19
+- *323* people have recovered from COVID-19[1]
 
 The population in this census area is 226486. By our calculations:
-- 8.54% of the population have had COVID-19.[2]
-- 1.35% of the population or 3061.0 people are actively fighting the virus.
+- 8.61% of the population have had COVID-19.[2]
+- 1.37% of the population or 3100.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Caldwell-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *57* new cases of COVID-19
-- *1* people have died of COVID-19
-- *-1* people have recovered from COVID-19[1]
+- *62* new cases of COVID-19
+- *2* people have died of COVID-19
+- *18* people have recovered from COVID-19[1]
 
 The population in this census area is 12747. By our calculations:
-- 8.49% of the population have had COVID-19.[2]
-- 1.65% of the population or 210.0 people are actively fighting the virus.
+- 8.54% of the population have had COVID-19.[2]
+- 1.53% of the population or 195.0 people are actively fighting the virus.
 
 ## Synopsis
 

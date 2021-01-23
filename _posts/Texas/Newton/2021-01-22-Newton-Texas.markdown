@@ -12,13 +12,13 @@ tags: [Newton-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *-218* new cases of COVID-19
+- *-206* new cases of COVID-19
 - *1* people have died of COVID-19
 - *-1* people have recovered from COVID-19[1]
 
 The population in this census area is 13595. By our calculations:
-- 3.46% of the population have had COVID-19.[2]
-- 0.57% of the population or 77.0 people are actively fighting the virus.
+- 3.55% of the population have had COVID-19.[2]
+- 0.65% of the population or 89.0 people are actively fighting the virus.
 
 ## Synopsis
 

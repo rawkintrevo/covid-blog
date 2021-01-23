@@ -12,13 +12,13 @@ tags: [Gloucester-New Jersey]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1047* new cases of COVID-19
-- *22* people have died of COVID-19
-- *308* people have recovered from COVID-19[1]
+- *1300* new cases of COVID-19
+- *24* people have died of COVID-19
+- *504* people have recovered from COVID-19[1]
 
 The population in this census area is 291636. By our calculations:
-- 6.84% of the population have had COVID-19.[2]
-- 1.90% of the population or 5539.0 people are actively fighting the virus.
+- 6.93% of the population have had COVID-19.[2]
+- 1.92% of the population or 5594.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Kane-Illinois]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1192* new cases of COVID-19
-- *23* people have died of COVID-19
-- *267* people have recovered from COVID-19[1]
+- *1405* new cases of COVID-19
+- *34* people have died of COVID-19
+- *689* people have recovered from COVID-19[1]
 
 The population in this census area is 532403. By our calculations:
-- 8.69% of the population have had COVID-19.[2]
-- 0.87% of the population or 4643.0 people are actively fighting the virus.
+- 8.74% of the population have had COVID-19.[2]
+- 0.83% of the population or 4423.0 people are actively fighting the virus.
 
 ## Synopsis
 

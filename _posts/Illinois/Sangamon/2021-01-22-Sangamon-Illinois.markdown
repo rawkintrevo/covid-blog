@@ -12,13 +12,13 @@ tags: [Sangamon-Illinois]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *374* new cases of COVID-19
+- *427* new cases of COVID-19
 - *4* people have died of COVID-19
-- *53* people have recovered from COVID-19[1]
+- *231* people have recovered from COVID-19[1]
 
 The population in this census area is 194672. By our calculations:
-- 7.50% of the population have had COVID-19.[2]
-- 0.68% of the population or 1332.0 people are actively fighting the virus.
+- 7.53% of the population have had COVID-19.[2]
+- 0.62% of the population or 1207.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Jefferson-West Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *164* new cases of COVID-19
+- *177* new cases of COVID-19
 - *2* people have died of COVID-19
-- *97* people have recovered from COVID-19[1]
+- *137* people have recovered from COVID-19[1]
 
 The population in this census area is 57146. By our calculations:
-- 5.35% of the population have had COVID-19.[2]
-- 1.10% of the population or 630.0 people are actively fighting the virus.
+- 5.38% of the population have had COVID-19.[2]
+- 1.06% of the population or 603.0 people are actively fighting the virus.
 
 ## Synopsis
 

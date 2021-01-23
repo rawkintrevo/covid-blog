@@ -12,13 +12,13 @@ tags: [Chester-Pennsylvania]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1058* new cases of COVID-19
+- *1207* new cases of COVID-19
 - *15* people have died of COVID-19
 - *237* people have recovered from COVID-19[1]
 
 The population in this census area is 524989. By our calculations:
-- 4.56% of the population have had COVID-19.[2]
-- 0.75% of the population or 3948.0 people are actively fighting the virus.
+- 4.59% of the population have had COVID-19.[2]
+- 0.78% of the population or 4097.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Douglas-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *629* new cases of COVID-19
+- *761* new cases of COVID-19
 - *13* people have died of COVID-19
-- *308* people have recovered from COVID-19[1]
+- *422* people have recovered from COVID-19[1]
 
 The population in this census area is 146343. By our calculations:
-- 7.24% of the population have had COVID-19.[2]
-- 1.46% of the population or 2143.0 people are actively fighting the virus.
+- 7.33% of the population have had COVID-19.[2]
+- 1.48% of the population or 2161.0 people are actively fighting the virus.
 
 ## Synopsis
 

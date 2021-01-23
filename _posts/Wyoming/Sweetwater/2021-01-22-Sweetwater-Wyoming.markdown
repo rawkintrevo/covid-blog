@@ -12,13 +12,13 @@ tags: [Sweetwater-Wyoming]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *95* new cases of COVID-19
+- *118* new cases of COVID-19
 - *2* people have died of COVID-19
-- *20* people have recovered from COVID-19[1]
+- *46* people have recovered from COVID-19[1]
 
 The population in this census area is 42343. By our calculations:
-- 7.90% of the population have had COVID-19.[2]
-- 0.87% of the population or 369.0 people are actively fighting the virus.
+- 7.96% of the population have had COVID-19.[2]
+- 0.86% of the population or 366.0 people are actively fighting the virus.
 
 ## Synopsis
 

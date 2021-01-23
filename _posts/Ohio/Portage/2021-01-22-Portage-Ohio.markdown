@@ -12,13 +12,13 @@ tags: [Portage-Ohio]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *464* new cases of COVID-19
+- *532* new cases of COVID-19
 - *3* people have died of COVID-19
-- *108* people have recovered from COVID-19[1]
+- *296* people have recovered from COVID-19[1]
 
 The population in this census area is 162466. By our calculations:
-- 5.60% of the population have had COVID-19.[2]
-- 1.09% of the population or 1773.0 people are actively fighting the virus.
+- 5.64% of the population have had COVID-19.[2]
+- 1.02% of the population or 1653.0 people are actively fighting the virus.
 
 ## Synopsis
 

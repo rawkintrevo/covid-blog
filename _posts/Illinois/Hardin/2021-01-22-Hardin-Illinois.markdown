@@ -12,12 +12,12 @@ tags: [Hardin-Illinois]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *7* new cases of COVID-19
+- *9* new cases of COVID-19
 - *0* people have died of COVID-19
-- *6* people have recovered from COVID-19[1]
+- *8* people have recovered from COVID-19[1]
 
 The population in this census area is 3821. By our calculations:
-- 7.98% of the population have had COVID-19.[2]
+- 8.03% of the population have had COVID-19.[2]
 - 2.28% of the population or 87.0 people are actively fighting the virus.
 
 ## Synopsis

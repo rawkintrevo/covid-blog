@@ -12,13 +12,13 @@ tags: [Woodbury-Iowa]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *142* new cases of COVID-19
-- *2* people have died of COVID-19
-- *103* people have recovered from COVID-19[1]
+- *164* new cases of COVID-19
+- *4* people have died of COVID-19
+- *131* people have recovered from COVID-19[1]
 
 The population in this census area is 103107. By our calculations:
-- 12.65% of the population have had COVID-19.[2]
-- 0.66% of the population or 683.0 people are actively fighting the virus.
+- 12.67% of the population have had COVID-19.[2]
+- 0.65% of the population or 675.0 people are actively fighting the virus.
 
 ## Synopsis
 

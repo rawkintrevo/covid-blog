@@ -12,13 +12,13 @@ tags: [Wharton-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *165* new cases of COVID-19
+- *173* new cases of COVID-19
 - *4* people have died of COVID-19
-- *26* people have recovered from COVID-19[1]
+- *67* people have recovered from COVID-19[1]
 
 The population in this census area is 41556. By our calculations:
-- 7.26% of the population have had COVID-19.[2]
-- 1.36% of the population or 564.0 people are actively fighting the virus.
+- 7.28% of the population have had COVID-19.[2]
+- 1.28% of the population or 531.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Val Verde-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1045* new cases of COVID-19
+- *1391* new cases of COVID-19
 - *8* people have died of COVID-19
 - *233* people have recovered from COVID-19[1]
 
 The population in this census area is 49025. By our calculations:
-- 12.91% of the population have had COVID-19.[2]
-- 3.31% of the population or 1623.0 people are actively fighting the virus.
+- 13.62% of the population have had COVID-19.[2]
+- 4.02% of the population or 1969.0 people are actively fighting the virus.
 
 ## Synopsis
 

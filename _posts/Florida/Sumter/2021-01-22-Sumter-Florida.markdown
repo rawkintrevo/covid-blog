@@ -12,13 +12,13 @@ tags: [Sumter-Florida]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *301* new cases of COVID-19
-- *38* people have died of COVID-19
-- *128* people have recovered from COVID-19[1]
+- *346* new cases of COVID-19
+- *45* people have died of COVID-19
+- *334* people have recovered from COVID-19[1]
 
 The population in this census area is 132420. By our calculations:
-- 4.95% of the population have had COVID-19.[2]
-- 1.07% of the population or 1422.0 people are actively fighting the virus.
+- 4.99% of the population have had COVID-19.[2]
+- 0.95% of the population or 1254.0 people are actively fighting the virus.
 
 ## Synopsis
 

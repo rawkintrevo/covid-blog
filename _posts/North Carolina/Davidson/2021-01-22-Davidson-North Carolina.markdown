@@ -12,13 +12,13 @@ tags: [Davidson-North Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *829* new cases of COVID-19
+- *921* new cases of COVID-19
 - *8* people have died of COVID-19
-- *132* people have recovered from COVID-19[1]
+- *508* people have recovered from COVID-19[1]
 
 The population in this census area is 167609. By our calculations:
-- 6.99% of the population have had COVID-19.[2]
-- 1.78% of the population or 2981.0 people are actively fighting the virus.
+- 7.04% of the population have had COVID-19.[2]
+- 1.61% of the population or 2697.0 people are actively fighting the virus.
 
 ## Synopsis
 

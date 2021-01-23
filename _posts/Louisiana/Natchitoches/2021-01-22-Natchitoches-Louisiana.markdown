@@ -12,13 +12,13 @@ tags: [Natchitoches-Louisiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *120* new cases of COVID-19
-- *5* people have died of COVID-19
-- *57* people have recovered from COVID-19[1]
+- *170* new cases of COVID-19
+- *6* people have died of COVID-19
+- *56* people have recovered from COVID-19[1]
 
 The population in this census area is 38158. By our calculations:
-- 9.06% of the population have had COVID-19.[2]
-- 1.56% of the population or 596.0 people are actively fighting the virus.
+- 9.19% of the population have had COVID-19.[2]
+- 1.69% of the population or 646.0 people are actively fighting the virus.
 
 ## Synopsis
 

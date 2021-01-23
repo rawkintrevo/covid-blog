@@ -12,13 +12,13 @@ tags: [St. Charles-Missouri]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *686* new cases of COVID-19
+- *850* new cases of COVID-19
 - *17* people have died of COVID-19
-- *472* people have recovered from COVID-19[1]
+- *614* people have recovered from COVID-19[1]
 
 The population in this census area is 402022. By our calculations:
-- 7.59% of the population have had COVID-19.[2]
-- 0.76% of the population or 3041.0 people are actively fighting the virus.
+- 7.63% of the population have had COVID-19.[2]
+- 0.76% of the population or 3063.0 people are actively fighting the virus.
 
 ## Synopsis
 

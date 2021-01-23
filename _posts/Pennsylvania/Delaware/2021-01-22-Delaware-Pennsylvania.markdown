@@ -12,13 +12,13 @@ tags: [Delaware-Pennsylvania]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1221* new cases of COVID-19
-- *38* people have died of COVID-19
-- *536* people have recovered from COVID-19[1]
+- *1425* new cases of COVID-19
+- *48* people have died of COVID-19
+- *762* people have recovered from COVID-19[1]
 
 The population in this census area is 566747. By our calculations:
-- 6.17% of the population have had COVID-19.[2]
-- 0.81% of the population or 4615.0 people are actively fighting the virus.
+- 6.21% of the population have had COVID-19.[2]
+- 0.81% of the population or 4583.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Richland-Louisiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *88* new cases of COVID-19
+- *126* new cases of COVID-19
 - *2* people have died of COVID-19
 - *25* people have recovered from COVID-19[1]
 
 The population in this census area is 20122. By our calculations:
-- 10.13% of the population have had COVID-19.[2]
-- 1.45% of the population or 292.0 people are actively fighting the virus.
+- 10.32% of the population have had COVID-19.[2]
+- 1.64% of the population or 330.0 people are actively fighting the virus.
 
 ## Synopsis
 

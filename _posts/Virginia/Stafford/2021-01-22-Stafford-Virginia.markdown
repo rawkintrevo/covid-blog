@@ -12,13 +12,13 @@ tags: [Stafford-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *673* new cases of COVID-19
-- *5* people have died of COVID-19
-- *182* people have recovered from COVID-19[1]
+- *716* new cases of COVID-19
+- *6* people have died of COVID-19
+- *284* people have recovered from COVID-19[1]
 
 The population in this census area is 152882. By our calculations:
-- 4.54% of the population have had COVID-19.[2]
-- 1.08% of the population or 1653.0 people are actively fighting the virus.
+- 4.57% of the population have had COVID-19.[2]
+- 1.04% of the population or 1593.0 people are actively fighting the virus.
 
 ## Synopsis
 

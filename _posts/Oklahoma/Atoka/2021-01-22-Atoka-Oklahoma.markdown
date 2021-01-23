@@ -12,13 +12,13 @@ tags: [Atoka-Oklahoma]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *67* new cases of COVID-19
-- *1* people have died of COVID-19
-- *19* people have recovered from COVID-19[1]
+- *70* new cases of COVID-19
+- *3* people have died of COVID-19
+- *34* people have recovered from COVID-19[1]
 
 The population in this census area is 13758. By our calculations:
-- 11.40% of the population have had COVID-19.[2]
-- 1.88% of the population or 259.0 people are actively fighting the virus.
+- 11.44% of the population have had COVID-19.[2]
+- 1.78% of the population or 245.0 people are actively fighting the virus.
 
 ## Synopsis
 

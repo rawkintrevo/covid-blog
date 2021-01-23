@@ -12,13 +12,13 @@ tags: [Dakota-Nebraska]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *26* new cases of COVID-19
+- *31* new cases of COVID-19
 - *0* people have died of COVID-19
-- *16* people have recovered from COVID-19[1]
+- *18* people have recovered from COVID-19[1]
 
 The population in this census area is 20026. By our calculations:
-- 18.09% of the population have had COVID-19.[2]
-- 0.57% of the population or 114.0 people are actively fighting the virus.
+- 18.12% of the population have had COVID-19.[2]
+- 0.58% of the population or 117.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Steuben-New York]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *251* new cases of COVID-19
+- *299* new cases of COVID-19
 - *1* people have died of COVID-19
-- *144* people have recovered from COVID-19[1]
+- *204* people have recovered from COVID-19[1]
 
 The population in this census area is 95379. By our calculations:
-- 4.86% of the population have had COVID-19.[2]
-- 1.20% of the population or 1142.0 people are actively fighting the virus.
+- 4.91% of the population have had COVID-19.[2]
+- 1.18% of the population or 1130.0 people are actively fighting the virus.
 
 ## Synopsis
 

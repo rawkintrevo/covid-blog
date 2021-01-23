@@ -12,13 +12,13 @@ tags: [Kent-Maryland]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *64* new cases of COVID-19
+- *72* new cases of COVID-19
 - *0* people have died of COVID-19
-- *20* people have recovered from COVID-19[1]
+- *40* people have recovered from COVID-19[1]
 
 The population in this census area is 19422. By our calculations:
-- 4.92% of the population have had COVID-19.[2]
-- 1.02% of the population or 199.0 people are actively fighting the virus.
+- 4.96% of the population have had COVID-19.[2]
+- 0.96% of the population or 187.0 people are actively fighting the virus.
 
 ## Synopsis
 

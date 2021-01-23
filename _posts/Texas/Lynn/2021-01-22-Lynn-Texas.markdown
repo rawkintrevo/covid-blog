@@ -12,13 +12,13 @@ tags: [Lynn-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *0* new cases of COVID-19
+- *8* new cases of COVID-19
 - *3* people have died of COVID-19
 - *10* people have recovered from COVID-19[1]
 
 The population in this census area is 5951. By our calculations:
-- 9.60% of the population have had COVID-19.[2]
-- 0.81% of the population or 48.0 people are actively fighting the virus.
+- 9.73% of the population have had COVID-19.[2]
+- 0.94% of the population or 56.0 people are actively fighting the virus.
 
 ## Synopsis
 

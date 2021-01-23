@@ -14,11 +14,11 @@ tags: [Douglas-South Dakota]
 In the last 7 days[3] we project there have been
 - *13* new cases of COVID-19
 - *0* people have died of COVID-19
-- *1* people have recovered from COVID-19[1]
+- *2* people have recovered from COVID-19[1]
 
 The population in this census area is 2921. By our calculations:
 - 14.00% of the population have had COVID-19.[2]
-- 0.86% of the population or 25.0 people are actively fighting the virus.
+- 0.82% of the population or 24.0 people are actively fighting the virus.
 
 ## Synopsis
 

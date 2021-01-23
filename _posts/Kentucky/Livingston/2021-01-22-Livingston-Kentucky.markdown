@@ -12,13 +12,13 @@ tags: [Livingston-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *23* new cases of COVID-19
+- *26* new cases of COVID-19
 - *0* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *10* people have recovered from COVID-19[1]
 
 The population in this census area is 9194. By our calculations:
-- 6.42% of the population have had COVID-19.[2]
-- 1.00% of the population or 92.0 people are actively fighting the virus.
+- 6.45% of the population have had COVID-19.[2]
+- 0.92% of the population or 85.0 people are actively fighting the virus.
 
 ## Synopsis
 

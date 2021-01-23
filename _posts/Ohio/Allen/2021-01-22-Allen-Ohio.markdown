@@ -12,13 +12,13 @@ tags: [Allen-Ohio]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *340* new cases of COVID-19
+- *419* new cases of COVID-19
 - *0* people have died of COVID-19
-- *121* people have recovered from COVID-19[1]
+- *259* people have recovered from COVID-19[1]
 
 The population in this census area is 102351. By our calculations:
-- 9.47% of the population have had COVID-19.[2]
-- 1.32% of the population or 1355.0 people are actively fighting the virus.
+- 9.55% of the population have had COVID-19.[2]
+- 1.27% of the population or 1296.0 people are actively fighting the virus.
 
 ## Synopsis
 

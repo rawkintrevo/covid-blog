@@ -12,13 +12,13 @@ tags: [Kimble-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *14* new cases of COVID-19
+- *18* new cases of COVID-19
 - *0* people have died of COVID-19
 - *0* people have recovered from COVID-19[1]
 
 The population in this census area is 4337. By our calculations:
-- 5.23% of the population have had COVID-19.[2]
-- 0.51% of the population or 22.0 people are actively fighting the virus.
+- 5.33% of the population have had COVID-19.[2]
+- 0.60% of the population or 26.0 people are actively fighting the virus.
 
 ## Synopsis
 

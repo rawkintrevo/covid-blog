@@ -12,13 +12,13 @@ tags: [Isanti-Minnesota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *34* new cases of COVID-19
+- *37* new cases of COVID-19
 - *1* people have died of COVID-19
-- *16* people have recovered from COVID-19[1]
+- *28* people have recovered from COVID-19[1]
 
 The population in this census area is 40596. By our calculations:
-- 6.97% of the population have had COVID-19.[2]
-- 0.45% of the population or 183.0 people are actively fighting the virus.
+- 6.98% of the population have had COVID-19.[2]
+- 0.43% of the population or 174.0 people are actively fighting the virus.
 
 ## Synopsis
 

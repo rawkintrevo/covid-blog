@@ -12,13 +12,13 @@ tags: [Carlisle-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *21* new cases of COVID-19
+- *23* new cases of COVID-19
 - *0* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *12* people have recovered from COVID-19[1]
 
 The population in this census area is 4760. By our calculations:
-- 8.36% of the population have had COVID-19.[2]
-- 1.45% of the population or 69.0 people are actively fighting the virus.
+- 8.40% of the population have had COVID-19.[2]
+- 1.24% of the population or 59.0 people are actively fighting the virus.
 
 ## Synopsis
 

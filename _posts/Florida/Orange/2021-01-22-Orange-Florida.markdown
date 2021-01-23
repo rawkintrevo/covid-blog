@@ -12,13 +12,13 @@ tags: [Orange-Florida]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *4778* new cases of COVID-19
-- *27* people have died of COVID-19
-- *1138* people have recovered from COVID-19[1]
+- *5535* new cases of COVID-19
+- *34* people have died of COVID-19
+- *3184* people have recovered from COVID-19[1]
 
 The population in this census area is 1393452. By our calculations:
-- 6.85% of the population have had COVID-19.[2]
-- 1.35% of the population or 18840.0 people are actively fighting the virus.
+- 6.90% of the population have had COVID-19.[2]
+- 1.26% of the population or 17544.0 people are actively fighting the virus.
 
 ## Synopsis
 

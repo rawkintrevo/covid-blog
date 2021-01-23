@@ -12,13 +12,13 @@ tags: [Mitchell-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *76* new cases of COVID-19
-- *5* people have died of COVID-19
-- *30* people have recovered from COVID-19[1]
+- *84* new cases of COVID-19
+- *6* people have died of COVID-19
+- *61* people have recovered from COVID-19[1]
 
 The population in this census area is 21863. By our calculations:
-- 7.74% of the population have had COVID-19.[2]
-- 1.34% of the population or 292.0 people are actively fighting the virus.
+- 7.78% of the population have had COVID-19.[2]
+- 1.23% of the population or 268.0 people are actively fighting the virus.
 
 ## Synopsis
 

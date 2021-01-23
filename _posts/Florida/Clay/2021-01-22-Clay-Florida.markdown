@@ -12,13 +12,13 @@ tags: [Clay-Florida]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *656* new cases of COVID-19
-- *12* people have died of COVID-19
-- *145* people have recovered from COVID-19[1]
+- *758* new cases of COVID-19
+- *17* people have died of COVID-19
+- *516* people have recovered from COVID-19[1]
 
 The population in this census area is 219252. By our calculations:
-- 6.52% of the population have had COVID-19.[2]
-- 1.36% of the population or 2980.0 people are actively fighting the virus.
+- 6.56% of the population have had COVID-19.[2]
+- 1.23% of the population or 2706.0 people are actively fighting the virus.
 
 ## Synopsis
 

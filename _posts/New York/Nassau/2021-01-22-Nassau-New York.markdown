@@ -12,13 +12,13 @@ tags: [Nassau-New York]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *7866* new cases of COVID-19
-- *73* people have died of COVID-19
-- *3114* people have recovered from COVID-19[1]
+- *9164* new cases of COVID-19
+- *81* people have died of COVID-19
+- *4507* people have recovered from COVID-19[1]
 
 The population in this census area is 1356924. By our calculations:
-- 8.55% of the population have had COVID-19.[2]
-- 1.91% of the population or 25883.0 people are actively fighting the virus.
+- 8.65% of the population have had COVID-19.[2]
+- 1.90% of the population or 25780.0 people are actively fighting the virus.
 
 ## Synopsis
 

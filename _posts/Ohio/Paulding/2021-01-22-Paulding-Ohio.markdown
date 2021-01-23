@@ -12,13 +12,13 @@ tags: [Paulding-Ohio]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *42* new cases of COVID-19
+- *57* new cases of COVID-19
 - *0* people have died of COVID-19
-- *40* people have recovered from COVID-19[1]
+- *73* people have recovered from COVID-19[1]
 
 The population in this census area is 18672. By our calculations:
-- 7.59% of the population have had COVID-19.[2]
-- 1.22% of the population or 228.0 people are actively fighting the virus.
+- 7.67% of the population have had COVID-19.[2]
+- 1.12% of the population or 210.0 people are actively fighting the virus.
 
 ## Synopsis
 

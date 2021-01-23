@@ -12,13 +12,13 @@ tags: [Perry-Mississippi]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *42* new cases of COVID-19
+- *46* new cases of COVID-19
 - *0* people have died of COVID-19
-- *25* people have recovered from COVID-19[1]
+- *34* people have recovered from COVID-19[1]
 
 The population in this census area is 11973. By our calculations:
-- 8.59% of the population have had COVID-19.[2]
-- 1.14% of the population or 137.0 people are actively fighting the virus.
+- 8.62% of the population have had COVID-19.[2]
+- 1.10% of the population or 132.0 people are actively fighting the virus.
 
 ## Synopsis
 

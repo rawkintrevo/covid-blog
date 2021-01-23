@@ -12,13 +12,13 @@ tags: [Adams-Indiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *62* new cases of COVID-19
+- *74* new cases of COVID-19
 - *0* people have died of COVID-19
-- *50* people have recovered from COVID-19[1]
+- *61* people have recovered from COVID-19[1]
 
 The population in this census area is 35777. By our calculations:
-- 8.32% of the population have had COVID-19.[2]
-- 0.93% of the population or 332.0 people are actively fighting the virus.
+- 8.36% of the population have had COVID-19.[2]
+- 0.93% of the population or 333.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Elmore-Alabama]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *326* new cases of COVID-19
+- *383* new cases of COVID-19
 - *3* people have died of COVID-19
-- *217* people have recovered from COVID-19[1]
+- *300* people have recovered from COVID-19[1]
 
 The population in this census area is 81209. By our calculations:
-- 9.85% of the population have had COVID-19.[2]
-- 1.76% of the population or 1433.0 people are actively fighting the virus.
+- 9.92% of the population have had COVID-19.[2]
+- 1.73% of the population or 1407.0 people are actively fighting the virus.
 
 ## Synopsis
 

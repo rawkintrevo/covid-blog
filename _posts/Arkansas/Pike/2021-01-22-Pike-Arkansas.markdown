@@ -12,13 +12,13 @@ tags: [Pike-Arkansas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *38* new cases of COVID-19
-- *0* people have died of COVID-19
+- *45* new cases of COVID-19
+- *1* people have died of COVID-19
 - *21* people have recovered from COVID-19[1]
 
 The population in this census area is 10718. By our calculations:
-- 7.94% of the population have had COVID-19.[2]
-- 1.35% of the population or 145.0 people are actively fighting the virus.
+- 8.01% of the population have had COVID-19.[2]
+- 1.41% of the population or 151.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Early-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *57* new cases of COVID-19
+- *63* new cases of COVID-19
 - *0* people have died of COVID-19
-- *8* people have recovered from COVID-19[1]
+- *13* people have recovered from COVID-19[1]
 
 The population in this census area is 10190. By our calculations:
-- 9.46% of the population have had COVID-19.[2]
-- 1.34% of the population or 137.0 people are actively fighting the virus.
+- 9.52% of the population have had COVID-19.[2]
+- 1.35% of the population or 138.0 people are actively fighting the virus.
 
 ## Synopsis
 

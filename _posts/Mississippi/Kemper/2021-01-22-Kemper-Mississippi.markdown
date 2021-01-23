@@ -12,13 +12,13 @@ tags: [Kemper-Mississippi]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *28* new cases of COVID-19
+- *35* new cases of COVID-19
 - *0* people have died of COVID-19
-- *14* people have recovered from COVID-19[1]
+- *19* people have recovered from COVID-19[1]
 
 The population in this census area is 9742. By our calculations:
-- 8.05% of the population have had COVID-19.[2]
-- 1.14% of the population or 111.0 people are actively fighting the virus.
+- 8.12% of the population have had COVID-19.[2]
+- 1.16% of the population or 113.0 people are actively fighting the virus.
 
 ## Synopsis
 

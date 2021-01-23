@@ -12,13 +12,13 @@ tags: [Coos-Oregon]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *28* new cases of COVID-19
+- *38* new cases of COVID-19
 - *1* people have died of COVID-19
-- *8* people have recovered from COVID-19[1]
+- *20* people have recovered from COVID-19[1]
 
 The population in this census area is 64487. By our calculations:
-- 1.48% of the population have had COVID-19.[2]
-- 0.29% of the population or 190.0 people are actively fighting the virus.
+- 1.49% of the population have had COVID-19.[2]
+- 0.29% of the population or 188.0 people are actively fighting the virus.
 
 ## Synopsis
 

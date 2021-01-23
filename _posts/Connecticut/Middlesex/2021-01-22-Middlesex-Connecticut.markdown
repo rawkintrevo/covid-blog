@@ -12,13 +12,13 @@ tags: [Middlesex-Connecticut]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *509* new cases of COVID-19
+- *592* new cases of COVID-19
 - *13* people have died of COVID-19
-- *80* people have recovered from COVID-19[1]
+- *243* people have recovered from COVID-19[1]
 
 The population in this census area is 162436. By our calculations:
-- 5.27% of the population have had COVID-19.[2]
-- 1.15% of the population or 1869.0 people are actively fighting the virus.
+- 5.32% of the population have had COVID-19.[2]
+- 1.10% of the population or 1789.0 people are actively fighting the virus.
 
 ## Synopsis
 

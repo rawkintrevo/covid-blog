@@ -12,13 +12,13 @@ tags: [Jim Hogg-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *80* new cases of COVID-19
+- *83* new cases of COVID-19
 - *0* people have died of COVID-19
 - *8* people have recovered from COVID-19[1]
 
 The population in this census area is 5200. By our calculations:
-- 9.71% of the population have had COVID-19.[2]
-- 3.35% of the population or 174.0 people are actively fighting the virus.
+- 9.77% of the population have had COVID-19.[2]
+- 3.40% of the population or 177.0 people are actively fighting the virus.
 
 ## Synopsis
 

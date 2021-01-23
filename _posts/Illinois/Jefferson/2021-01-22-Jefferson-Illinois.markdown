@@ -12,13 +12,13 @@ tags: [Jefferson-Illinois]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *137* new cases of COVID-19
+- *160* new cases of COVID-19
 - *4* people have died of COVID-19
-- *25* people have recovered from COVID-19[1]
+- *72* people have recovered from COVID-19[1]
 
 The population in this census area is 37684. By our calculations:
-- 9.21% of the population have had COVID-19.[2]
-- 1.35% of the population or 508.0 people are actively fighting the virus.
+- 9.27% of the population have had COVID-19.[2]
+- 1.28% of the population or 484.0 people are actively fighting the virus.
 
 ## Synopsis
 

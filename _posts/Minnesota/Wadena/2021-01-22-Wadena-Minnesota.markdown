@@ -12,13 +12,13 @@ tags: [Wadena-Minnesota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *16* new cases of COVID-19
+- *19* new cases of COVID-19
 - *3* people have died of COVID-19
-- *3* people have recovered from COVID-19[1]
+- *10* people have recovered from COVID-19[1]
 
 The population in this census area is 13682. By our calculations:
-- 8.78% of the population have had COVID-19.[2]
-- 0.53% of the population or 73.0 people are actively fighting the virus.
+- 8.80% of the population have had COVID-19.[2]
+- 0.50% of the population or 69.0 people are actively fighting the virus.
 
 ## Synopsis
 

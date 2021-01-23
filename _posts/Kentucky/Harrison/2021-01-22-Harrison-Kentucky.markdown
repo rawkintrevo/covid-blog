@@ -12,13 +12,13 @@ tags: [Harrison-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *102* new cases of COVID-19
+- *107* new cases of COVID-19
 - *0* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *60* people have recovered from COVID-19[1]
 
 The population in this census area is 18886. By our calculations:
-- 6.38% of the population have had COVID-19.[2]
-- 2.52% of the population or 475.0 people are actively fighting the virus.
+- 6.41% of the population have had COVID-19.[2]
+- 2.22% of the population or 420.0 people are actively fighting the virus.
 
 ## Synopsis
 

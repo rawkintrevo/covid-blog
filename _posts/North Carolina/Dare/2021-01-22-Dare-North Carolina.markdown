@@ -12,13 +12,13 @@ tags: [Dare-North Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *139* new cases of COVID-19
+- *153* new cases of COVID-19
 - *0* people have died of COVID-19
-- *28* people have recovered from COVID-19[1]
+- *87* people have recovered from COVID-19[1]
 
 The population in this census area is 37009. By our calculations:
-- 4.12% of the population have had COVID-19.[2]
-- 1.35% of the population or 498.0 people are actively fighting the virus.
+- 4.15% of the population have had COVID-19.[2]
+- 1.22% of the population or 453.0 people are actively fighting the virus.
 
 ## Synopsis
 

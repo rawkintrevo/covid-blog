@@ -12,13 +12,13 @@ tags: [Ocean-New Jersey]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *2635* new cases of COVID-19
-- *57* people have died of COVID-19
-- *815* people have recovered from COVID-19[1]
+- *3042* new cases of COVID-19
+- *71* people have died of COVID-19
+- *1352* people have recovered from COVID-19[1]
 
 The population in this census area is 607186. By our calculations:
-- 7.48% of the population have had COVID-19.[2]
-- 1.99% of the population or 12066.0 people are actively fighting the virus.
+- 7.55% of the population have had COVID-19.[2]
+- 1.96% of the population or 11922.0 people are actively fighting the virus.
 
 ## Synopsis
 

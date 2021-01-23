@@ -12,13 +12,13 @@ tags: [Grainger-Tennessee]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *88* new cases of COVID-19
-- *3* people have died of COVID-19
-- *8* people have recovered from COVID-19[1]
+- *94* new cases of COVID-19
+- *4* people have died of COVID-19
+- *82* people have recovered from COVID-19[1]
 
 The population in this census area is 23320. By our calculations:
-- 9.06% of the population have had COVID-19.[2]
-- 1.43% of the population or 333.0 people are actively fighting the virus.
+- 9.09% of the population have had COVID-19.[2]
+- 1.13% of the population or 264.0 people are actively fighting the virus.
 
 ## Synopsis
 

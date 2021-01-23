@@ -12,13 +12,13 @@ tags: [Gilmer-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *121* new cases of COVID-19
+- *141* new cases of COVID-19
 - *2* people have died of COVID-19
-- *54* people have recovered from COVID-19[1]
+- *76* people have recovered from COVID-19[1]
 
 The population in this census area is 31369. By our calculations:
-- 7.26% of the population have had COVID-19.[2]
-- 1.36% of the population or 427.0 people are actively fighting the virus.
+- 7.32% of the population have had COVID-19.[2]
+- 1.35% of the population or 425.0 people are actively fighting the virus.
 
 ## Synopsis
 

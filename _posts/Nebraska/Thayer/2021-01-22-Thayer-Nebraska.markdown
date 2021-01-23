@@ -12,13 +12,13 @@ tags: [Thayer-Nebraska]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *19* new cases of COVID-19
+- *25* new cases of COVID-19
 - *0* people have died of COVID-19
-- *5* people have recovered from COVID-19[1]
+- *6* people have recovered from COVID-19[1]
 
 The population in this census area is 5003. By our calculations:
-- 8.79% of the population have had COVID-19.[2]
-- 1.16% of the population or 58.0 people are actively fighting the virus.
+- 8.91% of the population have had COVID-19.[2]
+- 1.26% of the population or 63.0 people are actively fighting the virus.
 
 ## Synopsis
 

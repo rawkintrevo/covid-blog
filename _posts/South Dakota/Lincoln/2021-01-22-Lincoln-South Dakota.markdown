@@ -12,13 +12,13 @@ tags: [Lincoln-South Dakota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *117* new cases of COVID-19
+- *150* new cases of COVID-19
 - *2* people have died of COVID-19
-- *21* people have recovered from COVID-19[1]
+- *64* people have recovered from COVID-19[1]
 
 The population in this census area is 61128. By our calculations:
-- 11.91% of the population have had COVID-19.[2]
-- 0.81% of the population or 497.0 people are actively fighting the virus.
+- 11.97% of the population have had COVID-19.[2]
+- 0.80% of the population or 487.0 people are actively fighting the virus.
 
 ## Synopsis
 

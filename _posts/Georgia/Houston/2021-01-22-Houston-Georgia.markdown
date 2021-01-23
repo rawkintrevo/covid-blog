@@ -12,13 +12,13 @@ tags: [Houston-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *674* new cases of COVID-19
-- *14* people have died of COVID-19
-- *381* people have recovered from COVID-19[1]
+- *787* new cases of COVID-19
+- *18* people have died of COVID-19
+- *577* people have recovered from COVID-19[1]
 
 The population in this census area is 157863. By our calculations:
-- 6.95% of the population have had COVID-19.[2]
-- 1.73% of the population or 2724.0 people are actively fighting the virus.
+- 7.03% of the population have had COVID-19.[2]
+- 1.67% of the population or 2637.0 people are actively fighting the virus.
 
 ## Synopsis
 

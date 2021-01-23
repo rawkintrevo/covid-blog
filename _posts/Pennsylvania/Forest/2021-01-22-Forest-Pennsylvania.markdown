@@ -12,13 +12,13 @@ tags: [Forest-Pennsylvania]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *156* new cases of COVID-19
-- *1* people have died of COVID-19
-- *13* people have recovered from COVID-19[1]
+- *669* new cases of COVID-19
+- *2* people have died of COVID-19
+- *29* people have recovered from COVID-19[1]
 
 The population in this census area is 7247. By our calculations:
-- 10.09% of the population have had COVID-19.[2]
-- 5.70% of the population or 413.0 people are actively fighting the virus.
+- 17.18% of the population have had COVID-19.[2]
+- 12.54% of the population or 909.0 people are actively fighting the virus.
 
 ## Synopsis
 

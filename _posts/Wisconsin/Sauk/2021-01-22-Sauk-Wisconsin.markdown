@@ -12,13 +12,13 @@ tags: [Sauk-Wisconsin]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *83* new cases of COVID-19
+- *104* new cases of COVID-19
 - *4* people have died of COVID-19
 - *81* people have recovered from COVID-19[1]
 
 The population in this census area is 64442. By our calculations:
-- 7.95% of the population have had COVID-19.[2]
-- 0.62% of the population or 400.0 people are actively fighting the virus.
+- 7.98% of the population have had COVID-19.[2]
+- 0.65% of the population or 421.0 people are actively fighting the virus.
 
 ## Synopsis
 

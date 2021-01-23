@@ -12,13 +12,13 @@ tags: [Caroline-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *134* new cases of COVID-19
+- *146* new cases of COVID-19
 - *0* people have died of COVID-19
-- *47* people have recovered from COVID-19[1]
+- *58* people have recovered from COVID-19[1]
 
 The population in this census area is 30725. By our calculations:
-- 4.53% of the population have had COVID-19.[2]
-- 1.05% of the population or 324.0 people are actively fighting the virus.
+- 4.57% of the population have had COVID-19.[2]
+- 1.06% of the population or 325.0 people are actively fighting the virus.
 
 ## Synopsis
 

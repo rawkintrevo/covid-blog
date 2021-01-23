@@ -12,13 +12,13 @@ tags: [Furnas-Nebraska]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *22* new cases of COVID-19
+- *33* new cases of COVID-19
 - *0* people have died of COVID-19
 - *4* people have recovered from COVID-19[1]
 
 The population in this census area is 4676. By our calculations:
-- 8.79% of the population have had COVID-19.[2]
-- 1.03% of the population or 48.0 people are actively fighting the virus.
+- 9.02% of the population have had COVID-19.[2]
+- 1.26% of the population or 59.0 people are actively fighting the virus.
 
 ## Synopsis
 

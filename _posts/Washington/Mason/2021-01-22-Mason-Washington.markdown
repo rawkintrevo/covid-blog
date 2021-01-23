@@ -12,13 +12,13 @@ tags: [Mason-Washington]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *95* new cases of COVID-19
-- *0* people have died of COVID-19
-- *27* people have recovered from COVID-19[1]
+- *107* new cases of COVID-19
+- *1* people have died of COVID-19
+- *26* people have recovered from COVID-19[1]
 
 The population in this census area is 66768. By our calculations:
-- 2.99% of the population have had COVID-19.[2]
-- 0.75% of the population or 504.0 people are actively fighting the virus.
+- 3.01% of the population have had COVID-19.[2]
+- 0.77% of the population or 516.0 people are actively fighting the virus.
 
 ## Synopsis
 

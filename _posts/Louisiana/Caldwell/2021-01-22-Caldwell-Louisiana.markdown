@@ -12,13 +12,13 @@ tags: [Caldwell-Louisiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *16* new cases of COVID-19
+- *25* new cases of COVID-19
 - *1* people have died of COVID-19
 - *15* people have recovered from COVID-19[1]
 
 The population in this census area is 9918. By our calculations:
-- 10.26% of the population have had COVID-19.[2]
-- 0.95% of the population or 94.0 people are actively fighting the virus.
+- 10.35% of the population have had COVID-19.[2]
+- 1.04% of the population or 103.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Goochland-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *98* new cases of COVID-19
+- *112* new cases of COVID-19
 - *0* people have died of COVID-19
-- *14* people have recovered from COVID-19[1]
+- *37* people have recovered from COVID-19[1]
 
 The population in this census area is 23753. By our calculations:
-- 3.80% of the population have had COVID-19.[2]
-- 1.18% of the population or 280.0 people are actively fighting the virus.
+- 3.86% of the population have had COVID-19.[2]
+- 1.14% of the population or 271.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Harrison-Mississippi]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *914* new cases of COVID-19
+- *1059* new cases of COVID-19
 - *11* people have died of COVID-19
-- *286* people have recovered from COVID-19[1]
+- *443* people have recovered from COVID-19[1]
 
 The population in this census area is 208080. By our calculations:
-- 6.60% of the population have had COVID-19.[2]
-- 1.37% of the population or 2846.0 people are actively fighting the virus.
+- 6.67% of the population have had COVID-19.[2]
+- 1.36% of the population or 2834.0 people are actively fighting the virus.
 
 ## Synopsis
 

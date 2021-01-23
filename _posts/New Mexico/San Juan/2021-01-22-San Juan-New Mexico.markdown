@@ -12,13 +12,13 @@ tags: [San Juan-New Mexico]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *384* new cases of COVID-19
-- *21* people have died of COVID-19
-- *337* people have recovered from COVID-19[1]
+- *458* new cases of COVID-19
+- *27* people have died of COVID-19
+- *503* people have recovered from COVID-19[1]
 
 The population in this census area is 123958. By our calculations:
-- 9.94% of the population have had COVID-19.[2]
-- 1.55% of the population or 1924.0 people are actively fighting the virus.
+- 10.01% of the population have had COVID-19.[2]
+- 1.47% of the population or 1826.0 people are actively fighting the virus.
 
 ## Synopsis
 

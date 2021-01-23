@@ -12,13 +12,13 @@ tags: [Lee-Mississippi]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *250* new cases of COVID-19
+- *309* new cases of COVID-19
 - *6* people have died of COVID-19
-- *192* people have recovered from COVID-19[1]
+- *241* people have recovered from COVID-19[1]
 
 The population in this census area is 85436. By our calculations:
-- 10.44% of the population have had COVID-19.[2]
-- 1.34% of the population or 1141.0 people are actively fighting the virus.
+- 10.51% of the population have had COVID-19.[2]
+- 1.35% of the population or 1151.0 people are actively fighting the virus.
 
 ## Synopsis
 

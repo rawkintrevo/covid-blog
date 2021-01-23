@@ -12,13 +12,13 @@ tags: [Fond du Lac-Wisconsin]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *202* new cases of COVID-19
-- *4* people have died of COVID-19
-- *179* people have recovered from COVID-19[1]
+- *214* new cases of COVID-19
+- *6* people have died of COVID-19
+- *177* people have recovered from COVID-19[1]
 
 The population in this census area is 103403. By our calculations:
-- 11.79% of the population have had COVID-19.[2]
-- 0.86% of the population or 894.0 people are actively fighting the virus.
+- 11.81% of the population have had COVID-19.[2]
+- 0.88% of the population or 906.0 people are actively fighting the virus.
 
 ## Synopsis
 

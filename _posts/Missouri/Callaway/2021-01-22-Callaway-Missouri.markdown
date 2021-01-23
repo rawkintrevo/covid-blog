@@ -12,13 +12,13 @@ tags: [Callaway-Missouri]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *49* new cases of COVID-19
+- *58* new cases of COVID-19
 - *3* people have died of COVID-19
-- *69* people have recovered from COVID-19[1]
+- *92* people have recovered from COVID-19[1]
 
 The population in this census area is 44743. By our calculations:
-- 9.28% of the population have had COVID-19.[2]
-- 0.72% of the population or 324.0 people are actively fighting the virus.
+- 9.30% of the population have had COVID-19.[2]
+- 0.69% of the population or 310.0 people are actively fighting the virus.
 
 ## Synopsis
 

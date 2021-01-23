@@ -12,13 +12,13 @@ tags: [Hampshire-Massachusetts]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *305* new cases of COVID-19
+- *341* new cases of COVID-19
 - *9* people have died of COVID-19
-- *82* people have recovered from COVID-19[1]
+- *187* people have recovered from COVID-19[1]
 
 The population in this census area is 160830. By our calculations:
-- 3.20% of the population have had COVID-19.[2]
-- 0.77% of the population or 1236.0 people are actively fighting the virus.
+- 3.22% of the population have had COVID-19.[2]
+- 0.73% of the population or 1167.0 people are actively fighting the virus.
 
 ## Synopsis
 

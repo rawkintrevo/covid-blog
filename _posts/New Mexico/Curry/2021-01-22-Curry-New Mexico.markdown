@@ -12,13 +12,13 @@ tags: [Curry-New Mexico]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *143* new cases of COVID-19
-- *3* people have died of COVID-19
-- *93* people have recovered from COVID-19[1]
+- *169* new cases of COVID-19
+- *4* people have died of COVID-19
+- *122* people have recovered from COVID-19[1]
 
 The population in this census area is 48954. By our calculations:
-- 9.37% of the population have had COVID-19.[2]
-- 0.98% of the population or 481.0 people are actively fighting the virus.
+- 9.43% of the population have had COVID-19.[2]
+- 0.97% of the population or 477.0 people are actively fighting the virus.
 
 ## Synopsis
 

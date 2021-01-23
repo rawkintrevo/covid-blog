@@ -12,13 +12,13 @@ tags: [Oldham-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *806* new cases of COVID-19
-- *7* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *868* new cases of COVID-19
+- *8* people have died of COVID-19
+- *313* people have recovered from COVID-19[1]
 
 The population in this census area is 66799. By our calculations:
-- 8.93% of the population have had COVID-19.[2]
-- 3.33% of the population or 2222.0 people are actively fighting the virus.
+- 9.02% of the population have had COVID-19.[2]
+- 2.95% of the population or 1970.0 people are actively fighting the virus.
 
 ## Synopsis
 

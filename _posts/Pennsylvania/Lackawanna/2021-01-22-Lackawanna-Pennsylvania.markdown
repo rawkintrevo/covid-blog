@@ -12,13 +12,13 @@ tags: [Lackawanna-Pennsylvania]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *623* new cases of COVID-19
-- *21* people have died of COVID-19
-- *321* people have recovered from COVID-19[1]
+- *720* new cases of COVID-19
+- *22* people have died of COVID-19
+- *468* people have recovered from COVID-19[1]
 
 The population in this census area is 209674. By our calculations:
-- 5.45% of the population have had COVID-19.[2]
-- 1.12% of the population or 2346.0 people are actively fighting the virus.
+- 5.50% of the population have had COVID-19.[2]
+- 1.09% of the population or 2295.0 people are actively fighting the virus.
 
 ## Synopsis
 

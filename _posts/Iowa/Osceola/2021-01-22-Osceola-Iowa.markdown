@@ -12,13 +12,13 @@ tags: [Osceola-Iowa]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *7* new cases of COVID-19
-- *0* people have died of COVID-19
-- *2* people have recovered from COVID-19[1]
+- *10* new cases of COVID-19
+- *1* people have died of COVID-19
+- *3* people have recovered from COVID-19[1]
 
 The population in this census area is 5958. By our calculations:
-- 10.76% of the population have had COVID-19.[2]
-- 0.44% of the population or 26.0 people are actively fighting the virus.
+- 10.83% of the population have had COVID-19.[2]
+- 0.45% of the population or 27.0 people are actively fighting the virus.
 
 ## Synopsis
 

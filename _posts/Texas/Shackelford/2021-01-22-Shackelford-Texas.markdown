@@ -12,13 +12,13 @@ tags: [Shackelford-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *16* new cases of COVID-19
+- *18* new cases of COVID-19
 - *0* people have died of COVID-19
 - *2* people have recovered from COVID-19[1]
 
 The population in this census area is 3265. By our calculations:
-- 5.94% of the population have had COVID-19.[2]
-- 1.29% of the population or 42.0 people are actively fighting the virus.
+- 6.00% of the population have had COVID-19.[2]
+- 1.35% of the population or 44.0 people are actively fighting the virus.
 
 ## Synopsis
 

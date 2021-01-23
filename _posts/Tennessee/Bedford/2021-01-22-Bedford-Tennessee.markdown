@@ -12,13 +12,13 @@ tags: [Bedford-Tennessee]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *144* new cases of COVID-19
+- *174* new cases of COVID-19
 - *5* people have died of COVID-19
-- *46* people have recovered from COVID-19[1]
+- *219* people have recovered from COVID-19[1]
 
 The population in this census area is 49713. By our calculations:
-- 10.77% of the population have had COVID-19.[2]
-- 1.56% of the population or 778.0 people are actively fighting the virus.
+- 10.83% of the population have had COVID-19.[2]
+- 1.28% of the population or 635.0 people are actively fighting the virus.
 
 ## Synopsis
 

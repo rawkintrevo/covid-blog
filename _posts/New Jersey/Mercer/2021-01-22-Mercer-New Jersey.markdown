@@ -12,13 +12,13 @@ tags: [Mercer-New Jersey]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *986* new cases of COVID-19
-- *16* people have died of COVID-19
-- *326* people have recovered from COVID-19[1]
+- *1132* new cases of COVID-19
+- *21* people have died of COVID-19
+- *493* people have recovered from COVID-19[1]
 
 The population in this census area is 367430. By our calculations:
-- 6.33% of the population have had COVID-19.[2]
-- 1.11% of the population or 4088.0 people are actively fighting the virus.
+- 6.37% of the population have had COVID-19.[2]
+- 1.11% of the population or 4062.0 people are actively fighting the virus.
 
 ## Synopsis
 

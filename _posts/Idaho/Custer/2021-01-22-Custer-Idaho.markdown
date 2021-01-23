@@ -12,13 +12,13 @@ tags: [Custer-Idaho]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *4* new cases of COVID-19
-- *0* people have died of COVID-19
+- *3* new cases of COVID-19
+- *1* people have died of COVID-19
 - *1* people have recovered from COVID-19[1]
 
 The population in this census area is 4315. By our calculations:
 - 5.24% of the population have had COVID-19.[2]
-- 0.53% of the population or 23.0 people are actively fighting the virus.
+- 0.49% of the population or 21.0 people are actively fighting the virus.
 
 ## Synopsis
 

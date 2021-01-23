@@ -12,13 +12,13 @@ tags: [Lincoln-Oregon]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *36* new cases of COVID-19
+- *47* new cases of COVID-19
 - *0* people have died of COVID-19
-- *10* people have recovered from COVID-19[1]
+- *37* people have recovered from COVID-19[1]
 
 The population in this census area is 49962. By our calculations:
-- 2.01% of the population have had COVID-19.[2]
-- 0.25% of the population or 124.0 people are actively fighting the virus.
+- 2.03% of the population have had COVID-19.[2]
+- 0.22% of the population or 108.0 people are actively fighting the virus.
 
 ## Synopsis
 

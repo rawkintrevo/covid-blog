@@ -12,13 +12,13 @@ tags: [Pickaway-Ohio]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *261* new cases of COVID-19
+- *305* new cases of COVID-19
 - *0* people have died of COVID-19
-- *59* people have recovered from COVID-19[1]
+- *174* people have recovered from COVID-19[1]
 
 The population in this census area is 58457. By our calculations:
-- 12.23% of the population have had COVID-19.[2]
-- 1.70% of the population or 996.0 people are actively fighting the virus.
+- 12.31% of the population have had COVID-19.[2]
+- 1.58% of the population or 925.0 people are actively fighting the virus.
 
 ## Synopsis
 

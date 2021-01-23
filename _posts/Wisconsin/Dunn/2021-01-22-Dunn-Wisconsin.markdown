@@ -12,13 +12,13 @@ tags: [Dunn-Wisconsin]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *93* new cases of COVID-19
+- *130* new cases of COVID-19
 - *0* people have died of COVID-19
 - *59* people have recovered from COVID-19[1]
 
 The population in this census area is 45368. By our calculations:
-- 9.23% of the population have had COVID-19.[2]
-- 0.85% of the population or 387.0 people are actively fighting the virus.
+- 9.31% of the population have had COVID-19.[2]
+- 0.93% of the population or 424.0 people are actively fighting the virus.
 
 ## Synopsis
 

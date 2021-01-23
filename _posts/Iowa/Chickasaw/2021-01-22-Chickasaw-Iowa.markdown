@@ -12,13 +12,13 @@ tags: [Chickasaw-Iowa]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *20* new cases of COVID-19
+- *31* new cases of COVID-19
 - *1* people have died of COVID-19
-- *8* people have recovered from COVID-19[1]
+- *13* people have recovered from COVID-19[1]
 
 The population in this census area is 11933. By our calculations:
-- 9.40% of the population have had COVID-19.[2]
-- 0.67% of the population or 80.0 people are actively fighting the virus.
+- 9.49% of the population have had COVID-19.[2]
+- 0.72% of the population or 86.0 people are actively fighting the virus.
 
 ## Synopsis
 

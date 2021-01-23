@@ -12,13 +12,13 @@ tags: [Cross-Arkansas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *66* new cases of COVID-19
+- *82* new cases of COVID-19
 - *3* people have died of COVID-19
-- *47* people have recovered from COVID-19[1]
+- *64* people have recovered from COVID-19[1]
 
 The population in this census area is 16419. By our calculations:
-- 10.53% of the population have had COVID-19.[2]
-- 1.83% of the population or 300.0 people are actively fighting the virus.
+- 10.63% of the population have had COVID-19.[2]
+- 1.82% of the population or 299.0 people are actively fighting the virus.
 
 ## Synopsis
 

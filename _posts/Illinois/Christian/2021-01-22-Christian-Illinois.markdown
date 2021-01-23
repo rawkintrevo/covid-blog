@@ -12,13 +12,13 @@ tags: [Christian-Illinois]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *71* new cases of COVID-19
-- *3* people have died of COVID-19
-- *30* people have recovered from COVID-19[1]
+- *80* new cases of COVID-19
+- *4* people have died of COVID-19
+- *80* people have recovered from COVID-19[1]
 
 The population in this census area is 32304. By our calculations:
-- 9.28% of the population have had COVID-19.[2]
-- 1.20% of the population or 388.0 people are actively fighting the virus.
+- 9.31% of the population have had COVID-19.[2]
+- 1.07% of the population or 346.0 people are actively fighting the virus.
 
 ## Synopsis
 

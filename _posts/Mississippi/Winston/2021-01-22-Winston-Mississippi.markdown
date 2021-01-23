@@ -12,13 +12,13 @@ tags: [Winston-Mississippi]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *57* new cases of COVID-19
+- *83* new cases of COVID-19
 - *7* people have died of COVID-19
-- *23* people have recovered from COVID-19[1]
+- *29* people have recovered from COVID-19[1]
 
 The population in this census area is 17955. By our calculations:
-- 11.28% of the population have had COVID-19.[2]
-- 0.87% of the population or 156.0 people are actively fighting the virus.
+- 11.43% of the population have had COVID-19.[2]
+- 0.98% of the population or 176.0 people are actively fighting the virus.
 
 ## Synopsis
 

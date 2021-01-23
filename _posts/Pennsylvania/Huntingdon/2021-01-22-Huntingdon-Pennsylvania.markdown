@@ -12,13 +12,13 @@ tags: [Huntingdon-Pennsylvania]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *103* new cases of COVID-19
-- *7* people have died of COVID-19
-- *56* people have recovered from COVID-19[1]
+- *138* new cases of COVID-19
+- *10* people have died of COVID-19
+- *78* people have recovered from COVID-19[1]
 
 The population in this census area is 45144. By our calculations:
-- 8.07% of the population have had COVID-19.[2]
-- 1.17% of the population or 529.0 people are actively fighting the virus.
+- 8.16% of the population have had COVID-19.[2]
+- 1.19% of the population or 539.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [McDonough-Illinois]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *46* new cases of COVID-19
+- *58* new cases of COVID-19
 - *1* people have died of COVID-19
-- *7* people have recovered from COVID-19[1]
+- *26* people have recovered from COVID-19[1]
 
 The population in this census area is 29682. By our calculations:
-- 7.25% of the population have had COVID-19.[2]
-- 0.56% of the population or 167.0 people are actively fighting the virus.
+- 7.29% of the population have had COVID-19.[2]
+- 0.54% of the population or 160.0 people are actively fighting the virus.
 
 ## Synopsis
 

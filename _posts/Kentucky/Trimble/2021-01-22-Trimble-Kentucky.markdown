@@ -12,13 +12,13 @@ tags: [Trimble-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *22* new cases of COVID-19
+- *25* new cases of COVID-19
 - *1* people have died of COVID-19
-- *-1* people have recovered from COVID-19[1]
+- *9* people have recovered from COVID-19[1]
 
 The population in this census area is 8471. By our calculations:
-- 5.73% of the population have had COVID-19.[2]
-- 1.29% of the population or 109.0 people are actively fighting the virus.
+- 5.76% of the population have had COVID-19.[2]
+- 1.20% of the population or 102.0 people are actively fighting the virus.
 
 ## Synopsis
 

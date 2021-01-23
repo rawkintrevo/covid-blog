@@ -12,13 +12,13 @@ tags: [Lincoln-Washington]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *10* new cases of COVID-19
-- *-1* people have died of COVID-19
-- *7* people have recovered from COVID-19[1]
+- *13* new cases of COVID-19
+- *-2* people have died of COVID-19
+- *8* people have recovered from COVID-19[1]
 
 The population in this census area is 10939. By our calculations:
-- 2.67% of the population have had COVID-19.[2]
-- 0.38% of the population or 42.0 people are actively fighting the virus.
+- 2.69% of the population have had COVID-19.[2]
+- 0.41% of the population or 45.0 people are actively fighting the virus.
 
 ## Synopsis
 

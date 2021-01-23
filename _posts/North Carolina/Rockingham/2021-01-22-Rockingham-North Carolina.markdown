@@ -12,13 +12,13 @@ tags: [Rockingham-North Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *390* new cases of COVID-19
+- *423* new cases of COVID-19
 - *1* people have died of COVID-19
-- *61* people have recovered from COVID-19[1]
+- *246* people have recovered from COVID-19[1]
 
 The population in this census area is 91010. By our calculations:
-- 6.37% of the population have had COVID-19.[2]
-- 1.49% of the population or 1355.0 people are actively fighting the virus.
+- 6.40% of the population have had COVID-19.[2]
+- 1.32% of the population or 1203.0 people are actively fighting the virus.
 
 ## Synopsis
 

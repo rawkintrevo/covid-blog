@@ -12,13 +12,13 @@ tags: [Lee-Illinois]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *65* new cases of COVID-19
-- *1* people have died of COVID-19
-- *12* people have recovered from COVID-19[1]
+- *78* new cases of COVID-19
+- *2* people have died of COVID-19
+- *45* people have recovered from COVID-19[1]
 
 The population in this census area is 34096. By our calculations:
-- 8.98% of the population have had COVID-19.[2]
-- 1.01% of the population or 346.0 people are actively fighting the virus.
+- 9.02% of the population have had COVID-19.[2]
+- 0.95% of the population or 325.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Menifee-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *6* new cases of COVID-19
+- *10* new cases of COVID-19
 - *1* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *16* people have recovered from COVID-19[1]
 
 The population in this census area is 6489. By our calculations:
-- 4.31% of the population have had COVID-19.[2]
-- 0.97% of the population or 63.0 people are actively fighting the virus.
+- 4.38% of the population have had COVID-19.[2]
+- 0.79% of the population or 51.0 people are actively fighting the virus.
 
 ## Synopsis
 

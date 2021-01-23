@@ -12,13 +12,13 @@ tags: [Ogle-Illinois]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *89* new cases of COVID-19
+- *115* new cases of COVID-19
 - *1* people have died of COVID-19
-- *40* people have recovered from COVID-19[1]
+- *87* people have recovered from COVID-19[1]
 
 The population in this census area is 50643. By our calculations:
-- 9.13% of the population have had COVID-19.[2]
-- 1.02% of the population or 517.0 people are actively fighting the virus.
+- 9.18% of the population have had COVID-19.[2]
+- 0.98% of the population or 496.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Santa Cruz-Arizona]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *261* new cases of COVID-19
-- *7* people have died of COVID-19
-- *216* people have recovered from COVID-19[1]
+- *274* new cases of COVID-19
+- *9* people have died of COVID-19
+- *308* people have recovered from COVID-19[1]
 
 The population in this census area is 46498. By our calculations:
-- 15.34% of the population have had COVID-19.[2]
-- 2.19% of the population or 1018.0 people are actively fighting the virus.
+- 15.37% of the population have had COVID-19.[2]
+- 2.02% of the population or 937.0 people are actively fighting the virus.
 
 ## Synopsis
 

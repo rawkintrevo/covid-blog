@@ -12,13 +12,13 @@ tags: [Buffalo-Wisconsin]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *57* new cases of COVID-19
+- *74* new cases of COVID-19
 - *0* people have died of COVID-19
 - *16* people have recovered from COVID-19[1]
 
 The population in this census area is 13031. By our calculations:
-- 9.40% of the population have had COVID-19.[2]
-- 1.63% of the population or 213.0 people are actively fighting the virus.
+- 9.53% of the population have had COVID-19.[2]
+- 1.77% of the population or 230.0 people are actively fighting the virus.
 
 ## Synopsis
 

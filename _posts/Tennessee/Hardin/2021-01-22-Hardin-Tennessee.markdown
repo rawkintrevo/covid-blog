@@ -12,13 +12,13 @@ tags: [Hardin-Tennessee]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *63* new cases of COVID-19
+- *90* new cases of COVID-19
 - *2* people have died of COVID-19
-- *17* people have recovered from COVID-19[1]
+- *100* people have recovered from COVID-19[1]
 
 The population in this census area is 25652. By our calculations:
-- 11.69% of the population have had COVID-19.[2]
-- 1.39% of the population or 357.0 people are actively fighting the virus.
+- 11.80% of the population have had COVID-19.[2]
+- 1.17% of the population or 301.0 people are actively fighting the virus.
 
 ## Synopsis
 

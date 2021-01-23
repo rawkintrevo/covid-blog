@@ -12,13 +12,13 @@ tags: [Webb-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *2891* new cases of COVID-19
-- *19* people have died of COVID-19
-- *810* people have recovered from COVID-19[1]
+- *3910* new cases of COVID-19
+- *22* people have died of COVID-19
+- *829* people have recovered from COVID-19[1]
 
 The population in this census area is 276652. By our calculations:
-- 12.86% of the population have had COVID-19.[2]
-- 3.08% of the population or 8531.0 people are actively fighting the virus.
+- 13.23% of the population have had COVID-19.[2]
+- 3.44% of the population or 9528.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Morgan-Tennessee]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *74* new cases of COVID-19
-- *2* people have died of COVID-19
-- *23* people have recovered from COVID-19[1]
+- *87* new cases of COVID-19
+- *3* people have died of COVID-19
+- *92* people have recovered from COVID-19[1]
 
 The population in this census area is 21403. By our calculations:
-- 8.93% of the population have had COVID-19.[2]
-- 1.75% of the population or 374.0 people are actively fighting the virus.
+- 9.00% of the population have had COVID-19.[2]
+- 1.48% of the population or 317.0 people are actively fighting the virus.
 
 ## Synopsis
 

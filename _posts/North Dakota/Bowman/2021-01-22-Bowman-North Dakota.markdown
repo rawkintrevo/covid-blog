@@ -12,13 +12,13 @@ tags: [Bowman-North Dakota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *12* new cases of COVID-19
+- *17* new cases of COVID-19
 - *0* people have died of COVID-19
 - *6* people have recovered from COVID-19[1]
 
 The population in this census area is 3024. By our calculations:
-- 11.31% of the population have had COVID-19.[2]
-- 1.16% of the population or 35.0 people are actively fighting the virus.
+- 11.47% of the population have had COVID-19.[2]
+- 1.32% of the population or 40.0 people are actively fighting the virus.
 
 ## Synopsis
 

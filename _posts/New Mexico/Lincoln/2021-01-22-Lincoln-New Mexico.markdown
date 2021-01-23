@@ -12,13 +12,13 @@ tags: [Lincoln-New Mexico]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *118* new cases of COVID-19
+- *137* new cases of COVID-19
 - *0* people have died of COVID-19
-- *23* people have recovered from COVID-19[1]
+- *41* people have recovered from COVID-19[1]
 
 The population in this census area is 19572. By our calculations:
-- 6.68% of the population have had COVID-19.[2]
-- 1.34% of the population or 262.0 people are actively fighting the virus.
+- 6.78% of the population have had COVID-19.[2]
+- 1.34% of the population or 263.0 people are actively fighting the virus.
 
 ## Synopsis
 

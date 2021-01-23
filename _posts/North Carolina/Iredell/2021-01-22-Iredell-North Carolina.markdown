@@ -12,13 +12,13 @@ tags: [Iredell-North Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *942* new cases of COVID-19
-- *10* people have died of COVID-19
-- *92* people have recovered from COVID-19[1]
+- *1135* new cases of COVID-19
+- *17* people have died of COVID-19
+- *454* people have recovered from COVID-19[1]
 
 The population in this census area is 181806. By our calculations:
-- 6.90% of the population have had COVID-19.[2]
-- 1.73% of the population or 3145.0 people are actively fighting the virus.
+- 7.01% of the population have had COVID-19.[2]
+- 1.63% of the population or 2969.0 people are actively fighting the virus.
 
 ## Synopsis
 

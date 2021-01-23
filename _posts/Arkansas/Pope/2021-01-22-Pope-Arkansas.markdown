@@ -12,13 +12,13 @@ tags: [Pope-Arkansas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *298* new cases of COVID-19
-- *7* people have died of COVID-19
-- *178* people have recovered from COVID-19[1]
+- *346* new cases of COVID-19
+- *10* people have died of COVID-19
+- *279* people have recovered from COVID-19[1]
 
 The population in this census area is 64072. By our calculations:
-- 10.52% of the population have had COVID-19.[2]
-- 1.78% of the population or 1142.0 people are actively fighting the virus.
+- 10.60% of the population have had COVID-19.[2]
+- 1.69% of the population or 1086.0 people are actively fighting the virus.
 
 ## Synopsis
 

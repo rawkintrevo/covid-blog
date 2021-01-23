@@ -12,13 +12,13 @@ tags: [Cortland-New York]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *133* new cases of COVID-19
+- *161* new cases of COVID-19
 - *2* people have died of COVID-19
-- *87* people have recovered from COVID-19[1]
+- *140* people have recovered from COVID-19[1]
 
 The population in this census area is 47581. By our calculations:
-- 5.61% of the population have had COVID-19.[2]
-- 1.14% of the population or 542.0 people are actively fighting the virus.
+- 5.67% of the population have had COVID-19.[2]
+- 1.09% of the population or 517.0 people are actively fighting the virus.
 
 ## Synopsis
 

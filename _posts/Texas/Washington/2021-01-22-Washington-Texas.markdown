@@ -12,13 +12,13 @@ tags: [Washington-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *44* new cases of COVID-19
-- *2* people have died of COVID-19
-- *94* people have recovered from COVID-19[1]
+- *46* new cases of COVID-19
+- *3* people have died of COVID-19
+- *93* people have recovered from COVID-19[1]
 
 The population in this census area is 35882. By our calculations:
-- 4.67% of the population have had COVID-19.[2]
-- 0.39% of the population or 141.0 people are actively fighting the virus.
+- 4.68% of the population have had COVID-19.[2]
+- 0.40% of the population or 143.0 people are actively fighting the virus.
 
 ## Synopsis
 

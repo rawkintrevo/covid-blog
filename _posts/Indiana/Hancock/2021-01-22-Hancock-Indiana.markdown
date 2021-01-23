@@ -12,13 +12,13 @@ tags: [Hancock-Indiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *312* new cases of COVID-19
-- *4* people have died of COVID-19
-- *195* people have recovered from COVID-19[1]
+- *348* new cases of COVID-19
+- *8* people have died of COVID-19
+- *261* people have recovered from COVID-19[1]
 
 The population in this census area is 78168. By our calculations:
-- 8.36% of the population have had COVID-19.[2]
-- 1.61% of the population or 1261.0 people are actively fighting the virus.
+- 8.41% of the population have had COVID-19.[2]
+- 1.57% of the population or 1227.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Montgomery-New York]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *274* new cases of COVID-19
-- *5* people have died of COVID-19
-- *108* people have recovered from COVID-19[1]
+- *305* new cases of COVID-19
+- *7* people have died of COVID-19
+- *160* people have recovered from COVID-19[1]
 
 The population in this census area is 49221. By our calculations:
-- 4.60% of the population have had COVID-19.[2]
-- 1.71% of the population or 842.0 people are actively fighting the virus.
+- 4.67% of the population have had COVID-19.[2]
+- 1.66% of the population or 819.0 people are actively fighting the virus.
 
 ## Synopsis
 

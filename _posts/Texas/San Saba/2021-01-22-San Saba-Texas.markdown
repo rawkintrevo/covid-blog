@@ -12,13 +12,13 @@ tags: [San Saba-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *16* new cases of COVID-19
+- *18* new cases of COVID-19
 - *1* people have died of COVID-19
 - *6* people have recovered from COVID-19[1]
 
 The population in this census area is 6055. By our calculations:
-- 8.06% of the population have had COVID-19.[2]
-- 0.99% of the population or 60.0 people are actively fighting the virus.
+- 8.09% of the population have had COVID-19.[2]
+- 1.02% of the population or 62.0 people are actively fighting the virus.
 
 ## Synopsis
 

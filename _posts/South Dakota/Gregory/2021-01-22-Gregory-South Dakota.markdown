@@ -12,13 +12,13 @@ tags: [Gregory-South Dakota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *2* new cases of COVID-19
+- *3* new cases of COVID-19
 - *0* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *2* people have recovered from COVID-19[1]
 
 The population in this census area is 4185. By our calculations:
-- 11.83% of the population have had COVID-19.[2]
-- 0.31% of the population or 13.0 people are actively fighting the virus.
+- 11.85% of the population have had COVID-19.[2]
+- 0.29% of the population or 12.0 people are actively fighting the virus.
 
 ## Synopsis
 

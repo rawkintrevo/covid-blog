@@ -12,13 +12,13 @@ tags: [Clay-Missouri]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *163* new cases of COVID-19
+- *206* new cases of COVID-19
 - *2* people have died of COVID-19
-- *128* people have recovered from COVID-19[1]
+- *174* people have recovered from COVID-19[1]
 
 The population in this census area is 249948. By our calculations:
-- 2.86% of the population have had COVID-19.[2]
-- 0.31% of the population or 786.0 people are actively fighting the virus.
+- 2.88% of the population have had COVID-19.[2]
+- 0.31% of the population or 783.0 people are actively fighting the virus.
 
 ## Synopsis
 

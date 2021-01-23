@@ -12,13 +12,13 @@ tags: [Hutchinson-South Dakota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *8* new cases of COVID-19
-- *2* people have died of COVID-19
+- *11* new cases of COVID-19
+- *3* people have died of COVID-19
 - *3* people have recovered from COVID-19[1]
 
 The population in this census area is 7291. By our calculations:
-- 10.12% of the population have had COVID-19.[2]
-- 0.44% of the population or 32.0 people are actively fighting the virus.
+- 10.18% of the population have had COVID-19.[2]
+- 0.47% of the population or 34.0 people are actively fighting the virus.
 
 ## Synopsis
 

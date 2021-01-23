@@ -12,13 +12,13 @@ tags: [Jackson-Indiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *89* new cases of COVID-19
-- *1* people have died of COVID-19
-- *79* people have recovered from COVID-19[1]
+- *104* new cases of COVID-19
+- *2* people have died of COVID-19
+- *103* people have recovered from COVID-19[1]
 
 The population in this census area is 44231. By our calculations:
-- 9.48% of the population have had COVID-19.[2]
-- 0.90% of the population or 399.0 people are actively fighting the virus.
+- 9.51% of the population have had COVID-19.[2]
+- 0.88% of the population or 389.0 people are actively fighting the virus.
 
 ## Synopsis
 

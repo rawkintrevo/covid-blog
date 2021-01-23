@@ -12,13 +12,13 @@ tags: [Lyon-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *12* new cases of COVID-19
+- *14* new cases of COVID-19
 - *3* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *10* people have recovered from COVID-19[1]
 
 The population in this census area is 8210. By our calculations:
-- 4.73% of the population have had COVID-19.[2]
-- 0.76% of the population or 62.0 people are actively fighting the virus.
+- 4.75% of the population have had COVID-19.[2]
+- 0.66% of the population or 54.0 people are actively fighting the virus.
 
 ## Synopsis
 

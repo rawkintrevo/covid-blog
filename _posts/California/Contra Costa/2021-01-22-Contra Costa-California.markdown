@@ -14,11 +14,11 @@ tags: [Contra Costa-California]
 In the last 7 days[3] we project there have been
 - *3540* new cases of COVID-19
 - *50* people have died of COVID-19
-- *1284* people have recovered from COVID-19[1]
+- *2174* people have recovered from COVID-19[1]
 
 The population in this census area is 1153526. By our calculations:
 - 4.62% of the population have had COVID-19.[2]
-- 1.09% of the population or 12517.0 people are actively fighting the virus.
+- 1.01% of the population or 11627.0 people are actively fighting the virus.
 
 ## Synopsis
 

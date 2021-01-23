@@ -12,13 +12,13 @@ tags: [Winneshiek-Iowa]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *61* new cases of COVID-19
-- *0* people have died of COVID-19
-- *7* people have recovered from COVID-19[1]
+- *82* new cases of COVID-19
+- *1* people have died of COVID-19
+- *13* people have recovered from COVID-19[1]
 
 The population in this census area is 19991. By our calculations:
-- 7.85% of the population have had COVID-19.[2]
-- 0.91% of the population or 182.0 people are actively fighting the virus.
+- 7.96% of the population have had COVID-19.[2]
+- 0.98% of the population or 196.0 people are actively fighting the virus.
 
 ## Synopsis
 

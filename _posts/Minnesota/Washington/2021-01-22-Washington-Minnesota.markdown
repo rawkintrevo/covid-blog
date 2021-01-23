@@ -12,13 +12,13 @@ tags: [Washington-Minnesota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *384* new cases of COVID-19
-- *9* people have died of COVID-19
-- *82* people have recovered from COVID-19[1]
+- *445* new cases of COVID-19
+- *10* people have died of COVID-19
+- *222* people have recovered from COVID-19[1]
 
 The population in this census area is 262440. By our calculations:
-- 7.70% of the population have had COVID-19.[2]
-- 0.65% of the population or 1703.0 people are actively fighting the virus.
+- 7.73% of the population have had COVID-19.[2]
+- 0.62% of the population or 1623.0 people are actively fighting the virus.
 
 ## Synopsis
 

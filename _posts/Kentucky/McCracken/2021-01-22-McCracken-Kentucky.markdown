@@ -12,13 +12,13 @@ tags: [McCracken-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *176* new cases of COVID-19
-- *0* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *219* new cases of COVID-19
+- *1* people have died of COVID-19
+- *100* people have recovered from COVID-19[1]
 
 The population in this census area is 65418. By our calculations:
-- 7.60% of the population have had COVID-19.[2]
-- 1.07% of the population or 703.0 people are actively fighting the virus.
+- 7.67% of the population have had COVID-19.[2]
+- 0.99% of the population or 645.0 people are actively fighting the virus.
 
 ## Synopsis
 

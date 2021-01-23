@@ -12,13 +12,13 @@ tags: [Cherokee-South Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *358* new cases of COVID-19
+- *433* new cases of COVID-19
 - *6* people have died of COVID-19
-- *19* people have recovered from COVID-19[1]
+- *39* people have recovered from COVID-19[1]
 
 The population in this census area is 57300. By our calculations:
-- 7.04% of the population have had COVID-19.[2]
-- 1.71% of the population or 980.0 people are actively fighting the virus.
+- 7.17% of the population have had COVID-19.[2]
+- 1.81% of the population or 1035.0 people are actively fighting the virus.
 
 ## Synopsis
 

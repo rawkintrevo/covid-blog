@@ -12,13 +12,13 @@ tags: [Barnstable-Massachusetts]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *640* new cases of COVID-19
-- *20* people have died of COVID-19
-- *149* people have recovered from COVID-19[1]
+- *829* new cases of COVID-19
+- *24* people have died of COVID-19
+- *364* people have recovered from COVID-19[1]
 
 The population in this census area is 212990. By our calculations:
-- 3.56% of the population have had COVID-19.[2]
-- 0.97% of the population or 2073.0 people are actively fighting the virus.
+- 3.65% of the population have had COVID-19.[2]
+- 0.96% of the population or 2043.0 people are actively fighting the virus.
 
 ## Synopsis
 

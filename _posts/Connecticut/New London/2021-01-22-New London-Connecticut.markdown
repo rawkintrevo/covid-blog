@@ -12,13 +12,13 @@ tags: [New London-Connecticut]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1274* new cases of COVID-19
-- *24* people have died of COVID-19
-- *133* people have recovered from COVID-19[1]
+- *1453* new cases of COVID-19
+- *30* people have died of COVID-19
+- *481* people have recovered from COVID-19[1]
 
 The population in this census area is 265206. By our calculations:
-- 5.77% of the population have had COVID-19.[2]
-- 1.72% of the population or 4555.0 people are actively fighting the virus.
+- 5.84% of the population have had COVID-19.[2]
+- 1.65% of the population or 4380.0 people are actively fighting the virus.
 
 ## Synopsis
 

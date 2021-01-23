@@ -12,13 +12,13 @@ tags: [Wake-North Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *4023* new cases of COVID-19
-- *22* people have died of COVID-19
-- *1109* people have recovered from COVID-19[1]
+- *4872* new cases of COVID-19
+- *23* people have died of COVID-19
+- *1999* people have recovered from COVID-19[1]
 
 The population in this census area is 1111761. By our calculations:
-- 5.24% of the population have had COVID-19.[2]
-- 1.28% of the population or 14181.0 people are actively fighting the virus.
+- 5.32% of the population have had COVID-19.[2]
+- 1.27% of the population or 14139.0 people are actively fighting the virus.
 
 ## Synopsis
 

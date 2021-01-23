@@ -12,13 +12,13 @@ tags: [St. Landry-Louisiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *216* new cases of COVID-19
-- *7* people have died of COVID-19
-- *59* people have recovered from COVID-19[1]
+- *258* new cases of COVID-19
+- *9* people have died of COVID-19
+- *57* people have recovered from COVID-19[1]
 
 The population in this census area is 82124. By our calculations:
-- 9.15% of the population have had COVID-19.[2]
-- 1.10% of the population or 905.0 people are actively fighting the virus.
+- 9.21% of the population have had COVID-19.[2]
+- 1.15% of the population or 947.0 people are actively fighting the virus.
 
 ## Synopsis
 

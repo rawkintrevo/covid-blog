@@ -12,13 +12,13 @@ tags: [Coshocton-Ohio]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *63* new cases of COVID-19
-- *3* people have died of COVID-19
-- *20* people have recovered from COVID-19[1]
+- *86* new cases of COVID-19
+- *4* people have died of COVID-19
+- *47* people have recovered from COVID-19[1]
 
 The population in this census area is 36600. By our calculations:
-- 5.49% of the population have had COVID-19.[2]
-- 0.83% of the population or 305.0 people are actively fighting the virus.
+- 5.56% of the population have had COVID-19.[2]
+- 0.82% of the population or 300.0 people are actively fighting the virus.
 
 ## Synopsis
 

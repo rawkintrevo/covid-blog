@@ -12,13 +12,13 @@ tags: [Stephens-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *16* new cases of COVID-19
+- *21* new cases of COVID-19
 - *2* people have died of COVID-19
-- *9* people have recovered from COVID-19[1]
+- *8* people have recovered from COVID-19[1]
 
 The population in this census area is 9366. By our calculations:
-- 6.82% of the population have had COVID-19.[2]
-- 0.77% of the population or 72.0 people are actively fighting the virus.
+- 6.88% of the population have had COVID-19.[2]
+- 0.83% of the population or 78.0 people are actively fighting the virus.
 
 ## Synopsis
 

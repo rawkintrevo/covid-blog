@@ -12,13 +12,13 @@ tags: [Ector-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *623* new cases of COVID-19
-- *15* people have died of COVID-19
-- *-10* people have recovered from COVID-19[1]
+- *963* new cases of COVID-19
+- *17* people have died of COVID-19
+- *-13* people have recovered from COVID-19[1]
 
 The population in this census area is 166223. By our calculations:
-- 7.50% of the population have had COVID-19.[2]
-- 0.53% of the population or 876.0 people are actively fighting the virus.
+- 7.71% of the population have had COVID-19.[2]
+- 0.73% of the population or 1217.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Jackson-Arkansas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *41* new cases of COVID-19
+- *46* new cases of COVID-19
 - *2* people have died of COVID-19
-- *14* people have recovered from COVID-19[1]
+- *18* people have recovered from COVID-19[1]
 
 The population in this census area is 16719. By our calculations:
-- 18.03% of the population have had COVID-19.[2]
-- 1.05% of the population or 176.0 people are actively fighting the virus.
+- 18.06% of the population have had COVID-19.[2]
+- 1.06% of the population or 177.0 people are actively fighting the virus.
 
 ## Synopsis
 

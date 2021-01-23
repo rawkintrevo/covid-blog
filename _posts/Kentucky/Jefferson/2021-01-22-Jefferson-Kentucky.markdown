@@ -12,13 +12,13 @@ tags: [Jefferson-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *2513* new cases of COVID-19
-- *23* people have died of COVID-19
-- *-3* people have recovered from COVID-19[1]
+- *3100* new cases of COVID-19
+- *34* people have died of COVID-19
+- *1413* people have recovered from COVID-19[1]
 
 The population in this census area is 766757. By our calculations:
-- 8.00% of the population have had COVID-19.[2]
-- 1.36% of the population or 10403.0 people are actively fighting the virus.
+- 8.08% of the population have had COVID-19.[2]
+- 1.25% of the population or 9563.0 people are actively fighting the virus.
 
 ## Synopsis
 

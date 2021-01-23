@@ -12,13 +12,13 @@ tags: [Howard-Indiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *344* new cases of COVID-19
-- *5* people have died of COVID-19
-- *168* people have recovered from COVID-19[1]
+- *416* new cases of COVID-19
+- *6* people have died of COVID-19
+- *259* people have recovered from COVID-19[1]
 
 The population in this census area is 82544. By our calculations:
-- 9.77% of the population have had COVID-19.[2]
-- 1.59% of the population or 1313.0 people are actively fighting the virus.
+- 9.85% of the population have had COVID-19.[2]
+- 1.57% of the population or 1293.0 people are actively fighting the virus.
 
 ## Synopsis
 

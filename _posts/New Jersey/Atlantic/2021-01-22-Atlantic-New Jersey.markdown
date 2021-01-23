@@ -12,13 +12,13 @@ tags: [Atlantic-New Jersey]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1365* new cases of COVID-19
-- *38* people have died of COVID-19
-- *260* people have recovered from COVID-19[1]
+- *1520* new cases of COVID-19
+- *39* people have died of COVID-19
+- *482* people have recovered from COVID-19[1]
 
 The population in this census area is 263670. By our calculations:
-- 7.41% of the population have had COVID-19.[2]
-- 2.69% of the population or 7101.0 people are actively fighting the virus.
+- 7.47% of the population have had COVID-19.[2]
+- 2.67% of the population or 7033.0 people are actively fighting the virus.
 
 ## Synopsis
 

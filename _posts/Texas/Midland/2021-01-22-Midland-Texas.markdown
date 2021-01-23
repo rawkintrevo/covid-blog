@@ -12,13 +12,13 @@ tags: [Midland-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *-1* new cases of COVID-19
-- *1* people have died of COVID-19
-- *-1* people have recovered from COVID-19[1]
+- *508* new cases of COVID-19
+- *6* people have died of COVID-19
+- *-6* people have recovered from COVID-19[1]
 
 The population in this census area is 176832. By our calculations:
-- 7.54% of the population have had COVID-19.[2]
-- 1.02% of the population or 1803.0 people are actively fighting the virus.
+- 7.83% of the population have had COVID-19.[2]
+- 1.31% of the population or 2312.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Jefferson-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *77* new cases of COVID-19
+- *112* new cases of COVID-19
 - *6* people have died of COVID-19
-- *29* people have recovered from COVID-19[1]
+- *43* people have recovered from COVID-19[1]
 
 The population in this census area is 15362. By our calculations:
-- 10.42% of the population have had COVID-19.[2]
-- 1.78% of the population or 274.0 people are actively fighting the virus.
+- 10.64% of the population have had COVID-19.[2]
+- 1.92% of the population or 295.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Waushara-Wisconsin]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *35* new cases of COVID-19
+- *53* new cases of COVID-19
 - *2* people have died of COVID-19
-- *19* people have recovered from COVID-19[1]
+- *23* people have recovered from COVID-19[1]
 
 The population in this census area is 24443. By our calculations:
-- 9.09% of the population have had COVID-19.[2]
-- 0.59% of the population or 143.0 people are actively fighting the virus.
+- 9.16% of the population have had COVID-19.[2]
+- 0.64% of the population or 157.0 people are actively fighting the virus.
 
 ## Synopsis
 

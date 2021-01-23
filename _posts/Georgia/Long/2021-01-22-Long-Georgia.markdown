@@ -12,13 +12,13 @@ tags: [Long-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *44* new cases of COVID-19
-- *1* people have died of COVID-19
-- *24* people have recovered from COVID-19[1]
+- *47* new cases of COVID-19
+- *2* people have died of COVID-19
+- *31* people have recovered from COVID-19[1]
 
 The population in this census area is 19559. By our calculations:
-- 3.16% of the population have had COVID-19.[2]
-- 0.52% of the population or 101.0 people are actively fighting the virus.
+- 3.18% of the population have had COVID-19.[2]
+- 0.49% of the population or 96.0 people are actively fighting the virus.
 
 ## Synopsis
 

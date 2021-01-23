@@ -12,13 +12,13 @@ tags: [Baxter-Arkansas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *68* new cases of COVID-19
-- *3* people have died of COVID-19
-- *72* people have recovered from COVID-19[1]
+- *83* new cases of COVID-19
+- *4* people have died of COVID-19
+- *80* people have recovered from COVID-19[1]
 
 The population in this census area is 41932. By our calculations:
-- 5.95% of the population have had COVID-19.[2]
-- 0.87% of the population or 364.0 people are actively fighting the virus.
+- 5.99% of the population have had COVID-19.[2]
+- 0.88% of the population or 370.0 people are actively fighting the virus.
 
 ## Synopsis
 

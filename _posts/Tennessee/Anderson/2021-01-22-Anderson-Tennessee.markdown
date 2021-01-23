@@ -12,13 +12,13 @@ tags: [Anderson-Tennessee]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *235* new cases of COVID-19
-- *6* people have died of COVID-19
-- *26* people have recovered from COVID-19[1]
+- *270* new cases of COVID-19
+- *11* people have died of COVID-19
+- *269* people have recovered from COVID-19[1]
 
 The population in this census area is 76978. By our calculations:
-- 8.92% of the population have had COVID-19.[2]
-- 1.56% of the population or 1198.0 people are actively fighting the virus.
+- 8.97% of the population have had COVID-19.[2]
+- 1.28% of the population or 985.0 people are actively fighting the virus.
 
 ## Synopsis
 

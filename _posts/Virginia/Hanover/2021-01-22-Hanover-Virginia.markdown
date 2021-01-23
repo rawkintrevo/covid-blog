@@ -12,13 +12,13 @@ tags: [Hanover-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *360* new cases of COVID-19
-- *5* people have died of COVID-19
-- *181* people have recovered from COVID-19[1]
+- *385* new cases of COVID-19
+- *8* people have died of COVID-19
+- *266* people have recovered from COVID-19[1]
 
 The population in this census area is 107766. By our calculations:
-- 4.89% of the population have had COVID-19.[2]
-- 1.24% of the population or 1337.0 people are actively fighting the virus.
+- 4.92% of the population have had COVID-19.[2]
+- 1.18% of the population or 1274.0 people are actively fighting the virus.
 
 ## Synopsis
 

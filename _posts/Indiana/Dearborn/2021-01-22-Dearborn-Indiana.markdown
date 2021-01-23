@@ -12,13 +12,13 @@ tags: [Dearborn-Indiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *241* new cases of COVID-19
+- *272* new cases of COVID-19
 - *2* people have died of COVID-19
-- *104* people have recovered from COVID-19[1]
+- *147* people have recovered from COVID-19[1]
 
 The population in this census area is 49458. By our calculations:
-- 9.45% of the population have had COVID-19.[2]
-- 1.59% of the population or 786.0 people are actively fighting the virus.
+- 9.52% of the population have had COVID-19.[2]
+- 1.56% of the population or 774.0 people are actively fighting the virus.
 
 ## Synopsis
 

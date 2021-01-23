@@ -12,13 +12,13 @@ tags: [Buchanan-Missouri]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *117* new cases of COVID-19
+- *133* new cases of COVID-19
 - *7* people have died of COVID-19
-- *74* people have recovered from COVID-19[1]
+- *103* people have recovered from COVID-19[1]
 
 The population in this census area is 87364. By our calculations:
-- 7.53% of the population have had COVID-19.[2]
-- 0.56% of the population or 487.0 people are actively fighting the virus.
+- 7.55% of the population have had COVID-19.[2]
+- 0.54% of the population or 474.0 people are actively fighting the virus.
 
 ## Synopsis
 

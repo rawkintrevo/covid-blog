@@ -12,13 +12,13 @@ tags: [Grant-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *96* new cases of COVID-19
+- *103* new cases of COVID-19
 - *0* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *31* people have recovered from COVID-19[1]
 
 The population in this census area is 25069. By our calculations:
-- 6.12% of the population have had COVID-19.[2]
-- 1.16% of the population or 291.0 people are actively fighting the virus.
+- 6.14% of the population have had COVID-19.[2]
+- 1.07% of the population or 267.0 people are actively fighting the virus.
 
 ## Synopsis
 

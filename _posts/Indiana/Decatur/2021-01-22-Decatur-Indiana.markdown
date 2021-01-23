@@ -12,13 +12,13 @@ tags: [Decatur-Indiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *70* new cases of COVID-19
-- *0* people have died of COVID-19
-- *56* people have recovered from COVID-19[1]
+- *74* new cases of COVID-19
+- *1* people have died of COVID-19
+- *70* people have recovered from COVID-19[1]
 
 The population in this census area is 26559. By our calculations:
-- 9.20% of the population have had COVID-19.[2]
-- 1.10% of the population or 293.0 people are actively fighting the virus.
+- 9.22% of the population have had COVID-19.[2]
+- 1.06% of the population or 282.0 people are actively fighting the virus.
 
 ## Synopsis
 

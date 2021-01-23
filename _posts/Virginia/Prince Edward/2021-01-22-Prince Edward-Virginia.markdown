@@ -12,12 +12,12 @@ tags: [Prince Edward-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *195* new cases of COVID-19
+- *205* new cases of COVID-19
 - *1* people have died of COVID-19
-- *13* people have recovered from COVID-19[1]
+- *23* people have recovered from COVID-19[1]
 
 The population in this census area is 22802. By our calculations:
-- 6.45% of the population have had COVID-19.[2]
+- 6.50% of the population have had COVID-19.[2]
 - 1.64% of the population or 375.0 people are actively fighting the virus.
 
 ## Synopsis

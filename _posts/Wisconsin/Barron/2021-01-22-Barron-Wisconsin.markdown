@@ -12,13 +12,13 @@ tags: [Barron-Wisconsin]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *125* new cases of COVID-19
+- *148* new cases of COVID-19
 - *5* people have died of COVID-19
-- *71* people have recovered from COVID-19[1]
+- *75* people have recovered from COVID-19[1]
 
 The population in this census area is 45244. By our calculations:
-- 11.16% of the population have had COVID-19.[2]
-- 0.94% of the population or 424.0 people are actively fighting the virus.
+- 11.21% of the population have had COVID-19.[2]
+- 0.98% of the population or 443.0 people are actively fighting the virus.
 
 ## Synopsis
 

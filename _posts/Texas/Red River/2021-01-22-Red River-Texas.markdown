@@ -12,13 +12,13 @@ tags: [Red River-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *24* new cases of COVID-19
+- *30* new cases of COVID-19
 - *1* people have died of COVID-19
-- *13* people have recovered from COVID-19[1]
+- *14* people have recovered from COVID-19[1]
 
 The population in this census area is 12023. By our calculations:
-- 4.62% of the population have had COVID-19.[2]
-- 0.83% of the population or 100.0 people are actively fighting the virus.
+- 4.67% of the population have had COVID-19.[2]
+- 0.87% of the population or 105.0 people are actively fighting the virus.
 
 ## Synopsis
 

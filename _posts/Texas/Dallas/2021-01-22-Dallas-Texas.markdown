@@ -12,13 +12,13 @@ tags: [Dallas-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *11893* new cases of COVID-19
-- *168* people have died of COVID-19
-- *1642* people have recovered from COVID-19[1]
+- *13828* new cases of COVID-19
+- *211* people have died of COVID-19
+- *4432* people have recovered from COVID-19[1]
 
 The population in this census area is 2635516. By our calculations:
-- 9.09% of the population have had COVID-19.[2]
-- 1.74% of the population or 45817.0 people are actively fighting the virus.
+- 9.17% of the population have had COVID-19.[2]
+- 1.70% of the population or 44919.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Santa Rosa-Florida]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *736* new cases of COVID-19
-- *20* people have died of COVID-19
-- *228* people have recovered from COVID-19[1]
+- *899* new cases of COVID-19
+- *25* people have died of COVID-19
+- *533* people have recovered from COVID-19[1]
 
 The population in this census area is 184313. By our calculations:
-- 7.65% of the population have had COVID-19.[2]
-- 1.55% of the population or 2849.0 people are actively fighting the virus.
+- 7.74% of the population have had COVID-19.[2]
+- 1.47% of the population or 2702.0 people are actively fighting the virus.
 
 ## Synopsis
 

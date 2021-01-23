@@ -14,11 +14,11 @@ tags: [Moore-Texas]
 In the last 7 days[3] we project there have been
 - *5* new cases of COVID-19
 - *3* people have died of COVID-19
-- *13* people have recovered from COVID-19[1]
+- *12* people have recovered from COVID-19[1]
 
 The population in this census area is 20940. By our calculations:
 - 10.12% of the population have had COVID-19.[2]
-- 0.17% of the population or 36.0 people are actively fighting the virus.
+- 0.18% of the population or 37.0 people are actively fighting the virus.
 
 ## Synopsis
 

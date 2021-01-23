@@ -12,13 +12,13 @@ tags: [Clay-Indiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *75* new cases of COVID-19
+- *85* new cases of COVID-19
 - *0* people have died of COVID-19
-- *34* people have recovered from COVID-19[1]
+- *54* people have recovered from COVID-19[1]
 
 The population in this census area is 26225. By our calculations:
-- 8.39% of the population have had COVID-19.[2]
-- 1.19% of the population or 311.0 people are actively fighting the virus.
+- 8.42% of the population have had COVID-19.[2]
+- 1.15% of the population or 301.0 people are actively fighting the virus.
 
 ## Synopsis
 

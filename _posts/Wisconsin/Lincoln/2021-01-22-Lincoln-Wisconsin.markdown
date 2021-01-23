@@ -12,13 +12,13 @@ tags: [Lincoln-Wisconsin]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *55* new cases of COVID-19
-- *2* people have died of COVID-19
-- *33* people have recovered from COVID-19[1]
+- *63* new cases of COVID-19
+- *3* people have died of COVID-19
+- *32* people have recovered from COVID-19[1]
 
 The population in this census area is 27593. By our calculations:
-- 10.53% of the population have had COVID-19.[2]
-- 1.03% of the population or 284.0 people are actively fighting the virus.
+- 10.56% of the population have had COVID-19.[2]
+- 1.06% of the population or 292.0 people are actively fighting the virus.
 
 ## Synopsis
 

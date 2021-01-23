@@ -12,13 +12,13 @@ tags: [Bristol-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *46* new cases of COVID-19
-- *9* people have died of COVID-19
-- *34* people have recovered from COVID-19[1]
+- *49* new cases of COVID-19
+- *11* people have died of COVID-19
+- *31* people have recovered from COVID-19[1]
 
 The population in this census area is 16762. By our calculations:
-- 6.76% of the population have had COVID-19.[2]
-- 1.09% of the population or 183.0 people are actively fighting the virus.
+- 6.79% of the population have had COVID-19.[2]
+- 1.12% of the population or 187.0 people are actively fighting the virus.
 
 ## Synopsis
 

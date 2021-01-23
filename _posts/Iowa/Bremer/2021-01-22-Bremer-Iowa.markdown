@@ -12,13 +12,13 @@ tags: [Bremer-Iowa]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *68* new cases of COVID-19
+- *80* new cases of COVID-19
 - *0* people have died of COVID-19
-- *13* people have recovered from COVID-19[1]
+- *14* people have recovered from COVID-19[1]
 
 The population in this census area is 25062. By our calculations:
-- 9.85% of the population have had COVID-19.[2]
-- 0.75% of the population or 188.0 people are actively fighting the virus.
+- 9.90% of the population have had COVID-19.[2]
+- 0.79% of the population or 199.0 people are actively fighting the virus.
 
 ## Synopsis
 

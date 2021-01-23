@@ -12,13 +12,13 @@ tags: [Essex-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *26* new cases of COVID-19
+- *35* new cases of COVID-19
 - *0* people have died of COVID-19
-- *11* people have recovered from COVID-19[1]
+- *16* people have recovered from COVID-19[1]
 
 The population in this census area is 10953. By our calculations:
-- 4.43% of the population have had COVID-19.[2]
-- 1.22% of the population or 134.0 people are actively fighting the virus.
+- 4.51% of the population have had COVID-19.[2]
+- 1.26% of the population or 138.0 people are actively fighting the virus.
 
 ## Synopsis
 

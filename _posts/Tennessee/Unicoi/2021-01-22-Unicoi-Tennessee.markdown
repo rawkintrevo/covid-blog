@@ -12,13 +12,13 @@ tags: [Unicoi-Tennessee]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *54* new cases of COVID-19
-- *1* people have died of COVID-19
-- *8* people have recovered from COVID-19[1]
+- *57* new cases of COVID-19
+- *2* people have died of COVID-19
+- *43* people have recovered from COVID-19[1]
 
 The population in this census area is 17883. By our calculations:
-- 9.41% of the population have had COVID-19.[2]
-- 1.30% of the population or 233.0 people are actively fighting the virus.
+- 9.43% of the population have had COVID-19.[2]
+- 1.12% of the population or 200.0 people are actively fighting the virus.
 
 ## Synopsis
 

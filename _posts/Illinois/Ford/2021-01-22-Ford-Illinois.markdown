@@ -12,13 +12,13 @@ tags: [Ford-Illinois]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *29* new cases of COVID-19
-- *1* people have died of COVID-19
-- *5* people have recovered from COVID-19[1]
+- *28* new cases of COVID-19
+- *2* people have died of COVID-19
+- *33* people have recovered from COVID-19[1]
 
 The population in this census area is 12961. By our calculations:
 - 10.71% of the population have had COVID-19.[2]
-- 1.19% of the population or 154.0 people are actively fighting the virus.
+- 0.96% of the population or 124.0 people are actively fighting the virus.
 
 ## Synopsis
 

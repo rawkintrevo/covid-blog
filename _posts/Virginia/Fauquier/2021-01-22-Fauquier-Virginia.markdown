@@ -12,13 +12,13 @@ tags: [Fauquier-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *230* new cases of COVID-19
+- *251* new cases of COVID-19
 - *0* people have died of COVID-19
-- *86* people have recovered from COVID-19[1]
+- *125* people have recovered from COVID-19[1]
 
 The population in this census area is 71222. By our calculations:
-- 4.43% of the population have had COVID-19.[2]
-- 1.03% of the population or 736.0 people are actively fighting the virus.
+- 4.46% of the population have had COVID-19.[2]
+- 1.01% of the population or 718.0 people are actively fighting the virus.
 
 ## Synopsis
 

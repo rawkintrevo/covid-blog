@@ -12,13 +12,13 @@ tags: [Perry-Indiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *84* new cases of COVID-19
+- *99* new cases of COVID-19
 - *0* people have died of COVID-19
-- *43* people have recovered from COVID-19[1]
+- *60* people have recovered from COVID-19[1]
 
 The population in this census area is 19169. By our calculations:
-- 7.81% of the population have had COVID-19.[2]
-- 1.46% of the population or 280.0 people are actively fighting the virus.
+- 7.89% of the population have had COVID-19.[2]
+- 1.45% of the population or 278.0 people are actively fighting the virus.
 
 ## Synopsis
 

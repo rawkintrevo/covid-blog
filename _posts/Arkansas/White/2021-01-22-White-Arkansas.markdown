@@ -12,13 +12,13 @@ tags: [White-Arkansas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *283* new cases of COVID-19
-- *3* people have died of COVID-19
-- *250* people have recovered from COVID-19[1]
+- *357* new cases of COVID-19
+- *6* people have died of COVID-19
+- *344* people have recovered from COVID-19[1]
 
 The population in this census area is 78753. By our calculations:
-- 7.68% of the population have had COVID-19.[2]
-- 1.45% of the population or 1143.0 people are actively fighting the virus.
+- 7.77% of the population have had COVID-19.[2]
+- 1.42% of the population or 1120.0 people are actively fighting the virus.
 
 ## Synopsis
 

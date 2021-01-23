@@ -12,13 +12,13 @@ tags: [Franklin-New York]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *158* new cases of COVID-19
+- *196* new cases of COVID-19
 - *0* people have died of COVID-19
-- *47* people have recovered from COVID-19[1]
+- *63* people have recovered from COVID-19[1]
 
 The population in this census area is 50022. By our calculations:
-- 2.33% of the population have had COVID-19.[2]
-- 0.77% of the population or 383.0 people are actively fighting the virus.
+- 2.40% of the population have had COVID-19.[2]
+- 0.81% of the population or 405.0 people are actively fighting the virus.
 
 ## Synopsis
 

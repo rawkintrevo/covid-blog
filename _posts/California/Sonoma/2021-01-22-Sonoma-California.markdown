@@ -12,13 +12,13 @@ tags: [Sonoma-California]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1336* new cases of COVID-19
+- *1414* new cases of COVID-19
 - *8* people have died of COVID-19
-- *247* people have recovered from COVID-19[1]
+- *627* people have recovered from COVID-19[1]
 
 The population in this census area is 494336. By our calculations:
-- 4.89% of the population have had COVID-19.[2]
-- 1.01% of the population or 5003.0 people are actively fighting the virus.
+- 4.91% of the population have had COVID-19.[2]
+- 0.95% of the population or 4701.0 people are actively fighting the virus.
 
 ## Synopsis
 

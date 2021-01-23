@@ -12,13 +12,13 @@ tags: [Scott-Mississippi]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *117* new cases of COVID-19
-- *4* people have died of COVID-19
-- *33* people have recovered from COVID-19[1]
+- *142* new cases of COVID-19
+- *5* people have died of COVID-19
+- *39* people have recovered from COVID-19[1]
 
 The population in this census area is 28124. By our calculations:
-- 8.92% of the population have had COVID-19.[2]
-- 1.24% of the population or 349.0 people are actively fighting the virus.
+- 9.01% of the population have had COVID-19.[2]
+- 1.30% of the population or 367.0 people are actively fighting the virus.
 
 ## Synopsis
 

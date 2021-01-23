@@ -12,13 +12,13 @@ tags: [Eddy-New Mexico]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *231* new cases of COVID-19
+- *280* new cases of COVID-19
 - *7* people have died of COVID-19
-- *80* people have recovered from COVID-19[1]
+- *183* people have recovered from COVID-19[1]
 
 The population in this census area is 58460. By our calculations:
-- 9.58% of the population have had COVID-19.[2]
-- 1.71% of the population or 999.0 people are actively fighting the virus.
+- 9.67% of the population have had COVID-19.[2]
+- 1.62% of the population or 945.0 people are actively fighting the virus.
 
 ## Synopsis
 

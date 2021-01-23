@@ -12,13 +12,13 @@ tags: [Custer-South Dakota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *16* new cases of COVID-19
+- *19* new cases of COVID-19
 - *0* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *7* people have recovered from COVID-19[1]
 
 The population in this census area is 8972. By our calculations:
-- 7.97% of the population have had COVID-19.[2]
-- 0.47% of the population or 42.0 people are actively fighting the virus.
+- 8.00% of the population have had COVID-19.[2]
+- 0.42% of the population or 38.0 people are actively fighting the virus.
 
 ## Synopsis
 

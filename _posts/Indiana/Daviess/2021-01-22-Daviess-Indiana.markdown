@@ -12,13 +12,13 @@ tags: [Daviess-Indiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *89* new cases of COVID-19
+- *102* new cases of COVID-19
 - *2* people have died of COVID-19
-- *43* people have recovered from COVID-19[1]
+- *67* people have recovered from COVID-19[1]
 
 The population in this census area is 33351. By our calculations:
-- 7.94% of the population have had COVID-19.[2]
-- 1.00% of the population or 334.0 people are actively fighting the virus.
+- 7.98% of the population have had COVID-19.[2]
+- 0.97% of the population or 323.0 people are actively fighting the virus.
 
 ## Synopsis
 

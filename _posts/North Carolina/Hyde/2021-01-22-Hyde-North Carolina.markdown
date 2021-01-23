@@ -12,13 +12,13 @@ tags: [Hyde-North Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *66* new cases of COVID-19
+- *68* new cases of COVID-19
 - *0* people have died of COVID-19
-- *13* people have recovered from COVID-19[1]
+- *45* people have recovered from COVID-19[1]
 
 The population in this census area is 4937. By our calculations:
-- 11.40% of the population have had COVID-19.[2]
-- 4.78% of the population or 236.0 people are actively fighting the virus.
+- 11.44% of the population have had COVID-19.[2]
+- 4.17% of the population or 206.0 people are actively fighting the virus.
 
 ## Synopsis
 

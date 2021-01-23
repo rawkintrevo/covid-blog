@@ -12,13 +12,13 @@ tags: [San Francisco-California]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1610* new cases of COVID-19
-- *29* people have died of COVID-19
-- *735* people have recovered from COVID-19[1]
+- *1765* new cases of COVID-19
+- *37* people have died of COVID-19
+- *1127* people have recovered from COVID-19[1]
 
 The population in this census area is 881549. By our calculations:
-- 3.35% of the population have had COVID-19.[2]
-- 0.64% of the population or 5671.0 people are actively fighting the virus.
+- 3.37% of the population have had COVID-19.[2]
+- 0.62% of the population or 5426.0 people are actively fighting the virus.
 
 ## Synopsis
 

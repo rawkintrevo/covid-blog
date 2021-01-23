@@ -14,11 +14,11 @@ tags: [Wayne-Iowa]
 In the last 7 days[3] we project there have been
 - *4* new cases of COVID-19
 - *0* people have died of COVID-19
-- *11* people have recovered from COVID-19[1]
+- *13* people have recovered from COVID-19[1]
 
 The population in this census area is 6441. By our calculations:
 - 6.47% of the population have had COVID-19.[2]
-- 0.51% of the population or 33.0 people are actively fighting the virus.
+- 0.48% of the population or 31.0 people are actively fighting the virus.
 
 ## Synopsis
 

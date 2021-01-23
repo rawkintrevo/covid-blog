@@ -12,13 +12,13 @@ tags: [Crawford-Michigan]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *15* new cases of COVID-19
+- *16* new cases of COVID-19
 - *0* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *27* people have recovered from COVID-19[1]
 
 The population in this census area is 14029. By our calculations:
-- 3.75% of the population have had COVID-19.[2]
-- 0.48% of the population or 68.0 people are actively fighting the virus.
+- 3.76% of the population have had COVID-19.[2]
+- 0.30% of the population or 42.0 people are actively fighting the virus.
 
 ## Synopsis
 

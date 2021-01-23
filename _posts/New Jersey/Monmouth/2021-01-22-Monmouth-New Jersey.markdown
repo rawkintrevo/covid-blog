@@ -12,13 +12,13 @@ tags: [Monmouth-New Jersey]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *2677* new cases of COVID-19
-- *50* people have died of COVID-19
-- *917* people have recovered from COVID-19[1]
+- *3084* new cases of COVID-19
+- *57* people have died of COVID-19
+- *1379* people have recovered from COVID-19[1]
 
 The population in this census area is 618795. By our calculations:
-- 7.19% of the population have had COVID-19.[2]
-- 1.91% of the population or 11789.0 people are actively fighting the virus.
+- 7.25% of the population have had COVID-19.[2]
+- 1.90% of the population or 11727.0 people are actively fighting the virus.
 
 ## Synopsis
 

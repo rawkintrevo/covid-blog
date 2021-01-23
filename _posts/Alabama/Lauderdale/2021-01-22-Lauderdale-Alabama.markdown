@@ -12,13 +12,13 @@ tags: [Lauderdale-Alabama]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *268* new cases of COVID-19
-- *16* people have died of COVID-19
-- *179* people have recovered from COVID-19[1]
+- *314* new cases of COVID-19
+- *17* people have died of COVID-19
+- *225* people have recovered from COVID-19[1]
 
 The population in this census area is 92729. By our calculations:
-- 8.29% of the population have had COVID-19.[2]
-- 1.18% of the population or 1093.0 people are actively fighting the virus.
+- 8.34% of the population have had COVID-19.[2]
+- 1.18% of the population or 1092.0 people are actively fighting the virus.
 
 ## Synopsis
 

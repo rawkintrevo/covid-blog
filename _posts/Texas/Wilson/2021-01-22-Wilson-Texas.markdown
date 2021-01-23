@@ -12,13 +12,13 @@ tags: [Wilson-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *121* new cases of COVID-19
+- *271* new cases of COVID-19
 - *2* people have died of COVID-19
 - *41* people have recovered from COVID-19[1]
 
 The population in this census area is 51070. By our calculations:
-- 5.56% of the population have had COVID-19.[2]
-- 1.36% of the population or 694.0 people are actively fighting the virus.
+- 5.85% of the population have had COVID-19.[2]
+- 1.65% of the population or 844.0 people are actively fighting the virus.
 
 ## Synopsis
 

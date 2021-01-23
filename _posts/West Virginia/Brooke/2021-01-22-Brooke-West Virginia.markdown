@@ -12,13 +12,13 @@ tags: [Brooke-West Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *102* new cases of COVID-19
+- *112* new cases of COVID-19
 - *5* people have died of COVID-19
-- *38* people have recovered from COVID-19[1]
+- *68* people have recovered from COVID-19[1]
 
 The population in this census area is 21939. By our calculations:
-- 8.21% of the population have had COVID-19.[2]
-- 1.60% of the population or 352.0 people are actively fighting the virus.
+- 8.25% of the population have had COVID-19.[2]
+- 1.51% of the population or 332.0 people are actively fighting the virus.
 
 ## Synopsis
 

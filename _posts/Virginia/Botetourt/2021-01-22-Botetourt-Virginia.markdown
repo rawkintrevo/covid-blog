@@ -12,13 +12,13 @@ tags: [Botetourt-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *112* new cases of COVID-19
+- *120* new cases of COVID-19
 - *1* people have died of COVID-19
-- *39* people have recovered from COVID-19[1]
+- *61* people have recovered from COVID-19[1]
 
 The population in this census area is 33419. By our calculations:
-- 5.11% of the population have had COVID-19.[2]
-- 1.17% of the population or 391.0 people are actively fighting the virus.
+- 5.13% of the population have had COVID-19.[2]
+- 1.13% of the population or 377.0 people are actively fighting the virus.
 
 ## Synopsis
 

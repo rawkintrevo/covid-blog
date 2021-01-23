@@ -12,13 +12,13 @@ tags: [Sandusky-Ohio]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *170* new cases of COVID-19
+- *198* new cases of COVID-19
 - *0* people have died of COVID-19
-- *67* people have recovered from COVID-19[1]
+- *125* people have recovered from COVID-19[1]
 
 The population in this census area is 58518. By our calculations:
-- 7.35% of the population have had COVID-19.[2]
-- 1.26% of the population or 737.0 people are actively fighting the virus.
+- 7.40% of the population have had COVID-19.[2]
+- 1.21% of the population or 707.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Cambria-Pennsylvania]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *374* new cases of COVID-19
-- *34* people have died of COVID-19
-- *184* people have recovered from COVID-19[1]
+- *416* new cases of COVID-19
+- *41* people have died of COVID-19
+- *252* people have recovered from COVID-19[1]
 
 The population in this census area is 130192. By our calculations:
-- 7.91% of the population have had COVID-19.[2]
-- 0.99% of the population or 1292.0 people are actively fighting the virus.
+- 7.94% of the population have had COVID-19.[2]
+- 0.97% of the population or 1259.0 people are actively fighting the virus.
 
 ## Synopsis
 

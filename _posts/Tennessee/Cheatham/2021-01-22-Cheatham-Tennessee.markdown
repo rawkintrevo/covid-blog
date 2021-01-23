@@ -12,13 +12,13 @@ tags: [Cheatham-Tennessee]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *152* new cases of COVID-19
-- *2* people have died of COVID-19
-- *34* people have recovered from COVID-19[1]
+- *169* new cases of COVID-19
+- *3* people have died of COVID-19
+- *134* people have recovered from COVID-19[1]
 
 The population in this census area is 40667. By our calculations:
-- 8.46% of the population have had COVID-19.[2]
-- 1.40% of the population or 568.0 people are actively fighting the virus.
+- 8.50% of the population have had COVID-19.[2]
+- 1.19% of the population or 484.0 people are actively fighting the virus.
 
 ## Synopsis
 

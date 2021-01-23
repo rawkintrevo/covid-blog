@@ -12,13 +12,13 @@ tags: [Union-Pennsylvania]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *147* new cases of COVID-19
-- *11* people have died of COVID-19
-- *81* people have recovered from COVID-19[1]
+- *176* new cases of COVID-19
+- *12* people have died of COVID-19
+- *93* people have recovered from COVID-19[1]
 
 The population in this census area is 44923. By our calculations:
-- 8.34% of the population have had COVID-19.[2]
-- 1.74% of the population or 783.0 people are actively fighting the virus.
+- 8.41% of the population have had COVID-19.[2]
+- 1.78% of the population or 799.0 people are actively fighting the virus.
 
 ## Synopsis
 

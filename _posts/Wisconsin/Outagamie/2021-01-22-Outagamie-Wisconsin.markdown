@@ -12,13 +12,13 @@ tags: [Outagamie-Wisconsin]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *504* new cases of COVID-19
+- *575* new cases of COVID-19
 - *5* people have died of COVID-19
-- *223* people have recovered from COVID-19[1]
+- *225* people have recovered from COVID-19[1]
 
 The population in this census area is 187885. By our calculations:
-- 10.50% of the population have had COVID-19.[2]
-- 1.12% of the population or 2100.0 people are actively fighting the virus.
+- 10.54% of the population have had COVID-19.[2]
+- 1.15% of the population or 2169.0 people are actively fighting the virus.
 
 ## Synopsis
 

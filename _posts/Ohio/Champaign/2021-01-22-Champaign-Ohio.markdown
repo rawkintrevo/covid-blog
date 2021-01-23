@@ -12,13 +12,13 @@ tags: [Champaign-Ohio]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *132* new cases of COVID-19
-- *0* people have died of COVID-19
-- *46* people have recovered from COVID-19[1]
+- *155* new cases of COVID-19
+- *1* people have died of COVID-19
+- *115* people have recovered from COVID-19[1]
 
 The population in this census area is 38885. By our calculations:
-- 6.35% of the population have had COVID-19.[2]
-- 1.41% of the population or 548.0 people are actively fighting the virus.
+- 6.41% of the population have had COVID-19.[2]
+- 1.29% of the population or 501.0 people are actively fighting the virus.
 
 ## Synopsis
 

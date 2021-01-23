@@ -12,13 +12,13 @@ tags: [Koochiching-Minnesota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *18* new cases of COVID-19
+- *20* new cases of COVID-19
 - *0* people have died of COVID-19
-- *3* people have recovered from COVID-19[1]
+- *7* people have recovered from COVID-19[1]
 
 The population in this census area is 12229. By our calculations:
-- 4.88% of the population have had COVID-19.[2]
-- 0.41% of the population or 50.0 people are actively fighting the virus.
+- 4.90% of the population have had COVID-19.[2]
+- 0.39% of the population or 48.0 people are actively fighting the virus.
 
 ## Synopsis
 

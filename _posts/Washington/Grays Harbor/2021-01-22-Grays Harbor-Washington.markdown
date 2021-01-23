@@ -12,13 +12,13 @@ tags: [Grays Harbor-Washington]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *97* new cases of COVID-19
-- *0* people have died of COVID-19
-- *71* people have recovered from COVID-19[1]
+- *107* new cases of COVID-19
+- *3* people have died of COVID-19
+- *68* people have recovered from COVID-19[1]
 
 The population in this census area is 75061. By our calculations:
-- 3.67% of the population have had COVID-19.[2]
-- 0.71% of the population or 531.0 people are actively fighting the virus.
+- 3.69% of the population have had COVID-19.[2]
+- 0.72% of the population or 541.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Bienville-Louisiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *28* new cases of COVID-19
+- *69* new cases of COVID-19
 - *2* people have died of COVID-19
 - *15* people have recovered from COVID-19[1]
 
 The population in this census area is 13241. By our calculations:
-- 10.60% of the population have had COVID-19.[2]
-- 1.31% of the population or 174.0 people are actively fighting the virus.
+- 10.91% of the population have had COVID-19.[2]
+- 1.62% of the population or 215.0 people are actively fighting the virus.
 
 ## Synopsis
 

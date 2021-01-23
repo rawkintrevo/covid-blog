@@ -12,13 +12,13 @@ tags: [Genesee-Michigan]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *515* new cases of COVID-19
-- *11* people have died of COVID-19
-- *-2* people have recovered from COVID-19[1]
+- *591* new cases of COVID-19
+- *14* people have died of COVID-19
+- *182* people have recovered from COVID-19[1]
 
 The population in this census area is 405813. By our calculations:
-- 5.85% of the population have had COVID-19.[2]
-- 0.48% of the population or 1965.0 people are actively fighting the virus.
+- 5.87% of the population have had COVID-19.[2]
+- 0.46% of the population or 1854.0 people are actively fighting the virus.
 
 ## Synopsis
 

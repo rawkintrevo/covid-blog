@@ -12,13 +12,13 @@ tags: [Aiken-South Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *752* new cases of COVID-19
+- *837* new cases of COVID-19
 - *10* people have died of COVID-19
-- *114* people have recovered from COVID-19[1]
+- *274* people have recovered from COVID-19[1]
 
 The population in this census area is 170872. By our calculations:
-- 6.71% of the population have had COVID-19.[2]
-- 1.34% of the population or 2290.0 people are actively fighting the virus.
+- 6.76% of the population have had COVID-19.[2]
+- 1.30% of the population or 2215.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Andrews-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *45* new cases of COVID-19
+- *58* new cases of COVID-19
 - *3* people have died of COVID-19
 - *27* people have recovered from COVID-19[1]
 
 The population in this census area is 18705. By our calculations:
-- 8.59% of the population have had COVID-19.[2]
-- 0.86% of the population or 161.0 people are actively fighting the virus.
+- 8.66% of the population have had COVID-19.[2]
+- 0.93% of the population or 174.0 people are actively fighting the virus.
 
 ## Synopsis
 

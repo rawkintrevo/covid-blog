@@ -12,13 +12,13 @@ tags: [Sullivan-Tennessee]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *438* new cases of COVID-19
-- *5* people have died of COVID-19
-- *121* people have recovered from COVID-19[1]
+- *509* new cases of COVID-19
+- *9* people have died of COVID-19
+- *358* people have recovered from COVID-19[1]
 
 The population in this census area is 158348. By our calculations:
-- 8.04% of the population have had COVID-19.[2]
-- 1.16% of the population or 1840.0 people are actively fighting the virus.
+- 8.09% of the population have had COVID-19.[2]
+- 1.05% of the population or 1670.0 people are actively fighting the virus.
 
 ## Synopsis
 

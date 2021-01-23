@@ -12,13 +12,13 @@ tags: [Harris-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *15175* new cases of COVID-19
-- *175* people have died of COVID-19
-- *2867* people have recovered from COVID-19[1]
+- *18165* new cases of COVID-19
+- *207* people have died of COVID-19
+- *6230* people have recovered from COVID-19[1]
 
 The population in this census area is 4713325. By our calculations:
-- 6.16% of the population have had COVID-19.[2]
-- 1.06% of the population or 50044.0 people are actively fighting the virus.
+- 6.22% of the population have had COVID-19.[2]
+- 1.05% of the population or 49639.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Dawson-Montana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *18* new cases of COVID-19
+- *20* new cases of COVID-19
 - *0* people have died of COVID-19
-- *-15* people have recovered from COVID-19[1]
+- *-16* people have recovered from COVID-19[1]
 
 The population in this census area is 8613. By our calculations:
-- 11.54% of the population have had COVID-19.[2]
-- 0.74% of the population or 64.0 people are actively fighting the virus.
+- 11.56% of the population have had COVID-19.[2]
+- 0.78% of the population or 67.0 people are actively fighting the virus.
 
 ## Synopsis
 

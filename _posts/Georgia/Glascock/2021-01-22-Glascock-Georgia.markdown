@@ -12,13 +12,13 @@ tags: [Glascock-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *14* new cases of COVID-19
+- *15* new cases of COVID-19
 - *0* people have died of COVID-19
-- *6* people have recovered from COVID-19[1]
+- *9* people have recovered from COVID-19[1]
 
 The population in this census area is 2971. By our calculations:
-- 7.17% of the population have had COVID-19.[2]
-- 1.04% of the population or 31.0 people are actively fighting the virus.
+- 7.20% of the population have had COVID-19.[2]
+- 0.98% of the population or 29.0 people are actively fighting the virus.
 
 ## Synopsis
 

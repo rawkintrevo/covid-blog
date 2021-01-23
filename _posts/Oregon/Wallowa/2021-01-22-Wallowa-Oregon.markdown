@@ -12,13 +12,13 @@ tags: [Wallowa-Oregon]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *5* new cases of COVID-19
+- *6* new cases of COVID-19
 - *0* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *2* people have recovered from COVID-19[1]
 
 The population in this census area is 7208. By our calculations:
-- 1.35% of the population have had COVID-19.[2]
-- 0.29% of the population or 21.0 people are actively fighting the virus.
+- 1.36% of the population have had COVID-19.[2]
+- 0.28% of the population or 20.0 people are actively fighting the virus.
 
 ## Synopsis
 

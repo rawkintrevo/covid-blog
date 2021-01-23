@@ -12,13 +12,13 @@ tags: [Otter Tail-Minnesota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *74* new cases of COVID-19
+- *88* new cases of COVID-19
 - *7* people have died of COVID-19
-- *33* people have recovered from COVID-19[1]
+- *57* people have recovered from COVID-19[1]
 
 The population in this census area is 58746. By our calculations:
-- 7.79% of the population have had COVID-19.[2]
-- 0.59% of the population or 346.0 people are actively fighting the virus.
+- 7.82% of the population have had COVID-19.[2]
+- 0.57% of the population or 336.0 people are actively fighting the virus.
 
 ## Synopsis
 

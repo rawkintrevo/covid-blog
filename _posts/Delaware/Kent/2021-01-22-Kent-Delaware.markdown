@@ -12,13 +12,13 @@ tags: [Kent-Delaware]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *646* new cases of COVID-19
+- *763* new cases of COVID-19
 - *4* people have died of COVID-19
-- *307* people have recovered from COVID-19[1]
+- *467* people have recovered from COVID-19[1]
 
 The population in this census area is 180786. By our calculations:
-- 6.43% of the population have had COVID-19.[2]
-- 1.24% of the population or 2248.0 people are actively fighting the virus.
+- 6.49% of the population have had COVID-19.[2]
+- 1.22% of the population or 2205.0 people are actively fighting the virus.
 
 ## Synopsis
 

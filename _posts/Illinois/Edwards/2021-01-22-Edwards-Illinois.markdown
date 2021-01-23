@@ -14,11 +14,11 @@ tags: [Edwards-Illinois]
 In the last 7 days[3] we project there have been
 - *13* new cases of COVID-19
 - *1* people have died of COVID-19
-- *15* people have recovered from COVID-19[1]
+- *26* people have recovered from COVID-19[1]
 
 The population in this census area is 6395. By our calculations:
 - 7.35% of the population have had COVID-19.[2]
-- 1.09% of the population or 70.0 people are actively fighting the virus.
+- 0.92% of the population or 59.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Saratoga-New York]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *914* new cases of COVID-19
-- *14* people have died of COVID-19
-- *375* people have recovered from COVID-19[1]
+- *1065* new cases of COVID-19
+- *15* people have died of COVID-19
+- *637* people have recovered from COVID-19[1]
 
 The population in this census area is 229863. By our calculations:
-- 4.08% of the population have had COVID-19.[2]
-- 1.54% of the population or 3535.0 people are actively fighting the virus.
+- 4.14% of the population have had COVID-19.[2]
+- 1.49% of the population or 3423.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Crane-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *20* new cases of COVID-19
+- *23* new cases of COVID-19
 - *0* people have died of COVID-19
-- *9* people have recovered from COVID-19[1]
+- *11* people have recovered from COVID-19[1]
 
 The population in this census area is 4797. By our calculations:
-- 10.36% of the population have had COVID-19.[2]
-- -0.35% of the population or -17.0 people are actively fighting the virus.
+- 10.42% of the population have had COVID-19.[2]
+- -0.33% of the population or -16.0 people are actively fighting the virus.
 
 ## Synopsis
 

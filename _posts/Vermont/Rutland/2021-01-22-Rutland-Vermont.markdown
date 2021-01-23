@@ -12,13 +12,13 @@ tags: [Rutland-Vermont]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *75* new cases of COVID-19
+- *88* new cases of COVID-19
 - *0* people have died of COVID-19
-- *9* people have recovered from COVID-19[1]
+- *31* people have recovered from COVID-19[1]
 
 The population in this census area is 58191. By our calculations:
-- 1.18% of the population have had COVID-19.[2]
-- 0.40% of the population or 232.0 people are actively fighting the virus.
+- 1.20% of the population have had COVID-19.[2]
+- 0.38% of the population or 223.0 people are actively fighting the virus.
 
 ## Synopsis
 

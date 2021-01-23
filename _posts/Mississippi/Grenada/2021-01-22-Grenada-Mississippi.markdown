@@ -12,13 +12,13 @@ tags: [Grenada-Mississippi]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *66* new cases of COVID-19
+- *71* new cases of COVID-19
 - *1* people have died of COVID-19
-- *28* people have recovered from COVID-19[1]
+- *37* people have recovered from COVID-19[1]
 
 The population in this census area is 20758. By our calculations:
-- 10.63% of the population have had COVID-19.[2]
-- 1.05% of the population or 217.0 people are actively fighting the virus.
+- 10.65% of the population have had COVID-19.[2]
+- 1.03% of the population or 213.0 people are actively fighting the virus.
 
 ## Synopsis
 

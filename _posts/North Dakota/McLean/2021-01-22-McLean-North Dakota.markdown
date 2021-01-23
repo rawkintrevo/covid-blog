@@ -12,13 +12,13 @@ tags: [McLean-North Dakota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *10* new cases of COVID-19
-- *0* people have died of COVID-19
-- *3* people have recovered from COVID-19[1]
+- *13* new cases of COVID-19
+- *1* people have died of COVID-19
+- *4* people have recovered from COVID-19[1]
 
 The population in this census area is 9450. By our calculations:
-- 12.24% of the population have had COVID-19.[2]
-- 0.28% of the population or 26.0 people are actively fighting the virus.
+- 12.29% of the population have had COVID-19.[2]
+- 0.29% of the population or 27.0 people are actively fighting the virus.
 
 ## Synopsis
 

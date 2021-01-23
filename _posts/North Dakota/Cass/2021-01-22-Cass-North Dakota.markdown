@@ -12,13 +12,13 @@ tags: [Cass-North Dakota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *166* new cases of COVID-19
-- *2* people have died of COVID-19
-- *209* people have recovered from COVID-19[1]
+- *187* new cases of COVID-19
+- *3* people have died of COVID-19
+- *248* people have recovered from COVID-19[1]
 
 The population in this census area is 181923. By our calculations:
-- 11.38% of the population have had COVID-19.[2]
-- 0.41% of the population or 741.0 people are actively fighting the virus.
+- 11.39% of the population have had COVID-19.[2]
+- 0.40% of the population or 722.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Fountain-Indiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *55* new cases of COVID-19
+- *68* new cases of COVID-19
 - *2* people have died of COVID-19
-- *45* people have recovered from COVID-19[1]
+- *56* people have recovered from COVID-19[1]
 
 The population in this census area is 16346. By our calculations:
-- 11.06% of the population have had COVID-19.[2]
-- 1.58% of the population or 259.0 people are actively fighting the virus.
+- 11.14% of the population have had COVID-19.[2]
+- 1.60% of the population or 261.0 people are actively fighting the virus.
 
 ## Synopsis
 

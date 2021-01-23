@@ -12,13 +12,13 @@ tags: [Tipton-Indiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *33* new cases of COVID-19
+- *47* new cases of COVID-19
 - *0* people have died of COVID-19
-- *54* people have recovered from COVID-19[1]
+- *63* people have recovered from COVID-19[1]
 
 The population in this census area is 15148. By our calculations:
-- 8.55% of the population have had COVID-19.[2]
-- 1.27% of the population or 193.0 people are actively fighting the virus.
+- 8.64% of the population have had COVID-19.[2]
+- 1.31% of the population or 198.0 people are actively fighting the virus.
 
 ## Synopsis
 

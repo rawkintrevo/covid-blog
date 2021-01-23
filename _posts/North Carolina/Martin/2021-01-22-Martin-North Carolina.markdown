@@ -12,13 +12,13 @@ tags: [Martin-North Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *75* new cases of COVID-19
+- *90* new cases of COVID-19
 - *0* people have died of COVID-19
-- *32* people have recovered from COVID-19[1]
+- *126* people have recovered from COVID-19[1]
 
 The population in this census area is 22440. By our calculations:
-- 7.78% of the population have had COVID-19.[2]
-- 1.84% of the population or 414.0 people are actively fighting the virus.
+- 7.84% of the population have had COVID-19.[2]
+- 1.49% of the population or 335.0 people are actively fighting the virus.
 
 ## Synopsis
 

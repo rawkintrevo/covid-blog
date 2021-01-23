@@ -12,13 +12,13 @@ tags: [Catoosa-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *238* new cases of COVID-19
+- *268* new cases of COVID-19
 - *2* people have died of COVID-19
-- *126* people have recovered from COVID-19[1]
+- *154* people have recovered from COVID-19[1]
 
 The population in this census area is 67580. By our calculations:
-- 6.51% of the population have had COVID-19.[2]
-- 1.37% of the population or 923.0 people are actively fighting the virus.
+- 6.56% of the population have had COVID-19.[2]
+- 1.37% of the population or 925.0 people are actively fighting the virus.
 
 ## Synopsis
 

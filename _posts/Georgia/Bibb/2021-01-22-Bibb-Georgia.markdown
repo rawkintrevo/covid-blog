@@ -12,13 +12,13 @@ tags: [Bibb-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *575* new cases of COVID-19
-- *23* people have died of COVID-19
-- *282* people have recovered from COVID-19[1]
+- *713* new cases of COVID-19
+- *25* people have died of COVID-19
+- *440* people have recovered from COVID-19[1]
 
 The population in this census area is 153159. By our calculations:
-- 8.12% of the population have had COVID-19.[2]
-- 1.39% of the population or 2135.0 people are actively fighting the virus.
+- 8.21% of the population have had COVID-19.[2]
+- 1.38% of the population or 2113.0 people are actively fighting the virus.
 
 ## Synopsis
 

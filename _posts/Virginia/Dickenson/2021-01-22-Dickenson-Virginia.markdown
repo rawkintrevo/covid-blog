@@ -12,13 +12,13 @@ tags: [Dickenson-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *24* new cases of COVID-19
-- *0* people have died of COVID-19
-- *14* people have recovered from COVID-19[1]
+- *26* new cases of COVID-19
+- *2* people have died of COVID-19
+- *13* people have recovered from COVID-19[1]
 
 The population in this census area is 14318. By our calculations:
-- 5.52% of the population have had COVID-19.[2]
-- 1.01% of the population or 144.0 people are actively fighting the virus.
+- 5.55% of the population have had COVID-19.[2]
+- 1.01% of the population or 145.0 people are actively fighting the virus.
 
 ## Synopsis
 

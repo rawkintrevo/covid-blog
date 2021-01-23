@@ -12,13 +12,13 @@ tags: [Steuben-Indiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *87* new cases of COVID-19
-- *4* people have died of COVID-19
-- *83* people have recovered from COVID-19[1]
+- *103* new cases of COVID-19
+- *5* people have died of COVID-19
+- *108* people have recovered from COVID-19[1]
 
 The population in this census area is 34594. By our calculations:
-- 8.96% of the population have had COVID-19.[2]
-- 1.15% of the population or 397.0 people are actively fighting the virus.
+- 9.00% of the population have had COVID-19.[2]
+- 1.12% of the population or 387.0 people are actively fighting the virus.
 
 ## Synopsis
 

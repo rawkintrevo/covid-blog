@@ -12,13 +12,13 @@ tags: [Lyon-Minnesota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *35* new cases of COVID-19
+- *43* new cases of COVID-19
 - *3* people have died of COVID-19
-- *30* people have recovered from COVID-19[1]
+- *43* people have recovered from COVID-19[1]
 
 The population in this census area is 25474. By our calculations:
-- 11.87% of the population have had COVID-19.[2]
-- 0.66% of the population or 169.0 people are actively fighting the virus.
+- 11.91% of the population have had COVID-19.[2]
+- 0.64% of the population or 164.0 people are actively fighting the virus.
 
 ## Synopsis
 

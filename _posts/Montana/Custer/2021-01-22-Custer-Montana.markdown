@@ -12,13 +12,13 @@ tags: [Custer-Montana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *21* new cases of COVID-19
-- *0* people have died of COVID-19
-- *19* people have recovered from COVID-19[1]
+- *24* new cases of COVID-19
+- *1* people have died of COVID-19
+- *18* people have recovered from COVID-19[1]
 
 The population in this census area is 11402. By our calculations:
-- 9.49% of the population have had COVID-19.[2]
-- 0.82% of the population or 93.0 people are actively fighting the virus.
+- 9.52% of the population have had COVID-19.[2]
+- 0.84% of the population or 96.0 people are actively fighting the virus.
 
 ## Synopsis
 

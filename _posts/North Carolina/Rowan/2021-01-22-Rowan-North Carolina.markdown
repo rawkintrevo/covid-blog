@@ -12,13 +12,13 @@ tags: [Rowan-North Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *713* new cases of COVID-19
-- *21* people have died of COVID-19
-- *128* people have recovered from COVID-19[1]
+- *810* new cases of COVID-19
+- *23* people have died of COVID-19
+- *593* people have recovered from COVID-19[1]
 
 The population in this census area is 142088. By our calculations:
-- 8.36% of the population have had COVID-19.[2]
-- 1.97% of the population or 2799.0 people are actively fighting the virus.
+- 8.43% of the population have had COVID-19.[2]
+- 1.71% of the population or 2429.0 people are actively fighting the virus.
 
 ## Synopsis
 

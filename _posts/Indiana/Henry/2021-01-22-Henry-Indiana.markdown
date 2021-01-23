@@ -12,13 +12,13 @@ tags: [Henry-Indiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *173* new cases of COVID-19
+- *200* new cases of COVID-19
 - *2* people have died of COVID-19
-- *130* people have recovered from COVID-19[1]
+- *174* people have recovered from COVID-19[1]
 
 The population in this census area is 47972. By our calculations:
-- 10.44% of the population have had COVID-19.[2]
-- 1.46% of the population or 700.0 people are actively fighting the virus.
+- 10.49% of the population have had COVID-19.[2]
+- 1.42% of the population or 683.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Onslow-North Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *647* new cases of COVID-19
-- *7* people have died of COVID-19
-- *82* people have recovered from COVID-19[1]
+- *740* new cases of COVID-19
+- *9* people have died of COVID-19
+- *539* people have recovered from COVID-19[1]
 
 The population in this census area is 197938. By our calculations:
-- 5.84% of the population have had COVID-19.[2]
-- 1.41% of the population or 2796.0 people are actively fighting the virus.
+- 5.88% of the population have had COVID-19.[2]
+- 1.23% of the population or 2430.0 people are actively fighting the virus.
 
 ## Synopsis
 

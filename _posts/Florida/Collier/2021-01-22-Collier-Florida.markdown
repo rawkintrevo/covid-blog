@@ -12,13 +12,13 @@ tags: [Collier-Florida]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *932* new cases of COVID-19
-- *12* people have died of COVID-19
-- *235* people have recovered from COVID-19[1]
+- *1125* new cases of COVID-19
+- *16* people have died of COVID-19
+- *629* people have recovered from COVID-19[1]
 
 The population in this census area is 384902. By our calculations:
-- 6.80% of the population have had COVID-19.[2]
-- 0.93% of the population or 3590.0 people are actively fighting the virus.
+- 6.85% of the population have had COVID-19.[2]
+- 0.88% of the population or 3385.0 people are actively fighting the virus.
 
 ## Synopsis
 

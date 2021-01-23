@@ -12,13 +12,13 @@ tags: [Warren-Pennsylvania]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *51* new cases of COVID-19
-- *10* people have died of COVID-19
-- *59* people have recovered from COVID-19[1]
+- *65* new cases of COVID-19
+- *13* people have died of COVID-19
+- *85* people have recovered from COVID-19[1]
 
 The population in this census area is 39191. By our calculations:
-- 4.82% of the population have had COVID-19.[2]
-- 0.82% of the population or 320.0 people are actively fighting the virus.
+- 4.86% of the population have had COVID-19.[2]
+- 0.78% of the population or 305.0 people are actively fighting the virus.
 
 ## Synopsis
 

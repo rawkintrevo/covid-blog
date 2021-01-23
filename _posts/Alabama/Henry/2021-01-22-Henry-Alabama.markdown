@@ -12,13 +12,13 @@ tags: [Henry-Alabama]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *69* new cases of COVID-19
+- *79* new cases of COVID-19
 - *4* people have died of COVID-19
-- *44* people have recovered from COVID-19[1]
+- *60* people have recovered from COVID-19[1]
 
 The population in this census area is 17205. By our calculations:
-- 9.10% of the population have had COVID-19.[2]
-- 1.63% of the population or 281.0 people are actively fighting the virus.
+- 9.15% of the population have had COVID-19.[2]
+- 1.60% of the population or 275.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,12 +12,12 @@ tags: [Orange-Indiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *71* new cases of COVID-19
+- *100* new cases of COVID-19
 - *0* people have died of COVID-19
-- *43* people have recovered from COVID-19[1]
+- *72* people have recovered from COVID-19[1]
 
 The population in this census area is 19646. By our calculations:
-- 7.81% of the population have had COVID-19.[2]
+- 7.96% of the population have had COVID-19.[2]
 - 1.39% of the population or 274.0 people are actively fighting the virus.
 
 ## Synopsis

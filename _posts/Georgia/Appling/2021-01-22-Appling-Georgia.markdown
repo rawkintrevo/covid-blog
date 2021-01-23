@@ -12,13 +12,13 @@ tags: [Appling-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *54* new cases of COVID-19
-- *1* people have died of COVID-19
-- *40* people have recovered from COVID-19[1]
+- *63* new cases of COVID-19
+- *3* people have died of COVID-19
+- *66* people have recovered from COVID-19[1]
 
 The population in this census area is 18386. By our calculations:
-- 10.33% of the population have had COVID-19.[2]
-- 1.10% of the population or 202.0 people are actively fighting the virus.
+- 10.39% of the population have had COVID-19.[2]
+- 1.00% of the population or 183.0 people are actively fighting the virus.
 
 ## Synopsis
 

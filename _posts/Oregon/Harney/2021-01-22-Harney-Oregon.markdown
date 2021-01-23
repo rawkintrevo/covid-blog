@@ -12,13 +12,13 @@ tags: [Harney-Oregon]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *10* new cases of COVID-19
+- *11* new cases of COVID-19
 - *1* people have died of COVID-19
-- *3* people have recovered from COVID-19[1]
+- *8* people have recovered from COVID-19[1]
 
 The population in this census area is 7393. By our calculations:
-- 2.41% of the population have had COVID-19.[2]
-- 0.57% of the population or 42.0 people are actively fighting the virus.
+- 2.42% of the population have had COVID-19.[2]
+- 0.51% of the population or 38.0 people are actively fighting the virus.
 
 ## Synopsis
 

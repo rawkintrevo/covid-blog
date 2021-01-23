@@ -12,13 +12,13 @@ tags: [Multnomah-Oregon]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *774* new cases of COVID-19
+- *892* new cases of COVID-19
 - *14* people have died of COVID-19
-- *328* people have recovered from COVID-19[1]
+- *789* people have recovered from COVID-19[1]
 
 The population in this census area is 812855. By our calculations:
-- 3.53% of the population have had COVID-19.[2]
-- 0.41% of the population or 3294.0 people are actively fighting the virus.
+- 3.54% of the population have had COVID-19.[2]
+- 0.36% of the population or 2951.0 people are actively fighting the virus.
 
 ## Synopsis
 

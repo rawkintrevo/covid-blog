@@ -12,13 +12,13 @@ tags: [Oakland-Michigan]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1596* new cases of COVID-19
-- *29* people have died of COVID-19
-- *-4* people have recovered from COVID-19[1]
+- *1826* new cases of COVID-19
+- *51* people have died of COVID-19
+- *850* people have recovered from COVID-19[1]
 
 The population in this census area is 1257584. By our calculations:
-- 5.43% of the population have had COVID-19.[2]
-- 0.52% of the population or 6549.0 people are actively fighting the virus.
+- 5.45% of the population have had COVID-19.[2]
+- 0.47% of the population or 5903.0 people are actively fighting the virus.
 
 ## Synopsis
 

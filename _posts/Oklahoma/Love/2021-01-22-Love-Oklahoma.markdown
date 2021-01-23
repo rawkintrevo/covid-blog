@@ -12,13 +12,13 @@ tags: [Love-Oklahoma]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *56* new cases of COVID-19
+- *66* new cases of COVID-19
 - *0* people have died of COVID-19
-- *12* people have recovered from COVID-19[1]
+- *23* people have recovered from COVID-19[1]
 
 The population in this census area is 10253. By our calculations:
-- 12.13% of the population have had COVID-19.[2]
-- 3.28% of the population or 336.0 people are actively fighting the virus.
+- 12.23% of the population have had COVID-19.[2]
+- 3.27% of the population or 335.0 people are actively fighting the virus.
 
 ## Synopsis
 

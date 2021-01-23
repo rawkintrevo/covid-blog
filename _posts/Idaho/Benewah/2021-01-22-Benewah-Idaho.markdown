@@ -12,13 +12,13 @@ tags: [Benewah-Idaho]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *14* new cases of COVID-19
+- *16* new cases of COVID-19
 - *0* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *5* people have recovered from COVID-19[1]
 
 The population in this census area is 9298. By our calculations:
-- 5.57% of the population have had COVID-19.[2]
-- 0.89% of the population or 83.0 people are actively fighting the virus.
+- 5.59% of the population have had COVID-19.[2]
+- 0.86% of the population or 80.0 people are actively fighting the virus.
 
 ## Synopsis
 

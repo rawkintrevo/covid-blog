@@ -12,13 +12,13 @@ tags: [Van Wert-Ohio]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *63* new cases of COVID-19
-- *0* people have died of COVID-19
-- *15* people have recovered from COVID-19[1]
+- *67* new cases of COVID-19
+- *1* people have died of COVID-19
+- *26* people have recovered from COVID-19[1]
 
 The population in this census area is 28275. By our calculations:
-- 7.07% of the population have had COVID-19.[2]
-- 1.00% of the population or 282.0 people are actively fighting the virus.
+- 7.09% of the population have had COVID-19.[2]
+- 0.97% of the population or 274.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Los Alamos-New Mexico]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *40* new cases of COVID-19
+- *45* new cases of COVID-19
 - *0* people have died of COVID-19
-- *13* people have recovered from COVID-19[1]
+- *25* people have recovered from COVID-19[1]
 
 The population in this census area is 19369. By our calculations:
-- 2.07% of the population have had COVID-19.[2]
-- 0.59% of the population or 114.0 people are actively fighting the virus.
+- 2.10% of the population have had COVID-19.[2]
+- 0.55% of the population or 107.0 people are actively fighting the virus.
 
 ## Synopsis
 

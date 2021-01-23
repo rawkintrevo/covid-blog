@@ -12,13 +12,13 @@ tags: [Crawford-Iowa]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *45* new cases of COVID-19
+- *53* new cases of COVID-19
 - *2* people have died of COVID-19
-- *23* people have recovered from COVID-19[1]
+- *25* people have recovered from COVID-19[1]
 
 The population in this census area is 16820. By our calculations:
-- 13.81% of the population have had COVID-19.[2]
-- 1.12% of the population or 188.0 people are actively fighting the virus.
+- 13.86% of the population have had COVID-19.[2]
+- 1.15% of the population or 194.0 people are actively fighting the virus.
 
 ## Synopsis
 

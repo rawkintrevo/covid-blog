@@ -12,13 +12,13 @@ tags: [Wilcox-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *20* new cases of COVID-19
+- *24* new cases of COVID-19
 - *1* people have died of COVID-19
-- *5* people have recovered from COVID-19[1]
+- *7* people have recovered from COVID-19[1]
 
 The population in this census area is 8635. By our calculations:
-- 8.01% of the population have had COVID-19.[2]
-- 1.04% of the population or 90.0 people are actively fighting the virus.
+- 8.06% of the population have had COVID-19.[2]
+- 1.07% of the population or 92.0 people are actively fighting the virus.
 
 ## Synopsis
 

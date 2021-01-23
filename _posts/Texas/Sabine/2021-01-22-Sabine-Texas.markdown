@@ -12,13 +12,13 @@ tags: [Sabine-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *-163* new cases of COVID-19
+- *-153* new cases of COVID-19
 - *4* people have died of COVID-19
 - *-7* people have recovered from COVID-19[1]
 
 The population in this census area is 10542. By our calculations:
-- 4.29% of the population have had COVID-19.[2]
-- 0.48% of the population or 51.0 people are actively fighting the virus.
+- 4.38% of the population have had COVID-19.[2]
+- 0.58% of the population or 61.0 people are actively fighting the virus.
 
 ## Synopsis
 

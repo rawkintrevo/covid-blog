@@ -12,13 +12,13 @@ tags: [Manitowoc-Wisconsin]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *193* new cases of COVID-19
-- *5* people have died of COVID-19
-- *107* people have recovered from COVID-19[1]
+- *224* new cases of COVID-19
+- *8* people have died of COVID-19
+- *104* people have recovered from COVID-19[1]
 
 The population in this census area is 78981. By our calculations:
-- 9.79% of the population have had COVID-19.[2]
-- 0.93% of the population or 735.0 people are actively fighting the virus.
+- 9.83% of the population have had COVID-19.[2]
+- 0.97% of the population or 766.0 people are actively fighting the virus.
 
 ## Synopsis
 

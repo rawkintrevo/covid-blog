@@ -12,13 +12,13 @@ tags: [Adair-Missouri]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *60* new cases of COVID-19
+- *76* new cases of COVID-19
 - *1* people have died of COVID-19
-- *43* people have recovered from COVID-19[1]
+- *50* people have recovered from COVID-19[1]
 
 The population in this census area is 25343. By our calculations:
-- 7.49% of the population have had COVID-19.[2]
-- 1.05% of the population or 265.0 people are actively fighting the virus.
+- 7.55% of the population have had COVID-19.[2]
+- 1.08% of the population or 274.0 people are actively fighting the virus.
 
 ## Synopsis
 

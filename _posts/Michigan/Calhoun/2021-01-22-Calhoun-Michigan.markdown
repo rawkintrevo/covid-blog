@@ -12,13 +12,13 @@ tags: [Calhoun-Michigan]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *201* new cases of COVID-19
-- *0* people have died of COVID-19
-- *-2* people have recovered from COVID-19[1]
+- *230* new cases of COVID-19
+- *1* people have died of COVID-19
+- *63* people have recovered from COVID-19[1]
 
 The population in this census area is 134159. By our calculations:
-- 6.39% of the population have had COVID-19.[2]
-- 0.56% of the population or 747.0 people are actively fighting the virus.
+- 6.42% of the population have had COVID-19.[2]
+- 0.53% of the population or 710.0 people are actively fighting the virus.
 
 ## Synopsis
 

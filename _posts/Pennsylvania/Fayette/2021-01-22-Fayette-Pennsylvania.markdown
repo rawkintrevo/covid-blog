@@ -12,13 +12,13 @@ tags: [Fayette-Pennsylvania]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *351* new cases of COVID-19
-- *32* people have died of COVID-19
-- *215* people have recovered from COVID-19[1]
+- *394* new cases of COVID-19
+- *37* people have died of COVID-19
+- *379* people have recovered from COVID-19[1]
 
 The population in this census area is 129274. By our calculations:
-- 7.10% of the population have had COVID-19.[2]
-- 1.37% of the population or 1771.0 people are actively fighting the virus.
+- 7.14% of the population have had COVID-19.[2]
+- 1.27% of the population or 1645.0 people are actively fighting the virus.
 
 ## Synopsis
 

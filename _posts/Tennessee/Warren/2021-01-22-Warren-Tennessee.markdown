@@ -12,13 +12,13 @@ tags: [Warren-Tennessee]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *151* new cases of COVID-19
-- *0* people have died of COVID-19
-- *26* people have recovered from COVID-19[1]
+- *157* new cases of COVID-19
+- *1* people have died of COVID-19
+- *144* people have recovered from COVID-19[1]
 
 The population in this census area is 41277. By our calculations:
-- 12.18% of the population have had COVID-19.[2]
-- 1.50% of the population or 621.0 people are actively fighting the virus.
+- 12.19% of the population have had COVID-19.[2]
+- 1.23% of the population or 508.0 people are actively fighting the virus.
 
 ## Synopsis
 

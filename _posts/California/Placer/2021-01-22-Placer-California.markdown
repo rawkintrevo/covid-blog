@@ -12,13 +12,13 @@ tags: [Placer-California]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *946* new cases of COVID-19
-- *12* people have died of COVID-19
-- *194* people have recovered from COVID-19[1]
+- *1038* new cases of COVID-19
+- *14* people have died of COVID-19
+- *424* people have recovered from COVID-19[1]
 
 The population in this census area is 398329. By our calculations:
-- 4.39% of the population have had COVID-19.[2]
-- 0.92% of the population or 3676.0 people are actively fighting the virus.
+- 4.41% of the population have had COVID-19.[2]
+- 0.89% of the population or 3536.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Oconee-South Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *457* new cases of COVID-19
+- *533* new cases of COVID-19
 - *7* people have died of COVID-19
-- *47* people have recovered from COVID-19[1]
+- *146* people have recovered from COVID-19[1]
 
 The population in this census area is 79546. By our calculations:
-- 8.53% of the population have had COVID-19.[2]
-- 1.91% of the population or 1521.0 people are actively fighting the virus.
+- 8.62% of the population have had COVID-19.[2]
+- 1.88% of the population or 1498.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Roane-Tennessee]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *185* new cases of COVID-19
+- *204* new cases of COVID-19
 - *2* people have died of COVID-19
-- *34* people have recovered from COVID-19[1]
+- *248* people have recovered from COVID-19[1]
 
 The population in this census area is 53382. By our calculations:
-- 9.86% of the population have had COVID-19.[2]
-- 1.71% of the population or 915.0 people are actively fighting the virus.
+- 9.89% of the population have had COVID-19.[2]
+- 1.35% of the population or 720.0 people are actively fighting the virus.
 
 ## Synopsis
 

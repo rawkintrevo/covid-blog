@@ -12,13 +12,13 @@ tags: [Ohio-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *97* new cases of COVID-19
-- *3* people have died of COVID-19
-- *-1* people have recovered from COVID-19[1]
+- *116* new cases of COVID-19
+- *4* people have died of COVID-19
+- *31* people have recovered from COVID-19[1]
 
 The population in this census area is 23994. By our calculations:
-- 8.06% of the population have had COVID-19.[2]
-- 1.89% of the population or 454.0 people are actively fighting the virus.
+- 8.14% of the population have had COVID-19.[2]
+- 1.83% of the population or 440.0 people are actively fighting the virus.
 
 ## Synopsis
 

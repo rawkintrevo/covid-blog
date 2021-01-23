@@ -12,13 +12,13 @@ tags: [Isle of Wight-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *146* new cases of COVID-19
+- *178* new cases of COVID-19
 - *3* people have died of COVID-19
-- *39* people have recovered from COVID-19[1]
+- *51* people have recovered from COVID-19[1]
 
 The population in this census area is 37109. By our calculations:
-- 5.20% of the population have had COVID-19.[2]
-- 1.05% of the population or 388.0 people are actively fighting the virus.
+- 5.29% of the population have had COVID-19.[2]
+- 1.10% of the population or 408.0 people are actively fighting the virus.
 
 ## Synopsis
 

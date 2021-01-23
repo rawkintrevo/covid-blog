@@ -14,11 +14,11 @@ tags: [Jones-North Carolina]
 In the last 7 days[3] we project there have been
 - *47* new cases of COVID-19
 - *0* people have died of COVID-19
-- *10* people have recovered from COVID-19[1]
+- *30* people have recovered from COVID-19[1]
 
 The population in this census area is 9419. By our calculations:
 - 5.66% of the population have had COVID-19.[2]
-- 1.33% of the population or 125.0 people are actively fighting the virus.
+- 1.11% of the population or 105.0 people are actively fighting the virus.
 
 ## Synopsis
 

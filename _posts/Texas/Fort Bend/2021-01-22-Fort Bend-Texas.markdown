@@ -12,13 +12,13 @@ tags: [Fort Bend-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *3495* new cases of COVID-19
-- *16* people have died of COVID-19
-- *610* people have recovered from COVID-19[1]
+- *3843* new cases of COVID-19
+- *20* people have died of COVID-19
+- *605* people have recovered from COVID-19[1]
 
 The population in this census area is 811688. By our calculations:
-- 5.70% of the population have had COVID-19.[2]
-- 1.22% of the population or 9895.0 people are actively fighting the virus.
+- 5.75% of the population have had COVID-19.[2]
+- 1.26% of the population or 10244.0 people are actively fighting the virus.
 
 ## Synopsis
 

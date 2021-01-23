@@ -12,13 +12,13 @@ tags: [Monroe-Pennsylvania]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *446* new cases of COVID-19
-- *6* people have died of COVID-19
-- *182* people have recovered from COVID-19[1]
+- *502* new cases of COVID-19
+- *8* people have died of COVID-19
+- *340* people have recovered from COVID-19[1]
 
 The population in this census area is 170271. By our calculations:
-- 4.63% of the population have had COVID-19.[2]
-- 0.97% of the population or 1655.0 people are actively fighting the virus.
+- 4.66% of the population have had COVID-19.[2]
+- 0.91% of the population or 1551.0 people are actively fighting the virus.
 
 ## Synopsis
 

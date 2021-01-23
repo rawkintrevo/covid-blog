@@ -12,13 +12,13 @@ tags: [Ohio-Indiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *20* new cases of COVID-19
+- *24* new cases of COVID-19
 - *0* people have died of COVID-19
-- *10* people have recovered from COVID-19[1]
+- *13* people have recovered from COVID-19[1]
 
 The population in this census area is 5875. By our calculations:
-- 8.07% of the population have had COVID-19.[2]
-- 1.26% of the population or 74.0 people are actively fighting the virus.
+- 8.14% of the population have had COVID-19.[2]
+- 1.28% of the population or 75.0 people are actively fighting the virus.
 
 ## Synopsis
 

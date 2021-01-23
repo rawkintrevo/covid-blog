@@ -12,13 +12,13 @@ tags: [Rio Blanco-Colorado]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *33* new cases of COVID-19
+- *42* new cases of COVID-19
 - *0* people have died of COVID-19
-- *3* people have recovered from COVID-19[1]
+- *8* people have recovered from COVID-19[1]
 
 The population in this census area is 6324. By our calculations:
-- 5.38% of the population have had COVID-19.[2]
-- 1.12% of the population or 71.0 people are actively fighting the virus.
+- 5.52% of the population have had COVID-19.[2]
+- 1.19% of the population or 75.0 people are actively fighting the virus.
 
 ## Synopsis
 

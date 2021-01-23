@@ -12,13 +12,13 @@ tags: [Hardin-Iowa]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *24* new cases of COVID-19
-- *0* people have died of COVID-19
-- *7* people have recovered from COVID-19[1]
+- *29* new cases of COVID-19
+- *1* people have died of COVID-19
+- *13* people have recovered from COVID-19[1]
 
 The population in this census area is 16846. By our calculations:
-- 9.23% of the population have had COVID-19.[2]
-- 0.56% of the population or 95.0 people are actively fighting the virus.
+- 9.27% of the population have had COVID-19.[2]
+- 0.55% of the population or 93.0 people are actively fighting the virus.
 
 ## Synopsis
 

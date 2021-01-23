@@ -12,13 +12,13 @@ tags: [Starke-Indiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *45* new cases of COVID-19
+- *50* new cases of COVID-19
 - *2* people have died of COVID-19
-- *9* people have recovered from COVID-19[1]
+- *23* people have recovered from COVID-19[1]
 
 The population in this census area is 22995. By our calculations:
-- 7.56% of the population have had COVID-19.[2]
-- 0.76% of the population or 175.0 people are actively fighting the virus.
+- 7.58% of the population have had COVID-19.[2]
+- 0.72% of the population or 166.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Ouachita-Louisiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *440* new cases of COVID-19
-- *17* people have died of COVID-19
-- *213* people have recovered from COVID-19[1]
+- *585* new cases of COVID-19
+- *25* people have died of COVID-19
+- *205* people have recovered from COVID-19[1]
 
 The population in this census area is 153279. By our calculations:
-- 10.60% of the population have had COVID-19.[2]
-- 1.45% of the population or 2224.0 people are actively fighting the virus.
+- 10.70% of the population have had COVID-19.[2]
+- 1.55% of the population or 2369.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Emporia-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *49* new cases of COVID-19
+- *60* new cases of COVID-19
 - *1* people have died of COVID-19
-- *9* people have recovered from COVID-19[1]
+- *10* people have recovered from COVID-19[1]
 
 The population in this census area is 5346. By our calculations:
-- 9.75% of the population have had COVID-19.[2]
-- 1.91% of the population or 102.0 people are actively fighting the virus.
+- 9.95% of the population have had COVID-19.[2]
+- 2.10% of the population or 112.0 people are actively fighting the virus.
 
 ## Synopsis
 

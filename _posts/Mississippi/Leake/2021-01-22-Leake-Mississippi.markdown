@@ -12,13 +12,13 @@ tags: [Leake-Mississippi]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *60* new cases of COVID-19
-- *2* people have died of COVID-19
-- *45* people have recovered from COVID-19[1]
+- *73* new cases of COVID-19
+- *3* people have died of COVID-19
+- *56* people have recovered from COVID-19[1]
 
 The population in this census area is 22786. By our calculations:
-- 10.22% of the population have had COVID-19.[2]
-- 1.09% of the population or 248.0 people are actively fighting the virus.
+- 10.28% of the population have had COVID-19.[2]
+- 1.09% of the population or 249.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Washington-Illinois]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *36* new cases of COVID-19
+- *46* new cases of COVID-19
 - *0* people have died of COVID-19
-- *21* people have recovered from COVID-19[1]
+- *49* people have recovered from COVID-19[1]
 
 The population in this census area is 13887. By our calculations:
-- 10.51% of the population have had COVID-19.[2]
-- 1.68% of the population or 233.0 people are actively fighting the virus.
+- 10.58% of the population have had COVID-19.[2]
+- 1.55% of the population or 215.0 people are actively fighting the virus.
 
 ## Synopsis
 

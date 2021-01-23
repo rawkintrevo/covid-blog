@@ -12,13 +12,13 @@ tags: [Roseau-Minnesota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *7* new cases of COVID-19
+- *11* new cases of COVID-19
 - *1* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *8* people have recovered from COVID-19[1]
 
 The population in this census area is 15165. By our calculations:
-- 10.93% of the population have had COVID-19.[2]
-- 0.36% of the population or 55.0 people are actively fighting the virus.
+- 10.95% of the population have had COVID-19.[2]
+- 0.34% of the population or 51.0 people are actively fighting the virus.
 
 ## Synopsis
 

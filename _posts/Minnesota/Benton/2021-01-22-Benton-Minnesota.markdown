@@ -12,13 +12,13 @@ tags: [Benton-Minnesota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *61* new cases of COVID-19
-- *1* people have died of COVID-19
-- *13* people have recovered from COVID-19[1]
+- *65* new cases of COVID-19
+- *2* people have died of COVID-19
+- *45* people have recovered from COVID-19[1]
 
 The population in this census area is 40889. By our calculations:
-- 10.30% of the population have had COVID-19.[2]
-- 0.76% of the population or 312.0 people are actively fighting the virus.
+- 10.31% of the population have had COVID-19.[2]
+- 0.69% of the population or 283.0 people are actively fighting the virus.
 
 ## Synopsis
 

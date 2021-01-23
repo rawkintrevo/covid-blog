@@ -12,13 +12,13 @@ tags: [Carroll-Illinois]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *24* new cases of COVID-19
+- *35* new cases of COVID-19
 - *1* people have died of COVID-19
-- *7* people have recovered from COVID-19[1]
+- *16* people have recovered from COVID-19[1]
 
 The population in this census area is 14305. By our calculations:
-- 10.07% of the population have had COVID-19.[2]
-- 0.73% of the population or 105.0 people are actively fighting the virus.
+- 10.14% of the population have had COVID-19.[2]
+- 0.75% of the population or 107.0 people are actively fighting the virus.
 
 ## Synopsis
 

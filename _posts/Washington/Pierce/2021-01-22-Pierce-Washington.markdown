@@ -12,13 +12,13 @@ tags: [Pierce-Washington]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1271* new cases of COVID-19
-- *10* people have died of COVID-19
-- *392* people have recovered from COVID-19[1]
+- *1563* new cases of COVID-19
+- *25* people have died of COVID-19
+- *377* people have recovered from COVID-19[1]
 
 The population in this census area is 904980. By our calculations:
-- 3.48% of the population have had COVID-19.[2]
-- 0.61% of the population or 5519.0 people are actively fighting the virus.
+- 3.51% of the population have had COVID-19.[2]
+- 0.64% of the population or 5811.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Radford-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *56* new cases of COVID-19
+- *65* new cases of COVID-19
 - *1* people have died of COVID-19
-- *25* people have recovered from COVID-19[1]
+- *27* people have recovered from COVID-19[1]
 
 The population in this census area is 18249. By our calculations:
-- 9.48% of the population have had COVID-19.[2]
-- 1.18% of the population or 216.0 people are actively fighting the virus.
+- 9.53% of the population have had COVID-19.[2]
+- 1.22% of the population or 223.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Auglaize-Ohio]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *113* new cases of COVID-19
-- *0* people have died of COVID-19
-- *56* people have recovered from COVID-19[1]
+- *123* new cases of COVID-19
+- *3* people have died of COVID-19
+- *82* people have recovered from COVID-19[1]
 
 The population in this census area is 45656. By our calculations:
-- 9.16% of the population have had COVID-19.[2]
-- 1.18% of the population or 537.0 people are actively fighting the virus.
+- 9.19% of the population have had COVID-19.[2]
+- 1.13% of the population or 518.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Hardin-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *132* new cases of COVID-19
-- *7* people have died of COVID-19
-- *72* people have recovered from COVID-19[1]
+- *131* new cases of COVID-19
+- *8* people have died of COVID-19
+- *71* people have recovered from COVID-19[1]
 
 The population in this census area is 57602. By our calculations:
 - 7.12% of the population have had COVID-19.[2]
-- 1.13% of the population or 652.0 people are actively fighting the virus.
+- 1.13% of the population or 651.0 people are actively fighting the virus.
 
 ## Synopsis
 

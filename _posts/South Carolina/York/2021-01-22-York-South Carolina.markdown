@@ -12,13 +12,13 @@ tags: [York-South Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1543* new cases of COVID-19
+- *1706* new cases of COVID-19
 - *8* people have died of COVID-19
-- *265* people have recovered from COVID-19[1]
+- *679* people have recovered from COVID-19[1]
 
 The population in this census area is 280979. By our calculations:
-- 7.16% of the population have had COVID-19.[2]
-- 1.74% of the population or 4891.0 people are actively fighting the virus.
+- 7.22% of the population have had COVID-19.[2]
+- 1.65% of the population or 4640.0 people are actively fighting the virus.
 
 ## Synopsis
 

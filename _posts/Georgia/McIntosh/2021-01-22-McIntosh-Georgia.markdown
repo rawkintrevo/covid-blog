@@ -12,13 +12,13 @@ tags: [McIntosh-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *26* new cases of COVID-19
+- *31* new cases of COVID-19
 - *0* people have died of COVID-19
-- *16* people have recovered from COVID-19[1]
+- *19* people have recovered from COVID-19[1]
 
 The population in this census area is 14378. By our calculations:
-- 4.19% of the population have had COVID-19.[2]
-- 0.62% of the population or 89.0 people are actively fighting the virus.
+- 4.22% of the population have had COVID-19.[2]
+- 0.63% of the population or 91.0 people are actively fighting the virus.
 
 ## Synopsis
 

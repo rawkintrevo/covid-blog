@@ -12,13 +12,13 @@ tags: [Napa-California]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *627* new cases of COVID-19
-- *6* people have died of COVID-19
-- *131* people have recovered from COVID-19[1]
+- *685* new cases of COVID-19
+- *7* people have died of COVID-19
+- *228* people have recovered from COVID-19[1]
 
 The population in this census area is 137744. By our calculations:
-- 5.57% of the population have had COVID-19.[2]
-- 1.35% of the population or 1855.0 people are actively fighting the virus.
+- 5.61% of the population have had COVID-19.[2]
+- 1.32% of the population or 1815.0 people are actively fighting the virus.
 
 ## Synopsis
 

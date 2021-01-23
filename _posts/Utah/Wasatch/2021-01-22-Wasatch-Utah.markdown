@@ -12,13 +12,13 @@ tags: [Wasatch-Utah]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *160* new cases of COVID-19
+- *199* new cases of COVID-19
 - *0* people have died of COVID-19
-- *40* people have recovered from COVID-19[1]
+- *91* people have recovered from COVID-19[1]
 
 The population in this census area is 34091. By our calculations:
-- 11.19% of the population have had COVID-19.[2]
-- 1.81% of the population or 617.0 people are actively fighting the virus.
+- 11.30% of the population have had COVID-19.[2]
+- 1.77% of the population or 605.0 people are actively fighting the virus.
 
 ## Synopsis
 

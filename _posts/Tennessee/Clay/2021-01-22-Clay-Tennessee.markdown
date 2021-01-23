@@ -12,13 +12,13 @@ tags: [Clay-Tennessee]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *40* new cases of COVID-19
+- *47* new cases of COVID-19
 - *0* people have died of COVID-19
-- *5* people have recovered from COVID-19[1]
+- *13* people have recovered from COVID-19[1]
 
 The population in this census area is 7615. By our calculations:
-- 12.42% of the population have had COVID-19.[2]
-- 1.29% of the population or 98.0 people are actively fighting the virus.
+- 12.51% of the population have had COVID-19.[2]
+- 1.27% of the population or 97.0 people are actively fighting the virus.
 
 ## Synopsis
 

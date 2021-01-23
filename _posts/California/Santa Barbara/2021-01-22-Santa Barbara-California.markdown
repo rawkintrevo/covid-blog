@@ -14,11 +14,11 @@ tags: [Santa Barbara-California]
 In the last 7 days[3] we project there have been
 - *2201* new cases of COVID-19
 - *20* people have died of COVID-19
-- *621* people have recovered from COVID-19[1]
+- *946* people have recovered from COVID-19[1]
 
 The population in this census area is 446499. By our calculations:
 - 5.69% of the population have had COVID-19.[2]
-- 1.77% of the population or 7882.0 people are actively fighting the virus.
+- 1.69% of the population or 7557.0 people are actively fighting the virus.
 
 ## Synopsis
 

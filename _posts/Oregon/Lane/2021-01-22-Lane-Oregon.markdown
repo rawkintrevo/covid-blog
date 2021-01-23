@@ -12,13 +12,13 @@ tags: [Lane-Oregon]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *422* new cases of COVID-19
-- *3* people have died of COVID-19
-- *119* people have recovered from COVID-19[1]
+- *516* new cases of COVID-19
+- *6* people have died of COVID-19
+- *300* people have recovered from COVID-19[1]
 
 The population in this census area is 382067. By our calculations:
-- 2.22% of the population have had COVID-19.[2]
-- 0.40% of the population or 1519.0 people are actively fighting the virus.
+- 2.24% of the population have had COVID-19.[2]
+- 0.37% of the population or 1429.0 people are actively fighting the virus.
 
 ## Synopsis
 

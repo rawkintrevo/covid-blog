@@ -12,13 +12,13 @@ tags: [Wood-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *248* new cases of COVID-19
+- *299* new cases of COVID-19
 - *7* people have died of COVID-19
-- *44* people have recovered from COVID-19[1]
+- *41* people have recovered from COVID-19[1]
 
 The population in this census area is 45539. By our calculations:
-- 5.80% of the population have had COVID-19.[2]
-- 1.23% of the population or 561.0 people are actively fighting the virus.
+- 5.92% of the population have had COVID-19.[2]
+- 1.35% of the population or 615.0 people are actively fighting the virus.
 
 ## Synopsis
 

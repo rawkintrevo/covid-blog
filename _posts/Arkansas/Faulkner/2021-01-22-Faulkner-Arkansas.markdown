@@ -12,13 +12,13 @@ tags: [Faulkner-Arkansas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *533* new cases of COVID-19
-- *8* people have died of COVID-19
-- *297* people have recovered from COVID-19[1]
+- *644* new cases of COVID-19
+- *9* people have died of COVID-19
+- *397* people have recovered from COVID-19[1]
 
 The population in this census area is 126007. By our calculations:
-- 7.81% of the population have had COVID-19.[2]
-- 1.58% of the population or 1996.0 people are actively fighting the virus.
+- 7.90% of the population have had COVID-19.[2]
+- 1.59% of the population or 2006.0 people are actively fighting the virus.
 
 ## Synopsis
 

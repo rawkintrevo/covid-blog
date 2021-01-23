@@ -12,13 +12,13 @@ tags: [Dent-Missouri]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *19* new cases of COVID-19
+- *22* new cases of COVID-19
 - *1* people have died of COVID-19
-- *13* people have recovered from COVID-19[1]
+- *15* people have recovered from COVID-19[1]
 
 The population in this census area is 15573. By our calculations:
-- 4.95% of the population have had COVID-19.[2]
-- 0.38% of the population or 59.0 people are actively fighting the virus.
+- 4.97% of the population have had COVID-19.[2]
+- 0.39% of the population or 60.0 people are actively fighting the virus.
 
 ## Synopsis
 

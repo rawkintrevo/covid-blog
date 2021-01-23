@@ -12,13 +12,13 @@ tags: [Scott-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *200* new cases of COVID-19
+- *251* new cases of COVID-19
 - *0* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *49* people have recovered from COVID-19[1]
 
 The population in this census area is 57004. By our calculations:
-- 5.58% of the population have had COVID-19.[2]
-- 1.26% of the population or 720.0 people are actively fighting the virus.
+- 5.66% of the population have had COVID-19.[2]
+- 1.27% of the population or 722.0 people are actively fighting the virus.
 
 ## Synopsis
 

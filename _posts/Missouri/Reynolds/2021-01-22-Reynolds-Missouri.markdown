@@ -12,13 +12,13 @@ tags: [Reynolds-Missouri]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *4* new cases of COVID-19
+- *7* new cases of COVID-19
 - *1* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *1* people have recovered from COVID-19[1]
 
 The population in this census area is 6270. By our calculations:
-- 4.04% of the population have had COVID-19.[2]
-- 0.43% of the population or 27.0 people are actively fighting the virus.
+- 4.08% of the population have had COVID-19.[2]
+- 0.46% of the population or 29.0 people are actively fighting the virus.
 
 ## Synopsis
 

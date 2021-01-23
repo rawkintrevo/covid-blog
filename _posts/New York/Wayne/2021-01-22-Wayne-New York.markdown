@@ -12,13 +12,13 @@ tags: [Wayne-New York]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *270* new cases of COVID-19
-- *4* people have died of COVID-19
-- *148* people have recovered from COVID-19[1]
+- *319* new cases of COVID-19
+- *6* people have died of COVID-19
+- *214* people have recovered from COVID-19[1]
 
 The population in this census area is 89918. By our calculations:
-- 4.14% of the population have had COVID-19.[2]
-- 1.19% of the population or 1073.0 people are actively fighting the virus.
+- 4.20% of the population have had COVID-19.[2]
+- 1.17% of the population or 1054.0 people are actively fighting the virus.
 
 ## Synopsis
 

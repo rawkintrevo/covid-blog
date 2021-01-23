@@ -12,13 +12,13 @@ tags: [Carroll-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *35* new cases of COVID-19
-- *0* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *46* new cases of COVID-19
+- *1* people have died of COVID-19
+- *13* people have recovered from COVID-19[1]
 
 The population in this census area is 10631. By our calculations:
-- 7.07% of the population have had COVID-19.[2]
-- 2.10% of the population or 223.0 people are actively fighting the virus.
+- 7.19% of the population have had COVID-19.[2]
+- 2.07% of the population or 220.0 people are actively fighting the virus.
 
 ## Synopsis
 

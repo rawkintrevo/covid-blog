@@ -12,13 +12,13 @@ tags: [Weakley-Tennessee]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *58* new cases of COVID-19
+- *67* new cases of COVID-19
 - *0* people have died of COVID-19
-- *24* people have recovered from COVID-19[1]
+- *94* people have recovered from COVID-19[1]
 
 The population in this census area is 33328. By our calculations:
-- 10.26% of the population have had COVID-19.[2]
-- 1.03% of the population or 342.0 people are actively fighting the virus.
+- 10.28% of the population have had COVID-19.[2]
+- 0.84% of the population or 281.0 people are actively fighting the virus.
 
 ## Synopsis
 

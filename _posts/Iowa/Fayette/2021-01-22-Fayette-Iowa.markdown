@@ -12,13 +12,13 @@ tags: [Fayette-Iowa]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *65* new cases of COVID-19
+- *70* new cases of COVID-19
 - *1* people have died of COVID-19
-- *13* people have recovered from COVID-19[1]
+- *27* people have recovered from COVID-19[1]
 
 The population in this census area is 19650. By our calculations:
-- 8.33% of the population have had COVID-19.[2]
-- 1.12% of the population or 220.0 people are actively fighting the virus.
+- 8.35% of the population have had COVID-19.[2]
+- 1.07% of the population or 211.0 people are actively fighting the virus.
 
 ## Synopsis
 

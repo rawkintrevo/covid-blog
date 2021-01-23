@@ -12,13 +12,13 @@ tags: [Shawano-Wisconsin]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *79* new cases of COVID-19
-- *1* people have died of COVID-19
-- *43* people have recovered from COVID-19[1]
+- *88* new cases of COVID-19
+- *2* people have died of COVID-19
+- *57* people have recovered from COVID-19[1]
 
 The population in this census area is 40899. By our calculations:
-- 11.95% of the population have had COVID-19.[2]
-- 0.73% of the population or 297.0 people are actively fighting the virus.
+- 11.98% of the population have had COVID-19.[2]
+- 0.71% of the population or 291.0 people are actively fighting the virus.
 
 ## Synopsis
 

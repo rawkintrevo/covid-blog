@@ -14,11 +14,11 @@ tags: [Santa Cruz-California]
 In the last 7 days[3] we project there have been
 - *1012* new cases of COVID-19
 - *2* people have died of COVID-19
-- *417* people have recovered from COVID-19[1]
+- *654* people have recovered from COVID-19[1]
 
 The population in this census area is 273213. By our calculations:
 - 4.56% of the population have had COVID-19.[2]
-- 1.29% of the population or 3522.0 people are actively fighting the virus.
+- 1.20% of the population or 3285.0 people are actively fighting the virus.
 
 ## Synopsis
 

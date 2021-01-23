@@ -12,13 +12,13 @@ tags: [Waynesboro-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *151* new cases of COVID-19
-- *1* people have died of COVID-19
-- *45* people have recovered from COVID-19[1]
+- *167* new cases of COVID-19
+- *2* people have died of COVID-19
+- *50* people have recovered from COVID-19[1]
 
 The population in this census area is 22630. By our calculations:
-- 7.45% of the population have had COVID-19.[2]
-- 2.01% of the population or 454.0 people are actively fighting the virus.
+- 7.53% of the population have had COVID-19.[2]
+- 2.05% of the population or 464.0 people are actively fighting the virus.
 
 ## Synopsis
 

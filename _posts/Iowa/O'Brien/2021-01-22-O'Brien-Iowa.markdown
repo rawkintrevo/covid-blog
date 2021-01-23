@@ -12,13 +12,13 @@ tags: [O'Brien-Iowa]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *23* new cases of COVID-19
+- *27* new cases of COVID-19
 - *0* people have died of COVID-19
-- *4* people have recovered from COVID-19[1]
+- *13* people have recovered from COVID-19[1]
 
 The population in this census area is 13753. By our calculations:
-- 12.35% of the population have had COVID-19.[2]
-- 0.78% of the population or 107.0 people are actively fighting the virus.
+- 12.38% of the population have had COVID-19.[2]
+- 0.74% of the population or 102.0 people are actively fighting the virus.
 
 ## Synopsis
 

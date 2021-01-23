@@ -12,12 +12,12 @@ tags: [Lowndes-Alabama]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *40* new cases of COVID-19
+- *45* new cases of COVID-19
 - *1* people have died of COVID-19
-- *14* people have recovered from COVID-19[1]
+- *19* people have recovered from COVID-19[1]
 
 The population in this census area is 9726. By our calculations:
-- 11.52% of the population have had COVID-19.[2]
+- 11.57% of the population have had COVID-19.[2]
 - 1.65% of the population or 160.0 people are actively fighting the virus.
 
 ## Synopsis

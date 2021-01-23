@@ -12,13 +12,13 @@ tags: [Brown-Illinois]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *14* new cases of COVID-19
+- *15* new cases of COVID-19
 - *0* people have died of COVID-19
-- *1* people have recovered from COVID-19[1]
+- *6* people have recovered from COVID-19[1]
 
 The population in this census area is 6578. By our calculations:
-- 9.30% of the population have had COVID-19.[2]
-- 2.45% of the population or 161.0 people are actively fighting the virus.
+- 9.32% of the population have had COVID-19.[2]
+- 2.39% of the population or 157.0 people are actively fighting the virus.
 
 ## Synopsis
 

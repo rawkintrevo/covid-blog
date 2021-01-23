@@ -12,13 +12,13 @@ tags: [Dade-Missouri]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *4* new cases of COVID-19
-- *0* people have died of COVID-19
+- *5* new cases of COVID-19
+- *2* people have died of COVID-19
 - *-5* people have recovered from COVID-19[1]
 
 The population in this census area is 7561. By our calculations:
-- 5.24% of the population have had COVID-19.[2]
-- 0.44% of the population or 33.0 people are actively fighting the virus.
+- 5.28% of the population have had COVID-19.[2]
+- 0.42% of the population or 32.0 people are actively fighting the virus.
 
 ## Synopsis
 

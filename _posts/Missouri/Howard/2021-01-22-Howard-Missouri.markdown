@@ -12,13 +12,13 @@ tags: [Howard-Missouri]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *13* new cases of COVID-19
+- *17* new cases of COVID-19
 - *0* people have died of COVID-19
-- *10* people have recovered from COVID-19[1]
+- *11* people have recovered from COVID-19[1]
 
 The population in this census area is 10001. By our calculations:
-- 6.77% of the population have had COVID-19.[2]
-- 0.53% of the population or 53.0 people are actively fighting the virus.
+- 6.81% of the population have had COVID-19.[2]
+- 0.56% of the population or 56.0 people are actively fighting the virus.
 
 ## Synopsis
 

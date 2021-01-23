@@ -12,13 +12,13 @@ tags: [Edgecombe-North Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *141* new cases of COVID-19
-- *0* people have died of COVID-19
-- *46* people have recovered from COVID-19[1]
+- *167* new cases of COVID-19
+- *1* people have died of COVID-19
+- *100* people have recovered from COVID-19[1]
 
 The population in this census area is 51472. By our calculations:
-- 7.32% of the population have had COVID-19.[2]
-- 1.03% of the population or 528.0 people are actively fighting the virus.
+- 7.37% of the population have had COVID-19.[2]
+- 0.97% of the population or 499.0 people are actively fighting the virus.
 
 ## Synopsis
 

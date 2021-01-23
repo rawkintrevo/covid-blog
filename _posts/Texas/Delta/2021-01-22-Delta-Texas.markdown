@@ -12,13 +12,13 @@ tags: [Delta-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *14* new cases of COVID-19
+- *17* new cases of COVID-19
 - *1* people have died of COVID-19
-- *7* people have recovered from COVID-19[1]
+- *8* people have recovered from COVID-19[1]
 
 The population in this census area is 5331. By our calculations:
-- 4.05% of the population have had COVID-19.[2]
-- 1.16% of the population or 62.0 people are actively fighting the virus.
+- 4.11% of the population have had COVID-19.[2]
+- 1.20% of the population or 64.0 people are actively fighting the virus.
 
 ## Synopsis
 

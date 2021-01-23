@@ -12,13 +12,13 @@ tags: [San Juan-Utah]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *73* new cases of COVID-19
-- *0* people have died of COVID-19
-- *15* people have recovered from COVID-19[1]
+- *86* new cases of COVID-19
+- *1* people have died of COVID-19
+- *23* people have recovered from COVID-19[1]
 
 The population in this census area is 15308. By our calculations:
-- 11.01% of the population have had COVID-19.[2]
-- 1.80% of the population or 276.0 people are actively fighting the virus.
+- 11.11% of the population have had COVID-19.[2]
+- 1.83% of the population or 280.0 people are actively fighting the virus.
 
 ## Synopsis
 

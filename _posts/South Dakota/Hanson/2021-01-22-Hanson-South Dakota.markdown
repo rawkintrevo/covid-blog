@@ -12,12 +12,12 @@ tags: [Hanson-South Dakota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *3* new cases of COVID-19
+- *4* new cases of COVID-19
 - *1* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *1* people have recovered from COVID-19[1]
 
 The population in this census area is 3453. By our calculations:
-- 9.50% of the population have had COVID-19.[2]
+- 9.53% of the population have had COVID-19.[2]
 - 0.46% of the population or 16.0 people are actively fighting the virus.
 
 ## Synopsis

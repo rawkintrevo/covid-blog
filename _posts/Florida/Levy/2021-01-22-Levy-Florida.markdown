@@ -12,13 +12,13 @@ tags: [Levy-Florida]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *111* new cases of COVID-19
+- *127* new cases of COVID-19
 - *0* people have died of COVID-19
-- *36* people have recovered from COVID-19[1]
+- *104* people have recovered from COVID-19[1]
 
 The population in this census area is 41503. By our calculations:
-- 5.68% of the population have had COVID-19.[2]
-- 1.22% of the population or 505.0 people are actively fighting the virus.
+- 5.72% of the population have had COVID-19.[2]
+- 1.09% of the population or 453.0 people are actively fighting the virus.
 
 ## Synopsis
 

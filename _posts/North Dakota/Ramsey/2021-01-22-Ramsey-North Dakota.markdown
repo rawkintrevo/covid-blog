@@ -12,13 +12,13 @@ tags: [Ramsey-North Dakota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *14* new cases of COVID-19
+- *18* new cases of COVID-19
 - *2* people have died of COVID-19
-- *19* people have recovered from COVID-19[1]
+- *26* people have recovered from COVID-19[1]
 
 The population in this census area is 11519. By our calculations:
-- 13.38% of the population have had COVID-19.[2]
-- 0.53% of the population or 61.0 people are actively fighting the virus.
+- 13.41% of the population have had COVID-19.[2]
+- 0.50% of the population or 58.0 people are actively fighting the virus.
 
 ## Synopsis
 

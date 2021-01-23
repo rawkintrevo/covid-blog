@@ -12,13 +12,13 @@ tags: [Yuma-Colorado]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *19* new cases of COVID-19
+- *28* new cases of COVID-19
 - *0* people have died of COVID-19
-- *8* people have recovered from COVID-19[1]
+- *12* people have recovered from COVID-19[1]
 
 The population in this census area is 10019. By our calculations:
-- 6.22% of the population have had COVID-19.[2]
-- 0.70% of the population or 70.0 people are actively fighting the virus.
+- 6.31% of the population have had COVID-19.[2]
+- 0.75% of the population or 75.0 people are actively fighting the virus.
 
 ## Synopsis
 

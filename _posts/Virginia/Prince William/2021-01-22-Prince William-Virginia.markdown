@@ -12,13 +12,13 @@ tags: [Prince William-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *3194* new cases of COVID-19
-- *8* people have died of COVID-19
-- *620* people have recovered from COVID-19[1]
+- *3304* new cases of COVID-19
+- *9* people have died of COVID-19
+- *919* people have recovered from COVID-19[1]
 
 The population in this census area is 470335. By our calculations:
-- 6.91% of the population have had COVID-19.[2]
-- 1.39% of the population or 6547.0 people are actively fighting the virus.
+- 6.93% of the population have had COVID-19.[2]
+- 1.35% of the population or 6357.0 people are actively fighting the virus.
 
 ## Synopsis
 

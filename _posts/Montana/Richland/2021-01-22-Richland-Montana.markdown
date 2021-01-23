@@ -12,13 +12,13 @@ tags: [Richland-Montana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *14* new cases of COVID-19
+- *19* new cases of COVID-19
 - *0* people have died of COVID-19
-- *4* people have recovered from COVID-19[1]
+- *16* people have recovered from COVID-19[1]
 
 The population in this census area is 10803. By our calculations:
-- 8.78% of the population have had COVID-19.[2]
-- 0.67% of the population or 72.0 people are actively fighting the virus.
+- 8.82% of the population have had COVID-19.[2]
+- 0.60% of the population or 65.0 people are actively fighting the virus.
 
 ## Synopsis
 

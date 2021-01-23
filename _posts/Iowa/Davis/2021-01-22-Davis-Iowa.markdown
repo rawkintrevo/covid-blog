@@ -12,13 +12,13 @@ tags: [Davis-Iowa]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *12* new cases of COVID-19
+- *15* new cases of COVID-19
 - *0* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *12* people have recovered from COVID-19[1]
 
 The population in this census area is 9000. By our calculations:
-- 7.71% of the population have had COVID-19.[2]
-- 0.60% of the population or 54.0 people are actively fighting the virus.
+- 7.74% of the population have had COVID-19.[2]
+- 0.50% of the population or 45.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Marshall-Illinois]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *32* new cases of COVID-19
+- *37* new cases of COVID-19
 - *1* people have died of COVID-19
-- *6* people have recovered from COVID-19[1]
+- *15* people have recovered from COVID-19[1]
 
 The population in this census area is 11438. By our calculations:
-- 5.92% of the population have had COVID-19.[2]
-- 0.82% of the population or 94.0 people are actively fighting the virus.
+- 5.96% of the population have had COVID-19.[2]
+- 0.79% of the population or 90.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Greene-Alabama]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *15* new cases of COVID-19
+- *16* new cases of COVID-19
 - *0* people have died of COVID-19
-- *17* people have recovered from COVID-19[1]
+- *20* people have recovered from COVID-19[1]
 
 The population in this census area is 8111. By our calculations:
-- 9.44% of the population have had COVID-19.[2]
-- 1.00% of the population or 81.0 people are actively fighting the virus.
+- 9.46% of the population have had COVID-19.[2]
+- 0.97% of the population or 79.0 people are actively fighting the virus.
 
 ## Synopsis
 

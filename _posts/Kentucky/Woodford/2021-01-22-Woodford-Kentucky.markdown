@@ -12,13 +12,13 @@ tags: [Woodford-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *99* new cases of COVID-19
+- *117* new cases of COVID-19
 - *0* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *66* people have recovered from COVID-19[1]
 
 The population in this census area is 26734. By our calculations:
-- 6.04% of the population have had COVID-19.[2]
-- 1.34% of the population or 358.0 people are actively fighting the virus.
+- 6.10% of the population have had COVID-19.[2]
+- 1.16% of the population or 310.0 people are actively fighting the virus.
 
 ## Synopsis
 

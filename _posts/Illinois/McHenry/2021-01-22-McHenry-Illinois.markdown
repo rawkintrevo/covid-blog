@@ -12,13 +12,13 @@ tags: [McHenry-Illinois]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *664* new cases of COVID-19
-- *11* people have died of COVID-19
-- *178* people have recovered from COVID-19[1]
+- *771* new cases of COVID-19
+- *13* people have died of COVID-19
+- *465* people have recovered from COVID-19[1]
 
 The population in this census area is 307774. By our calculations:
-- 7.09% of the population have had COVID-19.[2]
-- 0.85% of the population or 2617.0 people are actively fighting the virus.
+- 7.12% of the population have had COVID-19.[2]
+- 0.79% of the population or 2435.0 people are actively fighting the virus.
 
 ## Synopsis
 

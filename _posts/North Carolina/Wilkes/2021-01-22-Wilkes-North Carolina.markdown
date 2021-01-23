@@ -12,13 +12,13 @@ tags: [Wilkes-North Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *261* new cases of COVID-19
+- *298* new cases of COVID-19
 - *5* people have died of COVID-19
-- *42* people have recovered from COVID-19[1]
+- *193* people have recovered from COVID-19[1]
 
 The population in this census area is 68412. By our calculations:
-- 7.20% of the population have had COVID-19.[2]
-- 1.51% of the population or 1036.0 people are actively fighting the virus.
+- 7.26% of the population have had COVID-19.[2]
+- 1.35% of the population or 922.0 people are actively fighting the virus.
 
 ## Synopsis
 

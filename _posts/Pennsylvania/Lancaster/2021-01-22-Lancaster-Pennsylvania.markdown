@@ -12,13 +12,13 @@ tags: [Lancaster-Pennsylvania]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1694* new cases of COVID-19
-- *34* people have died of COVID-19
-- *643* people have recovered from COVID-19[1]
+- *1935* new cases of COVID-19
+- *40* people have died of COVID-19
+- *1037* people have recovered from COVID-19[1]
 
 The population in this census area is 545724. By our calculations:
-- 6.37% of the population have had COVID-19.[2]
-- 1.13% of the population or 6181.0 people are actively fighting the virus.
+- 6.41% of the population have had COVID-19.[2]
+- 1.10% of the population or 6022.0 people are actively fighting the virus.
 
 ## Synopsis
 

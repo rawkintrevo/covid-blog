@@ -12,13 +12,13 @@ tags: [Cecil-Maryland]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *266* new cases of COVID-19
-- *8* people have died of COVID-19
-- *82* people have recovered from COVID-19[1]
+- *300* new cases of COVID-19
+- *10* people have died of COVID-19
+- *145* people have recovered from COVID-19[1]
 
 The population in this census area is 102855. By our calculations:
-- 4.36% of the population have had COVID-19.[2]
-- 0.82% of the population or 840.0 people are actively fighting the virus.
+- 4.40% of the population have had COVID-19.[2]
+- 0.79% of the population or 809.0 people are actively fighting the virus.
 
 ## Synopsis
 

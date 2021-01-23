@@ -12,13 +12,13 @@ tags: [Grand Isle-Vermont]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *6* new cases of COVID-19
+- *7* new cases of COVID-19
 - *0* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *2* people have recovered from COVID-19[1]
 
 The population in this census area is 7235. By our calculations:
-- 1.12% of the population have had COVID-19.[2]
-- 0.28% of the population or 20.0 people are actively fighting the virus.
+- 1.13% of the population have had COVID-19.[2]
+- 0.26% of the population or 19.0 people are actively fighting the virus.
 
 ## Synopsis
 

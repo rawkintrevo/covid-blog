@@ -12,13 +12,13 @@ tags: [Ogemaw-Michigan]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *14* new cases of COVID-19
+- *18* new cases of COVID-19
 - *2* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *1* people have recovered from COVID-19[1]
 
 The population in this census area is 20997. By our calculations:
-- 4.83% of the population have had COVID-19.[2]
-- 0.44% of the population or 92.0 people are actively fighting the virus.
+- 4.85% of the population have had COVID-19.[2]
+- 0.45% of the population or 95.0 people are actively fighting the virus.
 
 ## Synopsis
 

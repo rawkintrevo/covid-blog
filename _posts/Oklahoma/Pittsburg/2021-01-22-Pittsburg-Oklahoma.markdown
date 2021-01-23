@@ -12,13 +12,13 @@ tags: [Pittsburg-Oklahoma]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *173* new cases of COVID-19
+- *199* new cases of COVID-19
 - *2* people have died of COVID-19
-- *47* people have recovered from COVID-19[1]
+- *122* people have recovered from COVID-19[1]
 
 The population in this census area is 43654. By our calculations:
-- 8.70% of the population have had COVID-19.[2]
-- 1.80% of the population or 784.0 people are actively fighting the virus.
+- 8.76% of the population have had COVID-19.[2]
+- 1.68% of the population or 735.0 people are actively fighting the virus.
 
 ## Synopsis
 

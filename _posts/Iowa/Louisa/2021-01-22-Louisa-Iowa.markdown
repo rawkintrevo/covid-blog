@@ -12,13 +12,13 @@ tags: [Louisa-Iowa]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *16* new cases of COVID-19
+- *17* new cases of COVID-19
 - *1* people have died of COVID-19
-- *14* people have recovered from COVID-19[1]
+- *17* people have recovered from COVID-19[1]
 
 The population in this census area is 11035. By our calculations:
-- 10.46% of the population have had COVID-19.[2]
-- 0.64% of the population or 71.0 people are actively fighting the virus.
+- 10.47% of the population have had COVID-19.[2]
+- 0.63% of the population or 69.0 people are actively fighting the virus.
 
 ## Synopsis
 

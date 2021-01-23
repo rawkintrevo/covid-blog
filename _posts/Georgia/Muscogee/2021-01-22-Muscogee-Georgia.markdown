@@ -12,13 +12,13 @@ tags: [Muscogee-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *571* new cases of COVID-19
-- *13* people have died of COVID-19
-- *374* people have recovered from COVID-19[1]
+- *639* new cases of COVID-19
+- *15* people have died of COVID-19
+- *476* people have recovered from COVID-19[1]
 
 The population in this census area is 195769. By our calculations:
-- 6.20% of the population have had COVID-19.[2]
-- 1.13% of the population or 2208.0 people are actively fighting the virus.
+- 6.23% of the population have had COVID-19.[2]
+- 1.11% of the population or 2172.0 people are actively fighting the virus.
 
 ## Synopsis
 

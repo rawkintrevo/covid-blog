@@ -12,13 +12,13 @@ tags: [Morgan-Alabama]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *380* new cases of COVID-19
-- *7* people have died of COVID-19
-- *327* people have recovered from COVID-19[1]
+- *428* new cases of COVID-19
+- *17* people have died of COVID-19
+- *412* people have recovered from COVID-19[1]
 
 The population in this census area is 119679. By our calculations:
-- 10.35% of the population have had COVID-19.[2]
-- 1.29% of the population or 1542.0 people are actively fighting the virus.
+- 10.40% of the population have had COVID-19.[2]
+- 1.25% of the population or 1495.0 people are actively fighting the virus.
 
 ## Synopsis
 

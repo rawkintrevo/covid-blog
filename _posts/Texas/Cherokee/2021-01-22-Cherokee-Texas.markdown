@@ -12,13 +12,13 @@ tags: [Cherokee-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *120* new cases of COVID-19
-- *9* people have died of COVID-19
-- *65* people have recovered from COVID-19[1]
+- *135* new cases of COVID-19
+- *12* people have died of COVID-19
+- *62* people have recovered from COVID-19[1]
 
 The population in this census area is 52646. By our calculations:
-- 6.78% of the population have had COVID-19.[2]
-- 0.85% of the population or 450.0 people are actively fighting the virus.
+- 6.81% of the population have had COVID-19.[2]
+- 0.88% of the population or 465.0 people are actively fighting the virus.
 
 ## Synopsis
 

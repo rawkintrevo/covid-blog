@@ -12,13 +12,13 @@ tags: [Archer-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *22* new cases of COVID-19
+- *35* new cases of COVID-19
 - *2* people have died of COVID-19
 - *21* people have recovered from COVID-19[1]
 
 The population in this census area is 8553. By our calculations:
-- 8.23% of the population have had COVID-19.[2]
-- 1.61% of the population or 138.0 people are actively fighting the virus.
+- 8.38% of the population have had COVID-19.[2]
+- 1.77% of the population or 151.0 people are actively fighting the virus.
 
 ## Synopsis
 

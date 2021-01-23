@@ -12,13 +12,13 @@ tags: [Bond-Illinois]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *28* new cases of COVID-19
+- *46* new cases of COVID-19
 - *1* people have died of COVID-19
-- *13* people have recovered from COVID-19[1]
+- *17* people have recovered from COVID-19[1]
 
 The population in this census area is 16426. By our calculations:
-- 10.62% of the population have had COVID-19.[2]
-- 1.11% of the population or 182.0 people are actively fighting the virus.
+- 10.73% of the population have had COVID-19.[2]
+- 1.19% of the population or 196.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Harrison-Ohio]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *17* new cases of COVID-19
+- *23* new cases of COVID-19
 - *13* people have died of COVID-19
-- *4* people have recovered from COVID-19[1]
+- *16* people have recovered from COVID-19[1]
 
 The population in this census area is 15040. By our calculations:
-- 5.80% of the population have had COVID-19.[2]
-- 1.08% of the population or 162.0 people are actively fighting the virus.
+- 5.84% of the population have had COVID-19.[2]
+- 1.04% of the population or 156.0 people are actively fighting the virus.
 
 ## Synopsis
 

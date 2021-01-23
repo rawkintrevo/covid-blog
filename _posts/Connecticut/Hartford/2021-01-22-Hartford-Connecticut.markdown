@@ -12,13 +12,13 @@ tags: [Hartford-Connecticut]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *3177* new cases of COVID-19
-- *44* people have died of COVID-19
-- *453* people have recovered from COVID-19[1]
+- *3591* new cases of COVID-19
+- *56* people have died of COVID-19
+- *1461* people have recovered from COVID-19[1]
 
 The population in this census area is 891720. By our calculations:
-- 6.63% of the population have had COVID-19.[2]
-- 1.32% of the population or 11815.0 people are actively fighting the virus.
+- 6.68% of the population have had COVID-19.[2]
+- 1.26% of the population or 11209.0 people are actively fighting the virus.
 
 ## Synopsis
 

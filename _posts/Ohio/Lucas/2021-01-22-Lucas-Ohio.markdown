@@ -12,13 +12,13 @@ tags: [Lucas-Ohio]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1231* new cases of COVID-19
-- *34* people have died of COVID-19
-- *288* people have recovered from COVID-19[1]
+- *1510* new cases of COVID-19
+- *36* people have died of COVID-19
+- *825* people have recovered from COVID-19[1]
 
 The population in this census area is 428348. By our calculations:
-- 7.18% of the population have had COVID-19.[2]
-- 1.11% of the population or 4766.0 people are actively fighting the virus.
+- 7.25% of the population have had COVID-19.[2]
+- 1.05% of the population or 4506.0 people are actively fighting the virus.
 
 ## Synopsis
 

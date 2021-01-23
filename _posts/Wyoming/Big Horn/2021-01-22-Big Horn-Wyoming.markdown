@@ -12,13 +12,13 @@ tags: [Big Horn-Wyoming]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *21* new cases of COVID-19
+- *25* new cases of COVID-19
 - *1* people have died of COVID-19
-- *18* people have recovered from COVID-19[1]
+- *24* people have recovered from COVID-19[1]
 
 The population in this census area is 11790. By our calculations:
-- 7.89% of the population have had COVID-19.[2]
-- 1.19% of the population or 140.0 people are actively fighting the virus.
+- 7.92% of the population have had COVID-19.[2]
+- 1.17% of the population or 138.0 people are actively fighting the virus.
 
 ## Synopsis
 

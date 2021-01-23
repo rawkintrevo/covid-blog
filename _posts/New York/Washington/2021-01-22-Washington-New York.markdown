@@ -12,13 +12,13 @@ tags: [Washington-New York]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *206* new cases of COVID-19
-- *4* people have died of COVID-19
-- *68* people have recovered from COVID-19[1]
+- *237* new cases of COVID-19
+- *5* people have died of COVID-19
+- *82* people have recovered from COVID-19[1]
 
 The population in this census area is 61204. By our calculations:
-- 2.52% of the population have had COVID-19.[2]
-- 1.07% of the population or 654.0 people are actively fighting the virus.
+- 2.57% of the population have had COVID-19.[2]
+- 1.09% of the population or 670.0 people are actively fighting the virus.
 
 ## Synopsis
 

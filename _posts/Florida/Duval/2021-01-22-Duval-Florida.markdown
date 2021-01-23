@@ -12,13 +12,13 @@ tags: [Duval-Florida]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *2964* new cases of COVID-19
-- *69* people have died of COVID-19
-- *956* people have recovered from COVID-19[1]
+- *3494* new cases of COVID-19
+- *75* people have died of COVID-19
+- *2503* people have recovered from COVID-19[1]
 
 The population in this census area is 957755. By our calculations:
-- 7.95% of the population have had COVID-19.[2]
-- 1.54% of the population or 14706.0 people are actively fighting the virus.
+- 8.01% of the population have had COVID-19.[2]
+- 1.43% of the population or 13683.0 people are actively fighting the virus.
 
 ## Synopsis
 

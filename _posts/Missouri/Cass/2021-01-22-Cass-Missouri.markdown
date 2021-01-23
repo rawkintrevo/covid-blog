@@ -12,13 +12,13 @@ tags: [Cass-Missouri]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *185* new cases of COVID-19
+- *230* new cases of COVID-19
 - *6* people have died of COVID-19
-- *127* people have recovered from COVID-19[1]
+- *166* people have recovered from COVID-19[1]
 
 The population in this census area is 105780. By our calculations:
-- 6.14% of the population have had COVID-19.[2]
-- 0.80% of the population or 847.0 people are actively fighting the virus.
+- 6.18% of the population have had COVID-19.[2]
+- 0.81% of the population or 853.0 people are actively fighting the virus.
 
 ## Synopsis
 

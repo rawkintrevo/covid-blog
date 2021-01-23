@@ -12,13 +12,13 @@ tags: [Comanche-Oklahoma]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *461* new cases of COVID-19
-- *8* people have died of COVID-19
-- *130* people have recovered from COVID-19[1]
+- *531* new cases of COVID-19
+- *11* people have died of COVID-19
+- *259* people have recovered from COVID-19[1]
 
 The population in this census area is 120749. By our calculations:
-- 7.38% of the population have had COVID-19.[2]
-- 1.56% of the population or 1880.0 people are actively fighting the virus.
+- 7.44% of the population have had COVID-19.[2]
+- 1.51% of the population or 1818.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Franklin-Illinois]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *98* new cases of COVID-19
+- *118* new cases of COVID-19
 - *4* people have died of COVID-19
-- *53* people have recovered from COVID-19[1]
+- *114* people have recovered from COVID-19[1]
 
 The population in this census area is 38469. By our calculations:
-- 10.04% of the population have had COVID-19.[2]
-- 1.27% of the population or 488.0 people are actively fighting the virus.
+- 10.10% of the population have had COVID-19.[2]
+- 1.16% of the population or 447.0 people are actively fighting the virus.
 
 ## Synopsis
 

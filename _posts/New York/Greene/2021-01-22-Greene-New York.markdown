@@ -12,13 +12,13 @@ tags: [Greene-New York]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *192* new cases of COVID-19
-- *13* people have died of COVID-19
-- *116* people have recovered from COVID-19[1]
+- *210* new cases of COVID-19
+- *14* people have died of COVID-19
+- *161* people have recovered from COVID-19[1]
 
 The population in this census area is 47188. By our calculations:
-- 4.40% of the population have had COVID-19.[2]
-- 1.37% of the population or 648.0 people are actively fighting the virus.
+- 4.44% of the population have had COVID-19.[2]
+- 1.31% of the population or 620.0 people are actively fighting the virus.
 
 ## Synopsis
 

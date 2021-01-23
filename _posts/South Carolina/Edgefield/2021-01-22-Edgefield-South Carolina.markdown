@@ -12,13 +12,13 @@ tags: [Edgefield-South Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *148* new cases of COVID-19
+- *192* new cases of COVID-19
 - *1* people have died of COVID-19
-- *17* people have recovered from COVID-19[1]
+- *40* people have recovered from COVID-19[1]
 
 The population in this census area is 27260. By our calculations:
-- 7.29% of the population have had COVID-19.[2]
-- 1.59% of the population or 434.0 people are actively fighting the virus.
+- 7.45% of the population have had COVID-19.[2]
+- 1.67% of the population or 455.0 people are actively fighting the virus.
 
 ## Synopsis
 

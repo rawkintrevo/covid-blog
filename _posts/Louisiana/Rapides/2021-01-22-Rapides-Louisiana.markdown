@@ -12,13 +12,13 @@ tags: [Rapides-Louisiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *341* new cases of COVID-19
-- *11* people have died of COVID-19
-- *92* people have recovered from COVID-19[1]
+- *458* new cases of COVID-19
+- *12* people have died of COVID-19
+- *91* people have recovered from COVID-19[1]
 
 The population in this census area is 129648. By our calculations:
-- 7.73% of the population have had COVID-19.[2]
-- 1.34% of the population or 1733.0 people are actively fighting the virus.
+- 7.82% of the population have had COVID-19.[2]
+- 1.43% of the population or 1850.0 people are actively fighting the virus.
 
 ## Synopsis
 

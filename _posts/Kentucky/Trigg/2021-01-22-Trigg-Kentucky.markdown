@@ -12,13 +12,13 @@ tags: [Trigg-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *63* new cases of COVID-19
-- *1* people have died of COVID-19
-- *-1* people have recovered from COVID-19[1]
+- *74* new cases of COVID-19
+- *3* people have died of COVID-19
+- *22* people have recovered from COVID-19[1]
 
 The population in this census area is 14651. By our calculations:
-- 5.97% of the population have had COVID-19.[2]
-- 1.47% of the population or 216.0 people are actively fighting the virus.
+- 6.06% of the population have had COVID-19.[2]
+- 1.38% of the population or 202.0 people are actively fighting the virus.
 
 ## Synopsis
 

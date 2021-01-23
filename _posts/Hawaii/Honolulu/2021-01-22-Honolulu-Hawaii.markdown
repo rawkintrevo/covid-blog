@@ -12,13 +12,13 @@ tags: [Honolulu-Hawaii]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *498* new cases of COVID-19
-- *6* people have died of COVID-19
-- *331* people have recovered from COVID-19[1]
+- *561* new cases of COVID-19
+- *9* people have died of COVID-19
+- *420* people have recovered from COVID-19[1]
 
 The population in this census area is 974563. By our calculations:
 - 2.08% of the population have had COVID-19.[2]
-- 0.20% of the population or 1961.0 people are actively fighting the virus.
+- 0.20% of the population or 1932.0 people are actively fighting the virus.
 
 ## Synopsis
 

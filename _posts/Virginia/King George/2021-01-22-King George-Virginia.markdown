@@ -12,13 +12,13 @@ tags: [King George-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *134* new cases of COVID-19
-- *0* people have died of COVID-19
-- *44* people have recovered from COVID-19[1]
+- *142* new cases of COVID-19
+- *1* people have died of COVID-19
+- *52* people have recovered from COVID-19[1]
 
 The population in this census area is 26836. By our calculations:
-- 3.80% of the population have had COVID-19.[2]
-- 1.01% of the population or 270.0 people are actively fighting the virus.
+- 3.83% of the population have had COVID-19.[2]
+- 1.00% of the population or 269.0 people are actively fighting the virus.
 
 ## Synopsis
 

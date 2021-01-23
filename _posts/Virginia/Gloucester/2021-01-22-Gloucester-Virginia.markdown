@@ -12,13 +12,13 @@ tags: [Gloucester-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *119* new cases of COVID-19
-- *4* people have died of COVID-19
-- *16* people have recovered from COVID-19[1]
+- *145* new cases of COVID-19
+- *5* people have died of COVID-19
+- *24* people have recovered from COVID-19[1]
 
 The population in this census area is 37348. By our calculations:
-- 3.42% of the population have had COVID-19.[2]
-- 1.07% of the population or 401.0 people are actively fighting the virus.
+- 3.49% of the population have had COVID-19.[2]
+- 1.12% of the population or 418.0 people are actively fighting the virus.
 
 ## Synopsis
 

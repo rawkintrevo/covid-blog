@@ -12,13 +12,13 @@ tags: [Rhea-Tennessee]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *129* new cases of COVID-19
+- *152* new cases of COVID-19
 - *1* people have died of COVID-19
-- *33* people have recovered from COVID-19[1]
+- *158* people have recovered from COVID-19[1]
 
 The population in this census area is 33167. By our calculations:
-- 11.60% of the population have had COVID-19.[2]
-- 2.01% of the population or 665.0 people are actively fighting the virus.
+- 11.67% of the population have had COVID-19.[2]
+- 1.70% of the population or 563.0 people are actively fighting the virus.
 
 ## Synopsis
 

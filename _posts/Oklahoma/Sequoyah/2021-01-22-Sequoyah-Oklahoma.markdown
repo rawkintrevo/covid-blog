@@ -12,13 +12,13 @@ tags: [Sequoyah-Oklahoma]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *141* new cases of COVID-19
+- *174* new cases of COVID-19
 - *1* people have died of COVID-19
-- *50* people have recovered from COVID-19[1]
+- *97* people have recovered from COVID-19[1]
 
 The population in this census area is 41569. By our calculations:
-- 7.90% of the population have had COVID-19.[2]
-- 1.92% of the population or 797.0 people are actively fighting the virus.
+- 7.98% of the population have had COVID-19.[2]
+- 1.88% of the population or 783.0 people are actively fighting the virus.
 
 ## Synopsis
 

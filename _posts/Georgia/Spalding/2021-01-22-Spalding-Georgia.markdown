@@ -12,13 +12,13 @@ tags: [Spalding-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *193* new cases of COVID-19
-- *6* people have died of COVID-19
-- *139* people have recovered from COVID-19[1]
+- *228* new cases of COVID-19
+- *7* people have died of COVID-19
+- *155* people have recovered from COVID-19[1]
 
 The population in this census area is 66703. By our calculations:
-- 6.88% of the population have had COVID-19.[2]
-- 1.21% of the population or 807.0 people are actively fighting the virus.
+- 6.94% of the population have had COVID-19.[2]
+- 1.24% of the population or 825.0 people are actively fighting the virus.
 
 ## Synopsis
 

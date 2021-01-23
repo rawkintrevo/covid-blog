@@ -12,13 +12,13 @@ tags: [Terrell-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *16* new cases of COVID-19
+- *22* new cases of COVID-19
 - *2* people have died of COVID-19
-- *11* people have recovered from COVID-19[1]
+- *12* people have recovered from COVID-19[1]
 
 The population in this census area is 8531. By our calculations:
-- 7.72% of the population have had COVID-19.[2]
-- 0.89% of the population or 76.0 people are actively fighting the virus.
+- 7.80% of the population have had COVID-19.[2]
+- 0.95% of the population or 81.0 people are actively fighting the virus.
 
 ## Synopsis
 

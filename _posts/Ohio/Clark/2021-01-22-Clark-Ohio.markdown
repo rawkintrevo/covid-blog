@@ -12,13 +12,13 @@ tags: [Clark-Ohio]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *386* new cases of COVID-19
-- *3* people have died of COVID-19
-- *120* people have recovered from COVID-19[1]
+- *464* new cases of COVID-19
+- *4* people have died of COVID-19
+- *282* people have recovered from COVID-19[1]
 
 The population in this census area is 134083. By our calculations:
-- 8.00% of the population have had COVID-19.[2]
-- 1.23% of the population or 1654.0 people are actively fighting the virus.
+- 8.06% of the population have had COVID-19.[2]
+- 1.17% of the population or 1569.0 people are actively fighting the virus.
 
 ## Synopsis
 

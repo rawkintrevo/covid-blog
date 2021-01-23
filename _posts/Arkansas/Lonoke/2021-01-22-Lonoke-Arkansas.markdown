@@ -12,13 +12,13 @@ tags: [Lonoke-Arkansas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *304* new cases of COVID-19
+- *404* new cases of COVID-19
 - *3* people have died of COVID-19
-- *137* people have recovered from COVID-19[1]
+- *187* people have recovered from COVID-19[1]
 
 The population in this census area is 73309. By our calculations:
-- 7.36% of the population have had COVID-19.[2]
-- 1.56% of the population or 1141.0 people are actively fighting the virus.
+- 7.49% of the population have had COVID-19.[2]
+- 1.62% of the population or 1191.0 people are actively fighting the virus.
 
 ## Synopsis
 

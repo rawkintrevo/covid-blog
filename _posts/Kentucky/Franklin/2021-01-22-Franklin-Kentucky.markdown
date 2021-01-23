@@ -12,13 +12,13 @@ tags: [Franklin-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *169* new cases of COVID-19
-- *1* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *227* new cases of COVID-19
+- *2* people have died of COVID-19
+- *45* people have recovered from COVID-19[1]
 
 The population in this census area is 50991. By our calculations:
-- 5.24% of the population have had COVID-19.[2]
-- 1.05% of the population or 537.0 people are actively fighting the virus.
+- 5.36% of the population have had COVID-19.[2]
+- 1.08% of the population or 549.0 people are actively fighting the virus.
 
 ## Synopsis
 

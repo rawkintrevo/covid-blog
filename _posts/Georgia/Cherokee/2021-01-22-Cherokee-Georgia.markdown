@@ -12,13 +12,13 @@ tags: [Cherokee-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1473* new cases of COVID-19
-- *19* people have died of COVID-19
-- *772* people have recovered from COVID-19[1]
+- *1727* new cases of COVID-19
+- *22* people have died of COVID-19
+- *951* people have recovered from COVID-19[1]
 
 The population in this census area is 258773. By our calculations:
-- 8.51% of the population have had COVID-19.[2]
-- 1.98% of the population or 5116.0 people are actively fighting the virus.
+- 8.61% of the population have had COVID-19.[2]
+- 2.00% of the population or 5188.0 people are actively fighting the virus.
 
 ## Synopsis
 

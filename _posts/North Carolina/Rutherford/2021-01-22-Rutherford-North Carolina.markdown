@@ -12,13 +12,13 @@ tags: [Rutherford-North Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *386* new cases of COVID-19
+- *416* new cases of COVID-19
 - *17* people have died of COVID-19
-- *76* people have recovered from COVID-19[1]
+- *276* people have recovered from COVID-19[1]
 
 The population in this census area is 67029. By our calculations:
-- 8.66% of the population have had COVID-19.[2]
-- 2.09% of the population or 1402.0 people are actively fighting the virus.
+- 8.70% of the population have had COVID-19.[2]
+- 1.84% of the population or 1232.0 people are actively fighting the virus.
 
 ## Synopsis
 

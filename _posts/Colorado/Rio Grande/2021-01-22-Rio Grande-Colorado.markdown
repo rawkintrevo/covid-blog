@@ -12,13 +12,13 @@ tags: [Rio Grande-Colorado]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *38* new cases of COVID-19
-- *1* people have died of COVID-19
-- *14* people have recovered from COVID-19[1]
+- *37* new cases of COVID-19
+- *2* people have died of COVID-19
+- *15* people have recovered from COVID-19[1]
 
 The population in this census area is 11267. By our calculations:
 - 4.97% of the population have had COVID-19.[2]
-- 1.46% of the population or 164.0 people are actively fighting the virus.
+- 1.43% of the population or 161.0 people are actively fighting the virus.
 
 ## Synopsis
 

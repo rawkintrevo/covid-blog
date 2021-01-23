@@ -12,13 +12,13 @@ tags: [Warren-Ohio]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *746* new cases of COVID-19
+- *960* new cases of COVID-19
 - *5* people have died of COVID-19
-- *248* people have recovered from COVID-19[1]
+- *635* people have recovered from COVID-19[1]
 
 The population in this census area is 234602. By our calculations:
-- 8.19% of the population have had COVID-19.[2]
-- 1.47% of the population or 3448.0 people are actively fighting the virus.
+- 8.28% of the population have had COVID-19.[2]
+- 1.40% of the population or 3275.0 people are actively fighting the virus.
 
 ## Synopsis
 

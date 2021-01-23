@@ -12,13 +12,13 @@ tags: [Manatee-Florida]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1049* new cases of COVID-19
+- *1202* new cases of COVID-19
 - *11* people have died of COVID-19
-- *338* people have recovered from COVID-19[1]
+- *717* people have recovered from COVID-19[1]
 
 The population in this census area is 403253. By our calculations:
-- 6.60% of the population have had COVID-19.[2]
-- 1.04% of the population or 4199.0 people are actively fighting the virus.
+- 6.63% of the population have had COVID-19.[2]
+- 0.99% of the population or 3973.0 people are actively fighting the virus.
 
 ## Synopsis
 

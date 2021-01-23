@@ -12,13 +12,13 @@ tags: [Miami-Dade-Florida]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *13373* new cases of COVID-19
-- *130* people have died of COVID-19
-- *2905* people have recovered from COVID-19[1]
+- *15512* new cases of COVID-19
+- *144* people have died of COVID-19
+- *8154* people have recovered from COVID-19[1]
 
 The population in this census area is 2716940. By our calculations:
-- 12.89% of the population have had COVID-19.[2]
-- 1.87% of the population or 50687.0 people are actively fighting the virus.
+- 12.97% of the population have had COVID-19.[2]
+- 1.75% of the population or 47563.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Giles-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *68* new cases of COVID-19
+- *77* new cases of COVID-19
 - *0* people have died of COVID-19
-- *23* people have recovered from COVID-19[1]
+- *26* people have recovered from COVID-19[1]
 
 The population in this census area is 16720. By our calculations:
-- 5.16% of the population have had COVID-19.[2]
-- 1.45% of the population or 242.0 people are actively fighting the virus.
+- 5.21% of the population have had COVID-19.[2]
+- 1.48% of the population or 248.0 people are actively fighting the virus.
 
 ## Synopsis
 

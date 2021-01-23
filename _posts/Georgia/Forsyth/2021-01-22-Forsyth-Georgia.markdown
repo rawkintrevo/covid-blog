@@ -12,13 +12,13 @@ tags: [Forsyth-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1241* new cases of COVID-19
-- *6* people have died of COVID-19
-- *433* people have recovered from COVID-19[1]
+- *1507* new cases of COVID-19
+- *7* people have died of COVID-19
+- *575* people have recovered from COVID-19[1]
 
 The population in this census area is 244252. By our calculations:
-- 6.10% of the population have had COVID-19.[2]
-- 1.58% of the population or 3871.0 people are actively fighting the virus.
+- 6.21% of the population have had COVID-19.[2]
+- 1.64% of the population or 3994.0 people are actively fighting the virus.
 
 ## Synopsis
 

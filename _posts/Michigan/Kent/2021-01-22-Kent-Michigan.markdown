@@ -12,13 +12,13 @@ tags: [Kent-Michigan]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *877* new cases of COVID-19
-- *13* people have died of COVID-19
-- *-4* people have recovered from COVID-19[1]
+- *1070* new cases of COVID-19
+- *23* people have died of COVID-19
+- *754* people have recovered from COVID-19[1]
 
 The population in this census area is 656955. By our calculations:
-- 7.28% of the population have had COVID-19.[2]
-- 0.68% of the population or 4462.0 people are actively fighting the virus.
+- 7.31% of the population have had COVID-19.[2]
+- 0.59% of the population or 3887.0 people are actively fighting the virus.
 
 ## Synopsis
 

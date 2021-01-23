@@ -12,13 +12,13 @@ tags: [Merrimack-New Hampshire]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *303* new cases of COVID-19
+- *370* new cases of COVID-19
 - *7* people have died of COVID-19
-- *104* people have recovered from COVID-19[1]
+- *218* people have recovered from COVID-19[1]
 
 The population in this census area is 151391. By our calculations:
-- 4.05% of the population have had COVID-19.[2]
-- 0.86% of the population or 1306.0 people are actively fighting the virus.
+- 4.10% of the population have had COVID-19.[2]
+- 0.83% of the population or 1259.0 people are actively fighting the virus.
 
 ## Synopsis
 

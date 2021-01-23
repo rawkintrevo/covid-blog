@@ -12,13 +12,13 @@ tags: [Dewey-Oklahoma]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *11* new cases of COVID-19
+- *14* new cases of COVID-19
 - *1* people have died of COVID-19
-- *17* people have recovered from COVID-19[1]
+- *19* people have recovered from COVID-19[1]
 
 The population in this census area is 4891. By our calculations:
-- 9.85% of the population have had COVID-19.[2]
-- 1.23% of the population or 60.0 people are actively fighting the virus.
+- 9.92% of the population have had COVID-19.[2]
+- 1.25% of the population or 61.0 people are actively fighting the virus.
 
 ## Synopsis
 

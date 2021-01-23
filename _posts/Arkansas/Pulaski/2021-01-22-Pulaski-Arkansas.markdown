@@ -12,13 +12,13 @@ tags: [Pulaski-Arkansas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1572* new cases of COVID-19
-- *17* people have died of COVID-19
-- *902* people have recovered from COVID-19[1]
+- *1900* new cases of COVID-19
+- *26* people have died of COVID-19
+- *1156* people have recovered from COVID-19[1]
 
 The population in this census area is 391911. By our calculations:
-- 7.91% of the population have had COVID-19.[2]
-- 1.46% of the population or 5721.0 people are actively fighting the virus.
+- 8.00% of the population have had COVID-19.[2]
+- 1.48% of the population or 5786.0 people are actively fighting the virus.
 
 ## Synopsis
 

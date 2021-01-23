@@ -12,13 +12,13 @@ tags: [Meade-South Dakota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *31* new cases of COVID-19
-- *0* people have died of COVID-19
-- *9* people have recovered from COVID-19[1]
+- *42* new cases of COVID-19
+- *1* people have died of COVID-19
+- *39* people have recovered from COVID-19[1]
 
 The population in this census area is 28332. By our calculations:
-- 8.53% of the population have had COVID-19.[2]
-- 0.65% of the population or 183.0 people are actively fighting the virus.
+- 8.57% of the population have had COVID-19.[2]
+- 0.58% of the population or 163.0 people are actively fighting the virus.
 
 ## Synopsis
 

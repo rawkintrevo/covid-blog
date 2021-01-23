@@ -12,13 +12,13 @@ tags: [Erie-New York]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *2938* new cases of COVID-19
-- *57* people have died of COVID-19
-- *1358* people have recovered from COVID-19[1]
+- *3518* new cases of COVID-19
+- *68* people have died of COVID-19
+- *1814* people have recovered from COVID-19[1]
 
 The population in this census area is 918702. By our calculations:
-- 5.71% of the population have had COVID-19.[2]
-- 1.10% of the population or 10109.0 people are actively fighting the virus.
+- 5.78% of the population have had COVID-19.[2]
+- 1.11% of the population or 10222.0 people are actively fighting the virus.
 
 ## Synopsis
 

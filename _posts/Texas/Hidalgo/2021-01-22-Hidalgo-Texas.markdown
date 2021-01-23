@@ -12,13 +12,13 @@ tags: [Hidalgo-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1888* new cases of COVID-19
-- *40* people have died of COVID-19
-- *658* people have recovered from COVID-19[1]
+- *2621* new cases of COVID-19
+- *57* people have died of COVID-19
+- *641* people have recovered from COVID-19[1]
 
 The population in this census area is 868707. By our calculations:
-- 6.76% of the population have had COVID-19.[2]
-- 0.80% of the population or 6965.0 people are actively fighting the virus.
+- 6.85% of the population have had COVID-19.[2]
+- 0.89% of the population or 7698.0 people are actively fighting the virus.
 
 ## Synopsis
 

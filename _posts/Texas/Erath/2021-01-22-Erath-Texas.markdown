@@ -12,13 +12,13 @@ tags: [Erath-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *150* new cases of COVID-19
-- *4* people have died of COVID-19
-- *44* people have recovered from COVID-19[1]
+- *170* new cases of COVID-19
+- *6* people have died of COVID-19
+- *42* people have recovered from COVID-19[1]
 
 The population in this census area is 42698. By our calculations:
-- 8.26% of the population have had COVID-19.[2]
-- 1.15% of the population or 489.0 people are actively fighting the virus.
+- 8.31% of the population have had COVID-19.[2]
+- 1.19% of the population or 509.0 people are actively fighting the virus.
 
 ## Synopsis
 

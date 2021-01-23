@@ -12,13 +12,13 @@ tags: [Cook-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *57* new cases of COVID-19
+- *66* new cases of COVID-19
 - *2* people have died of COVID-19
-- *56* people have recovered from COVID-19[1]
+- *68* people have recovered from COVID-19[1]
 
 The population in this census area is 17270. By our calculations:
-- 8.72% of the population have had COVID-19.[2]
-- 1.20% of the population or 208.0 people are actively fighting the virus.
+- 8.77% of the population have had COVID-19.[2]
+- 1.19% of the population or 205.0 people are actively fighting the virus.
 
 ## Synopsis
 

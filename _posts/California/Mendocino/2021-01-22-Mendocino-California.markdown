@@ -14,11 +14,11 @@ tags: [Mendocino-California]
 In the last 7 days[3] we project there have been
 - *136* new cases of COVID-19
 - *1* people have died of COVID-19
-- *46* people have recovered from COVID-19[1]
+- *116* people have recovered from COVID-19[1]
 
 The population in this census area is 86749. By our calculations:
 - 3.68% of the population have had COVID-19.[2]
-- 0.81% of the population or 699.0 people are actively fighting the virus.
+- 0.73% of the population or 629.0 people are actively fighting the virus.
 
 ## Synopsis
 

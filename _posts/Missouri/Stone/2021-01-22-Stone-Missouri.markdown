@@ -12,13 +12,13 @@ tags: [Stone-Missouri]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *43* new cases of COVID-19
+- *51* new cases of COVID-19
 - *1* people have died of COVID-19
-- *52* people have recovered from COVID-19[1]
+- *58* people have recovered from COVID-19[1]
 
 The population in this census area is 31952. By our calculations:
-- 5.79% of the population have had COVID-19.[2]
-- 0.63% of the population or 201.0 people are actively fighting the virus.
+- 5.82% of the population have had COVID-19.[2]
+- 0.64% of the population or 203.0 people are actively fighting the virus.
 
 ## Synopsis
 

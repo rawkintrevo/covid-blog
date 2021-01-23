@@ -12,13 +12,13 @@ tags: [Shelby-Illinois]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *31* new cases of COVID-19
+- *47* new cases of COVID-19
 - *1* people have died of COVID-19
-- *11* people have recovered from COVID-19[1]
+- *22* people have recovered from COVID-19[1]
 
 The population in this census area is 21634. By our calculations:
-- 9.13% of the population have had COVID-19.[2]
-- 0.83% of the population or 180.0 people are actively fighting the virus.
+- 9.20% of the population have had COVID-19.[2]
+- 0.86% of the population or 185.0 people are actively fighting the virus.
 
 ## Synopsis
 

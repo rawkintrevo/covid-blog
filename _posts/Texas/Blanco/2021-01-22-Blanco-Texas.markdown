@@ -12,13 +12,13 @@ tags: [Blanco-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *8* new cases of COVID-19
+- *14* new cases of COVID-19
 - *0* people have died of COVID-19
 - *5* people have recovered from COVID-19[1]
 
 The population in this census area is 11931. By our calculations:
-- 2.69% of the population have had COVID-19.[2]
-- 0.28% of the population or 33.0 people are actively fighting the virus.
+- 2.74% of the population have had COVID-19.[2]
+- 0.33% of the population or 39.0 people are actively fighting the virus.
 
 ## Synopsis
 

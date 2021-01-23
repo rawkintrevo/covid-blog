@@ -12,13 +12,13 @@ tags: [Henderson-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *229* new cases of COVID-19
-- *14* people have died of COVID-19
-- *135* people have recovered from COVID-19[1]
+- *306* new cases of COVID-19
+- *15* people have died of COVID-19
+- *133* people have recovered from COVID-19[1]
 
 The population in this census area is 82737. By our calculations:
-- 5.51% of the population have had COVID-19.[2]
-- 1.03% of the population or 851.0 people are actively fighting the virus.
+- 5.60% of the population have had COVID-19.[2]
+- 1.12% of the population or 929.0 people are actively fighting the virus.
 
 ## Synopsis
 

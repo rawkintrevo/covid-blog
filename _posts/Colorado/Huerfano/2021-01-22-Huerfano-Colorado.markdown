@@ -12,13 +12,13 @@ tags: [Huerfano-Colorado]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *3* new cases of COVID-19
-- *0* people have died of COVID-19
-- *-1* people have recovered from COVID-19[1]
+- *4* new cases of COVID-19
+- *-1* people have died of COVID-19
+- *2* people have recovered from COVID-19[1]
 
 The population in this census area is 6897. By our calculations:
 - 4.16% of the population have had COVID-19.[2]
-- 0.16% of the population or 11.0 people are actively fighting the virus.
+- 0.14% of the population or 10.0 people are actively fighting the virus.
 
 ## Synopsis
 

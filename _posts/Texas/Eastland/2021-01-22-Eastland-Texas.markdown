@@ -12,13 +12,13 @@ tags: [Eastland-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *49* new cases of COVID-19
-- *6* people have died of COVID-19
-- *11* people have recovered from COVID-19[1]
+- *55* new cases of COVID-19
+- *8* people have died of COVID-19
+- *9* people have recovered from COVID-19[1]
 
 The population in this census area is 18360. By our calculations:
-- 5.52% of the population have had COVID-19.[2]
-- 0.96% of the population or 177.0 people are actively fighting the virus.
+- 5.56% of the population have had COVID-19.[2]
+- 1.00% of the population or 183.0 people are actively fighting the virus.
 
 ## Synopsis
 

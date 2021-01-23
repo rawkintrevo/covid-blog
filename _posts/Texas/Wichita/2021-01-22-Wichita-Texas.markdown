@@ -12,13 +12,13 @@ tags: [Wichita-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *483* new cases of COVID-19
-- *14* people have died of COVID-19
-- *441* people have recovered from COVID-19[1]
+- *551* new cases of COVID-19
+- *17* people have died of COVID-19
+- *437* people have recovered from COVID-19[1]
 
 The population in this census area is 132230. By our calculations:
-- 10.14% of the population have had COVID-19.[2]
-- 1.75% of the population or 2316.0 people are actively fighting the virus.
+- 10.19% of the population have had COVID-19.[2]
+- 1.80% of the population or 2385.0 people are actively fighting the virus.
 
 ## Synopsis
 

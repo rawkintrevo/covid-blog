@@ -12,13 +12,13 @@ tags: [Quitman-Mississippi]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *28* new cases of COVID-19
+- *34* new cases of COVID-19
 - *1* people have died of COVID-19
-- *10* people have recovered from COVID-19[1]
+- *14* people have recovered from COVID-19[1]
 
 The population in this census area is 6792. By our calculations:
-- 10.25% of the population have had COVID-19.[2]
-- 1.30% of the population or 88.0 people are actively fighting the virus.
+- 10.34% of the population have had COVID-19.[2]
+- 1.33% of the population or 90.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Raleigh-West Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *339* new cases of COVID-19
+- *367* new cases of COVID-19
 - *4* people have died of COVID-19
-- *104* people have recovered from COVID-19[1]
+- *175* people have recovered from COVID-19[1]
 
 The population in this census area is 73361. By our calculations:
-- 5.14% of the population have had COVID-19.[2]
-- 1.36% of the population or 997.0 people are actively fighting the virus.
+- 5.18% of the population have had COVID-19.[2]
+- 1.30% of the population or 954.0 people are actively fighting the virus.
 
 ## Synopsis
 

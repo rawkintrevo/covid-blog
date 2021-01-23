@@ -12,13 +12,13 @@ tags: [Johnson-Illinois]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *17* new cases of COVID-19
+- *24* new cases of COVID-19
 - *0* people have died of COVID-19
-- *14* people have recovered from COVID-19[1]
+- *43* people have recovered from COVID-19[1]
 
 The population in this census area is 12417. By our calculations:
-- 9.80% of the population have had COVID-19.[2]
-- 1.89% of the population or 235.0 people are actively fighting the virus.
+- 9.86% of the population have had COVID-19.[2]
+- 1.72% of the population or 213.0 people are actively fighting the virus.
 
 ## Synopsis
 

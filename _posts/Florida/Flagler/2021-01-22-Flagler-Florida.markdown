@@ -12,13 +12,13 @@ tags: [Flagler-Florida]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *231* new cases of COVID-19
+- *274* new cases of COVID-19
 - *8* people have died of COVID-19
-- *80* people have recovered from COVID-19[1]
+- *230* people have recovered from COVID-19[1]
 
 The population in this census area is 115081. By our calculations:
-- 4.17% of the population have had COVID-19.[2]
-- 0.93% of the population or 1066.0 people are actively fighting the virus.
+- 4.21% of the population have had COVID-19.[2]
+- 0.83% of the population or 959.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -14,11 +14,11 @@ tags: [San Luis Obispo-California]
 In the last 7 days[3] we project there have been
 - *1263* new cases of COVID-19
 - *15* people have died of COVID-19
-- *446* people have recovered from COVID-19[1]
+- *760* people have recovered from COVID-19[1]
 
 The population in this census area is 283111. By our calculations:
 - 5.67% of the population have had COVID-19.[2]
-- 1.82% of the population or 5152.0 people are actively fighting the virus.
+- 1.71% of the population or 4838.0 people are actively fighting the virus.
 
 ## Synopsis
 

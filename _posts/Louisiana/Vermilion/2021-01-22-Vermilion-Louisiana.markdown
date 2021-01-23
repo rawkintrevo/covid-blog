@@ -12,13 +12,13 @@ tags: [Vermilion-Louisiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *137* new cases of COVID-19
+- *151* new cases of COVID-19
 - *4* people have died of COVID-19
 - *52* people have recovered from COVID-19[1]
 
 The population in this census area is 59511. By our calculations:
-- 7.20% of the population have had COVID-19.[2]
-- 1.27% of the population or 755.0 people are actively fighting the virus.
+- 7.22% of the population have had COVID-19.[2]
+- 1.29% of the population or 769.0 people are actively fighting the virus.
 
 ## Synopsis
 

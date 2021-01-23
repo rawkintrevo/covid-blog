@@ -12,13 +12,13 @@ tags: [Shenandoah-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *254* new cases of COVID-19
-- *4* people have died of COVID-19
-- *70* people have recovered from COVID-19[1]
+- *272* new cases of COVID-19
+- *6* people have died of COVID-19
+- *125* people have recovered from COVID-19[1]
 
 The population in this census area is 43616. By our calculations:
-- 6.81% of the population have had COVID-19.[2]
-- 1.60% of the population or 697.0 people are actively fighting the virus.
+- 6.86% of the population have had COVID-19.[2]
+- 1.51% of the population or 658.0 people are actively fighting the virus.
 
 ## Synopsis
 

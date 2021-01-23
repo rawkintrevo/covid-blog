@@ -12,13 +12,13 @@ tags: [Jackson-Tennessee]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *26* new cases of COVID-19
+- *30* new cases of COVID-19
 - *3* people have died of COVID-19
-- *6* people have recovered from COVID-19[1]
+- *28* people have recovered from COVID-19[1]
 
 The population in this census area is 11786. By our calculations:
-- 8.94% of the population have had COVID-19.[2]
-- 0.87% of the population or 102.0 people are actively fighting the virus.
+- 8.98% of the population have had COVID-19.[2]
+- 0.71% of the population or 84.0 people are actively fighting the virus.
 
 ## Synopsis
 

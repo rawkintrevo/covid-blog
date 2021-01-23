@@ -12,13 +12,13 @@ tags: [Jones-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *66* new cases of COVID-19
+- *88* new cases of COVID-19
 - *0* people have died of COVID-19
-- *53* people have recovered from COVID-19[1]
+- *87* people have recovered from COVID-19[1]
 
 The population in this census area is 28735. By our calculations:
-- 5.25% of the population have had COVID-19.[2]
-- 1.13% of the population or 324.0 people are actively fighting the virus.
+- 5.33% of the population have had COVID-19.[2]
+- 1.09% of the population or 312.0 people are actively fighting the virus.
 
 ## Synopsis
 

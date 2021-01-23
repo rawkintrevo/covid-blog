@@ -12,13 +12,13 @@ tags: [Roberts-South Dakota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *8* new cases of COVID-19
+- *11* new cases of COVID-19
 - *2* people have died of COVID-19
-- *6* people have recovered from COVID-19[1]
+- *16* people have recovered from COVID-19[1]
 
 The population in this census area is 10394. By our calculations:
-- 10.41% of the population have had COVID-19.[2]
-- 0.92% of the population or 96.0 people are actively fighting the virus.
+- 10.44% of the population have had COVID-19.[2]
+- 0.86% of the population or 89.0 people are actively fighting the virus.
 
 ## Synopsis
 

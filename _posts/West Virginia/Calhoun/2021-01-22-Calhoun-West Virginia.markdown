@@ -12,13 +12,13 @@ tags: [Calhoun-West Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *8* new cases of COVID-19
+- *11* new cases of COVID-19
 - *0* people have died of COVID-19
-- *7* people have recovered from COVID-19[1]
+- *9* people have recovered from COVID-19[1]
 
 The population in this census area is 7109. By our calculations:
-- 2.69% of the population have had COVID-19.[2]
-- 0.79% of the population or 56.0 people are actively fighting the virus.
+- 2.73% of the population have had COVID-19.[2]
+- 0.80% of the population or 57.0 people are actively fighting the virus.
 
 ## Synopsis
 

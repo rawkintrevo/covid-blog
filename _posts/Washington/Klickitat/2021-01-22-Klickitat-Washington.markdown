@@ -12,13 +12,13 @@ tags: [Klickitat-Washington]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *23* new cases of COVID-19
-- *0* people have died of COVID-19
-- *33* people have recovered from COVID-19[1]
+- *27* new cases of COVID-19
+- *1* people have died of COVID-19
+- *32* people have recovered from COVID-19[1]
 
 The population in this census area is 22425. By our calculations:
-- 2.57% of the population have had COVID-19.[2]
-- 0.45% of the population or 101.0 people are actively fighting the virus.
+- 2.60% of the population have had COVID-19.[2]
+- 0.47% of the population or 105.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Newton-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *490* new cases of COVID-19
-- *7* people have died of COVID-19
-- *245* people have recovered from COVID-19[1]
+- *548* new cases of COVID-19
+- *8* people have died of COVID-19
+- *315* people have recovered from COVID-19[1]
 
 The population in this census area is 111744. By our calculations:
-- 6.74% of the population have had COVID-19.[2]
-- 1.34% of the population or 1495.0 people are actively fighting the virus.
+- 6.79% of the population have had COVID-19.[2]
+- 1.33% of the population or 1482.0 people are actively fighting the virus.
 
 ## Synopsis
 

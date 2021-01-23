@@ -12,13 +12,13 @@ tags: [Wayne-Ohio]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *293* new cases of COVID-19
-- *5* people have died of COVID-19
-- *75* people have recovered from COVID-19[1]
+- *348* new cases of COVID-19
+- *7* people have died of COVID-19
+- *157* people have recovered from COVID-19[1]
 
 The population in this census area is 115710. By our calculations:
-- 5.96% of the population have had COVID-19.[2]
-- 0.88% of the population or 1023.0 people are actively fighting the virus.
+- 6.01% of the population have had COVID-19.[2]
+- 0.86% of the population or 994.0 people are actively fighting the virus.
 
 ## Synopsis
 

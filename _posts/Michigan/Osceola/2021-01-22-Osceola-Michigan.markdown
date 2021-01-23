@@ -12,13 +12,13 @@ tags: [Osceola-Michigan]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *25* new cases of COVID-19
+- *27* new cases of COVID-19
 - *0* people have died of COVID-19
-- *-1* people have recovered from COVID-19[1]
+- *8* people have recovered from COVID-19[1]
 
 The population in this census area is 23460. By our calculations:
-- 4.08% of the population have had COVID-19.[2]
-- 0.49% of the population or 115.0 people are actively fighting the virus.
+- 4.09% of the population have had COVID-19.[2]
+- 0.46% of the population or 108.0 people are actively fighting the virus.
 
 ## Synopsis
 

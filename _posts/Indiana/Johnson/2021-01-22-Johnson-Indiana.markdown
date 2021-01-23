@@ -12,13 +12,13 @@ tags: [Johnson-Indiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *616* new cases of COVID-19
-- *12* people have died of COVID-19
-- *385* people have recovered from COVID-19[1]
+- *736* new cases of COVID-19
+- *15* people have died of COVID-19
+- *519* people have recovered from COVID-19[1]
 
 The population in this census area is 158167. By our calculations:
-- 9.32% of the population have had COVID-19.[2]
-- 1.48% of the population or 2341.0 people are actively fighting the virus.
+- 9.40% of the population have had COVID-19.[2]
+- 1.47% of the population or 2324.0 people are actively fighting the virus.
 
 ## Synopsis
 

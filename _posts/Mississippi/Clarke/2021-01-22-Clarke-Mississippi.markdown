@@ -12,13 +12,13 @@ tags: [Clarke-Mississippi]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *64* new cases of COVID-19
+- *82* new cases of COVID-19
 - *2* people have died of COVID-19
-- *18* people have recovered from COVID-19[1]
+- *26* people have recovered from COVID-19[1]
 
 The population in this census area is 15541. By our calculations:
-- 9.12% of the population have had COVID-19.[2]
-- 1.30% of the population or 202.0 people are actively fighting the virus.
+- 9.23% of the population have had COVID-19.[2]
+- 1.36% of the population or 212.0 people are actively fighting the virus.
 
 ## Synopsis
 

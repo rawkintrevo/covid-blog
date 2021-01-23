@@ -12,13 +12,13 @@ tags: [Jackson-Iowa]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *34* new cases of COVID-19
+- *43* new cases of COVID-19
 - *0* people have died of COVID-19
-- *17* people have recovered from COVID-19[1]
+- *20* people have recovered from COVID-19[1]
 
 The population in this census area is 19439. By our calculations:
-- 9.93% of the population have had COVID-19.[2]
-- 0.74% of the population or 143.0 people are actively fighting the virus.
+- 9.97% of the population have had COVID-19.[2]
+- 0.77% of the population or 149.0 people are actively fighting the virus.
 
 ## Synopsis
 

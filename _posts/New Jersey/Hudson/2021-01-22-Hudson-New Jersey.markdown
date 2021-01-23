@@ -12,13 +12,13 @@ tags: [Hudson-New Jersey]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *2545* new cases of COVID-19
-- *38* people have died of COVID-19
-- *1231* people have recovered from COVID-19[1]
+- *2917* new cases of COVID-19
+- *47* people have died of COVID-19
+- *1599* people have recovered from COVID-19[1]
 
 The population in this census area is 672391. By our calculations:
-- 8.45% of the population have had COVID-19.[2]
-- 1.77% of the population or 11895.0 people are actively fighting the virus.
+- 8.51% of the population have had COVID-19.[2]
+- 1.77% of the population or 11890.0 people are actively fighting the virus.
 
 ## Synopsis
 

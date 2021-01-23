@@ -12,13 +12,13 @@ tags: [Burt-Nebraska]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *17* new cases of COVID-19
+- *20* new cases of COVID-19
 - *0* people have died of COVID-19
-- *2* people have recovered from COVID-19[1]
+- *3* people have recovered from COVID-19[1]
 
 The population in this census area is 6459. By our calculations:
-- 8.69% of the population have had COVID-19.[2]
-- 0.60% of the population or 39.0 people are actively fighting the virus.
+- 8.73% of the population have had COVID-19.[2]
+- 0.63% of the population or 41.0 people are actively fighting the virus.
 
 ## Synopsis
 

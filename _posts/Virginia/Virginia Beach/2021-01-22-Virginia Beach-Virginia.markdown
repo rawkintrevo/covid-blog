@@ -12,13 +12,13 @@ tags: [Virginia Beach-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1830* new cases of COVID-19
-- *11* people have died of COVID-19
-- *674* people have recovered from COVID-19[1]
+- *1983* new cases of COVID-19
+- *16* people have died of COVID-19
+- *797* people have recovered from COVID-19[1]
 
 The population in this census area is 449974. By our calculations:
-- 5.19% of the population have had COVID-19.[2]
-- 1.41% of the population or 6346.0 people are actively fighting the virus.
+- 5.23% of the population have had COVID-19.[2]
+- 1.42% of the population or 6371.0 people are actively fighting the virus.
 
 ## Synopsis
 

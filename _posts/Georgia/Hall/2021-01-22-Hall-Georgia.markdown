@@ -12,13 +12,13 @@ tags: [Hall-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1025* new cases of COVID-19
-- *13* people have died of COVID-19
-- *529* people have recovered from COVID-19[1]
+- *1348* new cases of COVID-19
+- *18* people have died of COVID-19
+- *667* people have recovered from COVID-19[1]
 
 The population in this census area is 204441. By our calculations:
-- 10.91% of the population have had COVID-19.[2]
-- 1.77% of the population or 3613.0 people are actively fighting the virus.
+- 11.07% of the population have had COVID-19.[2]
+- 1.86% of the population or 3793.0 people are actively fighting the virus.
 
 ## Synopsis
 

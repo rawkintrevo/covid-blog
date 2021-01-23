@@ -12,13 +12,13 @@ tags: [Washington-Oregon]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *613* new cases of COVID-19
-- *9* people have died of COVID-19
-- *179* people have recovered from COVID-19[1]
+- *718* new cases of COVID-19
+- *10* people have died of COVID-19
+- *488* people have recovered from COVID-19[1]
 
 The population in this census area is 601592. By our calculations:
-- 3.14% of the population have had COVID-19.[2]
-- 0.46% of the population or 2760.0 people are actively fighting the virus.
+- 3.15% of the population have had COVID-19.[2]
+- 0.42% of the population or 2555.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Wayne-Michigan]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *2195* new cases of COVID-19
-- *43* people have died of COVID-19
-- *-19* people have recovered from COVID-19[1]
+- *2525* new cases of COVID-19
+- *67* people have died of COVID-19
+- *969* people have recovered from COVID-19[1]
 
 The population in this census area is 1749343. By our calculations:
-- 5.36% of the population have had COVID-19.[2]
-- 0.44% of the population or 7758.0 people are actively fighting the virus.
+- 5.38% of the population have had COVID-19.[2]
+- 0.40% of the population or 7076.0 people are actively fighting the virus.
 
 ## Synopsis
 

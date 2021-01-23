@@ -12,13 +12,13 @@ tags: [Louisa-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *115* new cases of COVID-19
+- *131* new cases of COVID-19
 - *0* people have died of COVID-19
-- *47* people have recovered from COVID-19[1]
+- *67* people have recovered from COVID-19[1]
 
 The population in this census area is 37591. By our calculations:
-- 3.49% of the population have had COVID-19.[2]
-- 1.01% of the population or 381.0 people are actively fighting the virus.
+- 3.54% of the population have had COVID-19.[2]
+- 1.00% of the population or 377.0 people are actively fighting the virus.
 
 ## Synopsis
 

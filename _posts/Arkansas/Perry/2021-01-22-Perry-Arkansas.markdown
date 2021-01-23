@@ -12,13 +12,13 @@ tags: [Perry-Arkansas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *39* new cases of COVID-19
+- *45* new cases of COVID-19
 - *1* people have died of COVID-19
-- *18* people have recovered from COVID-19[1]
+- *37* people have recovered from COVID-19[1]
 
 The population in this census area is 10455. By our calculations:
-- 5.98% of the population have had COVID-19.[2]
-- 1.70% of the population or 178.0 people are actively fighting the virus.
+- 6.04% of the population have had COVID-19.[2]
+- 1.58% of the population or 165.0 people are actively fighting the virus.
 
 ## Synopsis
 

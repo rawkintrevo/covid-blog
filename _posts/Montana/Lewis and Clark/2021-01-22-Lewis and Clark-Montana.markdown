@@ -12,13 +12,13 @@ tags: [Lewis and Clark-Montana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *200* new cases of COVID-19
-- *4* people have died of COVID-19
-- *54* people have recovered from COVID-19[1]
+- *215* new cases of COVID-19
+- *5* people have died of COVID-19
+- *65* people have recovered from COVID-19[1]
 
 The population in this census area is 69432. By our calculations:
-- 8.10% of the population have had COVID-19.[2]
-- 1.08% of the population or 751.0 people are actively fighting the virus.
+- 8.12% of the population have had COVID-19.[2]
+- 1.09% of the population or 754.0 people are actively fighting the virus.
 
 ## Synopsis
 

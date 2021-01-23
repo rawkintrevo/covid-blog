@@ -12,13 +12,13 @@ tags: [Barry-Michigan]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *79* new cases of COVID-19
-- *1* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *113* new cases of COVID-19
+- *2* people have died of COVID-19
+- *42* people have recovered from COVID-19[1]
 
 The population in this census area is 61550. By our calculations:
-- 5.48% of the population have had COVID-19.[2]
-- 0.65% of the population or 401.0 people are actively fighting the virus.
+- 5.54% of the population have had COVID-19.[2]
+- 0.64% of the population or 392.0 people are actively fighting the virus.
 
 ## Synopsis
 

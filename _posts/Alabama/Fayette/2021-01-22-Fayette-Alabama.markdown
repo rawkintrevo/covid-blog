@@ -12,13 +12,13 @@ tags: [Fayette-Alabama]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *87* new cases of COVID-19
+- *103* new cases of COVID-19
 - *2* people have died of COVID-19
-- *23* people have recovered from COVID-19[1]
+- *38* people have recovered from COVID-19[1]
 
 The population in this census area is 16302. By our calculations:
-- 10.61% of the population have had COVID-19.[2]
-- 1.71% of the population or 279.0 people are actively fighting the virus.
+- 10.70% of the population have had COVID-19.[2]
+- 1.72% of the population or 280.0 people are actively fighting the virus.
 
 ## Synopsis
 

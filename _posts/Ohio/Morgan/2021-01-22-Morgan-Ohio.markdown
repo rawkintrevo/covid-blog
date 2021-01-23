@@ -12,13 +12,13 @@ tags: [Morgan-Ohio]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *43* new cases of COVID-19
+- *61* new cases of COVID-19
 - *3* people have died of COVID-19
-- *7* people have recovered from COVID-19[1]
+- *18* people have recovered from COVID-19[1]
 
 The population in this census area is 14508. By our calculations:
-- 5.54% of the population have had COVID-19.[2]
-- 1.08% of the population or 157.0 people are actively fighting the virus.
+- 5.67% of the population have had COVID-19.[2]
+- 1.13% of the population or 164.0 people are actively fighting the virus.
 
 ## Synopsis
 

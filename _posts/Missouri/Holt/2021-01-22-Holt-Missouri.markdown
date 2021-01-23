@@ -12,13 +12,13 @@ tags: [Holt-Missouri]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *2* new cases of COVID-19
+- *5* new cases of COVID-19
 - *1* people have died of COVID-19
 - *3* people have recovered from COVID-19[1]
 
 The population in this census area is 4403. By our calculations:
-- 7.86% of the population have had COVID-19.[2]
-- 0.39% of the population or 17.0 people are actively fighting the virus.
+- 7.93% of the population have had COVID-19.[2]
+- 0.45% of the population or 20.0 people are actively fighting the virus.
 
 ## Synopsis
 

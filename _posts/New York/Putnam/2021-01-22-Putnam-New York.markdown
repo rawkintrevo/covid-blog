@@ -12,13 +12,13 @@ tags: [Putnam-New York]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *504* new cases of COVID-19
+- *598* new cases of COVID-19
 - *5* people have died of COVID-19
-- *186* people have recovered from COVID-19[1]
+- *274* people have recovered from COVID-19[1]
 
 The population in this census area is 98320. By our calculations:
-- 6.69% of the population have had COVID-19.[2]
-- 1.66% of the population or 1631.0 people are actively fighting the virus.
+- 6.78% of the population have had COVID-19.[2]
+- 1.66% of the population or 1637.0 people are actively fighting the virus.
 
 ## Synopsis
 

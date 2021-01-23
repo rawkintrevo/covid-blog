@@ -12,13 +12,13 @@ tags: [Hancock-West Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *94* new cases of COVID-19
-- *10* people have died of COVID-19
-- *98* people have recovered from COVID-19[1]
+- *109* new cases of COVID-19
+- *11* people have died of COVID-19
+- *148* people have recovered from COVID-19[1]
 
 The population in this census area is 28810. By our calculations:
-- 8.14% of the population have had COVID-19.[2]
-- 1.35% of the population or 388.0 people are actively fighting the virus.
+- 8.19% of the population have had COVID-19.[2]
+- 1.22% of the population or 352.0 people are actively fighting the virus.
 
 ## Synopsis
 

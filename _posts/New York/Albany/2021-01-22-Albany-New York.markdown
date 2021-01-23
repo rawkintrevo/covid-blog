@@ -12,13 +12,13 @@ tags: [Albany-New York]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1276* new cases of COVID-19
-- *15* people have died of COVID-19
-- *575* people have recovered from COVID-19[1]
+- *1540* new cases of COVID-19
+- *18* people have died of COVID-19
+- *851* people have recovered from COVID-19[1]
 
 The population in this census area is 305506. By our calculations:
-- 5.41% of the population have had COVID-19.[2]
-- 1.48% of the population or 4513.0 people are actively fighting the virus.
+- 5.50% of the population have had COVID-19.[2]
+- 1.47% of the population or 4498.0 people are actively fighting the virus.
 
 ## Synopsis
 

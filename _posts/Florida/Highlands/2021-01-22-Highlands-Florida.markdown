@@ -12,13 +12,13 @@ tags: [Highlands-Florida]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *242* new cases of COVID-19
-- *10* people have died of COVID-19
-- *51* people have recovered from COVID-19[1]
+- *303* new cases of COVID-19
+- *11* people have died of COVID-19
+- *146* people have recovered from COVID-19[1]
 
 The population in this census area is 106221. By our calculations:
-- 5.62% of the population have had COVID-19.[2]
-- 0.91% of the population or 962.0 people are actively fighting the virus.
+- 5.68% of the population have had COVID-19.[2]
+- 0.87% of the population or 927.0 people are actively fighting the virus.
 
 ## Synopsis
 

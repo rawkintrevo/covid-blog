@@ -12,13 +12,13 @@ tags: [Washington-Arkansas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *996* new cases of COVID-19
-- *13* people have died of COVID-19
-- *688* people have recovered from COVID-19[1]
+- *1245* new cases of COVID-19
+- *17* people have died of COVID-19
+- *892* people have recovered from COVID-19[1]
 
 The population in this census area is 239187. By our calculations:
-- 10.93% of the population have had COVID-19.[2]
-- 1.79% of the population or 4290.0 people are actively fighting the virus.
+- 11.03% of the population have had COVID-19.[2]
+- 1.81% of the population or 4331.0 people are actively fighting the virus.
 
 ## Synopsis
 

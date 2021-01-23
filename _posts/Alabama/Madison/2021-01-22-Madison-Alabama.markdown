@@ -12,13 +12,13 @@ tags: [Madison-Alabama]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1002* new cases of COVID-19
+- *1143* new cases of COVID-19
 - *18* people have died of COVID-19
-- *690* people have recovered from COVID-19[1]
+- *1215* people have recovered from COVID-19[1]
 
 The population in this census area is 372909. By our calculations:
-- 7.37% of the population have had COVID-19.[2]
-- 1.31% of the population or 4874.0 people are actively fighting the virus.
+- 7.41% of the population have had COVID-19.[2]
+- 1.20% of the population or 4490.0 people are actively fighting the virus.
 
 ## Synopsis
 

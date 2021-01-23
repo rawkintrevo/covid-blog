@@ -12,13 +12,13 @@ tags: [Armstrong-Pennsylvania]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *190* new cases of COVID-19
-- *4* people have died of COVID-19
-- *148* people have recovered from COVID-19[1]
+- *221* new cases of COVID-19
+- *7* people have died of COVID-19
+- *203* people have recovered from COVID-19[1]
 
 The population in this census area is 64735. By our calculations:
-- 6.75% of the population have had COVID-19.[2]
-- 1.30% of the population or 840.0 people are actively fighting the virus.
+- 6.80% of the population have had COVID-19.[2]
+- 1.26% of the population or 813.0 people are actively fighting the virus.
 
 ## Synopsis
 

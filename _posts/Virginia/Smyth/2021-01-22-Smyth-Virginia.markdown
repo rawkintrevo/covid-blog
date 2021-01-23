@@ -12,13 +12,13 @@ tags: [Smyth-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *95* new cases of COVID-19
-- *5* people have died of COVID-19
-- *121* people have recovered from COVID-19[1]
+- *113* new cases of COVID-19
+- *6* people have died of COVID-19
+- *119* people have recovered from COVID-19[1]
 
 The population in this census area is 30104. By our calculations:
-- 7.50% of the population have had COVID-19.[2]
-- 1.30% of the population or 391.0 people are actively fighting the virus.
+- 7.56% of the population have had COVID-19.[2]
+- 1.36% of the population or 410.0 people are actively fighting the virus.
 
 ## Synopsis
 

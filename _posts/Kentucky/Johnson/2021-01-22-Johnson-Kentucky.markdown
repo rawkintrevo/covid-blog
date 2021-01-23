@@ -12,13 +12,13 @@ tags: [Johnson-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *63* new cases of COVID-19
+- *71* new cases of COVID-19
 - *0* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *28* people have recovered from COVID-19[1]
 
 The population in this census area is 22188. By our calculations:
-- 6.52% of the population have had COVID-19.[2]
-- 1.46% of the population or 325.0 people are actively fighting the virus.
+- 6.55% of the population have had COVID-19.[2]
+- 1.37% of the population or 305.0 people are actively fighting the virus.
 
 ## Synopsis
 

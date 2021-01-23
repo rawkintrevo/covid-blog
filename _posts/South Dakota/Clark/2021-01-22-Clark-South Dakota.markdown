@@ -14,11 +14,11 @@ tags: [Clark-South Dakota]
 In the last 7 days[3] we project there have been
 - *4* new cases of COVID-19
 - *1* people have died of COVID-19
-- *1* people have recovered from COVID-19[1]
+- *5* people have recovered from COVID-19[1]
 
 The population in this census area is 3736. By our calculations:
 - 8.81% of the population have had COVID-19.[2]
-- 0.37% of the population or 14.0 people are actively fighting the virus.
+- 0.27% of the population or 10.0 people are actively fighting the virus.
 
 ## Synopsis
 

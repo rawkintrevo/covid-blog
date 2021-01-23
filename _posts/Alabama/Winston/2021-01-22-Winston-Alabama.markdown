@@ -12,13 +12,13 @@ tags: [Winston-Alabama]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *70* new cases of COVID-19
-- *0* people have died of COVID-19
-- *25* people have recovered from COVID-19[1]
+- *82* new cases of COVID-19
+- *7* people have died of COVID-19
+- *62* people have recovered from COVID-19[1]
 
 The population in this census area is 23629. By our calculations:
-- 9.71% of the population have had COVID-19.[2]
-- 1.32% of the population or 313.0 people are actively fighting the virus.
+- 9.79% of the population have had COVID-19.[2]
+- 1.19% of the population or 281.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -14,11 +14,11 @@ tags: [Spink-South Dakota]
 In the last 7 days[3] we project there have been
 - *19* new cases of COVID-19
 - *0* people have died of COVID-19
-- *5* people have recovered from COVID-19[1]
+- *9* people have recovered from COVID-19[1]
 
 The population in this census area is 6376. By our calculations:
 - 11.72% of the population have had COVID-19.[2]
-- 0.69% of the population or 44.0 people are actively fighting the virus.
+- 0.63% of the population or 40.0 people are actively fighting the virus.
 
 ## Synopsis
 

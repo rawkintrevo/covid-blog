@@ -12,13 +12,13 @@ tags: [Calhoun-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *30* new cases of COVID-19
+- *42* new cases of COVID-19
 - *1* people have died of COVID-19
-- *14* people have recovered from COVID-19[1]
+- *16* people have recovered from COVID-19[1]
 
 The population in this census area is 6189. By our calculations:
-- 7.95% of the population have had COVID-19.[2]
-- 1.91% of the population or 118.0 people are actively fighting the virus.
+- 8.14% of the population have had COVID-19.[2]
+- 2.07% of the population or 128.0 people are actively fighting the virus.
 
 ## Synopsis
 

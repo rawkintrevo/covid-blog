@@ -12,13 +12,13 @@ tags: [Bedford-Pennsylvania]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *87* new cases of COVID-19
-- *9* people have died of COVID-19
-- *33* people have recovered from COVID-19[1]
+- *95* new cases of COVID-19
+- *11* people have died of COVID-19
+- *63* people have recovered from COVID-19[1]
 
 The population in this census area is 47888. By our calculations:
-- 7.20% of the population have had COVID-19.[2]
-- 0.96% of the population or 460.0 people are actively fighting the virus.
+- 7.22% of the population have had COVID-19.[2]
+- 0.91% of the population or 436.0 people are actively fighting the virus.
 
 ## Synopsis
 

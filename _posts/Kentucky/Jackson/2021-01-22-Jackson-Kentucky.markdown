@@ -12,13 +12,13 @@ tags: [Jackson-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *39* new cases of COVID-19
+- *47* new cases of COVID-19
 - *1* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *22* people have recovered from COVID-19[1]
 
 The population in this census area is 13329. By our calculations:
-- 7.96% of the population have had COVID-19.[2]
-- 1.52% of the population or 203.0 people are actively fighting the virus.
+- 8.02% of the population have had COVID-19.[2]
+- 1.42% of the population or 189.0 people are actively fighting the virus.
 
 ## Synopsis
 

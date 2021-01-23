@@ -12,13 +12,13 @@ tags: [Hendricks-Indiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *506* new cases of COVID-19
-- *8* people have died of COVID-19
-- *416* people have recovered from COVID-19[1]
+- *617* new cases of COVID-19
+- *11* people have died of COVID-19
+- *623* people have recovered from COVID-19[1]
 
 The population in this census area is 170311. By our calculations:
-- 8.26% of the population have had COVID-19.[2]
-- 1.38% of the population or 2351.0 people are actively fighting the virus.
+- 8.33% of the population have had COVID-19.[2]
+- 1.32% of the population or 2252.0 people are actively fighting the virus.
 
 ## Synopsis
 

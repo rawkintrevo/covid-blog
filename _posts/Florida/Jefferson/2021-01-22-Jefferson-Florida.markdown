@@ -12,13 +12,13 @@ tags: [Jefferson-Florida]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *50* new cases of COVID-19
+- *60* new cases of COVID-19
 - *0* people have died of COVID-19
-- *13* people have recovered from COVID-19[1]
+- *50* people have recovered from COVID-19[1]
 
 The population in this census area is 14246. By our calculations:
-- 8.49% of the population have had COVID-19.[2]
-- 1.50% of the population or 213.0 people are actively fighting the virus.
+- 8.56% of the population have had COVID-19.[2]
+- 1.31% of the population or 186.0 people are actively fighting the virus.
 
 ## Synopsis
 

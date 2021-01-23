@@ -12,13 +12,13 @@ tags: [Bronx-New York]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *6722* new cases of COVID-19
-- *65* people have died of COVID-19
-- *1874* people have recovered from COVID-19[1]
+- *7638* new cases of COVID-19
+- *73* people have died of COVID-19
+- *3091* people have recovered from COVID-19[1]
 
 The population in this census area is 1418207. By our calculations:
-- 7.54% of the population have had COVID-19.[2]
-- 1.43% of the population or 20258.0 people are actively fighting the virus.
+- 7.61% of the population have had COVID-19.[2]
+- 1.41% of the population or 19949.0 people are actively fighting the virus.
 
 ## Synopsis
 

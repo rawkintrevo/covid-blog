@@ -12,13 +12,13 @@ tags: [Cape May-New Jersey]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *340* new cases of COVID-19
-- *3* people have died of COVID-19
-- *50* people have recovered from COVID-19[1]
+- *392* new cases of COVID-19
+- *4* people have died of COVID-19
+- *86* people have recovered from COVID-19[1]
 
 The population in this census area is 92039. By our calculations:
-- 6.17% of the population have had COVID-19.[2]
-- 3.51% of the population or 3234.0 people are actively fighting the virus.
+- 6.23% of the population have had COVID-19.[2]
+- 3.53% of the population or 3249.0 people are actively fighting the virus.
 
 ## Synopsis
 

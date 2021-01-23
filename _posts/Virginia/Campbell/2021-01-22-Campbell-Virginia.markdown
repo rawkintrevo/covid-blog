@@ -12,13 +12,13 @@ tags: [Campbell-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *387* new cases of COVID-19
+- *421* new cases of COVID-19
 - *4* people have died of COVID-19
-- *87* people have recovered from COVID-19[1]
+- *120* people have recovered from COVID-19[1]
 
 The population in this census area is 54885. By our calculations:
-- 5.77% of the population have had COVID-19.[2]
-- 1.90% of the population or 1044.0 people are actively fighting the virus.
+- 5.83% of the population have had COVID-19.[2]
+- 1.90% of the population or 1045.0 people are actively fighting the virus.
 
 ## Synopsis
 

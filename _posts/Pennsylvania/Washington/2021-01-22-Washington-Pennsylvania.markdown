@@ -12,13 +12,13 @@ tags: [Washington-Pennsylvania]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *627* new cases of COVID-19
-- *12* people have died of COVID-19
-- *272* people have recovered from COVID-19[1]
+- *728* new cases of COVID-19
+- *15* people have died of COVID-19
+- *462* people have recovered from COVID-19[1]
 
 The population in this census area is 206865. By our calculations:
-- 5.64% of the population have had COVID-19.[2]
-- 1.23% of the population or 2538.0 people are actively fighting the virus.
+- 5.69% of the population have had COVID-19.[2]
+- 1.18% of the population or 2446.0 people are actively fighting the virus.
 
 ## Synopsis
 

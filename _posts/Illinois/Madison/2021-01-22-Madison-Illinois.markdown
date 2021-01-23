@@ -12,13 +12,13 @@ tags: [Madison-Illinois]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *921* new cases of COVID-19
-- *19* people have died of COVID-19
-- *217* people have recovered from COVID-19[1]
+- *1136* new cases of COVID-19
+- *22* people have died of COVID-19
+- *564* people have recovered from COVID-19[1]
 
 The population in this census area is 262966. By our calculations:
-- 9.36% of the population have had COVID-19.[2]
-- 1.31% of the population or 3453.0 people are actively fighting the virus.
+- 9.44% of the population have had COVID-19.[2]
+- 1.26% of the population or 3318.0 people are actively fighting the virus.
 
 ## Synopsis
 

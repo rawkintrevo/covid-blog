@@ -12,13 +12,13 @@ tags: [Livingston-New York]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *219* new cases of COVID-19
+- *249* new cases of COVID-19
 - *8* people have died of COVID-19
-- *114* people have recovered from COVID-19[1]
+- *158* people have recovered from COVID-19[1]
 
 The population in this census area is 62914. By our calculations:
-- 4.35% of the population have had COVID-19.[2]
-- 1.26% of the population or 790.0 people are actively fighting the virus.
+- 4.40% of the population have had COVID-19.[2]
+- 1.23% of the population or 776.0 people are actively fighting the virus.
 
 ## Synopsis
 

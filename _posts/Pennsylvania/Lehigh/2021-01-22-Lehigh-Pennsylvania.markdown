@@ -12,13 +12,13 @@ tags: [Lehigh-Pennsylvania]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1229* new cases of COVID-19
-- *44* people have died of COVID-19
-- *609* people have recovered from COVID-19[1]
+- *1416* new cases of COVID-19
+- *50* people have died of COVID-19
+- *1036* people have recovered from COVID-19[1]
 
 The population in this census area is 369318. By our calculations:
-- 7.02% of the population have had COVID-19.[2]
-- 1.37% of the population or 5074.0 people are actively fighting the virus.
+- 7.08% of the population have had COVID-19.[2]
+- 1.31% of the population or 4828.0 people are actively fighting the virus.
 
 ## Synopsis
 

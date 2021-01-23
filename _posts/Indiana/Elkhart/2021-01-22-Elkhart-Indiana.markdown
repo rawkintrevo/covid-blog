@@ -12,13 +12,13 @@ tags: [Elkhart-Indiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *364* new cases of COVID-19
+- *411* new cases of COVID-19
 - *7* people have died of COVID-19
-- *264* people have recovered from COVID-19[1]
+- *360* people have recovered from COVID-19[1]
 
 The population in this census area is 206341. By our calculations:
-- 11.75% of the population have had COVID-19.[2]
-- 0.68% of the population or 1410.0 people are actively fighting the virus.
+- 11.77% of the population have had COVID-19.[2]
+- 0.66% of the population or 1361.0 people are actively fighting the virus.
 
 ## Synopsis
 

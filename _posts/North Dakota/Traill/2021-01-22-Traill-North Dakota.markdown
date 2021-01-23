@@ -12,13 +12,13 @@ tags: [Traill-North Dakota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *12* new cases of COVID-19
+- *14* new cases of COVID-19
 - *1* people have died of COVID-19
-- *8* people have recovered from COVID-19[1]
+- *9* people have recovered from COVID-19[1]
 
 The population in this census area is 8036. By our calculations:
-- 11.85% of the population have had COVID-19.[2]
-- 0.46% of the population or 37.0 people are actively fighting the virus.
+- 11.87% of the population have had COVID-19.[2]
+- 0.47% of the population or 38.0 people are actively fighting the virus.
 
 ## Synopsis
 

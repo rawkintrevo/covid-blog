@@ -12,13 +12,13 @@ tags: [Wayne-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *144* new cases of COVID-19
-- *6* people have died of COVID-19
-- *66* people have recovered from COVID-19[1]
+- *162* new cases of COVID-19
+- *7* people have died of COVID-19
+- *107* people have recovered from COVID-19[1]
 
 The population in this census area is 29927. By our calculations:
-- 9.13% of the population have had COVID-19.[2]
-- 1.93% of the population or 578.0 people are actively fighting the virus.
+- 9.20% of the population have had COVID-19.[2]
+- 1.85% of the population or 554.0 people are actively fighting the virus.
 
 ## Synopsis
 

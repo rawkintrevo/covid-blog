@@ -12,13 +12,13 @@ tags: [Colonial Heights-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *155* new cases of COVID-19
+- *162* new cases of COVID-19
 - *0* people have died of COVID-19
-- *23* people have recovered from COVID-19[1]
+- *41* people have recovered from COVID-19[1]
 
 The population in this census area is 17370. By our calculations:
-- 5.22% of the population have had COVID-19.[2]
-- 1.58% of the population or 275.0 people are actively fighting the virus.
+- 5.26% of the population have had COVID-19.[2]
+- 1.52% of the population or 264.0 people are actively fighting the virus.
 
 ## Synopsis
 

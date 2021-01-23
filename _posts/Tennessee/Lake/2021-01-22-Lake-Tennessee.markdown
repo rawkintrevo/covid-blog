@@ -12,13 +12,13 @@ tags: [Lake-Tennessee]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *35* new cases of COVID-19
-- *1* people have died of COVID-19
-- *14* people have recovered from COVID-19[1]
+- *43* new cases of COVID-19
+- *2* people have died of COVID-19
+- *69* people have recovered from COVID-19[1]
 
 The population in this census area is 7016. By our calculations:
-- 22.32% of the population have had COVID-19.[2]
-- 2.15% of the population or 151.0 people are actively fighting the virus.
+- 22.45% of the population have had COVID-19.[2]
+- 1.47% of the population or 103.0 people are actively fighting the virus.
 
 ## Synopsis
 

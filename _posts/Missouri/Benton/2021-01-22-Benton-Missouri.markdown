@@ -12,13 +12,13 @@ tags: [Benton-Missouri]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *29* new cases of COVID-19
+- *34* new cases of COVID-19
 - *0* people have died of COVID-19
-- *31* people have recovered from COVID-19[1]
+- *39* people have recovered from COVID-19[1]
 
 The population in this census area is 19443. By our calculations:
-- 6.94% of the population have had COVID-19.[2]
-- 0.74% of the population or 144.0 people are actively fighting the virus.
+- 6.97% of the population have had COVID-19.[2]
+- 0.73% of the population or 141.0 people are actively fighting the virus.
 
 ## Synopsis
 

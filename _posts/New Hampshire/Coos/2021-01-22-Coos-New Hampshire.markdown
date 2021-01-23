@@ -12,13 +12,13 @@ tags: [Coos-New Hampshire]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *127* new cases of COVID-19
+- *162* new cases of COVID-19
 - *3* people have died of COVID-19
-- *21* people have recovered from COVID-19[1]
+- *53* people have recovered from COVID-19[1]
 
 The population in this census area is 31563. By our calculations:
-- 3.17% of the population have had COVID-19.[2]
-- 1.06% of the population or 333.0 people are actively fighting the virus.
+- 3.29% of the population have had COVID-19.[2]
+- 1.06% of the population or 336.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Buncombe-North Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *847* new cases of COVID-19
-- *22* people have died of COVID-19
-- *107* people have recovered from COVID-19[1]
+- *928* new cases of COVID-19
+- *24* people have died of COVID-19
+- *580* people have recovered from COVID-19[1]
 
 The population in this census area is 261191. By our calculations:
-- 4.68% of the population have had COVID-19.[2]
-- 1.13% of the population or 2945.0 people are actively fighting the virus.
+- 4.71% of the population have had COVID-19.[2]
+- 0.98% of the population or 2551.0 people are actively fighting the virus.
 
 ## Synopsis
 

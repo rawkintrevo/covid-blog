@@ -12,13 +12,13 @@ tags: [McMinn-Tennessee]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *131* new cases of COVID-19
-- *1* people have died of COVID-19
-- *50* people have recovered from COVID-19[1]
+- *159* new cases of COVID-19
+- *2* people have died of COVID-19
+- *195* people have recovered from COVID-19[1]
 
 The population in this census area is 53794. By our calculations:
-- 9.51% of the population have had COVID-19.[2]
-- 1.39% of the population or 750.0 people are actively fighting the virus.
+- 9.57% of the population have had COVID-19.[2]
+- 1.17% of the population or 632.0 people are actively fighting the virus.
 
 ## Synopsis
 

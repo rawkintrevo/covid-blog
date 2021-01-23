@@ -12,13 +12,13 @@ tags: [Wayne-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *51* new cases of COVID-19
-- *4* people have died of COVID-19
-- *-2* people have recovered from COVID-19[1]
+- *71* new cases of COVID-19
+- *5* people have died of COVID-19
+- *52* people have recovered from COVID-19[1]
 
 The population in this census area is 20333. By our calculations:
-- 8.40% of the population have had COVID-19.[2]
-- 1.89% of the population or 385.0 people are actively fighting the virus.
+- 8.50% of the population have had COVID-19.[2]
+- 1.72% of the population or 350.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Kenosha-Wisconsin]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *384* new cases of COVID-19
-- *10* people have died of COVID-19
-- *172* people have recovered from COVID-19[1]
+- *452* new cases of COVID-19
+- *11* people have died of COVID-19
+- *187* people have recovered from COVID-19[1]
 
 The population in this census area is 169561. By our calculations:
-- 9.21% of the population have had COVID-19.[2]
-- 0.97% of the population or 1650.0 people are actively fighting the virus.
+- 9.25% of the population have had COVID-19.[2]
+- 1.00% of the population or 1702.0 people are actively fighting the virus.
 
 ## Synopsis
 

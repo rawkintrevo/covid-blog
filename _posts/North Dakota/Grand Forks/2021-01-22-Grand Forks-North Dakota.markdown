@@ -12,13 +12,13 @@ tags: [Grand Forks-North Dakota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *66* new cases of COVID-19
+- *76* new cases of COVID-19
 - *2* people have died of COVID-19
-- *55* people have recovered from COVID-19[1]
+- *58* people have recovered from COVID-19[1]
 
 The population in this census area is 69451. By our calculations:
-- 13.72% of the population have had COVID-19.[2]
-- 0.38% of the population or 267.0 people are actively fighting the virus.
+- 13.74% of the population have had COVID-19.[2]
+- 0.39% of the population or 274.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Greene-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *52* new cases of COVID-19
+- *62* new cases of COVID-19
 - *2* people have died of COVID-19
-- *37* people have recovered from COVID-19[1]
+- *49* people have recovered from COVID-19[1]
 
 The population in this census area is 18324. By our calculations:
-- 7.72% of the population have had COVID-19.[2]
-- 1.44% of the population or 263.0 people are actively fighting the virus.
+- 7.77% of the population have had COVID-19.[2]
+- 1.42% of the population or 261.0 people are actively fighting the virus.
 
 ## Synopsis
 

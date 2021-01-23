@@ -12,13 +12,13 @@ tags: [Stewart-Tennessee]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *40* new cases of COVID-19
+- *44* new cases of COVID-19
 - *0* people have died of COVID-19
-- *8* people have recovered from COVID-19[1]
+- *40* people have recovered from COVID-19[1]
 
 The population in this census area is 13715. By our calculations:
-- 7.80% of the population have had COVID-19.[2]
-- 1.36% of the population or 187.0 people are actively fighting the virus.
+- 7.83% of the population have had COVID-19.[2]
+- 1.16% of the population or 159.0 people are actively fighting the virus.
 
 ## Synopsis
 

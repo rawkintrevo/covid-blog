@@ -12,13 +12,13 @@ tags: [Conejos-Colorado]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *18* new cases of COVID-19
+- *20* new cases of COVID-19
 - *0* people have died of COVID-19
-- *9* people have recovered from COVID-19[1]
+- *10* people have recovered from COVID-19[1]
 
 The population in this census area is 8205. By our calculations:
-- 4.57% of the population have had COVID-19.[2]
-- 0.69% of the population or 57.0 people are actively fighting the virus.
+- 4.59% of the population have had COVID-19.[2]
+- 0.71% of the population or 58.0 people are actively fighting the virus.
 
 ## Synopsis
 

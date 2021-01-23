@@ -12,13 +12,13 @@ tags: [Cattaraugus-New York]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *226* new cases of COVID-19
+- *261* new cases of COVID-19
 - *2* people have died of COVID-19
-- *146* people have recovered from COVID-19[1]
+- *191* people have recovered from COVID-19[1]
 
 The population in this census area is 76117. By our calculations:
-- 4.50% of the population have had COVID-19.[2]
-- 1.08% of the population or 825.0 people are actively fighting the virus.
+- 4.55% of the population have had COVID-19.[2]
+- 1.07% of the population or 815.0 people are actively fighting the virus.
 
 ## Synopsis
 

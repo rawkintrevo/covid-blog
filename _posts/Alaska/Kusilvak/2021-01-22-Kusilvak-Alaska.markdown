@@ -12,13 +12,13 @@ tags: [Kusilvak-Alaska]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *84* new cases of COVID-19
+- *114* new cases of COVID-19
 - *0* people have died of COVID-19
-- *72* people have recovered from COVID-19[1]
+- *142* people have recovered from COVID-19[1]
 
 The population in this census area is 8314. By our calculations:
-- 12.39% of the population have had COVID-19.[2]
-- 3.15% of the population or 262.0 people are actively fighting the virus.
+- 12.75% of the population have had COVID-19.[2]
+- 2.67% of the population or 222.0 people are actively fighting the virus.
 
 ## Synopsis
 

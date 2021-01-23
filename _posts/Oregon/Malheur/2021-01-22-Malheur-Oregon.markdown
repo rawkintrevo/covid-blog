@@ -12,13 +12,13 @@ tags: [Malheur-Oregon]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *49* new cases of COVID-19
+- *67* new cases of COVID-19
 - *2* people have died of COVID-19
-- *30* people have recovered from COVID-19[1]
+- *60* people have recovered from COVID-19[1]
 
 The population in this census area is 30571. By our calculations:
-- 10.35% of the population have had COVID-19.[2]
-- 0.87% of the population or 267.0 people are actively fighting the virus.
+- 10.41% of the population have had COVID-19.[2]
+- 0.83% of the population or 255.0 people are actively fighting the virus.
 
 ## Synopsis
 

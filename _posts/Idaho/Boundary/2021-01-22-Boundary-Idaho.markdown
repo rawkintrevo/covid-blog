@@ -12,13 +12,13 @@ tags: [Boundary-Idaho]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *32* new cases of COVID-19
+- *37* new cases of COVID-19
 - *0* people have died of COVID-19
-- *9* people have recovered from COVID-19[1]
+- *10* people have recovered from COVID-19[1]
 
 The population in this census area is 12245. By our calculations:
-- 5.68% of the population have had COVID-19.[2]
-- 1.01% of the population or 124.0 people are actively fighting the virus.
+- 5.72% of the population have had COVID-19.[2]
+- 1.05% of the population or 128.0 people are actively fighting the virus.
 
 ## Synopsis
 

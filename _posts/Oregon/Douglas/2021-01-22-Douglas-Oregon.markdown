@@ -12,13 +12,13 @@ tags: [Douglas-Oregon]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *80* new cases of COVID-19
+- *102* new cases of COVID-19
 - *0* people have died of COVID-19
-- *20* people have recovered from COVID-19[1]
+- *68* people have recovered from COVID-19[1]
 
 The population in this census area is 110980. By our calculations:
-- 1.54% of the population have had COVID-19.[2]
-- 0.29% of the population or 318.0 people are actively fighting the virus.
+- 1.56% of the population have had COVID-19.[2]
+- 0.26% of the population or 292.0 people are actively fighting the virus.
 
 ## Synopsis
 

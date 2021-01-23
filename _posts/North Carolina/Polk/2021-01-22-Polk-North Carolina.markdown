@@ -12,13 +12,13 @@ tags: [Polk-North Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *90* new cases of COVID-19
-- *1* people have died of COVID-19
-- *3* people have recovered from COVID-19[1]
+- *97* new cases of COVID-19
+- *2* people have died of COVID-19
+- *57* people have recovered from COVID-19[1]
 
 The population in this census area is 20724. By our calculations:
-- 5.21% of the population have had COVID-19.[2]
-- 1.71% of the population or 355.0 people are actively fighting the virus.
+- 5.25% of the population have had COVID-19.[2]
+- 1.48% of the population or 307.0 people are actively fighting the virus.
 
 ## Synopsis
 

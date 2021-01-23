@@ -12,13 +12,13 @@ tags: [Jackson-Alabama]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *140* new cases of COVID-19
+- *180* new cases of COVID-19
 - *4* people have died of COVID-19
-- *155* people have recovered from COVID-19[1]
+- *189* people have recovered from COVID-19[1]
 
 The population in this census area is 51626. By our calculations:
-- 11.36% of the population have had COVID-19.[2]
-- 1.30% of the population or 673.0 people are actively fighting the virus.
+- 11.43% of the population have had COVID-19.[2]
+- 1.32% of the population or 679.0 people are actively fighting the virus.
 
 ## Synopsis
 

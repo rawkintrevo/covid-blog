@@ -12,13 +12,13 @@ tags: [Chattahoochee-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *61* new cases of COVID-19
+- *86* new cases of COVID-19
 - *0* people have died of COVID-19
-- *18* people have recovered from COVID-19[1]
+- *20* people have recovered from COVID-19[1]
 
 The population in this census area is 10907. By our calculations:
-- 21.33% of the population have had COVID-19.[2]
-- 1.08% of the population or 118.0 people are actively fighting the virus.
+- 21.55% of the population have had COVID-19.[2]
+- 1.29% of the population or 141.0 people are actively fighting the virus.
 
 ## Synopsis
 

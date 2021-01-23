@@ -12,13 +12,13 @@ tags: [Nelson-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *160* new cases of COVID-19
+- *242* new cases of COVID-19
 - *1* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *111* people have recovered from COVID-19[1]
 
 The population in this census area is 46233. By our calculations:
-- 7.93% of the population have had COVID-19.[2]
-- 1.74% of the population or 803.0 people are actively fighting the virus.
+- 8.10% of the population have had COVID-19.[2]
+- 1.67% of the population or 774.0 people are actively fighting the virus.
 
 ## Synopsis
 

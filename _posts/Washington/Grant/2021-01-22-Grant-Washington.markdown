@@ -12,13 +12,13 @@ tags: [Grant-Washington]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *227* new cases of COVID-19
-- *0* people have died of COVID-19
-- *100* people have recovered from COVID-19[1]
+- *269* new cases of COVID-19
+- *1* people have died of COVID-19
+- *99* people have recovered from COVID-19[1]
 
 The population in this census area is 97733. By our calculations:
-- 6.98% of the population have had COVID-19.[2]
-- 0.85% of the population or 833.0 people are actively fighting the virus.
+- 7.02% of the population have had COVID-19.[2]
+- 0.90% of the population or 875.0 people are actively fighting the virus.
 
 ## Synopsis
 

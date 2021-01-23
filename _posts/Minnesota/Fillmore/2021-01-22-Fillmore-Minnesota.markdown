@@ -12,13 +12,13 @@ tags: [Fillmore-Minnesota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *34* new cases of COVID-19
+- *44* new cases of COVID-19
 - *1* people have died of COVID-19
-- *12* people have recovered from COVID-19[1]
+- *19* people have recovered from COVID-19[1]
 
 The population in this census area is 21067. By our calculations:
-- 5.90% of the population have had COVID-19.[2]
-- 0.61% of the population or 128.0 people are actively fighting the virus.
+- 5.95% of the population have had COVID-19.[2]
+- 0.62% of the population or 131.0 people are actively fighting the virus.
 
 ## Synopsis
 

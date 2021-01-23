@@ -12,13 +12,13 @@ tags: [Gentry-Missouri]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *13* new cases of COVID-19
+- *16* new cases of COVID-19
 - *2* people have died of COVID-19
-- *15* people have recovered from COVID-19[1]
+- *20* people have recovered from COVID-19[1]
 
 The population in this census area is 6571. By our calculations:
-- 10.41% of the population have had COVID-19.[2]
-- 1.03% of the population or 68.0 people are actively fighting the virus.
+- 10.46% of the population have had COVID-19.[2]
+- 1.00% of the population or 66.0 people are actively fighting the virus.
 
 ## Synopsis
 

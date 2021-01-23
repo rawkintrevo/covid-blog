@@ -12,13 +12,13 @@ tags: [Eau Claire-Wisconsin]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *220* new cases of COVID-19
-- *2* people have died of COVID-19
-- *123* people have recovered from COVID-19[1]
+- *271* new cases of COVID-19
+- *5* people have died of COVID-19
+- *121* people have recovered from COVID-19[1]
 
 The population in this census area is 104646. By our calculations:
-- 10.00% of the population have had COVID-19.[2]
-- 0.88% of the population or 922.0 people are actively fighting the virus.
+- 10.05% of the population have had COVID-19.[2]
+- 0.93% of the population or 972.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Lincoln-Wyoming]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *30* new cases of COVID-19
+- *33* new cases of COVID-19
 - *0* people have died of COVID-19
-- *14* people have recovered from COVID-19[1]
+- *25* people have recovered from COVID-19[1]
 
 The population in this census area is 19830. By our calculations:
-- 5.44% of the population have had COVID-19.[2]
-- 0.80% of the population or 158.0 people are actively fighting the virus.
+- 5.45% of the population have had COVID-19.[2]
+- 0.76% of the population or 150.0 people are actively fighting the virus.
 
 ## Synopsis
 

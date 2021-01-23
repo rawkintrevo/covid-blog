@@ -12,13 +12,13 @@ tags: [Saunders-Nebraska]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *58* new cases of COVID-19
+- *71* new cases of COVID-19
 - *0* people have died of COVID-19
-- *44* people have recovered from COVID-19[1]
+- *53* people have recovered from COVID-19[1]
 
 The population in this census area is 21578. By our calculations:
-- 9.68% of the population have had COVID-19.[2]
-- 1.36% of the population or 293.0 people are actively fighting the virus.
+- 9.74% of the population have had COVID-19.[2]
+- 1.38% of the population or 297.0 people are actively fighting the virus.
 
 ## Synopsis
 

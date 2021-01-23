@@ -12,13 +12,13 @@ tags: [Choctaw-Oklahoma]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *64* new cases of COVID-19
+- *66* new cases of COVID-19
 - *2* people have died of COVID-19
-- *5* people have recovered from COVID-19[1]
+- *17* people have recovered from COVID-19[1]
 
 The population in this census area is 14672. By our calculations:
-- 9.27% of the population have had COVID-19.[2]
-- 1.92% of the population or 281.0 people are actively fighting the virus.
+- 9.28% of the population have had COVID-19.[2]
+- 1.85% of the population or 271.0 people are actively fighting the virus.
 
 ## Synopsis
 

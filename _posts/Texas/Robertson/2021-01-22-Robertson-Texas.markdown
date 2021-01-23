@@ -12,13 +12,13 @@ tags: [Robertson-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *48* new cases of COVID-19
+- *49* new cases of COVID-19
 - *3* people have died of COVID-19
 - *45* people have recovered from COVID-19[1]
 
 The population in this census area is 17074. By our calculations:
-- 6.28% of the population have had COVID-19.[2]
-- 0.86% of the population or 146.0 people are actively fighting the virus.
+- 6.29% of the population have had COVID-19.[2]
+- 0.86% of the population or 147.0 people are actively fighting the virus.
 
 ## Synopsis
 

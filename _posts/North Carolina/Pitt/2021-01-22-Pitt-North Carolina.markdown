@@ -12,13 +12,13 @@ tags: [Pitt-North Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *655* new cases of COVID-19
+- *759* new cases of COVID-19
 - *0* people have died of COVID-19
-- *239* people have recovered from COVID-19[1]
+- *687* people have recovered from COVID-19[1]
 
 The population in this census area is 180742. By our calculations:
-- 7.86% of the population have had COVID-19.[2]
-- 1.52% of the population or 2747.0 people are actively fighting the virus.
+- 7.91% of the population have had COVID-19.[2]
+- 1.33% of the population or 2403.0 people are actively fighting the virus.
 
 ## Synopsis
 

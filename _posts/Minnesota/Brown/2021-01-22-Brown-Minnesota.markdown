@@ -12,13 +12,13 @@ tags: [Brown-Minnesota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *32* new cases of COVID-19
+- *35* new cases of COVID-19
 - *0* people have died of COVID-19
-- *11* people have recovered from COVID-19[1]
+- *21* people have recovered from COVID-19[1]
 
 The population in this census area is 25008. By our calculations:
-- 8.62% of the population have had COVID-19.[2]
-- 0.57% of the population or 142.0 people are actively fighting the virus.
+- 8.63% of the population have had COVID-19.[2]
+- 0.54% of the population or 135.0 people are actively fighting the virus.
 
 ## Synopsis
 

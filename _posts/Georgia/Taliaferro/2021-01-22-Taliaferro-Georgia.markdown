@@ -14,11 +14,11 @@ tags: [Taliaferro-Georgia]
 In the last 7 days[3] we project there have been
 - *13* new cases of COVID-19
 - *0* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *3* people have recovered from COVID-19[1]
 
 The population in this census area is 1537. By our calculations:
 - 6.31% of the population have had COVID-19.[2]
-- 2.73% of the population or 42.0 people are actively fighting the virus.
+- 2.54% of the population or 39.0 people are actively fighting the virus.
 
 ## Synopsis
 

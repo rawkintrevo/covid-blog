@@ -12,13 +12,13 @@ tags: [Conway-Arkansas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *103* new cases of COVID-19
+- *123* new cases of COVID-19
 - *3* people have died of COVID-19
-- *52* people have recovered from COVID-19[1]
+- *100* people have recovered from COVID-19[1]
 
 The population in this census area is 20846. By our calculations:
-- 8.77% of the population have had COVID-19.[2]
-- 2.30% of the population or 480.0 people are actively fighting the virus.
+- 8.87% of the population have had COVID-19.[2]
+- 2.17% of the population or 452.0 people are actively fighting the virus.
 
 ## Synopsis
 

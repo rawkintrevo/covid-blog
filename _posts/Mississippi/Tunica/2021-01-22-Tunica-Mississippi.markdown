@@ -12,13 +12,13 @@ tags: [Tunica-Mississippi]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *34* new cases of COVID-19
+- *36* new cases of COVID-19
 - *0* people have died of COVID-19
-- *8* people have recovered from COVID-19[1]
+- *11* people have recovered from COVID-19[1]
 
 The population in this census area is 9632. By our calculations:
-- 9.07% of the population have had COVID-19.[2]
-- 1.16% of the population or 112.0 people are actively fighting the virus.
+- 9.09% of the population have had COVID-19.[2]
+- 1.15% of the population or 111.0 people are actively fighting the virus.
 
 ## Synopsis
 

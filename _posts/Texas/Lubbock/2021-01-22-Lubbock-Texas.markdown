@@ -12,13 +12,13 @@ tags: [Lubbock-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *790* new cases of COVID-19
-- *30* people have died of COVID-19
-- *500* people have recovered from COVID-19[1]
+- *946* new cases of COVID-19
+- *33* people have died of COVID-19
+- *495* people have recovered from COVID-19[1]
 
 The population in this census area is 310569. By our calculations:
-- 14.72% of the population have had COVID-19.[2]
-- 1.12% of the population or 3490.0 people are actively fighting the virus.
+- 14.77% of the population have had COVID-19.[2]
+- 1.17% of the population or 3648.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Tipton-Tennessee]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *210* new cases of COVID-19
-- *2* people have died of COVID-19
-- *21* people have recovered from COVID-19[1]
+- *235* new cases of COVID-19
+- *5* people have died of COVID-19
+- *164* people have recovered from COVID-19[1]
 
 The population in this census area is 61599. By our calculations:
-- 10.18% of the population have had COVID-19.[2]
-- 1.37% of the population or 845.0 people are actively fighting the virus.
+- 10.22% of the population have had COVID-19.[2]
+- 1.18% of the population or 724.0 people are actively fighting the virus.
 
 ## Synopsis
 

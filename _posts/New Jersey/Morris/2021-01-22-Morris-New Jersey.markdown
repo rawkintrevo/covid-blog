@@ -12,13 +12,13 @@ tags: [Morris-New Jersey]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1613* new cases of COVID-19
-- *20* people have died of COVID-19
-- *410* people have recovered from COVID-19[1]
+- *1861* new cases of COVID-19
+- *22* people have died of COVID-19
+- *678* people have recovered from COVID-19[1]
 
 The population in this census area is 491845. By our calculations:
-- 5.88% of the population have had COVID-19.[2]
-- 1.68% of the population or 8271.0 people are actively fighting the virus.
+- 5.93% of the population have had COVID-19.[2]
+- 1.68% of the population or 8249.0 people are actively fighting the virus.
 
 ## Synopsis
 

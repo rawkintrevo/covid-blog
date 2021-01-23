@@ -12,13 +12,13 @@ tags: [Grant-Wisconsin]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *91* new cases of COVID-19
+- *122* new cases of COVID-19
 - *1* people have died of COVID-19
-- *43* people have recovered from COVID-19[1]
+- *58* people have recovered from COVID-19[1]
 
 The population in this census area is 51439. By our calculations:
-- 9.60% of the population have had COVID-19.[2]
-- 0.72% of the population or 372.0 people are actively fighting the virus.
+- 9.66% of the population have had COVID-19.[2]
+- 0.75% of the population or 388.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Anderson-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *70* new cases of COVID-19
+- *85* new cases of COVID-19
 - *4* people have died of COVID-19
-- *-4* people have recovered from COVID-19[1]
+- *29* people have recovered from COVID-19[1]
 
 The population in this census area is 22747. By our calculations:
-- 5.69% of the population have had COVID-19.[2]
-- 1.40% of the population or 318.0 people are actively fighting the virus.
+- 5.76% of the population have had COVID-19.[2]
+- 1.32% of the population or 300.0 people are actively fighting the virus.
 
 ## Synopsis
 

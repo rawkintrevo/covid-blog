@@ -12,13 +12,13 @@ tags: [Fulton-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *4198* new cases of COVID-19
-- *40* people have died of COVID-19
-- *1767* people have recovered from COVID-19[1]
+- *4770* new cases of COVID-19
+- *50* people have died of COVID-19
+- *2471* people have recovered from COVID-19[1]
 
 The population in this census area is 1063937. By our calculations:
-- 6.70% of the population have had COVID-19.[2]
-- 1.26% of the population or 13408.0 people are actively fighting the virus.
+- 6.75% of the population have had COVID-19.[2]
+- 1.25% of the population or 13266.0 people are actively fighting the virus.
 
 ## Synopsis
 

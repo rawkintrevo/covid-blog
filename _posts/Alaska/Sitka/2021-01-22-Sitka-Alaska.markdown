@@ -12,13 +12,13 @@ tags: [Sitka-Alaska]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *10* new cases of COVID-19
+- *11* new cases of COVID-19
 - *0* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *-1* people have recovered from COVID-19[1]
 
 The population in this census area is 8493. By our calculations:
-- 3.49% of the population have had COVID-19.[2]
-- 0.31% of the population or 26.0 people are actively fighting the virus.
+- 3.50% of the population have had COVID-19.[2]
+- 0.33% of the population or 28.0 people are actively fighting the virus.
 
 ## Synopsis
 

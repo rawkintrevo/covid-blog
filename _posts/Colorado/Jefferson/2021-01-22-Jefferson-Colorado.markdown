@@ -12,13 +12,13 @@ tags: [Jefferson-Colorado]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *762* new cases of COVID-19
-- *13* people have died of COVID-19
-- *463* people have recovered from COVID-19[1]
+- *866* new cases of COVID-19
+- *14* people have died of COVID-19
+- *598* people have recovered from COVID-19[1]
 
 The population in this census area is 582881. By our calculations:
-- 5.70% of the population have had COVID-19.[2]
-- 0.57% of the population or 3335.0 people are actively fighting the virus.
+- 5.72% of the population have had COVID-19.[2]
+- 0.57% of the population or 3303.0 people are actively fighting the virus.
 
 ## Synopsis
 

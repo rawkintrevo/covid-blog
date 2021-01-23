@@ -12,13 +12,13 @@ tags: [Obion-Tennessee]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *74* new cases of COVID-19
-- *6* people have died of COVID-19
-- *38* people have recovered from COVID-19[1]
+- *84* new cases of COVID-19
+- *8* people have died of COVID-19
+- *94* people have recovered from COVID-19[1]
 
 The population in this census area is 30069. By our calculations:
-- 13.37% of the population have had COVID-19.[2]
-- 1.22% of the population or 368.0 people are actively fighting the virus.
+- 13.41% of the population have had COVID-19.[2]
+- 1.06% of the population or 320.0 people are actively fighting the virus.
 
 ## Synopsis
 

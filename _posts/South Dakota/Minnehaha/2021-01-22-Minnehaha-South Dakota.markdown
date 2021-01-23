@@ -12,13 +12,13 @@ tags: [Minnehaha-South Dakota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *314* new cases of COVID-19
+- *397* new cases of COVID-19
 - *6* people have died of COVID-19
-- *79* people have recovered from COVID-19[1]
+- *207* people have recovered from COVID-19[1]
 
 The population in this census area is 193134. By our calculations:
-- 13.73% of the population have had COVID-19.[2]
-- 0.76% of the population or 1476.0 people are actively fighting the virus.
+- 13.77% of the population have had COVID-19.[2]
+- 0.74% of the population or 1431.0 people are actively fighting the virus.
 
 ## Synopsis
 

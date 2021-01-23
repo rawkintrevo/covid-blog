@@ -12,13 +12,13 @@ tags: [Lincoln-Oklahoma]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *103* new cases of COVID-19
-- *0* people have died of COVID-19
-- *27* people have recovered from COVID-19[1]
+- *123* new cases of COVID-19
+- *1* people have died of COVID-19
+- *58* people have recovered from COVID-19[1]
 
 The population in this census area is 34877. By our calculations:
-- 7.48% of the population have had COVID-19.[2]
-- 1.42% of the population or 496.0 people are actively fighting the virus.
+- 7.54% of the population have had COVID-19.[2]
+- 1.39% of the population or 484.0 people are actively fighting the virus.
 
 ## Synopsis
 

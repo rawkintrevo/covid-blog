@@ -12,13 +12,13 @@ tags: [Grant-Arkansas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *52* new cases of COVID-19
+- *69* new cases of COVID-19
 - *5* people have died of COVID-19
-- *42* people have recovered from COVID-19[1]
+- *50* people have recovered from COVID-19[1]
 
 The population in this census area is 18265. By our calculations:
-- 7.10% of the population have had COVID-19.[2]
-- 0.99% of the population or 180.0 people are actively fighting the virus.
+- 7.19% of the population have had COVID-19.[2]
+- 1.03% of the population or 189.0 people are actively fighting the virus.
 
 ## Synopsis
 

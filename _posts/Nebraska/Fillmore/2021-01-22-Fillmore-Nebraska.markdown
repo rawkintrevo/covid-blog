@@ -12,12 +12,12 @@ tags: [Fillmore-Nebraska]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *11* new cases of COVID-19
+- *13* new cases of COVID-19
 - *0* people have died of COVID-19
-- *1* people have recovered from COVID-19[1]
+- *3* people have recovered from COVID-19[1]
 
 The population in this census area is 5462. By our calculations:
-- 8.28% of the population have had COVID-19.[2]
+- 8.31% of the population have had COVID-19.[2]
 - 0.75% of the population or 41.0 people are actively fighting the virus.
 
 ## Synopsis

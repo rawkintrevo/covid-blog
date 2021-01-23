@@ -12,13 +12,13 @@ tags: [Dickinson-Michigan]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *29* new cases of COVID-19
+- *34* new cases of COVID-19
 - *0* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *26* people have recovered from COVID-19[1]
 
 The population in this census area is 25239. By our calculations:
-- 9.09% of the population have had COVID-19.[2]
-- 0.47% of the population or 119.0 people are actively fighting the virus.
+- 9.11% of the population have had COVID-19.[2]
+- 0.39% of the population or 98.0 people are actively fighting the virus.
 
 ## Synopsis
 

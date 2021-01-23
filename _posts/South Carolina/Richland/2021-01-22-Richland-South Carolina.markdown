@@ -12,13 +12,13 @@ tags: [Richland-South Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *2017* new cases of COVID-19
+- *2306* new cases of COVID-19
 - *30* people have died of COVID-19
-- *283* people have recovered from COVID-19[1]
+- *547* people have recovered from COVID-19[1]
 
 The population in this census area is 415759. By our calculations:
-- 7.82% of the population have had COVID-19.[2]
-- 1.46% of the population or 6054.0 people are actively fighting the virus.
+- 7.89% of the population have had COVID-19.[2]
+- 1.46% of the population or 6079.0 people are actively fighting the virus.
 
 ## Synopsis
 

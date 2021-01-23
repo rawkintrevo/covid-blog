@@ -12,13 +12,13 @@ tags: [Fairfield-Connecticut]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *2810* new cases of COVID-19
-- *43* people have died of COVID-19
-- *619* people have recovered from COVID-19[1]
+- *3233* new cases of COVID-19
+- *53* people have died of COVID-19
+- *1768* people have recovered from COVID-19[1]
 
 The population in this census area is 943332. By our calculations:
-- 7.22% of the population have had COVID-19.[2]
-- 1.19% of the population or 11193.0 people are actively fighting the virus.
+- 7.26% of the population have had COVID-19.[2]
+- 1.11% of the population or 10457.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Grant-Louisiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *48* new cases of COVID-19
-- *1* people have died of COVID-19
-- *22* people have recovered from COVID-19[1]
+- *60* new cases of COVID-19
+- *2* people have died of COVID-19
+- *21* people have recovered from COVID-19[1]
 
 The population in this census area is 22389. By our calculations:
-- 7.86% of the population have had COVID-19.[2]
-- 1.14% of the population or 256.0 people are actively fighting the virus.
+- 7.91% of the population have had COVID-19.[2]
+- 1.20% of the population or 268.0 people are actively fighting the virus.
 
 ## Synopsis
 

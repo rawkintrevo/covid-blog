@@ -12,13 +12,13 @@ tags: [Upshur-West Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *86* new cases of COVID-19
+- *112* new cases of COVID-19
 - *6* people have died of COVID-19
-- *63* people have recovered from COVID-19[1]
+- *68* people have recovered from COVID-19[1]
 
 The population in this census area is 24176. By our calculations:
-- 5.41% of the population have had COVID-19.[2]
-- 1.35% of the population or 327.0 people are actively fighting the virus.
+- 5.51% of the population have had COVID-19.[2]
+- 1.44% of the population or 348.0 people are actively fighting the virus.
 
 ## Synopsis
 

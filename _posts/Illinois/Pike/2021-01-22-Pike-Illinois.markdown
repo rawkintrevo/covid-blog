@@ -12,13 +12,13 @@ tags: [Pike-Illinois]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *38* new cases of COVID-19
-- *1* people have died of COVID-19
-- *31* people have recovered from COVID-19[1]
+- *48* new cases of COVID-19
+- *3* people have died of COVID-19
+- *46* people have recovered from COVID-19[1]
 
 The population in this census area is 15561. By our calculations:
-- 10.02% of the population have had COVID-19.[2]
-- 1.02% of the population or 159.0 people are actively fighting the virus.
+- 10.10% of the population have had COVID-19.[2]
+- 0.98% of the population or 152.0 people are actively fighting the virus.
 
 ## Synopsis
 

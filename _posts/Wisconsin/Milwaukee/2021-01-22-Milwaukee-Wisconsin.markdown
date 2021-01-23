@@ -12,13 +12,13 @@ tags: [Milwaukee-Wisconsin]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1894* new cases of COVID-19
-- *97* people have died of COVID-19
-- *1026* people have recovered from COVID-19[1]
+- *2278* new cases of COVID-19
+- *103* people have died of COVID-19
+- *1403* people have recovered from COVID-19[1]
 
 The population in this census area is 945726. By our calculations:
-- 10.60% of the population have had COVID-19.[2]
-- 0.84% of the population or 7987.0 people are actively fighting the virus.
+- 10.65% of the population have had COVID-19.[2]
+- 0.84% of the population or 7988.0 people are actively fighting the virus.
 
 ## Synopsis
 

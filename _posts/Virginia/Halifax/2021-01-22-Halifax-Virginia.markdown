@@ -12,13 +12,13 @@ tags: [Halifax-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *282* new cases of COVID-19
+- *301* new cases of COVID-19
 - *1* people have died of COVID-19
-- *29* people have recovered from COVID-19[1]
+- *39* people have recovered from COVID-19[1]
 
 The population in this census area is 33911. By our calculations:
-- 5.23% of the population have had COVID-19.[2]
-- 1.78% of the population or 604.0 people are actively fighting the virus.
+- 5.29% of the population have had COVID-19.[2]
+- 1.81% of the population or 613.0 people are actively fighting the virus.
 
 ## Synopsis
 

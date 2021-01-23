@@ -12,13 +12,13 @@ tags: [Madison-Indiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *448* new cases of COVID-19
-- *8* people have died of COVID-19
-- *214* people have recovered from COVID-19[1]
+- *529* new cases of COVID-19
+- *10* people have died of COVID-19
+- *298* people have recovered from COVID-19[1]
 
 The population in this census area is 129569. By our calculations:
-- 8.31% of the population have had COVID-19.[2]
-- 1.26% of the population or 1637.0 people are actively fighting the virus.
+- 8.37% of the population have had COVID-19.[2]
+- 1.26% of the population or 1632.0 people are actively fighting the virus.
 
 ## Synopsis
 

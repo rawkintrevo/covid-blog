@@ -12,13 +12,13 @@ tags: [Pawnee-Nebraska]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *5* new cases of COVID-19
+- *6* new cases of COVID-19
 - *0* people have died of COVID-19
 - *3* people have recovered from COVID-19[1]
 
 The population in this census area is 2613. By our calculations:
-- 6.93% of the population have had COVID-19.[2]
-- 0.80% of the population or 21.0 people are actively fighting the virus.
+- 6.97% of the population have had COVID-19.[2]
+- 0.84% of the population or 22.0 people are actively fighting the virus.
 
 ## Synopsis
 

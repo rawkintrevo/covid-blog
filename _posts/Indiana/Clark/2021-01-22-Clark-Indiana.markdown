@@ -12,13 +12,13 @@ tags: [Clark-Indiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *468* new cases of COVID-19
-- *8* people have died of COVID-19
-- *298* people have recovered from COVID-19[1]
+- *559* new cases of COVID-19
+- *9* people have died of COVID-19
+- *432* people have recovered from COVID-19[1]
 
 The population in this census area is 118302. By our calculations:
-- 8.81% of the population have had COVID-19.[2]
-- 1.56% of the population or 1847.0 people are actively fighting the virus.
+- 8.89% of the population have had COVID-19.[2]
+- 1.52% of the population or 1803.0 people are actively fighting the virus.
 
 ## Synopsis
 

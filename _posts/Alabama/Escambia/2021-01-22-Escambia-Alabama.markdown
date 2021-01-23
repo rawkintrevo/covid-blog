@@ -12,13 +12,13 @@ tags: [Escambia-Alabama]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *161* new cases of COVID-19
-- *1* people have died of COVID-19
-- *44* people have recovered from COVID-19[1]
+- *183* new cases of COVID-19
+- *2* people have died of COVID-19
+- *74* people have recovered from COVID-19[1]
 
 The population in this census area is 36633. By our calculations:
-- 8.90% of the population have had COVID-19.[2]
-- 1.55% of the population or 567.0 people are actively fighting the virus.
+- 8.96% of the population have had COVID-19.[2]
+- 1.52% of the population or 558.0 people are actively fighting the virus.
 
 ## Synopsis
 

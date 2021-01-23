@@ -12,13 +12,13 @@ tags: [Monroe-Arkansas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *39* new cases of COVID-19
+- *50* new cases of COVID-19
 - *4* people have died of COVID-19
-- *16* people have recovered from COVID-19[1]
+- *33* people have recovered from COVID-19[1]
 
 The population in this census area is 6701. By our calculations:
-- 9.39% of the population have had COVID-19.[2]
-- 2.03% of the population or 136.0 people are actively fighting the virus.
+- 9.55% of the population have had COVID-19.[2]
+- 1.94% of the population or 130.0 people are actively fighting the virus.
 
 ## Synopsis
 

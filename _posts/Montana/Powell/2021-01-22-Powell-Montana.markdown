@@ -12,13 +12,13 @@ tags: [Powell-Montana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *12* new cases of COVID-19
+- *17* new cases of COVID-19
 - *0* people have died of COVID-19
-- *2* people have recovered from COVID-19[1]
+- *8* people have recovered from COVID-19[1]
 
 The population in this census area is 6890. By our calculations:
-- 12.28% of the population have had COVID-19.[2]
-- 0.84% of the population or 58.0 people are actively fighting the virus.
+- 12.35% of the population have had COVID-19.[2]
+- 0.83% of the population or 57.0 people are actively fighting the virus.
 
 ## Synopsis
 

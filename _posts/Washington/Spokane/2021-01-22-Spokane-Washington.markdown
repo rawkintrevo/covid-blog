@@ -12,13 +12,13 @@ tags: [Spokane-Washington]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1093* new cases of COVID-19
-- *12* people have died of COVID-19
-- *390* people have recovered from COVID-19[1]
+- *1324* new cases of COVID-19
+- *23* people have died of COVID-19
+- *379* people have recovered from COVID-19[1]
 
 The population in this census area is 522798. By our calculations:
-- 5.96% of the population have had COVID-19.[2]
-- 1.05% of the population or 5513.0 people are actively fighting the virus.
+- 6.01% of the population have had COVID-19.[2]
+- 1.10% of the population or 5744.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -14,11 +14,11 @@ tags: [Lemhi-Idaho]
 In the last 7 days[3] we project there have been
 - *1* new cases of COVID-19
 - *0* people have died of COVID-19
-- *2* people have recovered from COVID-19[1]
+- *4* people have recovered from COVID-19[1]
 
 The population in this census area is 8027. By our calculations:
 - 5.91% of the population have had COVID-19.[2]
-- 0.15% of the population or 12.0 people are actively fighting the virus.
+- 0.12% of the population or 10.0 people are actively fighting the virus.
 
 ## Synopsis
 

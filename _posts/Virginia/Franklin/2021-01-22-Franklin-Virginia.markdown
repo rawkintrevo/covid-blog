@@ -12,13 +12,13 @@ tags: [Franklin-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *222* new cases of COVID-19
+- *256* new cases of COVID-19
 - *1* people have died of COVID-19
-- *63* people have recovered from COVID-19[1]
+- *83* people have recovered from COVID-19[1]
 
 The population in this census area is 56042. By our calculations:
-- 5.43% of the population have had COVID-19.[2]
-- 1.20% of the population or 673.0 people are actively fighting the virus.
+- 5.49% of the population have had COVID-19.[2]
+- 1.23% of the population or 687.0 people are actively fighting the virus.
 
 ## Synopsis
 

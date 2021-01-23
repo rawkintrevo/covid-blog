@@ -12,13 +12,13 @@ tags: [Grayson-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *607* new cases of COVID-19
-- *15* people have died of COVID-19
-- *70* people have recovered from COVID-19[1]
+- *690* new cases of COVID-19
+- *19* people have died of COVID-19
+- *193* people have recovered from COVID-19[1]
 
 The population in this census area is 136212. By our calculations:
-- 6.67% of the population have had COVID-19.[2]
-- 1.75% of the population or 2389.0 people are actively fighting the virus.
+- 6.73% of the population have had COVID-19.[2]
+- 1.72% of the population or 2345.0 people are actively fighting the virus.
 
 ## Synopsis
 

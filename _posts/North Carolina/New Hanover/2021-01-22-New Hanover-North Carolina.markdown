@@ -12,13 +12,13 @@ tags: [New Hanover-North Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1206* new cases of COVID-19
+- *1300* new cases of COVID-19
 - *2* people have died of COVID-19
-- *61* people have recovered from COVID-19[1]
+- *322* people have recovered from COVID-19[1]
 
 The population in this census area is 234473. By our calculations:
-- 5.24% of the population have had COVID-19.[2]
-- 1.15% of the population or 2689.0 people are actively fighting the virus.
+- 5.29% of the population have had COVID-19.[2]
+- 1.08% of the population or 2522.0 people are actively fighting the virus.
 
 ## Synopsis
 

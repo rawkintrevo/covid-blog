@@ -12,13 +12,13 @@ tags: [Boone-Indiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *191* new cases of COVID-19
+- *218* new cases of COVID-19
 - *0* people have died of COVID-19
-- *167* people have recovered from COVID-19[1]
+- *293* people have recovered from COVID-19[1]
 
 The population in this census area is 67843. By our calculations:
-- 7.99% of the population have had COVID-19.[2]
-- 1.27% of the population or 862.0 people are actively fighting the virus.
+- 8.03% of the population have had COVID-19.[2]
+- 1.12% of the population or 763.0 people are actively fighting the virus.
 
 ## Synopsis
 

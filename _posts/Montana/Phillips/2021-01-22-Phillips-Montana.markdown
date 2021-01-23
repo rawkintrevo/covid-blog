@@ -12,13 +12,13 @@ tags: [Phillips-Montana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *5* new cases of COVID-19
+- *16* new cases of COVID-19
 - *0* people have died of COVID-19
-- *3* people have recovered from COVID-19[1]
+- *7* people have recovered from COVID-19[1]
 
 The population in this census area is 3954. By our calculations:
-- 11.43% of the population have had COVID-19.[2]
-- 0.63% of the population or 25.0 people are actively fighting the virus.
+- 11.71% of the population have had COVID-19.[2]
+- 0.81% of the population or 32.0 people are actively fighting the virus.
 
 ## Synopsis
 

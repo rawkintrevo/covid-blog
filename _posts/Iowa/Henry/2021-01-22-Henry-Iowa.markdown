@@ -12,13 +12,13 @@ tags: [Henry-Iowa]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *26* new cases of COVID-19
+- *36* new cases of COVID-19
 - *1* people have died of COVID-19
-- *12* people have recovered from COVID-19[1]
+- *19* people have recovered from COVID-19[1]
 
 The population in this census area is 19954. By our calculations:
-- 13.27% of the population have had COVID-19.[2]
-- 0.80% of the population or 159.0 people are actively fighting the virus.
+- 13.32% of the population have had COVID-19.[2]
+- 0.81% of the population or 162.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Lawrence-Illinois]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *45* new cases of COVID-19
+- *51* new cases of COVID-19
 - *1* people have died of COVID-19
-- *50* people have recovered from COVID-19[1]
+- *55* people have recovered from COVID-19[1]
 
 The population in this census area is 15678. By our calculations:
-- 13.93% of the population have had COVID-19.[2]
-- 1.25% of the population or 196.0 people are actively fighting the virus.
+- 13.97% of the population have had COVID-19.[2]
+- 1.26% of the population or 197.0 people are actively fighting the virus.
 
 ## Synopsis
 

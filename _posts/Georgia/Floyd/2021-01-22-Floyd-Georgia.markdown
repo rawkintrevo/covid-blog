@@ -12,13 +12,13 @@ tags: [Floyd-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *375* new cases of COVID-19
+- *459* new cases of COVID-19
 - *12* people have died of COVID-19
-- *218* people have recovered from COVID-19[1]
+- *268* people have recovered from COVID-19[1]
 
 The population in this census area is 98498. By our calculations:
-- 9.34% of the population have had COVID-19.[2]
-- 1.36% of the population or 1342.0 people are actively fighting the virus.
+- 9.42% of the population have had COVID-19.[2]
+- 1.40% of the population or 1376.0 people are actively fighting the virus.
 
 ## Synopsis
 

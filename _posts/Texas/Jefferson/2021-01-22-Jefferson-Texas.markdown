@@ -12,13 +12,13 @@ tags: [Jefferson-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *555* new cases of COVID-19
-- *14* people have died of COVID-19
-- *261* people have recovered from COVID-19[1]
+- *686* new cases of COVID-19
+- *20* people have died of COVID-19
+- *327* people have recovered from COVID-19[1]
 
 The population in this census area is 251565. By our calculations:
-- 6.44% of the population have had COVID-19.[2]
-- 0.96% of the population or 2421.0 people are actively fighting the virus.
+- 6.50% of the population have had COVID-19.[2]
+- 0.99% of the population or 2480.0 people are actively fighting the virus.
 
 ## Synopsis
 

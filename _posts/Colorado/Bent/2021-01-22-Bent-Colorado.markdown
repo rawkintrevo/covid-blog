@@ -12,13 +12,13 @@ tags: [Bent-Colorado]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *10* new cases of COVID-19
-- *1* people have died of COVID-19
-- *99* people have recovered from COVID-19[1]
+- *19* new cases of COVID-19
+- *2* people have died of COVID-19
+- *111* people have recovered from COVID-19[1]
 
 The population in this census area is 5577. By our calculations:
-- 22.75% of the population have had COVID-19.[2]
-- 2.46% of the population or 137.0 people are actively fighting the virus.
+- 22.93% of the population have had COVID-19.[2]
+- 2.38% of the population or 133.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Lee-Arkansas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *31* new cases of COVID-19
+- *35* new cases of COVID-19
 - *2* people have died of COVID-19
-- *23* people have recovered from COVID-19[1]
+- *29* people have recovered from COVID-19[1]
 
 The population in this census area is 8857. By our calculations:
-- 17.69% of the population have had COVID-19.[2]
-- 1.29% of the population or 114.0 people are actively fighting the virus.
+- 17.74% of the population have had COVID-19.[2]
+- 1.26% of the population or 112.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Bryan-Oklahoma]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *202* new cases of COVID-19
+- *240* new cases of COVID-19
 - *0* people have died of COVID-19
-- *76* people have recovered from COVID-19[1]
+- *150* people have recovered from COVID-19[1]
 
 The population in this census area is 47995. By our calculations:
-- 10.22% of the population have had COVID-19.[2]
-- 1.91% of the population or 915.0 people are actively fighting the virus.
+- 10.30% of the population have had COVID-19.[2]
+- 1.83% of the population or 879.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Cullman-Alabama]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *191* new cases of COVID-19
+- *225* new cases of COVID-19
 - *12* people have died of COVID-19
-- *202* people have recovered from COVID-19[1]
+- *250* people have recovered from COVID-19[1]
 
 The population in this census area is 83768. By our calculations:
-- 9.70% of the population have had COVID-19.[2]
-- 1.08% of the population or 903.0 people are actively fighting the virus.
+- 9.74% of the population have had COVID-19.[2]
+- 1.06% of the population or 889.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Calhoun-Arkansas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *20* new cases of COVID-19
+- *22* new cases of COVID-19
 - *1* people have died of COVID-19
-- *12* people have recovered from COVID-19[1]
+- *16* people have recovered from COVID-19[1]
 
 The population in this census area is 5189. By our calculations:
-- 5.80% of the population have had COVID-19.[2]
-- 1.18% of the population or 61.0 people are actively fighting the virus.
+- 5.84% of the population have had COVID-19.[2]
+- 1.14% of the population or 59.0 people are actively fighting the virus.
 
 ## Synopsis
 

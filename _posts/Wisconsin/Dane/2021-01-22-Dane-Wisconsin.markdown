@@ -12,13 +12,13 @@ tags: [Dane-Wisconsin]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *690* new cases of COVID-19
+- *853* new cases of COVID-19
 - *11* people have died of COVID-19
 - *582* people have recovered from COVID-19[1]
 
 The population in this census area is 546695. By our calculations:
-- 6.96% of the population have had COVID-19.[2]
-- 0.60% of the population or 3283.0 people are actively fighting the virus.
+- 6.99% of the population have had COVID-19.[2]
+- 0.63% of the population or 3446.0 people are actively fighting the virus.
 
 ## Synopsis
 

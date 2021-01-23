@@ -12,13 +12,13 @@ tags: [Stone-Mississippi]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *68* new cases of COVID-19
-- *3* people have died of COVID-19
-- *58* people have recovered from COVID-19[1]
+- *90* new cases of COVID-19
+- *6* people have died of COVID-19
+- *68* people have recovered from COVID-19[1]
 
 The population in this census area is 18336. By our calculations:
-- 7.96% of the population have had COVID-19.[2]
-- 1.39% of the population or 254.0 people are actively fighting the virus.
+- 8.09% of the population have had COVID-19.[2]
+- 1.43% of the population or 263.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Owsley-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *11* new cases of COVID-19
+- *13* new cases of COVID-19
 - *0* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *15* people have recovered from COVID-19[1]
 
 The population in this census area is 4415. By our calculations:
-- 8.15% of the population have had COVID-19.[2]
-- 1.27% of the population or 56.0 people are actively fighting the virus.
+- 8.20% of the population have had COVID-19.[2]
+- 0.97% of the population or 43.0 people are actively fighting the virus.
 
 ## Synopsis
 

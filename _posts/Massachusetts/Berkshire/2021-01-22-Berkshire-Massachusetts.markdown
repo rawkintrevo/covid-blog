@@ -12,13 +12,13 @@ tags: [Berkshire-Massachusetts]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *304* new cases of COVID-19
-- *12* people have died of COVID-19
-- *54* people have recovered from COVID-19[1]
+- *340* new cases of COVID-19
+- *14* people have died of COVID-19
+- *127* people have recovered from COVID-19[1]
 
 The population in this census area is 124944. By our calculations:
-- 3.30% of the population have had COVID-19.[2]
-- 0.93% of the population or 1156.0 people are actively fighting the virus.
+- 3.33% of the population have had COVID-19.[2]
+- 0.89% of the population or 1117.0 people are actively fighting the virus.
 
 ## Synopsis
 

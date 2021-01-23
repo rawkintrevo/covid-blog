@@ -12,13 +12,13 @@ tags: [Lycoming-Pennsylvania]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *330* new cases of COVID-19
-- *22* people have died of COVID-19
-- *167* people have recovered from COVID-19[1]
+- *392* new cases of COVID-19
+- *23* people have died of COVID-19
+- *284* people have recovered from COVID-19[1]
 
 The population in this census area is 113299. By our calculations:
-- 6.65% of the population have had COVID-19.[2]
-- 1.21% of the population or 1366.0 people are actively fighting the virus.
+- 6.70% of the population have had COVID-19.[2]
+- 1.16% of the population or 1310.0 people are actively fighting the virus.
 
 ## Synopsis
 

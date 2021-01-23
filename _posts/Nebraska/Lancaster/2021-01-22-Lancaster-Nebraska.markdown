@@ -12,13 +12,13 @@ tags: [Lancaster-Nebraska]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *820* new cases of COVID-19
+- *948* new cases of COVID-19
 - *6* people have died of COVID-19
-- *416* people have recovered from COVID-19[1]
+- *530* people have recovered from COVID-19[1]
 
 The population in this census area is 319090. By our calculations:
-- 8.00% of the population have had COVID-19.[2]
-- 0.90% of the population or 2879.0 people are actively fighting the virus.
+- 8.04% of the population have had COVID-19.[2]
+- 0.91% of the population or 2893.0 people are actively fighting the virus.
 
 ## Synopsis
 

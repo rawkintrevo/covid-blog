@@ -12,13 +12,13 @@ tags: [Lee-Florida]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *2115* new cases of COVID-19
-- *20* people have died of COVID-19
-- *454* people have recovered from COVID-19[1]
+- *2488* new cases of COVID-19
+- *24* people have died of COVID-19
+- *1125* people have recovered from COVID-19[1]
 
 The population in this census area is 770577. By our calculations:
-- 6.37% of the population have had COVID-19.[2]
-- 1.09% of the population or 8372.0 people are actively fighting the virus.
+- 6.42% of the population have had COVID-19.[2]
+- 1.05% of the population or 8070.0 people are actively fighting the virus.
 
 ## Synopsis
 

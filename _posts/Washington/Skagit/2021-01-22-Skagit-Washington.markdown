@@ -12,13 +12,13 @@ tags: [Skagit-Washington]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *87* new cases of COVID-19
+- *125* new cases of COVID-19
 - *0* people have died of COVID-19
 - *62* people have recovered from COVID-19[1]
 
 The population in this census area is 129205. By our calculations:
-- 2.97% of the population have had COVID-19.[2]
-- 0.41% of the population or 528.0 people are actively fighting the virus.
+- 3.00% of the population have had COVID-19.[2]
+- 0.44% of the population or 566.0 people are actively fighting the virus.
 
 ## Synopsis
 

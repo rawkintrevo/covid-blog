@@ -12,13 +12,13 @@ tags: [Clayton-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1000* new cases of COVID-19
+- *1173* new cases of COVID-19
 - *25* people have died of COVID-19
-- *506* people have recovered from COVID-19[1]
+- *639* people have recovered from COVID-19[1]
 
 The population in this census area is 292256. By our calculations:
-- 6.12% of the population have had COVID-19.[2]
-- 1.10% of the population or 3201.0 people are actively fighting the virus.
+- 6.18% of the population have had COVID-19.[2]
+- 1.11% of the population or 3241.0 people are actively fighting the virus.
 
 ## Synopsis
 

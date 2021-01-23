@@ -12,13 +12,13 @@ tags: [Telfair-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *54* new cases of COVID-19
-- *2* people have died of COVID-19
-- *36* people have recovered from COVID-19[1]
+- *55* new cases of COVID-19
+- *3* people have died of COVID-19
+- *44* people have recovered from COVID-19[1]
 
 The population in this census area is 15860. By our calculations:
-- 6.56% of the population have had COVID-19.[2]
-- 1.38% of the population or 219.0 people are actively fighting the virus.
+- 6.57% of the population have had COVID-19.[2]
+- 1.33% of the population or 211.0 people are actively fighting the virus.
 
 ## Synopsis
 

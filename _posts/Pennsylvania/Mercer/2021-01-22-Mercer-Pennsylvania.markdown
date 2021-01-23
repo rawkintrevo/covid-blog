@@ -12,13 +12,13 @@ tags: [Mercer-Pennsylvania]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *215* new cases of COVID-19
-- *21* people have died of COVID-19
-- *133* people have recovered from COVID-19[1]
+- *253* new cases of COVID-19
+- *24* people have died of COVID-19
+- *232* people have recovered from COVID-19[1]
 
 The population in this census area is 109424. By our calculations:
-- 6.48% of the population have had COVID-19.[2]
-- 0.93% of the population or 1014.0 people are actively fighting the virus.
+- 6.52% of the population have had COVID-19.[2]
+- 0.87% of the population or 950.0 people are actively fighting the virus.
 
 ## Synopsis
 

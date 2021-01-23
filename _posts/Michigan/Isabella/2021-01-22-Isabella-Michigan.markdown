@@ -12,13 +12,13 @@ tags: [Isabella-Michigan]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *49* new cases of COVID-19
+- *66* new cases of COVID-19
 - *5* people have died of COVID-19
-- *-2* people have recovered from COVID-19[1]
+- *44* people have recovered from COVID-19[1]
 
 The population in this census area is 69872. By our calculations:
-- 5.38% of the population have had COVID-19.[2]
-- 0.45% of the population or 311.0 people are actively fighting the virus.
+- 5.40% of the population have had COVID-19.[2]
+- 0.40% of the population or 282.0 people are actively fighting the virus.
 
 ## Synopsis
 

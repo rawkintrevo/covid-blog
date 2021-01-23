@@ -12,13 +12,13 @@ tags: [Lincoln-Tennessee]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *102* new cases of COVID-19
+- *128* new cases of COVID-19
 - *0* people have died of COVID-19
-- *70* people have recovered from COVID-19[1]
+- *149* people have recovered from COVID-19[1]
 
 The population in this census area is 34366. By our calculations:
-- 11.09% of the population have had COVID-19.[2]
-- 1.46% of the population or 503.0 people are actively fighting the virus.
+- 11.17% of the population have had COVID-19.[2]
+- 1.31% of the population or 450.0 people are actively fighting the virus.
 
 ## Synopsis
 

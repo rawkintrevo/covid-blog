@@ -12,13 +12,13 @@ tags: [Silver Bow-Montana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *45* new cases of COVID-19
+- *62* new cases of COVID-19
 - *1* people have died of COVID-19
-- *-23* people have recovered from COVID-19[1]
+- *-3* people have recovered from COVID-19[1]
 
 The population in this census area is 34915. By our calculations:
-- 9.41% of the population have had COVID-19.[2]
-- 0.63% of the population or 221.0 people are actively fighting the virus.
+- 9.45% of the population have had COVID-19.[2]
+- 0.62% of the population or 218.0 people are actively fighting the virus.
 
 ## Synopsis
 

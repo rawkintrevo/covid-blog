@@ -12,13 +12,13 @@ tags: [Henry-Tennessee]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *89* new cases of COVID-19
+- *115* new cases of COVID-19
 - *1* people have died of COVID-19
-- *5* people have recovered from COVID-19[1]
+- *55* people have recovered from COVID-19[1]
 
 The population in this census area is 32345. By our calculations:
-- 8.13% of the population have had COVID-19.[2]
-- 0.92% of the population or 298.0 people are actively fighting the virus.
+- 8.21% of the population have had COVID-19.[2]
+- 0.85% of the population or 274.0 people are actively fighting the virus.
 
 ## Synopsis
 

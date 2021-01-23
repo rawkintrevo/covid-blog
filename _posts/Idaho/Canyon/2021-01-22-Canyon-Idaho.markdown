@@ -12,13 +12,13 @@ tags: [Canyon-Idaho]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *683* new cases of COVID-19
-- *8* people have died of COVID-19
-- *136* people have recovered from COVID-19[1]
+- *776* new cases of COVID-19
+- *10* people have died of COVID-19
+- *284* people have recovered from COVID-19[1]
 
 The population in this census area is 229849. By our calculations:
-- 10.03% of the population have had COVID-19.[2]
-- 1.06% of the population or 2427.0 people are actively fighting the virus.
+- 10.07% of the population have had COVID-19.[2]
+- 1.03% of the population or 2370.0 people are actively fighting the virus.
 
 ## Synopsis
 

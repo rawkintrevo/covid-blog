@@ -12,13 +12,13 @@ tags: [Toombs-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *91* new cases of COVID-19
+- *109* new cases of COVID-19
 - *3* people have died of COVID-19
-- *97* people have recovered from COVID-19[1]
+- *120* people have recovered from COVID-19[1]
 
 The population in this census area is 26830. By our calculations:
-- 10.63% of the population have had COVID-19.[2]
-- 1.76% of the population or 473.0 people are actively fighting the virus.
+- 10.70% of the population have had COVID-19.[2]
+- 1.74% of the population or 468.0 people are actively fighting the virus.
 
 ## Synopsis
 

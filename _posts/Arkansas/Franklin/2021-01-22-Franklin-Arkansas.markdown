@@ -12,12 +12,12 @@ tags: [Franklin-Arkansas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *63* new cases of COVID-19
+- *79* new cases of COVID-19
 - *3* people have died of COVID-19
-- *30* people have recovered from COVID-19[1]
+- *46* people have recovered from COVID-19[1]
 
 The population in this census area is 17715. By our calculations:
-- 7.76% of the population have had COVID-19.[2]
+- 7.85% of the population have had COVID-19.[2]
 - 1.46% of the population or 259.0 people are actively fighting the virus.
 
 ## Synopsis

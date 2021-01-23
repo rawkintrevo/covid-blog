@@ -12,13 +12,13 @@ tags: [Greenwood-South Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *394* new cases of COVID-19
-- *6* people have died of COVID-19
-- *42* people have recovered from COVID-19[1]
+- *503* new cases of COVID-19
+- *8* people have died of COVID-19
+- *123* people have recovered from COVID-19[1]
 
 The population in this census area is 70811. By our calculations:
-- 7.77% of the population have had COVID-19.[2]
-- 1.75% of the population or 1238.0 people are actively fighting the virus.
+- 7.93% of the population have had COVID-19.[2]
+- 1.79% of the population or 1264.0 people are actively fighting the virus.
 
 ## Synopsis
 

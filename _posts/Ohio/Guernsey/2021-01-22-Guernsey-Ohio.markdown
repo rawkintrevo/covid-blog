@@ -12,13 +12,13 @@ tags: [Guernsey-Ohio]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *132* new cases of COVID-19
+- *152* new cases of COVID-19
 - *0* people have died of COVID-19
-- *29* people have recovered from COVID-19[1]
+- *63* people have recovered from COVID-19[1]
 
 The population in this census area is 38875. By our calculations:
-- 6.37% of the population have had COVID-19.[2]
-- 1.17% of the population or 456.0 people are actively fighting the virus.
+- 6.43% of the population have had COVID-19.[2]
+- 1.14% of the population or 442.0 people are actively fighting the virus.
 
 ## Synopsis
 

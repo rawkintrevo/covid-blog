@@ -12,13 +12,13 @@ tags: [Hickman-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *10* new cases of COVID-19
+- *11* new cases of COVID-19
 - *0* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *2* people have recovered from COVID-19[1]
 
 The population in this census area is 4380. By our calculations:
-- 5.91% of the population have had COVID-19.[2]
-- 0.78% of the population or 34.0 people are actively fighting the virus.
+- 5.94% of the population have had COVID-19.[2]
+- 0.75% of the population or 33.0 people are actively fighting the virus.
 
 ## Synopsis
 

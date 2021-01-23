@@ -12,13 +12,13 @@ tags: [Cedar-Nebraska]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *18* new cases of COVID-19
+- *15* new cases of COVID-19
 - *1* people have died of COVID-19
 - *2* people have recovered from COVID-19[1]
 
 The population in this census area is 8402. By our calculations:
-- 7.28% of the population have had COVID-19.[2]
-- 0.74% of the population or 62.0 people are actively fighting the virus.
+- 7.25% of the population have had COVID-19.[2]
+- 0.70% of the population or 59.0 people are actively fighting the virus.
 
 ## Synopsis
 

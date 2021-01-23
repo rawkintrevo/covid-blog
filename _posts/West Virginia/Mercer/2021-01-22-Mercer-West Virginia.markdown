@@ -12,13 +12,13 @@ tags: [Mercer-West Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *134* new cases of COVID-19
-- *8* people have died of COVID-19
-- *165* people have recovered from COVID-19[1]
+- *150* new cases of COVID-19
+- *9* people have died of COVID-19
+- *282* people have recovered from COVID-19[1]
 
 The population in this census area is 58758. By our calculations:
-- 6.36% of the population have had COVID-19.[2]
-- 1.41% of the population or 829.0 people are actively fighting the virus.
+- 6.39% of the population have had COVID-19.[2]
+- 1.24% of the population or 727.0 people are actively fighting the virus.
 
 ## Synopsis
 

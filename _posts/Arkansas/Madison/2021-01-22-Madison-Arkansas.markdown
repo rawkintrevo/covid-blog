@@ -12,12 +12,12 @@ tags: [Madison-Arkansas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *55* new cases of COVID-19
+- *61* new cases of COVID-19
 - *1* people have died of COVID-19
-- *33* people have recovered from COVID-19[1]
+- *39* people have recovered from COVID-19[1]
 
 The population in this census area is 16576. By our calculations:
-- 7.46% of the population have had COVID-19.[2]
+- 7.50% of the population have had COVID-19.[2]
 - 1.12% of the population or 185.0 people are actively fighting the virus.
 
 ## Synopsis

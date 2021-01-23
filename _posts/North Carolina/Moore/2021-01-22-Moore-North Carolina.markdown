@@ -12,13 +12,13 @@ tags: [Moore-North Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *355* new cases of COVID-19
+- *439* new cases of COVID-19
 - *0* people have died of COVID-19
-- *64* people have recovered from COVID-19[1]
+- *267* people have recovered from COVID-19[1]
 
 The population in this census area is 100880. By our calculations:
-- 6.26% of the population have had COVID-19.[2]
-- 1.43% of the population or 1438.0 people are actively fighting the virus.
+- 6.35% of the population have had COVID-19.[2]
+- 1.31% of the population or 1319.0 people are actively fighting the virus.
 
 ## Synopsis
 

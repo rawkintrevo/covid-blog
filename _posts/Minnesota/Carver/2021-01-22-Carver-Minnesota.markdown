@@ -12,13 +12,13 @@ tags: [Carver-Minnesota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *98* new cases of COVID-19
-- *0* people have died of COVID-19
-- *34* people have recovered from COVID-19[1]
+- *115* new cases of COVID-19
+- *2* people have died of COVID-19
+- *56* people have recovered from COVID-19[1]
 
 The population in this census area is 105089. By our calculations:
-- 6.63% of the population have had COVID-19.[2]
-- 0.49% of the population or 511.0 people are actively fighting the virus.
+- 6.64% of the population have had COVID-19.[2]
+- 0.48% of the population or 504.0 people are actively fighting the virus.
 
 ## Synopsis
 

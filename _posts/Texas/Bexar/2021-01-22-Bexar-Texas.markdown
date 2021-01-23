@@ -12,13 +12,13 @@ tags: [Bexar-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *12342* new cases of COVID-19
-- *125* people have died of COVID-19
-- *-77* people have recovered from COVID-19[1]
+- *14826* new cases of COVID-19
+- *148* people have died of COVID-19
+- *3566* people have recovered from COVID-19[1]
 
 The population in this census area is 2003554. By our calculations:
-- 7.64% of the population have had COVID-19.[2]
-- 1.85% of the population or 37051.0 people are actively fighting the virus.
+- 7.77% of the population have had COVID-19.[2]
+- 1.79% of the population or 35869.0 people are actively fighting the virus.
 
 ## Synopsis
 

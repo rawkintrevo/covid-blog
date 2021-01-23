@@ -12,13 +12,13 @@ tags: [Johnson-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *970* new cases of COVID-19
-- *19* people have died of COVID-19
-- *261* people have recovered from COVID-19[1]
+- *1102* new cases of COVID-19
+- *24* people have died of COVID-19
+- *256* people have recovered from COVID-19[1]
 
 The population in this census area is 175817. By our calculations:
-- 8.59% of the population have had COVID-19.[2]
-- 2.22% of the population or 3907.0 people are actively fighting the virus.
+- 8.67% of the population have had COVID-19.[2]
+- 2.30% of the population or 4039.0 people are actively fighting the virus.
 
 ## Synopsis
 

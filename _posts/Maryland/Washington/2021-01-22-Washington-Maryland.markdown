@@ -12,13 +12,13 @@ tags: [Washington-Maryland]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *595* new cases of COVID-19
-- *13* people have died of COVID-19
-- *412* people have recovered from COVID-19[1]
+- *677* new cases of COVID-19
+- *15* people have died of COVID-19
+- *544* people have recovered from COVID-19[1]
 
 The population in this census area is 151049. By our calculations:
-- 7.10% of the population have had COVID-19.[2]
-- 1.49% of the population or 2252.0 people are actively fighting the virus.
+- 7.16% of the population have had COVID-19.[2]
+- 1.46% of the population or 2200.0 people are actively fighting the virus.
 
 ## Synopsis
 

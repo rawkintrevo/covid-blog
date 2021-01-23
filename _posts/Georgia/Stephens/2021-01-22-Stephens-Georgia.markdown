@@ -12,13 +12,13 @@ tags: [Stephens-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *77* new cases of COVID-19
+- *105* new cases of COVID-19
 - *6* people have died of COVID-19
-- *68* people have recovered from COVID-19[1]
+- *98* people have recovered from COVID-19[1]
 
 The population in this census area is 25925. By our calculations:
-- 10.00% of the population have had COVID-19.[2]
-- 1.20% of the population or 312.0 people are actively fighting the virus.
+- 10.11% of the population have had COVID-19.[2]
+- 1.20% of the population or 310.0 people are actively fighting the virus.
 
 ## Synopsis
 

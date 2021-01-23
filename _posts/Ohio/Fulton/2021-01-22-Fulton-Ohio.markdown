@@ -12,13 +12,13 @@ tags: [Fulton-Ohio]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *122* new cases of COVID-19
+- *162* new cases of COVID-19
 - *0* people have died of COVID-19
-- *33* people have recovered from COVID-19[1]
+- *82* people have recovered from COVID-19[1]
 
 The population in this census area is 42126. By our calculations:
-- 7.86% of the population have had COVID-19.[2]
-- 1.34% of the population or 563.0 people are actively fighting the virus.
+- 7.96% of the population have had COVID-19.[2]
+- 1.32% of the population or 554.0 people are actively fighting the virus.
 
 ## Synopsis
 

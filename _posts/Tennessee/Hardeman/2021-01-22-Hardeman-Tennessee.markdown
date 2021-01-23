@@ -12,13 +12,13 @@ tags: [Hardeman-Tennessee]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *68* new cases of COVID-19
-- *1* people have died of COVID-19
-- *16* people have recovered from COVID-19[1]
+- *74* new cases of COVID-19
+- *3* people have died of COVID-19
+- *59* people have recovered from COVID-19[1]
 
 The population in this census area is 25050. By our calculations:
-- 12.42% of the population have had COVID-19.[2]
-- 1.08% of the population or 271.0 people are actively fighting the virus.
+- 12.46% of the population have had COVID-19.[2]
+- 0.93% of the population or 232.0 people are actively fighting the virus.
 
 ## Synopsis
 

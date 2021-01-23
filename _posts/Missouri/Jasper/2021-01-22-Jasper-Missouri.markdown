@@ -12,12 +12,12 @@ tags: [Jasper-Missouri]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *242* new cases of COVID-19
+- *294* new cases of COVID-19
 - *5* people have died of COVID-19
-- *241* people have recovered from COVID-19[1]
+- *293* people have recovered from COVID-19[1]
 
 The population in this census area is 121328. By our calculations:
-- 9.19% of the population have had COVID-19.[2]
+- 9.24% of the population have had COVID-19.[2]
 - 0.83% of the population or 1006.0 people are actively fighting the virus.
 
 ## Synopsis

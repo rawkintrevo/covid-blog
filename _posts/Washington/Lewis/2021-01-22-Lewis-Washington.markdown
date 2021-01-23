@@ -12,13 +12,13 @@ tags: [Lewis-Washington]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *144* new cases of COVID-19
-- *-2* people have died of COVID-19
-- *83* people have recovered from COVID-19[1]
+- *192* new cases of COVID-19
+- *0* people have died of COVID-19
+- *81* people have recovered from COVID-19[1]
 
 The population in this census area is 80707. By our calculations:
-- 3.74% of the population have had COVID-19.[2]
-- 0.71% of the population or 575.0 people are actively fighting the virus.
+- 3.81% of the population have had COVID-19.[2]
+- 0.77% of the population or 623.0 people are actively fighting the virus.
 
 ## Synopsis
 

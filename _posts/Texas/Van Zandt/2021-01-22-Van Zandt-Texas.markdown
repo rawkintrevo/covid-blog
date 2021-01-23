@@ -12,13 +12,13 @@ tags: [Van Zandt-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *180* new cases of COVID-19
+- *286* new cases of COVID-19
 - *5* people have died of COVID-19
-- *42* people have recovered from COVID-19[1]
+- *40* people have recovered from COVID-19[1]
 
 The population in this census area is 56590. By our calculations:
-- 5.65% of the population have had COVID-19.[2]
-- 1.26% of the population or 712.0 people are actively fighting the virus.
+- 5.84% of the population have had COVID-19.[2]
+- 1.45% of the population or 820.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Warrick-Indiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *323* new cases of COVID-19
+- *395* new cases of COVID-19
 - *7* people have died of COVID-19
-- *150* people have recovered from COVID-19[1]
+- *224* people have recovered from COVID-19[1]
 
 The population in this census area is 62998. By our calculations:
-- 10.44% of the population have had COVID-19.[2]
-- 1.95% of the population or 1231.0 people are actively fighting the virus.
+- 10.56% of the population have had COVID-19.[2]
+- 1.95% of the population or 1229.0 people are actively fighting the virus.
 
 ## Synopsis
 

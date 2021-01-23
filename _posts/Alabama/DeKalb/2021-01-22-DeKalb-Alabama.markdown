@@ -12,13 +12,13 @@ tags: [DeKalb-Alabama]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *176* new cases of COVID-19
-- *17* people have died of COVID-19
-- *161* people have recovered from COVID-19[1]
+- *204* new cases of COVID-19
+- *20* people have died of COVID-19
+- *184* people have recovered from COVID-19[1]
 
 The population in this census area is 71513. By our calculations:
-- 10.86% of the population have had COVID-19.[2]
-- 1.05% of the population or 750.0 people are actively fighting the virus.
+- 10.90% of the population have had COVID-19.[2]
+- 1.05% of the population or 752.0 people are actively fighting the virus.
 
 ## Synopsis
 

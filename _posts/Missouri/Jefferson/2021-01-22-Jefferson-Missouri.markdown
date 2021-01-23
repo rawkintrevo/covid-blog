@@ -12,13 +12,13 @@ tags: [Jefferson-Missouri]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *494* new cases of COVID-19
-- *11* people have died of COVID-19
-- *401* people have recovered from COVID-19[1]
+- *579* new cases of COVID-19
+- *12* people have died of COVID-19
+- *470* people have recovered from COVID-19[1]
 
 The population in this census area is 225081. By our calculations:
-- 7.76% of the population have had COVID-19.[2]
-- 0.94% of the population or 2120.0 people are actively fighting the virus.
+- 7.80% of the population have had COVID-19.[2]
+- 0.95% of the population or 2135.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Polk-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *296* new cases of COVID-19
-- *6* people have died of COVID-19
-- *97* people have recovered from COVID-19[1]
+- *329* new cases of COVID-19
+- *7* people have died of COVID-19
+- *134* people have recovered from COVID-19[1]
 
 The population in this census area is 42613. By our calculations:
-- 10.39% of the population have had COVID-19.[2]
-- 2.19% of the population or 933.0 people are actively fighting the virus.
+- 10.47% of the population have had COVID-19.[2]
+- 2.18% of the population or 928.0 people are actively fighting the virus.
 
 ## Synopsis
 

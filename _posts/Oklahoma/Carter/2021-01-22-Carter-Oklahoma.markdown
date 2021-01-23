@@ -12,13 +12,13 @@ tags: [Carter-Oklahoma]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *306* new cases of COVID-19
+- *355* new cases of COVID-19
 - *2* people have died of COVID-19
-- *67* people have recovered from COVID-19[1]
+- *147* people have recovered from COVID-19[1]
 
 The population in this census area is 48111. By our calculations:
-- 9.39% of the population have had COVID-19.[2]
-- 3.66% of the population or 1761.0 people are actively fighting the virus.
+- 9.49% of the population have had COVID-19.[2]
+- 3.60% of the population or 1730.0 people are actively fighting the virus.
 
 ## Synopsis
 

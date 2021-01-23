@@ -12,13 +12,13 @@ tags: [Wetzel-West Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *69* new cases of COVID-19
+- *75* new cases of COVID-19
 - *2* people have died of COVID-19
-- *26* people have recovered from COVID-19[1]
+- *36* people have recovered from COVID-19[1]
 
 The population in this census area is 15065. By our calculations:
-- 6.13% of the population have had COVID-19.[2]
-- 1.37% of the population or 206.0 people are actively fighting the virus.
+- 6.17% of the population have had COVID-19.[2]
+- 1.34% of the population or 202.0 people are actively fighting the virus.
 
 ## Synopsis
 

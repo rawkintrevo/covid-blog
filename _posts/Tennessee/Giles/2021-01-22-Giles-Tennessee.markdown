@@ -12,13 +12,13 @@ tags: [Giles-Tennessee]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *101* new cases of COVID-19
-- *2* people have died of COVID-19
-- *70* people have recovered from COVID-19[1]
+- *133* new cases of COVID-19
+- *3* people have died of COVID-19
+- *155* people have recovered from COVID-19[1]
 
 The population in this census area is 29464. By our calculations:
-- 11.04% of the population have had COVID-19.[2]
-- 1.93% of the population or 570.0 people are actively fighting the virus.
+- 11.15% of the population have had COVID-19.[2]
+- 1.75% of the population or 516.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -14,11 +14,11 @@ tags: [Luce-Michigan]
 In the last 7 days[3] we project there have been
 - *3* new cases of COVID-19
 - *0* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *3* people have recovered from COVID-19[1]
 
 The population in this census area is 6229. By our calculations:
 - 3.21% of the population have had COVID-19.[2]
-- 0.13% of the population or 8.0 people are actively fighting the virus.
+- 0.08% of the population or 5.0 people are actively fighting the virus.
 
 ## Synopsis
 

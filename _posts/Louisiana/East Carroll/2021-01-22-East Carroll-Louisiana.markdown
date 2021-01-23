@@ -12,13 +12,13 @@ tags: [East Carroll-Louisiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *13* new cases of COVID-19
-- *0* people have died of COVID-19
-- *9* people have recovered from COVID-19[1]
+- *17* new cases of COVID-19
+- *1* people have died of COVID-19
+- *8* people have recovered from COVID-19[1]
 
 The population in this census area is 6861. By our calculations:
-- 15.27% of the population have had COVID-19.[2]
-- 1.25% of the population or 86.0 people are actively fighting the virus.
+- 15.35% of the population have had COVID-19.[2]
+- 1.31% of the population or 90.0 people are actively fighting the virus.
 
 ## Synopsis
 

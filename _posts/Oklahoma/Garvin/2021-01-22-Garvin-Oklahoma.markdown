@@ -12,13 +12,13 @@ tags: [Garvin-Oklahoma]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *147* new cases of COVID-19
-- *1* people have died of COVID-19
-- *27* people have recovered from COVID-19[1]
+- *167* new cases of COVID-19
+- *2* people have died of COVID-19
+- *64* people have recovered from COVID-19[1]
 
 The population in this census area is 27711. By our calculations:
-- 10.75% of the population have had COVID-19.[2]
-- 2.40% of the population or 666.0 people are actively fighting the virus.
+- 10.82% of the population have had COVID-19.[2]
+- 2.34% of the population or 648.0 people are actively fighting the virus.
 
 ## Synopsis
 

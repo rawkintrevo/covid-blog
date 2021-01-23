@@ -12,13 +12,13 @@ tags: [Brewster-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *29* new cases of COVID-19
+- *31* new cases of COVID-19
 - *0* people have died of COVID-19
-- *12* people have recovered from COVID-19[1]
+- *15* people have recovered from COVID-19[1]
 
 The population in this census area is 9203. By our calculations:
-- 10.33% of the population have had COVID-19.[2]
-- 0.74% of the population or 68.0 people are actively fighting the virus.
+- 10.36% of the population have had COVID-19.[2]
+- 0.73% of the population or 67.0 people are actively fighting the virus.
 
 ## Synopsis
 

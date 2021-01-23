@@ -12,13 +12,13 @@ tags: [Morgan-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *66* new cases of COVID-19
+- *97* new cases of COVID-19
 - *1* people have died of COVID-19
-- *38* people have recovered from COVID-19[1]
+- *56* people have recovered from COVID-19[1]
 
 The population in this census area is 19276. By our calculations:
-- 7.52% of the population have had COVID-19.[2]
-- 1.44% of the population or 278.0 people are actively fighting the virus.
+- 7.68% of the population have had COVID-19.[2]
+- 1.51% of the population or 291.0 people are actively fighting the virus.
 
 ## Synopsis
 

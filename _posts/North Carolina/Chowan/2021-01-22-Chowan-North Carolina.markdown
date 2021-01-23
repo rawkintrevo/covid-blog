@@ -12,13 +12,13 @@ tags: [Chowan-North Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *72* new cases of COVID-19
+- *81* new cases of COVID-19
 - *0* people have died of COVID-19
-- *8* people have recovered from COVID-19[1]
+- *33* people have recovered from COVID-19[1]
 
 The population in this census area is 13943. By our calculations:
-- 7.60% of the population have had COVID-19.[2]
-- 1.71% of the population or 239.0 people are actively fighting the virus.
+- 7.67% of the population have had COVID-19.[2]
+- 1.60% of the population or 223.0 people are actively fighting the virus.
 
 ## Synopsis
 

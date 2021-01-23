@@ -12,13 +12,13 @@ tags: [Columbus-North Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *180* new cases of COVID-19
-- *7* people have died of COVID-19
-- *22* people have recovered from COVID-19[1]
+- *213* new cases of COVID-19
+- *10* people have died of COVID-19
+- *165* people have recovered from COVID-19[1]
 
 The population in this census area is 55508. By our calculations:
-- 8.31% of the population have had COVID-19.[2]
-- 1.72% of the population or 955.0 people are actively fighting the virus.
+- 8.38% of the population have had COVID-19.[2]
+- 1.52% of the population or 842.0 people are actively fighting the virus.
 
 ## Synopsis
 

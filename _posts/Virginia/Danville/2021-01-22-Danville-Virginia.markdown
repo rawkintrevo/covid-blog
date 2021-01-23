@@ -12,12 +12,12 @@ tags: [Danville-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *206* new cases of COVID-19
+- *234* new cases of COVID-19
 - *0* people have died of COVID-19
-- *92* people have recovered from COVID-19[1]
+- *120* people have recovered from COVID-19[1]
 
 The population in this census area is 40044. By our calculations:
-- 7.94% of the population have had COVID-19.[2]
+- 8.01% of the population have had COVID-19.[2]
 - 1.95% of the population or 779.0 people are actively fighting the virus.
 
 ## Synopsis

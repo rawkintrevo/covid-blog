@@ -12,13 +12,13 @@ tags: [Clinch-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *26* new cases of COVID-19
+- *30* new cases of COVID-19
 - *1* people have died of COVID-19
-- *16* people have recovered from COVID-19[1]
+- *19* people have recovered from COVID-19[1]
 
 The population in this census area is 6618. By our calculations:
-- 11.97% of the population have had COVID-19.[2]
-- 2.09% of the population or 138.0 people are actively fighting the virus.
+- 12.03% of the population have had COVID-19.[2]
+- 2.10% of the population or 139.0 people are actively fighting the virus.
 
 ## Synopsis
 

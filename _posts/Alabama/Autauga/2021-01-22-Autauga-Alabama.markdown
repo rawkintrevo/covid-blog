@@ -12,13 +12,13 @@ tags: [Autauga-Alabama]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *182* new cases of COVID-19
-- *0* people have died of COVID-19
-- *73* people have recovered from COVID-19[1]
+- *189* new cases of COVID-19
+- *6* people have died of COVID-19
+- *96* people have recovered from COVID-19[1]
 
 The population in this census area is 55869. By our calculations:
-- 9.41% of the population have had COVID-19.[2]
-- 1.81% of the population or 1011.0 people are actively fighting the virus.
+- 9.43% of the population have had COVID-19.[2]
+- 1.77% of the population or 989.0 people are actively fighting the virus.
 
 ## Synopsis
 

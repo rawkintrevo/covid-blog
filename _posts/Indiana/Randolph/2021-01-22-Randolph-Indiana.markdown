@@ -12,13 +12,13 @@ tags: [Randolph-Indiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *50* new cases of COVID-19
-- *5* people have died of COVID-19
-- *40* people have recovered from COVID-19[1]
+- *64* new cases of COVID-19
+- *8* people have died of COVID-19
+- *46* people have recovered from COVID-19[1]
 
 The population in this census area is 24665. By our calculations:
-- 8.53% of the population have had COVID-19.[2]
-- 0.95% of the population or 234.0 people are actively fighting the virus.
+- 8.60% of the population have had COVID-19.[2]
+- 0.97% of the population or 239.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Hamilton-Florida]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *52* new cases of COVID-19
+- *63* new cases of COVID-19
 - *0* people have died of COVID-19
-- *41* people have recovered from COVID-19[1]
+- *57* people have recovered from COVID-19[1]
 
 The population in this census area is 14428. By our calculations:
-- 9.99% of the population have had COVID-19.[2]
-- 1.14% of the population or 164.0 people are actively fighting the virus.
+- 10.06% of the population have had COVID-19.[2]
+- 1.10% of the population or 159.0 people are actively fighting the virus.
 
 ## Synopsis
 

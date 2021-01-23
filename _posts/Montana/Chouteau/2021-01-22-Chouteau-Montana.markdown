@@ -14,11 +14,11 @@ tags: [Chouteau-Montana]
 In the last 7 days[3] we project there have been
 - *11* new cases of COVID-19
 - *0* people have died of COVID-19
-- *4* people have recovered from COVID-19[1]
+- *9* people have recovered from COVID-19[1]
 
 The population in this census area is 5635. By our calculations:
 - 7.60% of the population have had COVID-19.[2]
-- 0.99% of the population or 56.0 people are actively fighting the virus.
+- 0.91% of the population or 51.0 people are actively fighting the virus.
 
 ## Synopsis
 

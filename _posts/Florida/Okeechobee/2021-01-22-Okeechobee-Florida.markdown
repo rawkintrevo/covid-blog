@@ -12,13 +12,13 @@ tags: [Okeechobee-Florida]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *162* new cases of COVID-19
+- *181* new cases of COVID-19
 - *1* people have died of COVID-19
-- *43* people have recovered from COVID-19[1]
+- *104* people have recovered from COVID-19[1]
 
 The population in this census area is 42168. By our calculations:
-- 7.21% of the population have had COVID-19.[2]
-- 1.43% of the population or 604.0 people are actively fighting the virus.
+- 7.25% of the population have had COVID-19.[2]
+- 1.33% of the population or 562.0 people are actively fighting the virus.
 
 ## Synopsis
 

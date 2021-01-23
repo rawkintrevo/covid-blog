@@ -12,13 +12,13 @@ tags: [Dunklin-Missouri]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *31* new cases of COVID-19
+- *45* new cases of COVID-19
 - *-1* people have died of COVID-19
-- *30* people have recovered from COVID-19[1]
+- *39* people have recovered from COVID-19[1]
 
 The population in this census area is 29131. By our calculations:
-- 7.82% of the population have had COVID-19.[2]
-- 0.62% of the population or 180.0 people are actively fighting the virus.
+- 7.86% of the population have had COVID-19.[2]
+- 0.64% of the population or 185.0 people are actively fighting the virus.
 
 ## Synopsis
 

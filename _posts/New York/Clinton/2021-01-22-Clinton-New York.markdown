@@ -12,13 +12,13 @@ tags: [Clinton-New York]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *304* new cases of COVID-19
+- *359* new cases of COVID-19
 - *5* people have died of COVID-19
-- *108* people have recovered from COVID-19[1]
+- *160* people have recovered from COVID-19[1]
 
 The population in this census area is 80485. By our calculations:
-- 2.74% of the population have had COVID-19.[2]
-- 1.29% of the population or 1040.0 people are actively fighting the virus.
+- 2.81% of the population have had COVID-19.[2]
+- 1.30% of the population or 1043.0 people are actively fighting the virus.
 
 ## Synopsis
 

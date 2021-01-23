@@ -12,13 +12,13 @@ tags: [DeKalb-Tennessee]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *66* new cases of COVID-19
+- *83* new cases of COVID-19
 - *2* people have died of COVID-19
-- *11* people have recovered from COVID-19[1]
+- *81* people have recovered from COVID-19[1]
 
 The population in this census area is 20490. By our calculations:
-- 11.91% of the population have had COVID-19.[2]
-- 1.68% of the population or 345.0 people are actively fighting the virus.
+- 12.00% of the population have had COVID-19.[2]
+- 1.43% of the population or 292.0 people are actively fighting the virus.
 
 ## Synopsis
 

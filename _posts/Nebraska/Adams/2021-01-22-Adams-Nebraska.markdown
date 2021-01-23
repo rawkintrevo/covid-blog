@@ -12,13 +12,13 @@ tags: [Adams-Nebraska]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *68* new cases of COVID-19
+- *73* new cases of COVID-19
 - *0* people have died of COVID-19
-- *25* people have recovered from COVID-19[1]
+- *28* people have recovered from COVID-19[1]
 
 The population in this census area is 31363. By our calculations:
-- 8.07% of the population have had COVID-19.[2]
-- 0.74% of the population or 232.0 people are actively fighting the virus.
+- 8.09% of the population have had COVID-19.[2]
+- 0.75% of the population or 234.0 people are actively fighting the virus.
 
 ## Synopsis
 

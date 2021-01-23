@@ -12,13 +12,13 @@ tags: [Meigs-Ohio]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *68* new cases of COVID-19
-- *0* people have died of COVID-19
-- *14* people have recovered from COVID-19[1]
+- *76* new cases of COVID-19
+- *2* people have died of COVID-19
+- *36* people have recovered from COVID-19[1]
 
 The population in this census area is 22907. By our calculations:
-- 4.62% of the population have had COVID-19.[2]
-- 0.90% of the population or 207.0 people are actively fighting the virus.
+- 4.66% of the population have had COVID-19.[2]
+- 0.83% of the population or 191.0 people are actively fighting the virus.
 
 ## Synopsis
 

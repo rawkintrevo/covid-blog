@@ -12,13 +12,13 @@ tags: [Laurens-South Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *397* new cases of COVID-19
-- *11* people have died of COVID-19
-- *45* people have recovered from COVID-19[1]
+- *508* new cases of COVID-19
+- *12* people have died of COVID-19
+- *90* people have recovered from COVID-19[1]
 
 The population in this census area is 67493. By our calculations:
-- 7.20% of the population have had COVID-19.[2]
-- 1.82% of the population or 1226.0 people are actively fighting the virus.
+- 7.37% of the population have had COVID-19.[2]
+- 1.91% of the population or 1291.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Cooper-Missouri]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *36* new cases of COVID-19
+- *41* new cases of COVID-19
 - *0* people have died of COVID-19
-- *19* people have recovered from COVID-19[1]
+- *20* people have recovered from COVID-19[1]
 
 The population in this census area is 17709. By our calculations:
-- 9.10% of the population have had COVID-19.[2]
-- 0.62% of the population or 109.0 people are actively fighting the virus.
+- 9.13% of the population have had COVID-19.[2]
+- 0.64% of the population or 113.0 people are actively fighting the virus.
 
 ## Synopsis
 

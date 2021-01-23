@@ -12,13 +12,13 @@ tags: [Pocahontas-Iowa]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *5* new cases of COVID-19
+- *6* new cases of COVID-19
 - *0* people have died of COVID-19
-- *5* people have recovered from COVID-19[1]
+- *7* people have recovered from COVID-19[1]
 
 The population in this census area is 6619. By our calculations:
-- 11.74% of the population have had COVID-19.[2]
-- 0.82% of the population or 54.0 people are actively fighting the virus.
+- 11.75% of the population have had COVID-19.[2]
+- 0.80% of the population or 53.0 people are actively fighting the virus.
 
 ## Synopsis
 

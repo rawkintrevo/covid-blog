@@ -12,13 +12,13 @@ tags: [Pike-Pennsylvania]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *142* new cases of COVID-19
+- *158* new cases of COVID-19
 - *4* people have died of COVID-19
-- *57* people have recovered from COVID-19[1]
+- *90* people have recovered from COVID-19[1]
 
 The population in this census area is 55809. By our calculations:
-- 3.48% of the population have had COVID-19.[2]
-- 0.83% of the population or 464.0 people are actively fighting the virus.
+- 3.51% of the population have had COVID-19.[2]
+- 0.80% of the population or 447.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Madison-North Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *76* new cases of COVID-19
+- *81* new cases of COVID-19
 - *2* people have died of COVID-19
-- *4* people have recovered from COVID-19[1]
+- *45* people have recovered from COVID-19[1]
 
 The population in this census area is 21755. By our calculations:
-- 5.00% of the population have had COVID-19.[2]
-- 1.31% of the population or 286.0 people are actively fighting the virus.
+- 5.02% of the population have had COVID-19.[2]
+- 1.15% of the population or 250.0 people are actively fighting the virus.
 
 ## Synopsis
 

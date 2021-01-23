@@ -12,13 +12,13 @@ tags: [Defiance-Ohio]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *123* new cases of COVID-19
-- *2* people have died of COVID-19
-- *40* people have recovered from COVID-19[1]
+- *157* new cases of COVID-19
+- *6* people have died of COVID-19
+- *95* people have recovered from COVID-19[1]
 
 The population in this census area is 38087. By our calculations:
-- 8.50% of the population have had COVID-19.[2]
-- 1.33% of the population or 506.0 people are actively fighting the virus.
+- 8.60% of the population have had COVID-19.[2]
+- 1.26% of the population or 481.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Ripley-Missouri]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *8* new cases of COVID-19
+- *13* new cases of COVID-19
 - *1* people have died of COVID-19
-- *14* people have recovered from COVID-19[1]
+- *16* people have recovered from COVID-19[1]
 
 The population in this census area is 13288. By our calculations:
-- 5.64% of the population have had COVID-19.[2]
-- 0.52% of the population or 69.0 people are actively fighting the virus.
+- 5.67% of the population have had COVID-19.[2]
+- 0.54% of the population or 72.0 people are actively fighting the virus.
 
 ## Synopsis
 

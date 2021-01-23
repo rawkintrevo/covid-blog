@@ -12,13 +12,13 @@ tags: [Huron-Michigan]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *105* new cases of COVID-19
+- *129* new cases of COVID-19
 - *1* people have died of COVID-19
-- *-1* people have recovered from COVID-19[1]
+- *50* people have recovered from COVID-19[1]
 
 The population in this census area is 30981. By our calculations:
-- 6.06% of the population have had COVID-19.[2]
-- 1.10% of the population or 341.0 people are actively fighting the virus.
+- 6.13% of the population have had COVID-19.[2]
+- 1.01% of the population or 314.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Chaves-New Mexico]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *229* new cases of COVID-19
+- *288* new cases of COVID-19
 - *7* people have died of COVID-19
-- *130* people have recovered from COVID-19[1]
+- *176* people have recovered from COVID-19[1]
 
 The population in this census area is 64615. By our calculations:
-- 12.25% of the population have had COVID-19.[2]
-- 1.33% of the population or 857.0 people are actively fighting the virus.
+- 12.34% of the population have had COVID-19.[2]
+- 1.35% of the population or 870.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Richmond-New York]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *2764* new cases of COVID-19
-- *29* people have died of COVID-19
-- *1030* people have recovered from COVID-19[1]
+- *3183* new cases of COVID-19
+- *33* people have died of COVID-19
+- *1600* people have recovered from COVID-19[1]
 
 The population in this census area is 476143. By our calculations:
-- 9.56% of the population have had COVID-19.[2]
-- 2.05% of the population or 9768.0 people are actively fighting the virus.
+- 9.65% of the population have had COVID-19.[2]
+- 2.02% of the population or 9613.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Spotsylvania-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *656* new cases of COVID-19
+- *704* new cases of COVID-19
 - *4* people have died of COVID-19
-- *164* people have recovered from COVID-19[1]
+- *222* people have recovered from COVID-19[1]
 
 The population in this census area is 136215. By our calculations:
-- 4.66% of the population have had COVID-19.[2]
-- 1.10% of the population or 1496.0 people are actively fighting the virus.
+- 4.70% of the population have had COVID-19.[2]
+- 1.09% of the population or 1486.0 people are actively fighting the virus.
 
 ## Synopsis
 

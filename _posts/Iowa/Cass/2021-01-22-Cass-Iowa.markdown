@@ -12,13 +12,13 @@ tags: [Cass-Iowa]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *21* new cases of COVID-19
-- *1* people have died of COVID-19
-- *18* people have recovered from COVID-19[1]
+- *28* new cases of COVID-19
+- *2* people have died of COVID-19
+- *23* people have recovered from COVID-19[1]
 
 The population in this census area is 12836. By our calculations:
-- 8.87% of the population have had COVID-19.[2]
-- 0.62% of the population or 79.0 people are actively fighting the virus.
+- 8.94% of the population have had COVID-19.[2]
+- 0.62% of the population or 80.0 people are actively fighting the virus.
 
 ## Synopsis
 

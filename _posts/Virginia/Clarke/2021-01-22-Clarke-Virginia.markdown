@@ -12,13 +12,13 @@ tags: [Clarke-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *72* new cases of COVID-19
-- *0* people have died of COVID-19
-- *8* people have recovered from COVID-19[1]
+- *79* new cases of COVID-19
+- *1* people have died of COVID-19
+- *11* people have recovered from COVID-19[1]
 
 The population in this census area is 14619. By our calculations:
-- 3.78% of the population have had COVID-19.[2]
-- 1.08% of the population or 158.0 people are actively fighting the virus.
+- 3.84% of the population have had COVID-19.[2]
+- 1.10% of the population or 161.0 people are actively fighting the virus.
 
 ## Synopsis
 

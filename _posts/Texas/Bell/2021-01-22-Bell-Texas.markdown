@@ -12,13 +12,13 @@ tags: [Bell-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *900* new cases of COVID-19
-- *27* people have died of COVID-19
-- *602* people have recovered from COVID-19[1]
+- *974* new cases of COVID-19
+- *30* people have died of COVID-19
+- *598* people have recovered from COVID-19[1]
 
 The population in this census area is 362924. By our calculations:
-- 4.70% of the population have had COVID-19.[2]
-- 1.04% of the population or 3781.0 people are actively fighting the virus.
+- 4.72% of the population have had COVID-19.[2]
+- 1.06% of the population or 3856.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Tompkins-New York]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *221* new cases of COVID-19
-- *2* people have died of COVID-19
-- *80* people have recovered from COVID-19[1]
+- *265* new cases of COVID-19
+- *3* people have died of COVID-19
+- *97* people have recovered from COVID-19[1]
 
 The population in this census area is 102180. By our calculations:
-- 2.65% of the population have had COVID-19.[2]
-- 0.57% of the population or 583.0 people are actively fighting the virus.
+- 2.69% of the population have had COVID-19.[2]
+- 0.60% of the population or 609.0 people are actively fighting the virus.
 
 ## Synopsis
 

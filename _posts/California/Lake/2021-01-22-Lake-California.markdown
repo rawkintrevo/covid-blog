@@ -12,13 +12,13 @@ tags: [Lake-California]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *279* new cases of COVID-19
+- *300* new cases of COVID-19
 - *3* people have died of COVID-19
-- *41* people have recovered from COVID-19[1]
+- *81* people have recovered from COVID-19[1]
 
 The population in this census area is 64386. By our calculations:
-- 4.08% of the population have had COVID-19.[2]
-- 1.20% of the population or 770.0 people are actively fighting the virus.
+- 4.11% of the population have had COVID-19.[2]
+- 1.17% of the population or 751.0 people are actively fighting the virus.
 
 ## Synopsis
 

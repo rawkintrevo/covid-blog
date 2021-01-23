@@ -12,13 +12,13 @@ tags: [Chippewa-Wisconsin]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *148* new cases of COVID-19
+- *186* new cases of COVID-19
 - *2* people have died of COVID-19
 - *85* people have recovered from COVID-19[1]
 
 The population in this census area is 64658. By our calculations:
-- 10.37% of the population have had COVID-19.[2]
-- 1.03% of the population or 669.0 people are actively fighting the virus.
+- 10.43% of the population have had COVID-19.[2]
+- 1.09% of the population or 707.0 people are actively fighting the virus.
 
 ## Synopsis
 

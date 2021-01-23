@@ -12,13 +12,13 @@ tags: [Itawamba-Mississippi]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *80* new cases of COVID-19
-- *2* people have died of COVID-19
-- *62* people have recovered from COVID-19[1]
+- *89* new cases of COVID-19
+- *3* people have died of COVID-19
+- *94* people have recovered from COVID-19[1]
 
 The population in this census area is 23390. By our calculations:
-- 11.34% of the population have had COVID-19.[2]
-- 1.35% of the population or 315.0 people are actively fighting the virus.
+- 11.38% of the population have had COVID-19.[2]
+- 1.24% of the population or 291.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Franklin-Washington]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *209* new cases of COVID-19
-- *0* people have died of COVID-19
-- *123* people have recovered from COVID-19[1]
+- *260* new cases of COVID-19
+- *1* people have died of COVID-19
+- *122* people have recovered from COVID-19[1]
 
 The population in this census area is 95222. By our calculations:
-- 10.29% of the population have had COVID-19.[2]
-- 1.06% of the population or 1007.0 people are actively fighting the virus.
+- 10.34% of the population have had COVID-19.[2]
+- 1.11% of the population or 1058.0 people are actively fighting the virus.
 
 ## Synopsis
 

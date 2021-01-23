@@ -12,13 +12,13 @@ tags: [Norfolk-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *835* new cases of COVID-19
-- *1* people have died of COVID-19
-- *278* people have recovered from COVID-19[1]
+- *932* new cases of COVID-19
+- *5* people have died of COVID-19
+- *270* people have recovered from COVID-19[1]
 
 The population in this census area is 242742. By our calculations:
-- 4.74% of the population have had COVID-19.[2]
-- 1.04% of the population or 2519.0 people are actively fighting the virus.
+- 4.78% of the population have had COVID-19.[2]
+- 1.08% of the population or 2620.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Montgomery-North Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *143* new cases of COVID-19
-- *0* people have died of COVID-19
-- *21* people have recovered from COVID-19[1]
+- *156* new cases of COVID-19
+- *3* people have died of COVID-19
+- *71* people have recovered from COVID-19[1]
 
 The population in this census area is 27173. By our calculations:
-- 9.20% of the population have had COVID-19.[2]
-- 2.11% of the population or 573.0 people are actively fighting the virus.
+- 9.26% of the population have had COVID-19.[2]
+- 1.96% of the population or 533.0 people are actively fighting the virus.
 
 ## Synopsis
 

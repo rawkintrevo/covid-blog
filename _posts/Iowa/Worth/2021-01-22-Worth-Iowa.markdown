@@ -12,13 +12,13 @@ tags: [Worth-Iowa]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *26* new cases of COVID-19
-- *0* people have died of COVID-19
-- *12* people have recovered from COVID-19[1]
+- *27* new cases of COVID-19
+- *1* people have died of COVID-19
+- *16* people have recovered from COVID-19[1]
 
 The population in this census area is 7381. By our calculations:
-- 8.31% of the population have had COVID-19.[2]
-- 1.15% of the population or 85.0 people are actively fighting the virus.
+- 8.33% of the population have had COVID-19.[2]
+- 1.10% of the population or 81.0 people are actively fighting the virus.
 
 ## Synopsis
 

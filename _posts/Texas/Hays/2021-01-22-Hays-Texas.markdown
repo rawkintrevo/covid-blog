@@ -12,13 +12,13 @@ tags: [Hays-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *952* new cases of COVID-19
-- *20* people have died of COVID-19
-- *108* people have recovered from COVID-19[1]
+- *1194* new cases of COVID-19
+- *23* people have died of COVID-19
+- *105* people have recovered from COVID-19[1]
 
 The population in this census area is 230191. By our calculations:
-- 6.63% of the population have had COVID-19.[2]
-- 1.46% of the population or 3350.0 people are actively fighting the virus.
+- 6.74% of the population have had COVID-19.[2]
+- 1.56% of the population or 3592.0 people are actively fighting the virus.
 
 ## Synopsis
 

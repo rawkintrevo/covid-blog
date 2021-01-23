@@ -12,13 +12,13 @@ tags: [Hall-Nebraska]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *131* new cases of COVID-19
+- *155* new cases of COVID-19
 - *1* people have died of COVID-19
-- *41* people have recovered from COVID-19[1]
+- *45* people have recovered from COVID-19[1]
 
 The population in this census area is 61353. By our calculations:
-- 10.46% of the population have had COVID-19.[2]
-- 0.90% of the population or 555.0 people are actively fighting the virus.
+- 10.50% of the population have had COVID-19.[2]
+- 0.94% of the population or 575.0 people are actively fighting the virus.
 
 ## Synopsis
 

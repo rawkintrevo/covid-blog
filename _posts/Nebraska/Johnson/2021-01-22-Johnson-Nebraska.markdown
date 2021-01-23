@@ -12,13 +12,13 @@ tags: [Johnson-Nebraska]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *8* new cases of COVID-19
+- *11* new cases of COVID-19
 - *0* people have died of COVID-19
-- *7* people have recovered from COVID-19[1]
+- *9* people have recovered from COVID-19[1]
 
 The population in this census area is 5071. By our calculations:
-- 11.89% of the population have had COVID-19.[2]
-- 1.14% of the population or 58.0 people are actively fighting the virus.
+- 11.95% of the population have had COVID-19.[2]
+- 1.16% of the population or 59.0 people are actively fighting the virus.
 
 ## Synopsis
 

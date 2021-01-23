@@ -12,13 +12,13 @@ tags: [Madison-Tennessee]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *251* new cases of COVID-19
-- *5* people have died of COVID-19
-- *67* people have recovered from COVID-19[1]
+- *276* new cases of COVID-19
+- *7* people have died of COVID-19
+- *232* people have recovered from COVID-19[1]
 
 The population in this census area is 97984. By our calculations:
-- 9.39% of the population have had COVID-19.[2]
-- 1.17% of the population or 1142.0 people are actively fighting the virus.
+- 9.42% of the population have had COVID-19.[2]
+- 1.02% of the population or 1000.0 people are actively fighting the virus.
 
 ## Synopsis
 

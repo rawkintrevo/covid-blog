@@ -12,13 +12,13 @@ tags: [Washington-Tennessee]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *334* new cases of COVID-19
-- *2* people have died of COVID-19
-- *89* people have recovered from COVID-19[1]
+- *373* new cases of COVID-19
+- *8* people have died of COVID-19
+- *402* people have recovered from COVID-19[1]
 
 The population in this census area is 129375. By our calculations:
-- 9.28% of the population have had COVID-19.[2]
-- 1.36% of the population or 1759.0 people are actively fighting the virus.
+- 9.32% of the population have had COVID-19.[2]
+- 1.14% of the population or 1479.0 people are actively fighting the virus.
 
 ## Synopsis
 

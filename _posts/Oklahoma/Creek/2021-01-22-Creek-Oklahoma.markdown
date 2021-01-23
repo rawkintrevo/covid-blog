@@ -12,13 +12,13 @@ tags: [Creek-Oklahoma]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *250* new cases of COVID-19
+- *322* new cases of COVID-19
 - *8* people have died of COVID-19
-- *46* people have recovered from COVID-19[1]
+- *138* people have recovered from COVID-19[1]
 
 The population in this census area is 71522. By our calculations:
-- 7.31% of the population have had COVID-19.[2]
-- 1.58% of the population or 1131.0 people are actively fighting the virus.
+- 7.41% of the population have had COVID-19.[2]
+- 1.55% of the population or 1111.0 people are actively fighting the virus.
 
 ## Synopsis
 

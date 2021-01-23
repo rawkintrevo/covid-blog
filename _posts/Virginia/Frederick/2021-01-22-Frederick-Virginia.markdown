@@ -12,13 +12,13 @@ tags: [Frederick-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *437* new cases of COVID-19
+- *477* new cases of COVID-19
 - *2* people have died of COVID-19
-- *91* people have recovered from COVID-19[1]
+- *164* people have recovered from COVID-19[1]
 
 The population in this census area is 89313. By our calculations:
-- 5.64% of the population have had COVID-19.[2]
-- 1.37% of the population or 1228.0 people are actively fighting the virus.
+- 5.68% of the population have had COVID-19.[2]
+- 1.34% of the population or 1195.0 people are actively fighting the virus.
 
 ## Synopsis
 

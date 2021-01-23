@@ -12,13 +12,13 @@ tags: [Pontotoc-Mississippi]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *130* new cases of COVID-19
+- *153* new cases of COVID-19
 - *3* people have died of COVID-19
-- *60* people have recovered from COVID-19[1]
+- *85* people have recovered from COVID-19[1]
 
 The population in this census area is 32174. By our calculations:
-- 11.49% of the population have had COVID-19.[2]
-- 1.52% of the population or 489.0 people are actively fighting the virus.
+- 11.57% of the population have had COVID-19.[2]
+- 1.51% of the population or 487.0 people are actively fighting the virus.
 
 ## Synopsis
 

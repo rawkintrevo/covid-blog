@@ -12,13 +12,13 @@ tags: [Panola-Mississippi]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *168* new cases of COVID-19
+- *205* new cases of COVID-19
 - *6* people have died of COVID-19
-- *90* people have recovered from COVID-19[1]
+- *106* people have recovered from COVID-19[1]
 
 The population in this census area is 34192. By our calculations:
-- 10.96% of the population have had COVID-19.[2]
-- 1.47% of the population or 501.0 people are actively fighting the virus.
+- 11.06% of the population have had COVID-19.[2]
+- 1.53% of the population or 522.0 people are actively fighting the virus.
 
 ## Synopsis
 

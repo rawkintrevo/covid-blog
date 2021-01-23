@@ -12,13 +12,13 @@ tags: [Bastrop-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *182* new cases of COVID-19
+- *347* new cases of COVID-19
 - *4* people have died of COVID-19
 - *88* people have recovered from COVID-19[1]
 
 The population in this census area is 88723. By our calculations:
-- 4.99% of the population have had COVID-19.[2]
-- 0.68% of the population or 601.0 people are actively fighting the virus.
+- 5.17% of the population have had COVID-19.[2]
+- 0.86% of the population or 766.0 people are actively fighting the virus.
 
 ## Synopsis
 

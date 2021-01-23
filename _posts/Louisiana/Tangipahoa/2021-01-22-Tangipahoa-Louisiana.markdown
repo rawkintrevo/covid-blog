@@ -12,13 +12,13 @@ tags: [Tangipahoa-Louisiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *367* new cases of COVID-19
-- *5* people have died of COVID-19
-- *70* people have recovered from COVID-19[1]
+- *492* new cases of COVID-19
+- *12* people have died of COVID-19
+- *63* people have recovered from COVID-19[1]
 
 The population in this census area is 134758. By our calculations:
-- 7.71% of the population have had COVID-19.[2]
-- 0.98% of the population or 1317.0 people are actively fighting the virus.
+- 7.81% of the population have had COVID-19.[2]
+- 1.07% of the population or 1442.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Gwinnett-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *5030* new cases of COVID-19
-- *34* people have died of COVID-19
-- *2055* people have recovered from COVID-19[1]
+- *6234* new cases of COVID-19
+- *38* people have died of COVID-19
+- *2649* people have recovered from COVID-19[1]
 
 The population in this census area is 936250. By our calculations:
-- 7.99% of the population have had COVID-19.[2]
-- 1.72% of the population or 16104.0 people are actively fighting the virus.
+- 8.12% of the population have had COVID-19.[2]
+- 1.78% of the population or 16710.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Surry-North Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *363* new cases of COVID-19
+- *427* new cases of COVID-19
 - *6* people have died of COVID-19
-- *38* people have recovered from COVID-19[1]
+- *193* people have recovered from COVID-19[1]
 
 The population in this census area is 71783. By our calculations:
-- 8.05% of the population have had COVID-19.[2]
-- 1.85% of the population or 1325.0 people are actively fighting the virus.
+- 8.14% of the population have had COVID-19.[2]
+- 1.72% of the population or 1234.0 people are actively fighting the virus.
 
 ## Synopsis
 

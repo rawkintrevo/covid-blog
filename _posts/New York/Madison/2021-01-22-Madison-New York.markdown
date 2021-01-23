@@ -12,13 +12,13 @@ tags: [Madison-New York]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *229* new cases of COVID-19
+- *265* new cases of COVID-19
 - *2* people have died of COVID-19
-- *96* people have recovered from COVID-19[1]
+- *136* people have recovered from COVID-19[1]
 
 The population in this census area is 70941. By our calculations:
-- 4.47% of the population have had COVID-19.[2]
-- 1.16% of the population or 825.0 people are actively fighting the virus.
+- 4.52% of the population have had COVID-19.[2]
+- 1.16% of the population or 821.0 people are actively fighting the virus.
 
 ## Synopsis
 

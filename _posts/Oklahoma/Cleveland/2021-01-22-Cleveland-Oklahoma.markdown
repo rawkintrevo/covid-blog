@@ -12,13 +12,13 @@ tags: [Cleveland-Oklahoma]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1039* new cases of COVID-19
-- *14* people have died of COVID-19
-- *330* people have recovered from COVID-19[1]
+- *1242* new cases of COVID-19
+- *15* people have died of COVID-19
+- *733* people have recovered from COVID-19[1]
 
 The population in this census area is 284014. By our calculations:
-- 8.47% of the population have had COVID-19.[2]
-- 1.68% of the population or 4776.0 people are actively fighting the virus.
+- 8.54% of the population have had COVID-19.[2]
+- 1.61% of the population or 4575.0 people are actively fighting the virus.
 
 ## Synopsis
 

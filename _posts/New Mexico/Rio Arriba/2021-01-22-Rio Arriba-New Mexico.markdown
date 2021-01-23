@@ -12,13 +12,13 @@ tags: [Rio Arriba-New Mexico]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *150* new cases of COVID-19
+- *171* new cases of COVID-19
 - *5* people have died of COVID-19
-- *78* people have recovered from COVID-19[1]
+- *112* people have recovered from COVID-19[1]
 
 The population in this census area is 38921. By our calculations:
-- 7.68% of the population have had COVID-19.[2]
-- 1.71% of the population or 667.0 people are actively fighting the virus.
+- 7.73% of the population have had COVID-19.[2]
+- 1.68% of the population or 654.0 people are actively fighting the virus.
 
 ## Synopsis
 

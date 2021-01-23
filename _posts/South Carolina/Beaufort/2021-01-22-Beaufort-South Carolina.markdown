@@ -12,13 +12,13 @@ tags: [Beaufort-South Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *780* new cases of COVID-19
-- *5* people have died of COVID-19
-- *156* people have recovered from COVID-19[1]
+- *998* new cases of COVID-19
+- *9* people have died of COVID-19
+- *308* people have recovered from COVID-19[1]
 
 The population in this census area is 192122. By our calculations:
-- 6.31% of the population have had COVID-19.[2]
-- 1.31% of the population or 2514.0 people are actively fighting the virus.
+- 6.43% of the population have had COVID-19.[2]
+- 1.34% of the population or 2576.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Stutsman-North Dakota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *5* new cases of COVID-19
+- *9* new cases of COVID-19
 - *2* people have died of COVID-19
-- *44* people have recovered from COVID-19[1]
+- *46* people have recovered from COVID-19[1]
 
 The population in this census area is 20704. By our calculations:
-- 15.51% of the population have had COVID-19.[2]
-- 0.31% of the population or 64.0 people are actively fighting the virus.
+- 15.53% of the population have had COVID-19.[2]
+- 0.32% of the population or 66.0 people are actively fighting the virus.
 
 ## Synopsis
 

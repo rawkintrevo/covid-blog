@@ -12,13 +12,13 @@ tags: [Rankin-Mississippi]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *507* new cases of COVID-19
+- *653* new cases of COVID-19
 - *13* people have died of COVID-19
-- *275* people have recovered from COVID-19[1]
+- *403* people have recovered from COVID-19[1]
 
 The population in this census area is 155271. By our calculations:
-- 6.99% of the population have had COVID-19.[2]
-- 1.19% of the population or 1846.0 people are actively fighting the virus.
+- 7.08% of the population have had COVID-19.[2]
+- 1.20% of the population or 1864.0 people are actively fighting the virus.
 
 ## Synopsis
 

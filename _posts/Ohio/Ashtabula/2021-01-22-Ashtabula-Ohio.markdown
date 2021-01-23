@@ -12,13 +12,13 @@ tags: [Ashtabula-Ohio]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *143* new cases of COVID-19
+- *173* new cases of COVID-19
 - *6* people have died of COVID-19
-- *33* people have recovered from COVID-19[1]
+- *104* people have recovered from COVID-19[1]
 
 The population in this census area is 97241. By our calculations:
-- 4.59% of the population have had COVID-19.[2]
-- 0.63% of the population or 614.0 people are actively fighting the virus.
+- 4.62% of the population have had COVID-19.[2]
+- 0.59% of the population or 573.0 people are actively fighting the virus.
 
 ## Synopsis
 

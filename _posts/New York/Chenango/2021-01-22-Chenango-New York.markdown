@@ -12,13 +12,13 @@ tags: [Chenango-New York]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *176* new cases of COVID-19
+- *202* new cases of COVID-19
 - *7* people have died of COVID-19
-- *66* people have recovered from COVID-19[1]
+- *91* people have recovered from COVID-19[1]
 
 The population in this census area is 47207. By our calculations:
-- 3.80% of the population have had COVID-19.[2]
-- 1.11% of the population or 522.0 people are actively fighting the virus.
+- 3.86% of the population have had COVID-19.[2]
+- 1.11% of the population or 523.0 people are actively fighting the virus.
 
 ## Synopsis
 

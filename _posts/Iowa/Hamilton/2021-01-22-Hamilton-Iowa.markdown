@@ -12,13 +12,13 @@ tags: [Hamilton-Iowa]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *37* new cases of COVID-19
+- *40* new cases of COVID-19
 - *2* people have died of COVID-19
-- *18* people have recovered from COVID-19[1]
+- *19* people have recovered from COVID-19[1]
 
 The population in this census area is 14773. By our calculations:
-- 10.88% of the population have had COVID-19.[2]
-- 0.74% of the population or 110.0 people are actively fighting the virus.
+- 10.90% of the population have had COVID-19.[2]
+- 0.76% of the population or 112.0 people are actively fighting the virus.
 
 ## Synopsis
 

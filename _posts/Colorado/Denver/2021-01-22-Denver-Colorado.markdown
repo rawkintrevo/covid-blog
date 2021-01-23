@@ -12,13 +12,13 @@ tags: [Denver-Colorado]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1156* new cases of COVID-19
-- *7* people have died of COVID-19
-- *850* people have recovered from COVID-19[1]
+- *1392* new cases of COVID-19
+- *11* people have died of COVID-19
+- *1066* people have recovered from COVID-19[1]
 
 The population in this census area is 727211. By our calculations:
-- 7.39% of the population have had COVID-19.[2]
-- 0.77% of the population or 5572.0 people are actively fighting the virus.
+- 7.43% of the population have had COVID-19.[2]
+- 0.77% of the population or 5588.0 people are actively fighting the virus.
 
 ## Synopsis
 

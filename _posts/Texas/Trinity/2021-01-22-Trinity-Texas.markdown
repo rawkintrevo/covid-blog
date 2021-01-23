@@ -12,13 +12,13 @@ tags: [Trinity-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *42* new cases of COVID-19
-- *1* people have died of COVID-19
-- *15* people have recovered from COVID-19[1]
+- *56* new cases of COVID-19
+- *2* people have died of COVID-19
+- *21* people have recovered from COVID-19[1]
 
 The population in this census area is 14651. By our calculations:
-- 3.46% of the population have had COVID-19.[2]
-- 1.04% of the population or 153.0 people are actively fighting the virus.
+- 3.56% of the population have had COVID-19.[2]
+- 1.09% of the population or 160.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Latah-Idaho]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *29* new cases of COVID-19
+- *49* new cases of COVID-19
 - *0* people have died of COVID-19
 - *7* people have recovered from COVID-19[1]
 
 The population in this census area is 40108. By our calculations:
-- 5.99% of the population have had COVID-19.[2]
-- 0.62% of the population or 250.0 people are actively fighting the virus.
+- 6.04% of the population have had COVID-19.[2]
+- 0.67% of the population or 270.0 people are actively fighting the virus.
 
 ## Synopsis
 

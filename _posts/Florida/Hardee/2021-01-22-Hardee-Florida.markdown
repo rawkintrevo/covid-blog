@@ -12,13 +12,13 @@ tags: [Hardee-Florida]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *99* new cases of COVID-19
+- *113* new cases of COVID-19
 - *1* people have died of COVID-19
-- *26* people have recovered from COVID-19[1]
+- *62* people have recovered from COVID-19[1]
 
 The population in this census area is 26937. By our calculations:
-- 9.07% of the population have had COVID-19.[2]
-- 1.23% of the population or 330.0 people are actively fighting the virus.
+- 9.12% of the population have had COVID-19.[2]
+- 1.14% of the population or 308.0 people are actively fighting the virus.
 
 ## Synopsis
 

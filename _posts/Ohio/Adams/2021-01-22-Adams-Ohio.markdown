@@ -12,13 +12,13 @@ tags: [Adams-Ohio]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *87* new cases of COVID-19
+- *112* new cases of COVID-19
 - *0* people have died of COVID-19
-- *31* people have recovered from COVID-19[1]
+- *59* people have recovered from COVID-19[1]
 
 The population in this census area is 27698. By our calculations:
-- 6.12% of the population have had COVID-19.[2]
-- 1.18% of the population or 327.0 people are actively fighting the virus.
+- 6.21% of the population have had COVID-19.[2]
+- 1.17% of the population or 324.0 people are actively fighting the virus.
 
 ## Synopsis
 

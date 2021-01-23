@@ -12,13 +12,13 @@ tags: [Jefferson-Louisiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1583* new cases of COVID-19
-- *23* people have died of COVID-19
-- *395* people have recovered from COVID-19[1]
+- *1973* new cases of COVID-19
+- *27* people have died of COVID-19
+- *391* people have recovered from COVID-19[1]
 
 The population in this census area is 432493. By our calculations:
-- 8.85% of the population have had COVID-19.[2]
-- 1.53% of the population or 6611.0 people are actively fighting the virus.
+- 8.94% of the population have had COVID-19.[2]
+- 1.62% of the population or 7001.0 people are actively fighting the virus.
 
 ## Synopsis
 

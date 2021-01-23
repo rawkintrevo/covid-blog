@@ -12,13 +12,13 @@ tags: [Talbot-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *10* new cases of COVID-19
+- *12* new cases of COVID-19
 - *1* people have died of COVID-19
-- *8* people have recovered from COVID-19[1]
+- *14* people have recovered from COVID-19[1]
 
 The population in this census area is 6195. By our calculations:
-- 6.15% of the population have had COVID-19.[2]
-- 1.36% of the population or 84.0 people are actively fighting the virus.
+- 6.18% of the population have had COVID-19.[2]
+- 1.29% of the population or 80.0 people are actively fighting the virus.
 
 ## Synopsis
 

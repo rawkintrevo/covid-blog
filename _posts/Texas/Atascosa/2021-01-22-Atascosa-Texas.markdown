@@ -12,13 +12,13 @@ tags: [Atascosa-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *217* new cases of COVID-19
+- *414* new cases of COVID-19
 - *7* people have died of COVID-19
 - *20* people have recovered from COVID-19[1]
 
 The population in this census area is 51153. By our calculations:
-- 7.62% of the population have had COVID-19.[2]
-- 1.83% of the population or 937.0 people are actively fighting the virus.
+- 8.01% of the population have had COVID-19.[2]
+- 2.22% of the population or 1134.0 people are actively fighting the virus.
 
 ## Synopsis
 

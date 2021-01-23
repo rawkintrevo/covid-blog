@@ -12,13 +12,13 @@ tags: [Cass-Illinois]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *41* new cases of COVID-19
+- *44* new cases of COVID-19
 - *0* people have died of COVID-19
-- *20* people have recovered from COVID-19[1]
+- *32* people have recovered from COVID-19[1]
 
 The population in this census area is 12147. By our calculations:
-- 14.51% of the population have had COVID-19.[2]
-- 1.44% of the population or 175.0 people are actively fighting the virus.
+- 14.54% of the population have had COVID-19.[2]
+- 1.37% of the population or 166.0 people are actively fighting the virus.
 
 ## Synopsis
 

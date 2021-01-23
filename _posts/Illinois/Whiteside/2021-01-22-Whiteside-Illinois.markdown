@@ -12,13 +12,13 @@ tags: [Whiteside-Illinois]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *111* new cases of COVID-19
-- *2* people have died of COVID-19
-- *35* people have recovered from COVID-19[1]
+- *142* new cases of COVID-19
+- *3* people have died of COVID-19
+- *110* people have recovered from COVID-19[1]
 
 The population in this census area is 55175. By our calculations:
-- 9.58% of the population have had COVID-19.[2]
-- 0.80% of the population or 440.0 people are actively fighting the virus.
+- 9.64% of the population have had COVID-19.[2]
+- 0.72% of the population or 395.0 people are actively fighting the virus.
 
 ## Synopsis
 

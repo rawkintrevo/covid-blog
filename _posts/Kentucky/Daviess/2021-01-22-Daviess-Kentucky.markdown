@@ -12,13 +12,13 @@ tags: [Daviess-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *387* new cases of COVID-19
-- *31* people have died of COVID-19
-- *-9* people have recovered from COVID-19[1]
+- *505* new cases of COVID-19
+- *37* people have died of COVID-19
+- *227* people have recovered from COVID-19[1]
 
 The population in this census area is 101511. By our calculations:
-- 7.49% of the population have had COVID-19.[2]
-- 1.81% of the population or 1835.0 people are actively fighting the virus.
+- 7.62% of the population have had COVID-19.[2]
+- 1.69% of the population or 1711.0 people are actively fighting the virus.
 
 ## Synopsis
 

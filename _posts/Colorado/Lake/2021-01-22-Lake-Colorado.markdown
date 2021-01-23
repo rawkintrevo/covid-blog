@@ -12,13 +12,13 @@ tags: [Lake-Colorado]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *8* new cases of COVID-19
+- *11* new cases of COVID-19
 - *0* people have died of COVID-19
-- *14* people have recovered from COVID-19[1]
+- *18* people have recovered from COVID-19[1]
 
 The population in this census area is 8127. By our calculations:
-- 5.89% of the population have had COVID-19.[2]
-- 0.57% of the population or 46.0 people are actively fighting the virus.
+- 5.93% of the population have had COVID-19.[2]
+- 0.55% of the population or 45.0 people are actively fighting the virus.
 
 ## Synopsis
 

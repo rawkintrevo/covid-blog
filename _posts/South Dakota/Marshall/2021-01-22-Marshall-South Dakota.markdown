@@ -12,13 +12,13 @@ tags: [Marshall-South Dakota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *6* new cases of COVID-19
+- *7* new cases of COVID-19
 - *0* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *2* people have recovered from COVID-19[1]
 
 The population in this census area is 4935. By our calculations:
-- 5.67% of the population have had COVID-19.[2]
-- 0.39% of the population or 19.0 people are actively fighting the virus.
+- 5.69% of the population have had COVID-19.[2]
+- 0.36% of the population or 18.0 people are actively fighting the virus.
 
 ## Synopsis
 

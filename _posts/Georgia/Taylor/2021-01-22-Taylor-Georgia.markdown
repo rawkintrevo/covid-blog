@@ -12,13 +12,13 @@ tags: [Taylor-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *30* new cases of COVID-19
+- *34* new cases of COVID-19
 - *2* people have died of COVID-19
-- *14* people have recovered from COVID-19[1]
+- *20* people have recovered from COVID-19[1]
 
 The population in this census area is 8020. By our calculations:
-- 8.14% of the population have had COVID-19.[2]
-- 1.35% of the population or 108.0 people are actively fighting the virus.
+- 8.19% of the population have had COVID-19.[2]
+- 1.32% of the population or 106.0 people are actively fighting the virus.
 
 ## Synopsis
 

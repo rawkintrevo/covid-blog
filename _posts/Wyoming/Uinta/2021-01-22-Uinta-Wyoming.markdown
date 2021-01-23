@@ -12,13 +12,13 @@ tags: [Uinta-Wyoming]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *57* new cases of COVID-19
+- *79* new cases of COVID-19
 - *1* people have died of COVID-19
-- *17* people have recovered from COVID-19[1]
+- *28* people have recovered from COVID-19[1]
 
 The population in this census area is 20226. By our calculations:
-- 9.16% of the population have had COVID-19.[2]
-- 1.44% of the population or 291.0 people are actively fighting the virus.
+- 9.27% of the population have had COVID-19.[2]
+- 1.49% of the population or 302.0 people are actively fighting the virus.
 
 ## Synopsis
 

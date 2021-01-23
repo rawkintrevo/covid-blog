@@ -12,13 +12,13 @@ tags: [Allegan-Michigan]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *230* new cases of COVID-19
-- *2* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *256* new cases of COVID-19
+- *6* people have died of COVID-19
+- *97* people have recovered from COVID-19[1]
 
 The population in this census area is 118081. By our calculations:
-- 5.62% of the population have had COVID-19.[2]
-- 0.72% of the population or 854.0 people are actively fighting the virus.
+- 5.65% of the population have had COVID-19.[2]
+- 0.66% of the population or 779.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,12 +12,12 @@ tags: [Boise-Idaho]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *25* new cases of COVID-19
+- *26* new cases of COVID-19
 - *0* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *1* people have recovered from COVID-19[1]
 
 The population in this census area is 7831. By our calculations:
-- 3.56% of the population have had COVID-19.[2]
+- 3.58% of the population have had COVID-19.[2]
 - 0.50% of the population or 39.0 people are actively fighting the virus.
 
 ## Synopsis

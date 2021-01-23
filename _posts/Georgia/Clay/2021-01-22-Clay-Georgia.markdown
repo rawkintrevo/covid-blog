@@ -12,13 +12,13 @@ tags: [Clay-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *6* new cases of COVID-19
+- *8* new cases of COVID-19
 - *0* people have died of COVID-19
-- *3* people have recovered from COVID-19[1]
+- *7* people have recovered from COVID-19[1]
 
 The population in this census area is 2834. By our calculations:
-- 7.37% of the population have had COVID-19.[2]
-- 1.02% of the population or 29.0 people are actively fighting the virus.
+- 7.45% of the population have had COVID-19.[2]
+- 0.95% of the population or 27.0 people are actively fighting the virus.
 
 ## Synopsis
 

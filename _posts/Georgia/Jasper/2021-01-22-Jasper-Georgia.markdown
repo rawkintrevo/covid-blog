@@ -12,13 +12,13 @@ tags: [Jasper-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *47* new cases of COVID-19
+- *57* new cases of COVID-19
 - *5* people have died of COVID-19
-- *26* people have recovered from COVID-19[1]
+- *41* people have recovered from COVID-19[1]
 
 The population in this census area is 14219. By our calculations:
-- 7.64% of the population have had COVID-19.[2]
-- 1.62% of the population or 230.0 people are actively fighting the virus.
+- 7.71% of the population have had COVID-19.[2]
+- 1.58% of the population or 225.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Callahan-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *38* new cases of COVID-19
+- *43* new cases of COVID-19
 - *3* people have died of COVID-19
-- *11* people have recovered from COVID-19[1]
+- *10* people have recovered from COVID-19[1]
 
 The population in this census area is 13943. By our calculations:
-- 6.92% of the population have had COVID-19.[2]
-- 1.10% of the population or 153.0 people are actively fighting the virus.
+- 6.96% of the population have had COVID-19.[2]
+- 1.14% of the population or 159.0 people are actively fighting the virus.
 
 ## Synopsis
 

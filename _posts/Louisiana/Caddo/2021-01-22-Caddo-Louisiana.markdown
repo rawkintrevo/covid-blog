@@ -12,13 +12,13 @@ tags: [Caddo-Louisiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *750* new cases of COVID-19
-- *25* people have died of COVID-19
-- *210* people have recovered from COVID-19[1]
+- *1029* new cases of COVID-19
+- *26* people have died of COVID-19
+- *209* people have recovered from COVID-19[1]
 
 The population in this census area is 240204. By our calculations:
-- 8.85% of the population have had COVID-19.[2]
-- 1.39% of the population or 3329.0 people are actively fighting the virus.
+- 8.97% of the population have had COVID-19.[2]
+- 1.50% of the population or 3608.0 people are actively fighting the virus.
 
 ## Synopsis
 

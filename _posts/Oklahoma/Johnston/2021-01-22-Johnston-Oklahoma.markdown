@@ -12,13 +12,13 @@ tags: [Johnston-Oklahoma]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *44* new cases of COVID-19
+- *56* new cases of COVID-19
 - *1* people have died of COVID-19
-- *10* people have recovered from COVID-19[1]
+- *33* people have recovered from COVID-19[1]
 
 The population in this census area is 11085. By our calculations:
-- 9.97% of the population have had COVID-19.[2]
-- 2.40% of the population or 266.0 people are actively fighting the virus.
+- 10.08% of the population have had COVID-19.[2]
+- 2.30% of the population or 255.0 people are actively fighting the virus.
 
 ## Synopsis
 

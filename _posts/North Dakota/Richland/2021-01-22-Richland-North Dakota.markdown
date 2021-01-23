@@ -12,13 +12,13 @@ tags: [Richland-North Dakota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *36* new cases of COVID-19
+- *43* new cases of COVID-19
 - *0* people have died of COVID-19
-- *35* people have recovered from COVID-19[1]
+- *36* people have recovered from COVID-19[1]
 
 The population in this census area is 16177. By our calculations:
-- 10.17% of the population have had COVID-19.[2]
-- 0.56% of the population or 90.0 people are actively fighting the virus.
+- 10.22% of the population have had COVID-19.[2]
+- 0.59% of the population or 96.0 people are actively fighting the virus.
 
 ## Synopsis
 

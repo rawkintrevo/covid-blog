@@ -12,13 +12,13 @@ tags: [Knox-Tennessee]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1455* new cases of COVID-19
-- *29* people have died of COVID-19
-- *301* people have recovered from COVID-19[1]
+- *1607* new cases of COVID-19
+- *40* people have died of COVID-19
+- *1238* people have recovered from COVID-19[1]
 
 The population in this census area is 470313. By our calculations:
-- 8.36% of the population have had COVID-19.[2]
-- 1.39% of the population or 6532.0 people are actively fighting the virus.
+- 8.39% of the population have had COVID-19.[2]
+- 1.22% of the population or 5736.0 people are actively fighting the virus.
 
 ## Synopsis
 

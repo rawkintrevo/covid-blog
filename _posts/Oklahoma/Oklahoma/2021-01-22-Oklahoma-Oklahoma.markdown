@@ -12,13 +12,13 @@ tags: [Oklahoma-Oklahoma]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *2852* new cases of COVID-19
-- *27* people have died of COVID-19
-- *576* people have recovered from COVID-19[1]
+- *3344* new cases of COVID-19
+- *34* people have died of COVID-19
+- *1180* people have recovered from COVID-19[1]
 
 The population in this census area is 797434. By our calculations:
-- 8.78% of the population have had COVID-19.[2]
-- 1.50% of the population or 11961.0 people are actively fighting the virus.
+- 8.85% of the population have had COVID-19.[2]
+- 1.49% of the population or 11842.0 people are actively fighting the virus.
 
 ## Synopsis
 

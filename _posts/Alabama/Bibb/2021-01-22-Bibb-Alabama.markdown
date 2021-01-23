@@ -12,12 +12,12 @@ tags: [Bibb-Alabama]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *75* new cases of COVID-19
-- *0* people have died of COVID-19
-- *37* people have recovered from COVID-19[1]
+- *84* new cases of COVID-19
+- *1* people have died of COVID-19
+- *45* people have recovered from COVID-19[1]
 
 The population in this census area is 22394. By our calculations:
-- 9.77% of the population have had COVID-19.[2]
+- 9.82% of the population have had COVID-19.[2]
 - 1.48% of the population or 332.0 people are actively fighting the virus.
 
 ## Synopsis

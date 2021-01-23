@@ -12,13 +12,13 @@ tags: [Jefferson-Ohio]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *203* new cases of COVID-19
-- *2* people have died of COVID-19
-- *64* people have recovered from COVID-19[1]
+- *235* new cases of COVID-19
+- *4* people have died of COVID-19
+- *136* people have recovered from COVID-19[1]
 
 The population in this census area is 65325. By our calculations:
-- 6.31% of the population have had COVID-19.[2]
-- 1.09% of the population or 710.0 people are actively fighting the virus.
+- 6.36% of the population have had COVID-19.[2]
+- 1.02% of the population or 668.0 people are actively fighting the virus.
 
 ## Synopsis
 

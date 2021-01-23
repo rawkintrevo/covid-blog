@@ -12,13 +12,13 @@ tags: [Tioga-New York]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *126* new cases of COVID-19
+- *166* new cases of COVID-19
 - *0* people have died of COVID-19
-- *56* people have recovered from COVID-19[1]
+- *85* people have recovered from COVID-19[1]
 
 The population in this census area is 48203. By our calculations:
-- 4.62% of the population have had COVID-19.[2]
-- 1.04% of the population or 503.0 people are actively fighting the virus.
+- 4.71% of the population have had COVID-19.[2]
+- 1.07% of the population or 514.0 people are actively fighting the virus.
 
 ## Synopsis
 

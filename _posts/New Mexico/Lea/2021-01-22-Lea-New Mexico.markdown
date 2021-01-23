@@ -12,13 +12,13 @@ tags: [Lea-New Mexico]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *151* new cases of COVID-19
-- *3* people have died of COVID-19
-- *175* people have recovered from COVID-19[1]
+- *183* new cases of COVID-19
+- *4* people have died of COVID-19
+- *221* people have recovered from COVID-19[1]
 
 The population in this census area is 71070. By our calculations:
-- 10.63% of the population have had COVID-19.[2]
-- 1.10% of the population or 782.0 people are actively fighting the virus.
+- 10.67% of the population have had COVID-19.[2]
+- 1.08% of the population or 767.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Shelby-Ohio]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *120* new cases of COVID-19
+- *148* new cases of COVID-19
 - *0* people have died of COVID-19
-- *54* people have recovered from COVID-19[1]
+- *124* people have recovered from COVID-19[1]
 
 The population in this census area is 48590. By our calculations:
-- 8.57% of the population have had COVID-19.[2]
-- 1.47% of the population or 714.0 people are actively fighting the virus.
+- 8.63% of the population have had COVID-19.[2]
+- 1.38% of the population or 672.0 people are actively fighting the virus.
 
 ## Synopsis
 

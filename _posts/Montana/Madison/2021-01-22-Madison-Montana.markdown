@@ -12,13 +12,13 @@ tags: [Madison-Montana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *39* new cases of COVID-19
+- *42* new cases of COVID-19
 - *0* people have died of COVID-19
-- *1* people have recovered from COVID-19[1]
+- *7* people have recovered from COVID-19[1]
 
 The population in this census area is 8600. By our calculations:
-- 7.20% of the population have had COVID-19.[2]
-- 1.28% of the population or 110.0 people are actively fighting the virus.
+- 7.23% of the population have had COVID-19.[2]
+- 1.24% of the population or 107.0 people are actively fighting the virus.
 
 ## Synopsis
 

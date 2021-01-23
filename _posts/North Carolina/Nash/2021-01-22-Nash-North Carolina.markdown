@@ -12,13 +12,13 @@ tags: [Nash-North Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *321* new cases of COVID-19
-- *1* people have died of COVID-19
-- *69* people have recovered from COVID-19[1]
+- *396* new cases of COVID-19
+- *8* people have died of COVID-19
+- *225* people have recovered from COVID-19[1]
 
 The population in this census area is 94298. By our calculations:
-- 7.70% of the population have had COVID-19.[2]
-- 1.24% of the population or 1168.0 people are actively fighting the virus.
+- 7.78% of the population have had COVID-19.[2]
+- 1.15% of the population or 1080.0 people are actively fighting the virus.
 
 ## Synopsis
 

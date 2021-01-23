@@ -12,13 +12,13 @@ tags: [Cumberland-Maine]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *676* new cases of COVID-19
-- *16* people have died of COVID-19
-- *391* people have recovered from COVID-19[1]
+- *822* new cases of COVID-19
+- *18* people have died of COVID-19
+- *502* people have recovered from COVID-19[1]
 
 The population in this census area is 295003. By our calculations:
-- 3.43% of the population have had COVID-19.[2]
-- 0.89% of the population or 2623.0 people are actively fighting the virus.
+- 3.48% of the population have had COVID-19.[2]
+- 0.90% of the population or 2656.0 people are actively fighting the virus.
 
 ## Synopsis
 

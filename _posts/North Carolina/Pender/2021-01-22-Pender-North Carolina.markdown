@@ -12,13 +12,13 @@ tags: [Pender-North Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *342* new cases of COVID-19
+- *387* new cases of COVID-19
 - *14* people have died of COVID-19
-- *13* people have recovered from COVID-19[1]
+- *165* people have recovered from COVID-19[1]
 
 The population in this census area is 63060. By our calculations:
-- 5.92% of the population have had COVID-19.[2]
-- 1.56% of the population or 981.0 people are actively fighting the virus.
+- 6.00% of the population have had COVID-19.[2]
+- 1.39% of the population or 874.0 people are actively fighting the virus.
 
 ## Synopsis
 

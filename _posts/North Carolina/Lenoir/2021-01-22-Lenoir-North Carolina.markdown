@@ -12,13 +12,13 @@ tags: [Lenoir-North Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *221* new cases of COVID-19
-- *1* people have died of COVID-19
-- *48* people have recovered from COVID-19[1]
+- *264* new cases of COVID-19
+- *4* people have died of COVID-19
+- *184* people have recovered from COVID-19[1]
 
 The population in this census area is 55949. By our calculations:
-- 7.57% of the population have had COVID-19.[2]
-- 1.75% of the population or 981.0 people are actively fighting the virus.
+- 7.65% of the population have had COVID-19.[2]
+- 1.58% of the population or 885.0 people are actively fighting the virus.
 
 ## Synopsis
 

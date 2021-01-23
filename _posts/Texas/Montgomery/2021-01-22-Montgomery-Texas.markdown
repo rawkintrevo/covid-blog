@@ -12,13 +12,13 @@ tags: [Montgomery-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *2116* new cases of COVID-19
-- *28* people have died of COVID-19
-- *-17* people have recovered from COVID-19[1]
+- *2560* new cases of COVID-19
+- *36* people have died of COVID-19
+- *-25* people have recovered from COVID-19[1]
 
 The population in this census area is 607391. By our calculations:
-- 5.72% of the population have had COVID-19.[2]
-- 1.32% of the population or 7991.0 people are actively fighting the virus.
+- 5.79% of the population have had COVID-19.[2]
+- 1.39% of the population or 8435.0 people are actively fighting the virus.
 
 ## Synopsis
 

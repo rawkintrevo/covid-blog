@@ -12,13 +12,13 @@ tags: [Craig-Oklahoma]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *66* new cases of COVID-19
+- *70* new cases of COVID-19
 - *1* people have died of COVID-19
-- *22* people have recovered from COVID-19[1]
+- *46* people have recovered from COVID-19[1]
 
 The population in this census area is 14142. By our calculations:
-- 12.23% of the population have had COVID-19.[2]
-- 1.92% of the population or 271.0 people are actively fighting the virus.
+- 12.25% of the population have had COVID-19.[2]
+- 1.77% of the population or 251.0 people are actively fighting the virus.
 
 ## Synopsis
 

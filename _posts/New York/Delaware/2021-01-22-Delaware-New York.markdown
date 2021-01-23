@@ -12,13 +12,13 @@ tags: [Delaware-New York]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *71* new cases of COVID-19
-- *7* people have died of COVID-19
-- *31* people have recovered from COVID-19[1]
+- *84* new cases of COVID-19
+- *9* people have died of COVID-19
+- *39* people have recovered from COVID-19[1]
 
 The population in this census area is 44135. By our calculations:
-- 2.33% of the population have had COVID-19.[2]
-- 0.66% of the population or 291.0 people are actively fighting the virus.
+- 2.37% of the population have had COVID-19.[2]
+- 0.67% of the population or 294.0 people are actively fighting the virus.
 
 ## Synopsis
 

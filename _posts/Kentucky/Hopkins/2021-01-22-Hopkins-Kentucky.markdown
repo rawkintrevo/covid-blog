@@ -12,13 +12,13 @@ tags: [Hopkins-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *129* new cases of COVID-19
-- *4* people have died of COVID-19
-- *-3* people have recovered from COVID-19[1]
+- *149* new cases of COVID-19
+- *5* people have died of COVID-19
+- *91* people have recovered from COVID-19[1]
 
 The population in this census area is 44686. By our calculations:
-- 7.41% of the population have had COVID-19.[2]
-- 1.47% of the population or 655.0 people are actively fighting the virus.
+- 7.46% of the population have had COVID-19.[2]
+- 1.30% of the population or 580.0 people are actively fighting the virus.
 
 ## Synopsis
 

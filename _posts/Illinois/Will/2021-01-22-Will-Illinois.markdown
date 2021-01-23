@@ -12,13 +12,13 @@ tags: [Will-Illinois]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1557* new cases of COVID-19
-- *20* people have died of COVID-19
-- *486* people have recovered from COVID-19[1]
+- *1845* new cases of COVID-19
+- *25* people have died of COVID-19
+- *1079* people have recovered from COVID-19[1]
 
 The population in this census area is 690743. By our calculations:
-- 8.50% of the population have had COVID-19.[2]
-- 0.90% of the population or 6200.0 people are actively fighting the virus.
+- 8.54% of the population have had COVID-19.[2]
+- 0.85% of the population or 5890.0 people are actively fighting the virus.
 
 ## Synopsis
 

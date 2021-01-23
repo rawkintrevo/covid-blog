@@ -12,13 +12,13 @@ tags: [Huntington-Indiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *86* new cases of COVID-19
+- *97* new cases of COVID-19
 - *2* people have died of COVID-19
-- *67* people have recovered from COVID-19[1]
+- *97* people have recovered from COVID-19[1]
 
 The population in this census area is 36520. By our calculations:
-- 7.87% of the population have had COVID-19.[2]
-- 1.05% of the population or 384.0 people are actively fighting the virus.
+- 7.90% of the population have had COVID-19.[2]
+- 1.00% of the population or 365.0 people are actively fighting the virus.
 
 ## Synopsis
 

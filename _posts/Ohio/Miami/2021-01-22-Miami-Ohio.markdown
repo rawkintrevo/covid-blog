@@ -12,13 +12,13 @@ tags: [Miami-Ohio]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *326* new cases of COVID-19
+- *400* new cases of COVID-19
 - *0* people have died of COVID-19
-- *69* people have recovered from COVID-19[1]
+- *262* people have recovered from COVID-19[1]
 
 The population in this census area is 106987. By our calculations:
-- 8.41% of the population have had COVID-19.[2]
-- 1.32% of the population or 1413.0 people are actively fighting the virus.
+- 8.48% of the population have had COVID-19.[2]
+- 1.21% of the population or 1294.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Polk-Tennessee]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *72* new cases of COVID-19
+- *93* new cases of COVID-19
 - *0* people have died of COVID-19
-- *18* people have recovered from COVID-19[1]
+- *62* people have recovered from COVID-19[1]
 
 The population in this census area is 16832. By our calculations:
-- 8.58% of the population have had COVID-19.[2]
-- 1.60% of the population or 270.0 people are actively fighting the virus.
+- 8.71% of the population have had COVID-19.[2]
+- 1.47% of the population or 247.0 people are actively fighting the virus.
 
 ## Synopsis
 

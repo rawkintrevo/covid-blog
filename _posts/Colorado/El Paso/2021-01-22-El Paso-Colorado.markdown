@@ -12,13 +12,13 @@ tags: [El Paso-Colorado]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1052* new cases of COVID-19
-- *19* people have died of COVID-19
-- *782* people have recovered from COVID-19[1]
+- *1236* new cases of COVID-19
+- *21* people have died of COVID-19
+- *1059* people have recovered from COVID-19[1]
 
 The population in this census area is 720403. By our calculations:
-- 6.41% of the population have had COVID-19.[2]
-- 0.62% of the population or 4455.0 people are actively fighting the virus.
+- 6.43% of the population have had COVID-19.[2]
+- 0.61% of the population or 4360.0 people are actively fighting the virus.
 
 ## Synopsis
 

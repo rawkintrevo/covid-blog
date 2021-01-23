@@ -12,13 +12,13 @@ tags: [Leon-Florida]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1190* new cases of COVID-19
-- *12* people have died of COVID-19
-- *280* people have recovered from COVID-19[1]
+- *1490* new cases of COVID-19
+- *13* people have died of COVID-19
+- *726* people have recovered from COVID-19[1]
 
 The population in this census area is 293582. By our calculations:
-- 8.24% of the population have had COVID-19.[2]
-- 1.56% of the population or 4570.0 people are actively fighting the virus.
+- 8.34% of the population have had COVID-19.[2]
+- 1.51% of the population or 4423.0 people are actively fighting the virus.
 
 ## Synopsis
 

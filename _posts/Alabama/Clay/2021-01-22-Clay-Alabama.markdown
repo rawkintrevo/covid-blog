@@ -12,12 +12,12 @@ tags: [Clay-Alabama]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *33* new cases of COVID-19
-- *-1* people have died of COVID-19
-- *19* people have recovered from COVID-19[1]
+- *41* new cases of COVID-19
+- *0* people have died of COVID-19
+- *26* people have recovered from COVID-19[1]
 
 The population in this census area is 13235. By our calculations:
-- 9.64% of the population have had COVID-19.[2]
+- 9.71% of the population have had COVID-19.[2]
 - 0.86% of the population or 114.0 people are actively fighting the virus.
 
 ## Synopsis

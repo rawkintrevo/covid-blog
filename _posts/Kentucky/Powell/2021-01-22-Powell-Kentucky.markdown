@@ -12,13 +12,13 @@ tags: [Powell-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *36* new cases of COVID-19
+- *48* new cases of COVID-19
 - *0* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *23* people have recovered from COVID-19[1]
 
 The population in this census area is 12359. By our calculations:
-- 6.64% of the population have had COVID-19.[2]
-- 1.09% of the population or 135.0 people are actively fighting the virus.
+- 6.74% of the population have had COVID-19.[2]
+- 1.00% of the population or 124.0 people are actively fighting the virus.
 
 ## Synopsis
 

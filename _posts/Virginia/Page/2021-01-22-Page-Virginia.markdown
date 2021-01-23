@@ -12,13 +12,13 @@ tags: [Page-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *139* new cases of COVID-19
+- *145* new cases of COVID-19
 - *3* people have died of COVID-19
-- *34* people have recovered from COVID-19[1]
+- *63* people have recovered from COVID-19[1]
 
 The population in this census area is 23902. By our calculations:
-- 5.94% of the population have had COVID-19.[2]
-- 1.47% of the population or 352.0 people are actively fighting the virus.
+- 5.97% of the population have had COVID-19.[2]
+- 1.38% of the population or 329.0 people are actively fighting the virus.
 
 ## Synopsis
 

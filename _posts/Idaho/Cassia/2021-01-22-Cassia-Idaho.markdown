@@ -12,13 +12,13 @@ tags: [Cassia-Idaho]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *31* new cases of COVID-19
+- *36* new cases of COVID-19
 - *0* people have died of COVID-19
-- *6* people have recovered from COVID-19[1]
+- *36* people have recovered from COVID-19[1]
 
 The population in this census area is 24030. By our calculations:
-- 11.31% of the population have had COVID-19.[2]
-- 0.74% of the population or 178.0 people are actively fighting the virus.
+- 11.33% of the population have had COVID-19.[2]
+- 0.64% of the population or 153.0 people are actively fighting the virus.
 
 ## Synopsis
 

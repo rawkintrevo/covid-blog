@@ -12,13 +12,13 @@ tags: [Fremont-Wyoming]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *86* new cases of COVID-19
+- *112* new cases of COVID-19
 - *2* people have died of COVID-19
-- *3* people have recovered from COVID-19[1]
+- *11* people have recovered from COVID-19[1]
 
 The population in this census area is 39261. By our calculations:
-- 10.97% of the population have had COVID-19.[2]
-- 0.84% of the population or 331.0 people are actively fighting the virus.
+- 11.04% of the population have had COVID-19.[2]
+- 0.89% of the population or 349.0 people are actively fighting the virus.
 
 ## Synopsis
 

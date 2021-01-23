@@ -12,13 +12,13 @@ tags: [Olmsted-Minnesota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *294* new cases of COVID-19
+- *367* new cases of COVID-19
 - *5* people have died of COVID-19
-- *102* people have recovered from COVID-19[1]
+- *211* people have recovered from COVID-19[1]
 
 The population in this census area is 158293. By our calculations:
-- 6.66% of the population have had COVID-19.[2]
-- 0.77% of the population or 1219.0 people are actively fighting the virus.
+- 6.71% of the population have had COVID-19.[2]
+- 0.75% of the population or 1183.0 people are actively fighting the virus.
 
 ## Synopsis
 

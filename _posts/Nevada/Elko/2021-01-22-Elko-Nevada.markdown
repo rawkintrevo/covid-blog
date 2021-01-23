@@ -12,13 +12,13 @@ tags: [Elko-Nevada]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *70* new cases of COVID-19
+- *83* new cases of COVID-19
 - *0* people have died of COVID-19
-- *73* people have recovered from COVID-19[1]
+- *84* people have recovered from COVID-19[1]
 
 The population in this census area is 52778. By our calculations:
-- 7.87% of the population have had COVID-19.[2]
-- 0.48% of the population or 253.0 people are actively fighting the virus.
+- 7.90% of the population have had COVID-19.[2]
+- 0.48% of the population or 255.0 people are actively fighting the virus.
 
 ## Synopsis
 

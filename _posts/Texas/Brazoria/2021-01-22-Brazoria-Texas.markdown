@@ -12,13 +12,13 @@ tags: [Brazoria-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1173* new cases of COVID-19
-- *14* people have died of COVID-19
-- *472* people have recovered from COVID-19[1]
+- *1586* new cases of COVID-19
+- *15* people have died of COVID-19
+- *470* people have recovered from COVID-19[1]
 
 The population in this census area is 374264. By our calculations:
-- 7.04% of the population have had COVID-19.[2]
-- 1.27% of the population or 4739.0 people are actively fighting the virus.
+- 7.15% of the population have had COVID-19.[2]
+- 1.38% of the population or 5153.0 people are actively fighting the virus.
 
 ## Synopsis
 

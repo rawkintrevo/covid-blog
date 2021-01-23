@@ -12,13 +12,13 @@ tags: [Montague-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *65* new cases of COVID-19
-- *3* people have died of COVID-19
-- *55* people have recovered from COVID-19[1]
+- *72* new cases of COVID-19
+- *4* people have died of COVID-19
+- *54* people have recovered from COVID-19[1]
 
 The population in this census area is 19818. By our calculations:
-- 8.85% of the population have had COVID-19.[2]
-- 1.60% of the population or 318.0 people are actively fighting the virus.
+- 8.89% of the population have had COVID-19.[2]
+- 1.64% of the population or 325.0 people are actively fighting the virus.
 
 ## Synopsis
 

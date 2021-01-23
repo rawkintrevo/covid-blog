@@ -12,13 +12,13 @@ tags: [Lake-Illinois]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1403* new cases of COVID-19
-- *21* people have died of COVID-19
-- *346* people have recovered from COVID-19[1]
+- *1635* new cases of COVID-19
+- *27* people have died of COVID-19
+- *841* people have recovered from COVID-19[1]
 
 The population in this census area is 696535. By our calculations:
-- 7.71% of the population have had COVID-19.[2]
-- 0.75% of the population or 5227.0 people are actively fighting the virus.
+- 7.74% of the population have had COVID-19.[2]
+- 0.71% of the population or 4958.0 people are actively fighting the virus.
 
 ## Synopsis
 

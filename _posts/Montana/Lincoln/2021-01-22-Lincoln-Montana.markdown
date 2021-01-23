@@ -12,13 +12,13 @@ tags: [Lincoln-Montana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *70* new cases of COVID-19
+- *83* new cases of COVID-19
 - *0* people have died of COVID-19
-- *12* people have recovered from COVID-19[1]
+- *13* people have recovered from COVID-19[1]
 
 The population in this census area is 19980. By our calculations:
-- 6.61% of the population have had COVID-19.[2]
-- 1.16% of the population or 231.0 people are actively fighting the virus.
+- 6.67% of the population have had COVID-19.[2]
+- 1.22% of the population or 243.0 people are actively fighting the virus.
 
 ## Synopsis
 

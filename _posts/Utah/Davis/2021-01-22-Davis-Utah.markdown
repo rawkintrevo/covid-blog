@@ -12,13 +12,13 @@ tags: [Davis-Utah]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1039* new cases of COVID-19
-- *1* people have died of COVID-19
-- *556* people have recovered from COVID-19[1]
+- *1230* new cases of COVID-19
+- *4* people have died of COVID-19
+- *1141* people have recovered from COVID-19[1]
 
 The population in this census area is 355481. By our calculations:
-- 8.48% of the population have had COVID-19.[2]
-- 1.43% of the population or 5098.0 people are actively fighting the virus.
+- 8.53% of the population have had COVID-19.[2]
+- 1.32% of the population or 4701.0 people are actively fighting the virus.
 
 ## Synopsis
 

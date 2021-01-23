@@ -12,13 +12,13 @@ tags: [Jackson-Wisconsin]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *22* new cases of COVID-19
+- *29* new cases of COVID-19
 - *1* people have died of COVID-19
-- *13* people have recovered from COVID-19[1]
+- *36* people have recovered from COVID-19[1]
 
 The population in this census area is 20643. By our calculations:
-- 12.33% of the population have had COVID-19.[2]
-- 0.63% of the population or 130.0 people are actively fighting the virus.
+- 12.36% of the population have had COVID-19.[2]
+- 0.55% of the population or 114.0 people are actively fighting the virus.
 
 ## Synopsis
 

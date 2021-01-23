@@ -12,13 +12,13 @@ tags: [Georgetown-South Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *339* new cases of COVID-19
-- *6* people have died of COVID-19
-- *41* people have recovered from COVID-19[1]
+- *411* new cases of COVID-19
+- *7* people have died of COVID-19
+- *69* people have recovered from COVID-19[1]
 
 The population in this census area is 62680. By our calculations:
-- 8.06% of the population have had COVID-19.[2]
-- 1.75% of the population or 1094.0 people are actively fighting the virus.
+- 8.17% of the population have had COVID-19.[2]
+- 1.81% of the population or 1137.0 people are actively fighting the virus.
 
 ## Synopsis
 

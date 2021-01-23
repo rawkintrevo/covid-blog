@@ -12,13 +12,13 @@ tags: [Polk-Wisconsin]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *79* new cases of COVID-19
+- *103* new cases of COVID-19
 - *8* people have died of COVID-19
-- *31* people have recovered from COVID-19[1]
+- *34* people have recovered from COVID-19[1]
 
 The population in this census area is 43783. By our calculations:
-- 7.93% of the population have had COVID-19.[2]
-- 0.87% of the population or 382.0 people are actively fighting the virus.
+- 7.99% of the population have had COVID-19.[2]
+- 0.92% of the population or 403.0 people are actively fighting the virus.
 
 ## Synopsis
 

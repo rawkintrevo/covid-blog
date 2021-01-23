@@ -12,13 +12,13 @@ tags: [Saline-Missouri]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *35* new cases of COVID-19
+- *59* new cases of COVID-19
 - *2* people have died of COVID-19
-- *49* people have recovered from COVID-19[1]
+- *68* people have recovered from COVID-19[1]
 
 The population in this census area is 22761. By our calculations:
-- 9.87% of the population have had COVID-19.[2]
-- 0.91% of the population or 208.0 people are actively fighting the virus.
+- 9.97% of the population have had COVID-19.[2]
+- 0.94% of the population or 213.0 people are actively fighting the virus.
 
 ## Synopsis
 

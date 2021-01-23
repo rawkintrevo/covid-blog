@@ -12,13 +12,13 @@ tags: [Menard-Illinois]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *45* new cases of COVID-19
+- *54* new cases of COVID-19
 - *0* people have died of COVID-19
-- *8* people have recovered from COVID-19[1]
+- *27* people have recovered from COVID-19[1]
 
 The population in this census area is 12196. By our calculations:
-- 7.32% of the population have had COVID-19.[2]
-- 1.33% of the population or 162.0 people are actively fighting the virus.
+- 7.40% of the population have had COVID-19.[2]
+- 1.25% of the population or 152.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Freestone-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *17* new cases of COVID-19
+- *27* new cases of COVID-19
 - *2* people have died of COVID-19
 - *22* people have recovered from COVID-19[1]
 
 The population in this census area is 19717. By our calculations:
-- 5.04% of the population have had COVID-19.[2]
-- 0.27% of the population or 53.0 people are actively fighting the virus.
+- 5.09% of the population have had COVID-19.[2]
+- 0.32% of the population or 63.0 people are actively fighting the virus.
 
 ## Synopsis
 

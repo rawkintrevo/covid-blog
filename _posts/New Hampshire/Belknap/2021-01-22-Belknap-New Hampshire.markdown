@@ -12,13 +12,13 @@ tags: [Belknap-New Hampshire]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *167* new cases of COVID-19
-- *7* people have died of COVID-19
-- *25* people have recovered from COVID-19[1]
+- *196* new cases of COVID-19
+- *8* people have died of COVID-19
+- *69* people have recovered from COVID-19[1]
 
 The population in this census area is 61303. By our calculations:
-- 4.12% of the population have had COVID-19.[2]
-- 0.91% of the population or 557.0 people are actively fighting the virus.
+- 4.17% of the population have had COVID-19.[2]
+- 0.88% of the population or 541.0 people are actively fighting the virus.
 
 ## Synopsis
 

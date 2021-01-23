@@ -12,13 +12,13 @@ tags: [Dyer-Tennessee]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *120* new cases of COVID-19
-- *2* people have died of COVID-19
-- *24* people have recovered from COVID-19[1]
+- *146* new cases of COVID-19
+- *6* people have died of COVID-19
+- *108* people have recovered from COVID-19[1]
 
 The population in this census area is 37159. By our calculations:
-- 12.88% of the population have had COVID-19.[2]
-- 1.40% of the population or 519.0 people are actively fighting the virus.
+- 12.96% of the population have had COVID-19.[2]
+- 1.23% of the population or 457.0 people are actively fighting the virus.
 
 ## Synopsis
 

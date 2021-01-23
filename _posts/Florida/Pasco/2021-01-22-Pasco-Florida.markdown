@@ -12,13 +12,13 @@ tags: [Pasco-Florida]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1290* new cases of COVID-19
-- *24* people have died of COVID-19
-- *312* people have recovered from COVID-19[1]
+- *1532* new cases of COVID-19
+- *25* people have died of COVID-19
+- *1004* people have recovered from COVID-19[1]
 
 The population in this census area is 553947. By our calculations:
-- 4.94% of the population have had COVID-19.[2]
-- 0.96% of the population or 5335.0 people are actively fighting the virus.
+- 4.98% of the population have had COVID-19.[2]
+- 0.88% of the population or 4884.0 people are actively fighting the virus.
 
 ## Synopsis
 

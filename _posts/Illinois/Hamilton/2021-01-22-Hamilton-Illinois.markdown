@@ -14,11 +14,11 @@ tags: [Hamilton-Illinois]
 In the last 7 days[3] we project there have been
 - *13* new cases of COVID-19
 - *2* people have died of COVID-19
-- *12* people have recovered from COVID-19[1]
+- *18* people have recovered from COVID-19[1]
 
 The population in this census area is 8116. By our calculations:
 - 8.87% of the population have had COVID-19.[2]
-- 1.38% of the population or 112.0 people are actively fighting the virus.
+- 1.31% of the population or 106.0 people are actively fighting the virus.
 
 ## Synopsis
 

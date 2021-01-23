@@ -12,13 +12,13 @@ tags: [Carroll-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *388* new cases of COVID-19
-- *11* people have died of COVID-19
-- *154* people have recovered from COVID-19[1]
+- *441* new cases of COVID-19
+- *12* people have died of COVID-19
+- *232* people have recovered from COVID-19[1]
 
 The population in this census area is 119992. By our calculations:
-- 7.42% of the population have had COVID-19.[2]
-- 1.00% of the population or 1197.0 people are actively fighting the virus.
+- 7.47% of the population have had COVID-19.[2]
+- 0.98% of the population or 1171.0 people are actively fighting the virus.
 
 ## Synopsis
 

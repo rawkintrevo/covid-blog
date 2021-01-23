@@ -12,13 +12,13 @@ tags: [Archuleta-Colorado]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *18* new cases of COVID-19
+- *28* new cases of COVID-19
 - *1* people have died of COVID-19
-- *16* people have recovered from COVID-19[1]
+- *22* people have recovered from COVID-19[1]
 
 The population in this census area is 14029. By our calculations:
-- 4.06% of the population have had COVID-19.[2]
-- 0.58% of the population or 82.0 people are actively fighting the virus.
+- 4.13% of the population have had COVID-19.[2]
+- 0.61% of the population or 86.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Ritchie-West Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *32* new cases of COVID-19
+- *40* new cases of COVID-19
 - *0* people have died of COVID-19
-- *19* people have recovered from COVID-19[1]
+- *31* people have recovered from COVID-19[1]
 
 The population in this census area is 9554. By our calculations:
-- 5.32% of the population have had COVID-19.[2]
-- 1.56% of the population or 149.0 people are actively fighting the virus.
+- 5.40% of the population have had COVID-19.[2]
+- 1.52% of the population or 145.0 people are actively fighting the virus.
 
 ## Synopsis
 

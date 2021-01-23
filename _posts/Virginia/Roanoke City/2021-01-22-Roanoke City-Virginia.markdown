@@ -12,13 +12,13 @@ tags: [Roanoke City-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *376* new cases of COVID-19
+- *411* new cases of COVID-19
 - *2* people have died of COVID-19
-- *78* people have recovered from COVID-19[1]
+- *105* people have recovered from COVID-19[1]
 
 The population in this census area is 99143. By our calculations:
-- 6.29% of the population have had COVID-19.[2]
-- 0.95% of the population or 945.0 people are actively fighting the virus.
+- 6.33% of the population have had COVID-19.[2]
+- 0.96% of the population or 953.0 people are actively fighting the virus.
 
 ## Synopsis
 

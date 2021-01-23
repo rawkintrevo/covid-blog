@@ -12,13 +12,13 @@ tags: [Jennings-Indiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *67* new cases of COVID-19
-- *0* people have died of COVID-19
-- *27* people have recovered from COVID-19[1]
+- *71* new cases of COVID-19
+- *1* people have died of COVID-19
+- *39* people have recovered from COVID-19[1]
 
 The population in this census area is 27735. By our calculations:
-- 7.04% of the population have had COVID-19.[2]
-- 0.87% of the population or 240.0 people are actively fighting the virus.
+- 7.06% of the population have had COVID-19.[2]
+- 0.83% of the population or 231.0 people are actively fighting the virus.
 
 ## Synopsis
 

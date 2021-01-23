@@ -12,13 +12,13 @@ tags: [Steele-Minnesota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *61* new cases of COVID-19
-- *0* people have died of COVID-19
-- *14* people have recovered from COVID-19[1]
+- *70* new cases of COVID-19
+- *1* people have died of COVID-19
+- *29* people have recovered from COVID-19[1]
 
 The population in this census area is 36649. By our calculations:
-- 7.50% of the population have had COVID-19.[2]
-- 0.64% of the population or 236.0 people are actively fighting the virus.
+- 7.53% of the population have had COVID-19.[2]
+- 0.62% of the population or 229.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Holt-Nebraska]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *17* new cases of COVID-19
+- *26* new cases of COVID-19
 - *0* people have died of COVID-19
 - *7* people have recovered from COVID-19[1]
 
 The population in this census area is 10067. By our calculations:
-- 7.31% of the population have had COVID-19.[2]
-- 0.60% of the population or 60.0 people are actively fighting the virus.
+- 7.40% of the population have had COVID-19.[2]
+- 0.69% of the population or 69.0 people are actively fighting the virus.
 
 ## Synopsis
 

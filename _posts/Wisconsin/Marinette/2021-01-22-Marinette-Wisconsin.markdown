@@ -12,13 +12,13 @@ tags: [Marinette-Wisconsin]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *83* new cases of COVID-19
-- *3* people have died of COVID-19
-- *18* people have recovered from COVID-19[1]
+- *100* new cases of COVID-19
+- *4* people have died of COVID-19
+- *31* people have recovered from COVID-19[1]
 
 The population in this census area is 40350. By our calculations:
-- 10.35% of the population have had COVID-19.[2]
-- 0.72% of the population or 292.0 people are actively fighting the virus.
+- 10.40% of the population have had COVID-19.[2]
+- 0.73% of the population or 295.0 people are actively fighting the virus.
 
 ## Synopsis
 

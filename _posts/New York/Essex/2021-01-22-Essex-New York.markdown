@@ -12,13 +12,13 @@ tags: [Essex-New York]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *85* new cases of COVID-19
+- *94* new cases of COVID-19
 - *3* people have died of COVID-19
-- *53* people have recovered from COVID-19[1]
+- *64* people have recovered from COVID-19[1]
 
 The population in this census area is 36885. By our calculations:
-- 2.68% of the population have had COVID-19.[2]
-- 1.02% of the population or 377.0 people are actively fighting the virus.
+- 2.70% of the population have had COVID-19.[2]
+- 1.02% of the population or 375.0 people are actively fighting the virus.
 
 ## Synopsis
 

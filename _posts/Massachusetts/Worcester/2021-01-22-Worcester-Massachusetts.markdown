@@ -12,13 +12,13 @@ tags: [Worcester-Massachusetts]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *2716* new cases of COVID-19
-- *61* people have died of COVID-19
-- *922* people have recovered from COVID-19[1]
+- *3465* new cases of COVID-19
+- *67* people have died of COVID-19
+- *2181* people have recovered from COVID-19[1]
 
 The population in this census area is 830622. By our calculations:
-- 6.56% of the population have had COVID-19.[2]
-- 1.37% of the population or 11368.0 people are actively fighting the virus.
+- 6.65% of the population have had COVID-19.[2]
+- 1.31% of the population or 10852.0 people are actively fighting the virus.
 
 ## Synopsis
 

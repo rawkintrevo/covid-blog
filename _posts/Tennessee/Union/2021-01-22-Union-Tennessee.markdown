@@ -12,13 +12,13 @@ tags: [Union-Tennessee]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *44* new cases of COVID-19
-- *2* people have died of COVID-19
-- *9* people have recovered from COVID-19[1]
+- *56* new cases of COVID-19
+- *4* people have died of COVID-19
+- *41* people have recovered from COVID-19[1]
 
 The population in this census area is 19972. By our calculations:
-- 7.04% of the population have had COVID-19.[2]
-- 0.90% of the population or 180.0 people are actively fighting the virus.
+- 7.11% of the population have had COVID-19.[2]
+- 0.79% of the population or 158.0 people are actively fighting the virus.
 
 ## Synopsis
 

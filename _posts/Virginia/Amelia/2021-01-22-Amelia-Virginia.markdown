@@ -12,13 +12,13 @@ tags: [Amelia-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *55* new cases of COVID-19
-- *0* people have died of COVID-19
-- *11* people have recovered from COVID-19[1]
+- *60* new cases of COVID-19
+- *1* people have died of COVID-19
+- *17* people have recovered from COVID-19[1]
 
 The population in this census area is 13145. By our calculations:
-- 4.26% of the population have had COVID-19.[2]
-- 1.53% of the population or 201.0 people are actively fighting the virus.
+- 4.31% of the population have had COVID-19.[2]
+- 1.51% of the population or 199.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [San Augustine-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *7* new cases of COVID-19
-- *0* people have died of COVID-19
-- *21* people have recovered from COVID-19[1]
+- *6* new cases of COVID-19
+- *1* people have died of COVID-19
+- *20* people have recovered from COVID-19[1]
 
 The population in this census area is 8237. By our calculations:
 - 6.02% of the population have had COVID-19.[2]
-- 0.25% of the population or 21.0 people are actively fighting the virus.
+- 0.24% of the population or 20.0 people are actively fighting the virus.
 
 ## Synopsis
 

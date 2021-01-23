@@ -12,13 +12,13 @@ tags: [Finney-Kansas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *752* new cases of COVID-19
+- *765* new cases of COVID-19
 - *8* people have died of COVID-19
 - *24* people have recovered from COVID-19[1]
 
 The population in this census area is 36467. By our calculations:
-- 15.95% of the population have had COVID-19.[2]
-- 0.83% of the population or 302.0 people are actively fighting the virus.
+- 15.98% of the population have had COVID-19.[2]
+- 0.86% of the population or 315.0 people are actively fighting the virus.
 
 ## Synopsis
 

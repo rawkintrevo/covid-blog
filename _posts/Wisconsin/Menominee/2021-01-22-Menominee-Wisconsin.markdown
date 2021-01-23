@@ -12,13 +12,13 @@ tags: [Menominee-Wisconsin]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *10* new cases of COVID-19
+- *12* new cases of COVID-19
 - *0* people have died of COVID-19
 - *6* people have recovered from COVID-19[1]
 
 The population in this census area is 4556. By our calculations:
-- 17.03% of the population have had COVID-19.[2]
-- 1.25% of the population or 57.0 people are actively fighting the virus.
+- 17.08% of the population have had COVID-19.[2]
+- 1.29% of the population or 59.0 people are actively fighting the virus.
 
 ## Synopsis
 

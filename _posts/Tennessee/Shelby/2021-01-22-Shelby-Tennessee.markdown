@@ -12,13 +12,13 @@ tags: [Shelby-Tennessee]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *2342* new cases of COVID-19
-- *54* people have died of COVID-19
-- *527* people have recovered from COVID-19[1]
+- *2646* new cases of COVID-19
+- *68* people have died of COVID-19
+- *2369* people have recovered from COVID-19[1]
 
 The population in this census area is 937166. By our calculations:
-- 8.23% of the population have had COVID-19.[2]
-- 1.10% of the population or 10325.0 people are actively fighting the virus.
+- 8.27% of the population have had COVID-19.[2]
+- 0.94% of the population or 8773.0 people are actively fighting the virus.
 
 ## Synopsis
 

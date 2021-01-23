@@ -12,13 +12,13 @@ tags: [Spartanburg-South Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *2372* new cases of COVID-19
-- *46* people have died of COVID-19
-- *139* people have recovered from COVID-19[1]
+- *2778* new cases of COVID-19
+- *50* people have died of COVID-19
+- *405* people have recovered from COVID-19[1]
 
 The population in this census area is 319785. By our calculations:
-- 8.34% of the population have had COVID-19.[2]
-- 2.13% of the population or 6818.0 people are actively fighting the virus.
+- 8.47% of the population have had COVID-19.[2]
+- 2.17% of the population or 6954.0 people are actively fighting the virus.
 
 ## Synopsis
 

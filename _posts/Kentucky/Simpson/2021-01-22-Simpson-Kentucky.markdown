@@ -12,13 +12,13 @@ tags: [Simpson-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *66* new cases of COVID-19
+- *71* new cases of COVID-19
 - *3* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *31* people have recovered from COVID-19[1]
 
 The population in this census area is 18572. By our calculations:
-- 7.74% of the population have had COVID-19.[2]
-- 1.35% of the population or 250.0 people are actively fighting the virus.
+- 7.77% of the population have had COVID-19.[2]
+- 1.21% of the population or 224.0 people are actively fighting the virus.
 
 ## Synopsis
 

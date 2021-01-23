@@ -12,13 +12,13 @@ tags: [Knox-Indiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *80* new cases of COVID-19
+- *98* new cases of COVID-19
 - *0* people have died of COVID-19
-- *79* people have recovered from COVID-19[1]
+- *98* people have recovered from COVID-19[1]
 
 The population in this census area is 36594. By our calculations:
-- 9.05% of the population have had COVID-19.[2]
-- 1.02% of the population or 374.0 people are actively fighting the virus.
+- 9.10% of the population have had COVID-19.[2]
+- 1.02% of the population or 373.0 people are actively fighting the virus.
 
 ## Synopsis
 

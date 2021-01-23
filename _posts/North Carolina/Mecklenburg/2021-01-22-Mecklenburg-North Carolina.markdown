@@ -12,13 +12,13 @@ tags: [Mecklenburg-North Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *4268* new cases of COVID-19
-- *40* people have died of COVID-19
-- *446* people have recovered from COVID-19[1]
+- *4916* new cases of COVID-19
+- *50* people have died of COVID-19
+- *2410* people have recovered from COVID-19[1]
 
 The population in this census area is 1110356. By our calculations:
-- 7.09% of the population have had COVID-19.[2]
-- 1.46% of the population or 16161.0 people are actively fighting the virus.
+- 7.15% of the population have had COVID-19.[2]
+- 1.34% of the population or 14835.0 people are actively fighting the virus.
 
 ## Synopsis
 

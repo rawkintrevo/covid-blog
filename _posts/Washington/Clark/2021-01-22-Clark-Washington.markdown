@@ -12,13 +12,13 @@ tags: [Clark-Washington]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *750* new cases of COVID-19
-- *1* people have died of COVID-19
-- *171* people have recovered from COVID-19[1]
+- *762* new cases of COVID-19
+- *10* people have died of COVID-19
+- *162* people have recovered from COVID-19[1]
 
 The population in this census area is 488241. By our calculations:
 - 3.38% of the population have had COVID-19.[2]
-- 0.64% of the population or 3113.0 people are actively fighting the virus.
+- 0.64% of the population or 3125.0 people are actively fighting the virus.
 
 ## Synopsis
 

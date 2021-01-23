@@ -12,12 +12,12 @@ tags: [Atkinson-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *24* new cases of COVID-19
+- *30* new cases of COVID-19
 - *1* people have died of COVID-19
-- *18* people have recovered from COVID-19[1]
+- *24* people have recovered from COVID-19[1]
 
 The population in this census area is 8165. By our calculations:
-- 11.00% of the population have had COVID-19.[2]
+- 11.07% of the population have had COVID-19.[2]
 - 1.42% of the population or 116.0 people are actively fighting the virus.
 
 ## Synopsis

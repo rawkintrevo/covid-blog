@@ -12,13 +12,13 @@ tags: [Montgomery-Ohio]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1469* new cases of COVID-19
-- *7* people have died of COVID-19
-- *392* people have recovered from COVID-19[1]
+- *1793* new cases of COVID-19
+- *9* people have died of COVID-19
+- *1137* people have recovered from COVID-19[1]
 
 The population in this census area is 531687. By our calculations:
-- 7.96% of the population have had COVID-19.[2]
-- 1.26% of the population or 6675.0 people are actively fighting the virus.
+- 8.02% of the population have had COVID-19.[2]
+- 1.18% of the population or 6252.0 people are actively fighting the virus.
 
 ## Synopsis
 

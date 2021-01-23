@@ -12,13 +12,13 @@ tags: [Poweshiek-Iowa]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *29* new cases of COVID-19
+- *31* new cases of COVID-19
 - *0* people have died of COVID-19
-- *16* people have recovered from COVID-19[1]
+- *20* people have recovered from COVID-19[1]
 
 The population in this census area is 18504. By our calculations:
-- 7.24% of the population have had COVID-19.[2]
-- 0.66% of the population or 123.0 people are actively fighting the virus.
+- 7.25% of the population have had COVID-19.[2]
+- 0.65% of the population or 121.0 people are actively fighting the virus.
 
 ## Synopsis
 

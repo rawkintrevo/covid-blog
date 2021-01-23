@@ -12,13 +12,13 @@ tags: [Mississippi-Missouri]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *6* new cases of COVID-19
+- *16* new cases of COVID-19
 - *0* people have died of COVID-19
-- *6* people have recovered from COVID-19[1]
+- *8* people have recovered from COVID-19[1]
 
 The population in this census area is 13180. By our calculations:
-- 8.96% of the population have had COVID-19.[2]
-- 0.29% of the population or 38.0 people are actively fighting the virus.
+- 9.04% of the population have had COVID-19.[2]
+- 0.35% of the population or 46.0 people are actively fighting the virus.
 
 ## Synopsis
 

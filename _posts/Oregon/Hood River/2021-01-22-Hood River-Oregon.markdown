@@ -12,13 +12,13 @@ tags: [Hood River-Oregon]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *30* new cases of COVID-19
+- *38* new cases of COVID-19
 - *0* people have died of COVID-19
-- *15* people have recovered from COVID-19[1]
+- *34* people have recovered from COVID-19[1]
 
 The population in this census area is 23382. By our calculations:
-- 4.11% of the population have had COVID-19.[2]
-- 0.59% of the population or 138.0 people are actively fighting the virus.
+- 4.14% of the population have had COVID-19.[2]
+- 0.54% of the population or 127.0 people are actively fighting the virus.
 
 ## Synopsis
 

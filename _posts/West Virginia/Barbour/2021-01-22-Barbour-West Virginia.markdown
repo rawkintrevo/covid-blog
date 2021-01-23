@@ -12,13 +12,13 @@ tags: [Barbour-West Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *-101* new cases of COVID-19
+- *-89* new cases of COVID-19
 - *1* people have died of COVID-19
-- *48* people have recovered from COVID-19[1]
+- *51* people have recovered from COVID-19[1]
 
 The population in this census area is 16441. By our calculations:
-- 6.19% of the population have had COVID-19.[2]
-- 1.33% of the population or 219.0 people are actively fighting the virus.
+- 6.26% of the population have had COVID-19.[2]
+- 1.39% of the population or 228.0 people are actively fighting the virus.
 
 ## Synopsis
 

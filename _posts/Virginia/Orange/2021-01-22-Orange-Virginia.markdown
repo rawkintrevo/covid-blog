@@ -12,13 +12,13 @@ tags: [Orange-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *146* new cases of COVID-19
+- *165* new cases of COVID-19
 - *0* people have died of COVID-19
-- *65* people have recovered from COVID-19[1]
+- *78* people have recovered from COVID-19[1]
 
 The population in this census area is 37051. By our calculations:
-- 3.67% of the population have had COVID-19.[2]
-- 1.03% of the population or 382.0 people are actively fighting the virus.
+- 3.72% of the population have had COVID-19.[2]
+- 1.05% of the population or 388.0 people are actively fighting the virus.
 
 ## Synopsis
 

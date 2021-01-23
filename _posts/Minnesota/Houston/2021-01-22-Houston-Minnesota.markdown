@@ -12,13 +12,13 @@ tags: [Houston-Minnesota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *40* new cases of COVID-19
-- *0* people have died of COVID-19
-- *14* people have recovered from COVID-19[1]
+- *57* new cases of COVID-19
+- *1* people have died of COVID-19
+- *25* people have recovered from COVID-19[1]
 
 The population in this census area is 18600. By our calculations:
-- 7.38% of the population have had COVID-19.[2]
-- 1.00% of the population or 186.0 people are actively fighting the virus.
+- 7.47% of the population have had COVID-19.[2]
+- 1.03% of the population or 191.0 people are actively fighting the virus.
 
 ## Synopsis
 

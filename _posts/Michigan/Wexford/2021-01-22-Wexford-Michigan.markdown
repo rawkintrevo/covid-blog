@@ -12,13 +12,13 @@ tags: [Wexford-Michigan]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *61* new cases of COVID-19
+- *65* new cases of COVID-19
 - *0* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *20* people have recovered from COVID-19[1]
 
 The population in this census area is 33631. By our calculations:
-- 3.58% of the population have had COVID-19.[2]
-- 0.63% of the population or 212.0 people are actively fighting the virus.
+- 3.59% of the population have had COVID-19.[2]
+- 0.58% of the population or 196.0 people are actively fighting the virus.
 
 ## Synopsis
 

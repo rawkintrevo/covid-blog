@@ -12,13 +12,13 @@ tags: [Coffee-Alabama]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *190* new cases of COVID-19
-- *0* people have died of COVID-19
-- *107* people have recovered from COVID-19[1]
+- *223* new cases of COVID-19
+- *4* people have died of COVID-19
+- *138* people have recovered from COVID-19[1]
 
 The population in this census area is 52342. By our calculations:
-- 8.60% of the population have had COVID-19.[2]
-- 1.61% of the population or 844.0 people are actively fighting the virus.
+- 8.68% of the population have had COVID-19.[2]
+- 1.61% of the population or 842.0 people are actively fighting the virus.
 
 ## Synopsis
 

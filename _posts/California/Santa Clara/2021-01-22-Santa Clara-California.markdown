@@ -12,13 +12,13 @@ tags: [Santa Clara-California]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *6425* new cases of COVID-19
-- *101* people have died of COVID-19
-- *4047* people have recovered from COVID-19[1]
+- *7427* new cases of COVID-19
+- *130* people have died of COVID-19
+- *5756* people have recovered from COVID-19[1]
 
 The population in this census area is 1927852. By our calculations:
-- 4.92% of the population have had COVID-19.[2]
-- 1.18% of the population or 22733.0 people are actively fighting the virus.
+- 4.98% of the population have had COVID-19.[2]
+- 1.14% of the population or 21997.0 people are actively fighting the virus.
 
 ## Synopsis
 

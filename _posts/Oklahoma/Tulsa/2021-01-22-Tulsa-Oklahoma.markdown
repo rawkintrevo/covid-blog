@@ -12,13 +12,13 @@ tags: [Tulsa-Oklahoma]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *2849* new cases of COVID-19
-- *30* people have died of COVID-19
-- *533* people have recovered from COVID-19[1]
+- *3309* new cases of COVID-19
+- *39* people have died of COVID-19
+- *1214* people have recovered from COVID-19[1]
 
 The population in this census area is 651552. By our calculations:
-- 9.08% of the population have had COVID-19.[2]
-- 1.68% of the population or 10915.0 people are actively fighting the virus.
+- 9.15% of the population have had COVID-19.[2]
+- 1.64% of the population or 10685.0 people are actively fighting the virus.
 
 ## Synopsis
 

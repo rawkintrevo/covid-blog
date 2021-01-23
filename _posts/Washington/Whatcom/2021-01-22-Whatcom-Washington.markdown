@@ -12,13 +12,13 @@ tags: [Whatcom-Washington]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *360* new cases of COVID-19
-- *0* people have died of COVID-19
-- *81* people have recovered from COVID-19[1]
+- *430* new cases of COVID-19
+- *3* people have died of COVID-19
+- *78* people have recovered from COVID-19[1]
 
 The population in this census area is 229247. By our calculations:
-- 2.16% of the population have had COVID-19.[2]
-- 0.64% of the population or 1469.0 people are actively fighting the virus.
+- 2.19% of the population have had COVID-19.[2]
+- 0.67% of the population or 1539.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Nevada-California]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *159* new cases of COVID-19
+- *163* new cases of COVID-19
 - *3* people have died of COVID-19
-- *68* people have recovered from COVID-19[1]
+- *112* people have recovered from COVID-19[1]
 
 The population in this census area is 99755. By our calculations:
-- 3.24% of the population have had COVID-19.[2]
-- 0.59% of the population or 591.0 people are actively fighting the virus.
+- 3.25% of the population have had COVID-19.[2]
+- 0.55% of the population or 551.0 people are actively fighting the virus.
 
 ## Synopsis
 

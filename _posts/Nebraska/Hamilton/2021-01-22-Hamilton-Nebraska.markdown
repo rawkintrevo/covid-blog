@@ -12,13 +12,13 @@ tags: [Hamilton-Nebraska]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *23* new cases of COVID-19
+- *29* new cases of COVID-19
 - *0* people have died of COVID-19
-- *6* people have recovered from COVID-19[1]
+- *10* people have recovered from COVID-19[1]
 
 The population in this census area is 9324. By our calculations:
-- 8.67% of the population have had COVID-19.[2]
-- 0.97% of the population or 90.0 people are actively fighting the virus.
+- 8.73% of the population have had COVID-19.[2]
+- 0.99% of the population or 92.0 people are actively fighting the virus.
 
 ## Synopsis
 

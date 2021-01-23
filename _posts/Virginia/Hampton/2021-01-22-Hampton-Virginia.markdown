@@ -12,13 +12,13 @@ tags: [Hampton-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *846* new cases of COVID-19
+- *983* new cases of COVID-19
 - *0* people have died of COVID-19
-- *185* people have recovered from COVID-19[1]
+- *186* people have recovered from COVID-19[1]
 
 The population in this census area is 134510. By our calculations:
-- 4.63% of the population have had COVID-19.[2]
-- 1.34% of the population or 1799.0 people are actively fighting the virus.
+- 4.73% of the population have had COVID-19.[2]
+- 1.44% of the population or 1935.0 people are actively fighting the virus.
 
 ## Synopsis
 

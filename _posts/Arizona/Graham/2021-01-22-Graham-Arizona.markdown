@@ -12,13 +12,13 @@ tags: [Graham-Arizona]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *257* new cases of COVID-19
-- *1* people have died of COVID-19
-- *106* people have recovered from COVID-19[1]
+- *483* new cases of COVID-19
+- *3* people have died of COVID-19
+- *187* people have recovered from COVID-19[1]
 
 The population in this census area is 38837. By our calculations:
-- 11.57% of the population have had COVID-19.[2]
-- 3.09% of the population or 1199.0 people are actively fighting the virus.
+- 12.16% of the population have had COVID-19.[2]
+- 3.46% of the population or 1342.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Tyler-West Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *56* new cases of COVID-19
+- *63* new cases of COVID-19
 - *0* people have died of COVID-19
-- *20* people have recovered from COVID-19[1]
+- *29* people have recovered from COVID-19[1]
 
 The population in this census area is 8591. By our calculations:
-- 5.99% of the population have had COVID-19.[2]
-- 1.64% of the population or 141.0 people are actively fighting the virus.
+- 6.08% of the population have had COVID-19.[2]
+- 1.62% of the population or 139.0 people are actively fighting the virus.
 
 ## Synopsis
 

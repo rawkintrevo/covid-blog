@@ -12,13 +12,13 @@ tags: [Allegheny-Pennsylvania]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *2546* new cases of COVID-19
-- *93* people have died of COVID-19
-- *1271* people have recovered from COVID-19[1]
+- *2947* new cases of COVID-19
+- *117* people have died of COVID-19
+- *2290* people have recovered from COVID-19[1]
 
 The population in this census area is 1216045. By our calculations:
-- 5.39% of the population have had COVID-19.[2]
-- 0.89% of the population or 10832.0 people are actively fighting the virus.
+- 5.43% of the population have had COVID-19.[2]
+- 0.84% of the population or 10190.0 people are actively fighting the virus.
 
 ## Synopsis
 

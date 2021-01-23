@@ -12,13 +12,13 @@ tags: [Fairfield-Ohio]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *607* new cases of COVID-19
+- *779* new cases of COVID-19
 - *0* people have died of COVID-19
-- *148* people have recovered from COVID-19[1]
+- *367* people have recovered from COVID-19[1]
 
 The population in this census area is 157574. By our calculations:
-- 7.90% of the population have had COVID-19.[2]
-- 1.53% of the population or 2408.0 people are actively fighting the virus.
+- 8.01% of the population have had COVID-19.[2]
+- 1.50% of the population or 2361.0 people are actively fighting the virus.
 
 ## Synopsis
 

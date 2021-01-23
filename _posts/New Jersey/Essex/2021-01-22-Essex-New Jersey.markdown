@@ -12,13 +12,13 @@ tags: [Essex-New Jersey]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *2614* new cases of COVID-19
-- *31* people have died of COVID-19
-- *911* people have recovered from COVID-19[1]
+- *2977* new cases of COVID-19
+- *38* people have died of COVID-19
+- *1274* people have recovered from COVID-19[1]
 
 The population in this census area is 798975. By our calculations:
-- 7.53% of the population have had COVID-19.[2]
-- 1.48% of the population or 11823.0 people are actively fighting the virus.
+- 7.58% of the population have had COVID-19.[2]
+- 1.48% of the population or 11816.0 people are actively fighting the virus.
 
 ## Synopsis
 

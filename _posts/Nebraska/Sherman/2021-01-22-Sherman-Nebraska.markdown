@@ -12,13 +12,13 @@ tags: [Sherman-Nebraska]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *4* new cases of COVID-19
+- *0* new cases of COVID-19
 - *0* people have died of COVID-19
 - *0* people have recovered from COVID-19[1]
 
 The population in this census area is 3001. By our calculations:
-- 5.60% of the population have had COVID-19.[2]
-- 0.57% of the population or 17.0 people are actively fighting the virus.
+- 5.46% of the population have had COVID-19.[2]
+- 0.43% of the population or 13.0 people are actively fighting the virus.
 
 ## Synopsis
 

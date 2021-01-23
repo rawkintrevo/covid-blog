@@ -12,13 +12,13 @@ tags: [Russell-Alabama]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *217* new cases of COVID-19
-- *1* people have died of COVID-19
-- *48* people have recovered from COVID-19[1]
+- *266* new cases of COVID-19
+- *2* people have died of COVID-19
+- *65* people have recovered from COVID-19[1]
 
 The population in this census area is 57961. By our calculations:
-- 5.88% of the population have had COVID-19.[2]
-- 1.00% of the population or 578.0 people are actively fighting the virus.
+- 5.96% of the population have had COVID-19.[2]
+- 1.05% of the population or 609.0 people are actively fighting the virus.
 
 ## Synopsis
 

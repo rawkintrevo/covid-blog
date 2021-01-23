@@ -12,13 +12,13 @@ tags: [Limestone-Alabama]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *279* new cases of COVID-19
+- *378* new cases of COVID-19
 - *3* people have died of COVID-19
-- *151* people have recovered from COVID-19[1]
+- *264* people have recovered from COVID-19[1]
 
 The population in this census area is 98915. By our calculations:
-- 8.22% of the population have had COVID-19.[2]
-- 1.25% of the population or 1235.0 people are actively fighting the virus.
+- 8.32% of the population have had COVID-19.[2]
+- 1.23% of the population or 1221.0 people are actively fighting the virus.
 
 ## Synopsis
 

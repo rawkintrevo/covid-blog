@@ -12,13 +12,13 @@ tags: [Jefferson-New York]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *426* new cases of COVID-19
-- *5* people have died of COVID-19
-- *127* people have recovered from COVID-19[1]
+- *484* new cases of COVID-19
+- *6* people have died of COVID-19
+- *161* people have recovered from COVID-19[1]
 
 The population in this census area is 109834. By our calculations:
-- 2.98% of the population have had COVID-19.[2]
-- 1.27% of the population or 1399.0 people are actively fighting the virus.
+- 3.03% of the population have had COVID-19.[2]
+- 1.29% of the population or 1422.0 people are actively fighting the virus.
 
 ## Synopsis
 

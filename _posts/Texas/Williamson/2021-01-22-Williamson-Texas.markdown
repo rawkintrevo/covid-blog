@@ -12,13 +12,13 @@ tags: [Williamson-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *2671* new cases of COVID-19
-- *19* people have died of COVID-19
-- *420* people have recovered from COVID-19[1]
+- *3447* new cases of COVID-19
+- *26* people have died of COVID-19
+- *411* people have recovered from COVID-19[1]
 
 The population in this census area is 590551. By our calculations:
-- 5.38% of the population have had COVID-19.[2]
-- 1.50% of the population or 8834.0 people are actively fighting the virus.
+- 5.52% of the population have had COVID-19.[2]
+- 1.63% of the population or 9612.0 people are actively fighting the virus.
 
 ## Synopsis
 

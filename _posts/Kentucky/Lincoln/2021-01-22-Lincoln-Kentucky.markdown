@@ -12,13 +12,13 @@ tags: [Lincoln-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *72* new cases of COVID-19
+- *80* new cases of COVID-19
 - *1* people have died of COVID-19
-- *-1* people have recovered from COVID-19[1]
+- *37* people have recovered from COVID-19[1]
 
 The population in this census area is 24549. By our calculations:
-- 7.19% of the population have had COVID-19.[2]
-- 1.29% of the population or 317.0 people are actively fighting the virus.
+- 7.23% of the population have had COVID-19.[2]
+- 1.17% of the population or 287.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Lebanon-Pennsylvania]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *506* new cases of COVID-19
-- *16* people have died of COVID-19
-- *225* people have recovered from COVID-19[1]
+- *589* new cases of COVID-19
+- *19* people have died of COVID-19
+- *353* people have recovered from COVID-19[1]
 
 The population in this census area is 141793. By our calculations:
-- 7.74% of the population have had COVID-19.[2]
-- 1.39% of the population or 1968.0 people are actively fighting the virus.
+- 7.80% of the population have had COVID-19.[2]
+- 1.35% of the population or 1920.0 people are actively fighting the virus.
 
 ## Synopsis
 

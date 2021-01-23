@@ -12,13 +12,13 @@ tags: [Graham-North Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *23* new cases of COVID-19
+- *22* new cases of COVID-19
 - *0* people have died of COVID-19
-- *8* people have recovered from COVID-19[1]
+- *34* people have recovered from COVID-19[1]
 
 The population in this census area is 8441. By our calculations:
-- 5.98% of the population have had COVID-19.[2]
-- 1.29% of the population or 109.0 people are actively fighting the virus.
+- 5.97% of the population have had COVID-19.[2]
+- 0.97% of the population or 82.0 people are actively fighting the virus.
 
 ## Synopsis
 

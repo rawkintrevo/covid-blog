@@ -12,13 +12,13 @@ tags: [Lawrence-Alabama]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *69* new cases of COVID-19
-- *4* people have died of COVID-19
-- *74* people have recovered from COVID-19[1]
+- *93* new cases of COVID-19
+- *5* people have died of COVID-19
+- *93* people have recovered from COVID-19[1]
 
 The population in this census area is 32924. By our calculations:
-- 7.49% of the population have had COVID-19.[2]
-- 1.15% of the population or 378.0 people are actively fighting the virus.
+- 7.57% of the population have had COVID-19.[2]
+- 1.16% of the population or 382.0 people are actively fighting the virus.
 
 ## Synopsis
 

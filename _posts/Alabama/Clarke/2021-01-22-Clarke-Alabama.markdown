@@ -12,13 +12,13 @@ tags: [Clarke-Alabama]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *149* new cases of COVID-19
-- *0* people have died of COVID-19
-- *60* people have recovered from COVID-19[1]
+- *173* new cases of COVID-19
+- *3* people have died of COVID-19
+- *77* people have recovered from COVID-19[1]
 
 The population in this census area is 23622. By our calculations:
-- 12.18% of the population have had COVID-19.[2]
-- 1.92% of the population or 453.0 people are actively fighting the virus.
+- 12.30% of the population have had COVID-19.[2]
+- 1.93% of the population or 457.0 people are actively fighting the virus.
 
 ## Synopsis
 

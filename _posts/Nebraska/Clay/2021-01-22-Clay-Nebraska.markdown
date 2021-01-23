@@ -12,13 +12,13 @@ tags: [Clay-Nebraska]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *9* new cases of COVID-19
+- *12* new cases of COVID-19
 - *0* people have died of COVID-19
-- *3* people have recovered from COVID-19[1]
+- *4* people have recovered from COVID-19[1]
 
 The population in this census area is 6203. By our calculations:
-- 9.72% of the population have had COVID-19.[2]
-- 0.77% of the population or 48.0 people are actively fighting the virus.
+- 9.77% of the population have had COVID-19.[2]
+- 0.81% of the population or 50.0 people are actively fighting the virus.
 
 ## Synopsis
 

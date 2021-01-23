@@ -12,13 +12,13 @@ tags: [Kershaw-South Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *350* new cases of COVID-19
+- *401* new cases of COVID-19
 - *3* people have died of COVID-19
-- *63* people have recovered from COVID-19[1]
+- *98* people have recovered from COVID-19[1]
 
 The population in this census area is 66551. By our calculations:
-- 7.49% of the population have had COVID-19.[2]
-- 1.59% of the population or 1058.0 people are actively fighting the virus.
+- 7.57% of the population have had COVID-19.[2]
+- 1.61% of the population or 1074.0 people are actively fighting the virus.
 
 ## Synopsis
 

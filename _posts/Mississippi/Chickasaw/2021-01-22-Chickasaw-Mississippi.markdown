@@ -12,13 +12,13 @@ tags: [Chickasaw-Mississippi]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *57* new cases of COVID-19
+- *61* new cases of COVID-19
 - *1* people have died of COVID-19
-- *25* people have recovered from COVID-19[1]
+- *41* people have recovered from COVID-19[1]
 
 The population in this census area is 17103. By our calculations:
-- 10.86% of the population have had COVID-19.[2]
-- 1.39% of the population or 237.0 people are actively fighting the virus.
+- 10.88% of the population have had COVID-19.[2]
+- 1.32% of the population or 225.0 people are actively fighting the virus.
 
 ## Synopsis
 

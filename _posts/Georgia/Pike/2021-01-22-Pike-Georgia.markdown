@@ -12,13 +12,13 @@ tags: [Pike-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *71* new cases of COVID-19
+- *89* new cases of COVID-19
 - *2* people have died of COVID-19
-- *92* people have recovered from COVID-19[1]
+- *104* people have recovered from COVID-19[1]
 
 The population in this census area is 18962. By our calculations:
-- 8.78% of the population have had COVID-19.[2]
-- 1.62% of the population or 308.0 people are actively fighting the virus.
+- 8.87% of the population have had COVID-19.[2]
+- 1.66% of the population or 314.0 people are actively fighting the virus.
 
 ## Synopsis
 

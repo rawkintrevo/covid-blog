@@ -12,13 +12,13 @@ tags: [Dallas-Missouri]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *14* new cases of COVID-19
+- *17* new cases of COVID-19
 - *1* people have died of COVID-19
 - *17* people have recovered from COVID-19[1]
 
 The population in this census area is 16878. By our calculations:
-- 4.50% of the population have had COVID-19.[2]
-- 0.30% of the population or 50.0 people are actively fighting the virus.
+- 4.51% of the population have had COVID-19.[2]
+- 0.31% of the population or 53.0 people are actively fighting the virus.
 
 ## Synopsis
 

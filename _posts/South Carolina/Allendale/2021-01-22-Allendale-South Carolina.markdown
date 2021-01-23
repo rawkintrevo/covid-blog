@@ -12,13 +12,13 @@ tags: [Allendale-South Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *57* new cases of COVID-19
-- *0* people have died of COVID-19
-- *4* people have recovered from COVID-19[1]
+- *59* new cases of COVID-19
+- *1* people have died of COVID-19
+- *6* people have recovered from COVID-19[1]
 
 The population in this census area is 8688. By our calculations:
-- 7.41% of the population have had COVID-19.[2]
-- 1.47% of the population or 128.0 people are actively fighting the virus.
+- 7.45% of the population have had COVID-19.[2]
+- 1.46% of the population or 127.0 people are actively fighting the virus.
 
 ## Synopsis
 

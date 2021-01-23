@@ -12,13 +12,13 @@ tags: [Kit Carson-Colorado]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *10* new cases of COVID-19
+- *14* new cases of COVID-19
 - *0* people have died of COVID-19
 - *6* people have recovered from COVID-19[1]
 
 The population in this census area is 7097. By our calculations:
-- 6.75% of the population have had COVID-19.[2]
-- 0.55% of the population or 39.0 people are actively fighting the virus.
+- 6.81% of the population have had COVID-19.[2]
+- 0.61% of the population or 43.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Comanche-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *12* new cases of COVID-19
-- *2* people have died of COVID-19
-- *17* people have recovered from COVID-19[1]
+- *14* new cases of COVID-19
+- *3* people have died of COVID-19
+- *16* people have recovered from COVID-19[1]
 
 The population in this census area is 13635. By our calculations:
-- 8.27% of the population have had COVID-19.[2]
-- 0.78% of the population or 106.0 people are actively fighting the virus.
+- 8.29% of the population have had COVID-19.[2]
+- 0.79% of the population or 108.0 people are actively fighting the virus.
 
 ## Synopsis
 

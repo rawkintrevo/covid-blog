@@ -12,13 +12,13 @@ tags: [Bourbon-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *83* new cases of COVID-19
+- *97* new cases of COVID-19
 - *0* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *55* people have recovered from COVID-19[1]
 
 The population in this census area is 19788. By our calculations:
-- 6.37% of the population have had COVID-19.[2]
-- 1.69% of the population or 334.0 people are actively fighting the virus.
+- 6.44% of the population have had COVID-19.[2]
+- 1.48% of the population or 293.0 people are actively fighting the virus.
 
 ## Synopsis
 

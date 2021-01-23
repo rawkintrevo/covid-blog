@@ -12,13 +12,13 @@ tags: [Falls-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *31* new cases of COVID-19
+- *62* new cases of COVID-19
 - *2* people have died of COVID-19
 - *20* people have recovered from COVID-19[1]
 
 The population in this census area is 17297. By our calculations:
-- 7.64% of the population have had COVID-19.[2]
-- 0.68% of the population or 117.0 people are actively fighting the virus.
+- 7.82% of the population have had COVID-19.[2]
+- 0.86% of the population or 148.0 people are actively fighting the virus.
 
 ## Synopsis
 

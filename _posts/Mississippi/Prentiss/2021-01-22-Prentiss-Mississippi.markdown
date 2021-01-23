@@ -12,13 +12,13 @@ tags: [Prentiss-Mississippi]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *77* new cases of COVID-19
+- *90* new cases of COVID-19
 - *5* people have died of COVID-19
-- *64* people have recovered from COVID-19[1]
+- *84* people have recovered from COVID-19[1]
 
 The population in this census area is 25126. By our calculations:
-- 9.88% of the population have had COVID-19.[2]
-- 1.36% of the population or 341.0 people are actively fighting the virus.
+- 9.93% of the population have had COVID-19.[2]
+- 1.33% of the population or 334.0 people are actively fighting the virus.
 
 ## Synopsis
 

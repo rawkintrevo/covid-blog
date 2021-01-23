@@ -12,13 +12,13 @@ tags: [Buckingham-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *70* new cases of COVID-19
+- *80* new cases of COVID-19
 - *2* people have died of COVID-19
-- *134* people have recovered from COVID-19[1]
+- *137* people have recovered from COVID-19[1]
 
 The population in this census area is 17148. By our calculations:
-- 9.68% of the population have had COVID-19.[2]
-- 1.36% of the population or 233.0 people are actively fighting the virus.
+- 9.74% of the population have had COVID-19.[2]
+- 1.40% of the population or 240.0 people are actively fighting the virus.
 
 ## Synopsis
 

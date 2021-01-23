@@ -12,13 +12,13 @@ tags: [Winona-Minnesota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *61* new cases of COVID-19
-- *0* people have died of COVID-19
-- *21* people have recovered from COVID-19[1]
+- *78* new cases of COVID-19
+- *2* people have died of COVID-19
+- *39* people have recovered from COVID-19[1]
 
 The population in this census area is 50484. By our calculations:
-- 7.73% of the population have had COVID-19.[2]
-- 0.65% of the population or 327.0 people are actively fighting the virus.
+- 7.76% of the population have had COVID-19.[2]
+- 0.64% of the population or 324.0 people are actively fighting the virus.
 
 ## Synopsis
 

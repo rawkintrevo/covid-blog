@@ -12,13 +12,13 @@ tags: [Fayette-Tennessee]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *166* new cases of COVID-19
+- *190* new cases of COVID-19
 - *0* people have died of COVID-19
-- *16* people have recovered from COVID-19[1]
+- *145* people have recovered from COVID-19[1]
 
 The population in this census area is 41133. By our calculations:
-- 9.78% of the population have had COVID-19.[2]
-- 1.69% of the population or 697.0 people are actively fighting the virus.
+- 9.83% of the population have had COVID-19.[2]
+- 1.44% of the population or 592.0 people are actively fighting the virus.
 
 ## Synopsis
 

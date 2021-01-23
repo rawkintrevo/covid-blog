@@ -12,13 +12,13 @@ tags: [Nueces-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1019* new cases of COVID-19
-- *16* people have died of COVID-19
-- *585* people have recovered from COVID-19[1]
+- *1250* new cases of COVID-19
+- *22* people have died of COVID-19
+- *579* people have recovered from COVID-19[1]
 
 The population in this census area is 362294. By our calculations:
-- 9.22% of the population have had COVID-19.[2]
-- 1.00% of the population or 3628.0 people are actively fighting the virus.
+- 9.28% of the population have had COVID-19.[2]
+- 1.07% of the population or 3859.0 people are actively fighting the virus.
 
 ## Synopsis
 

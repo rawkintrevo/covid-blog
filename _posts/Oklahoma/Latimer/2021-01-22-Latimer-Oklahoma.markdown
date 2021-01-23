@@ -12,13 +12,13 @@ tags: [Latimer-Oklahoma]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *30* new cases of COVID-19
+- *41* new cases of COVID-19
 - *0* people have died of COVID-19
-- *17* people have recovered from COVID-19[1]
+- *32* people have recovered from COVID-19[1]
 
 The population in this census area is 10073. By our calculations:
-- 6.69% of the population have had COVID-19.[2]
-- 1.39% of the population or 140.0 people are actively fighting the virus.
+- 6.80% of the population have had COVID-19.[2]
+- 1.35% of the population or 136.0 people are actively fighting the virus.
 
 ## Synopsis
 

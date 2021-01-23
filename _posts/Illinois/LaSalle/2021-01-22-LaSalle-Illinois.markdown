@@ -12,13 +12,13 @@ tags: [LaSalle-Illinois]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *325* new cases of COVID-19
-- *0* people have died of COVID-19
-- *71* people have recovered from COVID-19[1]
+- *382* new cases of COVID-19
+- *1* people have died of COVID-19
+- *178* people have recovered from COVID-19[1]
 
 The population in this census area is 108669. By our calculations:
-- 8.78% of the population have had COVID-19.[2]
-- 1.06% of the population or 1153.0 people are actively fighting the virus.
+- 8.83% of the population have had COVID-19.[2]
+- 1.01% of the population or 1102.0 people are actively fighting the virus.
 
 ## Synopsis
 

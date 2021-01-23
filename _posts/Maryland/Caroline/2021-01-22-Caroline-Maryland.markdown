@@ -12,13 +12,13 @@ tags: [Caroline-Maryland]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *109* new cases of COVID-19
-- *0* people have died of COVID-19
-- *46* people have recovered from COVID-19[1]
+- *117* new cases of COVID-19
+- *1* people have died of COVID-19
+- *64* people have recovered from COVID-19[1]
 
 The population in this census area is 33406. By our calculations:
-- 5.04% of the population have had COVID-19.[2]
-- 1.02% of the population or 340.0 people are actively fighting the virus.
+- 5.07% of the population have had COVID-19.[2]
+- 0.98% of the population or 329.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Yavapai-Arizona]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *904* new cases of COVID-19
-- *32* people have died of COVID-19
-- *412* people have recovered from COVID-19[1]
+- *1034* new cases of COVID-19
+- *44* people have died of COVID-19
+- *548* people have recovered from COVID-19[1]
 
 The population in this census area is 235099. By our calculations:
-- 6.43% of the population have had COVID-19.[2]
-- 1.47% of the population or 3460.0 people are actively fighting the virus.
+- 6.49% of the population have had COVID-19.[2]
+- 1.46% of the population or 3442.0 people are actively fighting the virus.
 
 ## Synopsis
 

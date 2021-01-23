@@ -12,13 +12,13 @@ tags: [Deer Lodge-Montana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *34* new cases of COVID-19
+- *51* new cases of COVID-19
 - *0* people have died of COVID-19
-- *5* people have recovered from COVID-19[1]
+- *6* people have recovered from COVID-19[1]
 
 The population in this census area is 9140. By our calculations:
-- 10.10% of the population have had COVID-19.[2]
-- 0.83% of the population or 76.0 people are actively fighting the virus.
+- 10.28% of the population have had COVID-19.[2]
+- 1.01% of the population or 92.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Gallatin-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *34* new cases of COVID-19
-- *2* people have died of COVID-19
-- *-1* people have recovered from COVID-19[1]
+- *41* new cases of COVID-19
+- *4* people have died of COVID-19
+- *5* people have recovered from COVID-19[1]
 
 The population in this census area is 8869. By our calculations:
-- 6.03% of the population have had COVID-19.[2]
-- 1.17% of the population or 104.0 people are actively fighting the virus.
+- 6.13% of the population have had COVID-19.[2]
+- 1.16% of the population or 103.0 people are actively fighting the virus.
 
 ## Synopsis
 

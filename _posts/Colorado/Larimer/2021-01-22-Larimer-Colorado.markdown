@@ -12,13 +12,13 @@ tags: [Larimer-Colorado]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *517* new cases of COVID-19
-- *1* people have died of COVID-19
-- *236* people have recovered from COVID-19[1]
+- *644* new cases of COVID-19
+- *3* people have died of COVID-19
+- *313* people have recovered from COVID-19[1]
 
 The population in this census area is 356899. By our calculations:
-- 4.80% of the population have had COVID-19.[2]
-- 0.52% of the population or 1863.0 people are actively fighting the virus.
+- 4.84% of the population have had COVID-19.[2]
+- 0.54% of the population or 1911.0 people are actively fighting the virus.
 
 ## Synopsis
 

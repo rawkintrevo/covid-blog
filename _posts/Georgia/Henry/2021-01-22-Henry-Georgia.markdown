@@ -12,13 +12,13 @@ tags: [Henry-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1130* new cases of COVID-19
-- *11* people have died of COVID-19
-- *627* people have recovered from COVID-19[1]
+- *1326* new cases of COVID-19
+- *16* people have died of COVID-19
+- *770* people have recovered from COVID-19[1]
 
 The population in this census area is 234561. By our calculations:
-- 7.36% of the population have had COVID-19.[2]
-- 1.50% of the population or 3529.0 people are actively fighting the virus.
+- 7.44% of the population have had COVID-19.[2]
+- 1.52% of the population or 3577.0 people are actively fighting the virus.
 
 ## Synopsis
 

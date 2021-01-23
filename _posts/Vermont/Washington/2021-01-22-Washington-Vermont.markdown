@@ -12,13 +12,13 @@ tags: [Washington-Vermont]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *77* new cases of COVID-19
-- *0* people have died of COVID-19
-- *8* people have recovered from COVID-19[1]
+- *89* new cases of COVID-19
+- *1* people have died of COVID-19
+- *9* people have recovered from COVID-19[1]
 
 The population in this census area is 58409. By our calculations:
-- 1.80% of the population have had COVID-19.[2]
-- 0.28% of the population or 165.0 people are actively fighting the virus.
+- 1.82% of the population have had COVID-19.[2]
+- 0.30% of the population or 175.0 people are actively fighting the virus.
 
 ## Synopsis
 

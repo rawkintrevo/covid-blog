@@ -12,13 +12,13 @@ tags: [Washington-Ohio]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *223* new cases of COVID-19
+- *262* new cases of COVID-19
 - *1* people have died of COVID-19
-- *64* people have recovered from COVID-19[1]
+- *134* people have recovered from COVID-19[1]
 
 The population in this census area is 59911. By our calculations:
-- 6.33% of the population have had COVID-19.[2]
-- 1.31% of the population or 785.0 people are actively fighting the virus.
+- 6.40% of the population have had COVID-19.[2]
+- 1.26% of the population or 754.0 people are actively fighting the virus.
 
 ## Synopsis
 

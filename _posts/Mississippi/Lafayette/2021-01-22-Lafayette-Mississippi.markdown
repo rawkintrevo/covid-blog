@@ -12,13 +12,13 @@ tags: [Lafayette-Mississippi]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *203* new cases of COVID-19
+- *245* new cases of COVID-19
 - *1* people have died of COVID-19
-- *61* people have recovered from COVID-19[1]
+- *78* people have recovered from COVID-19[1]
 
 The population in this census area is 54019. By our calculations:
-- 9.31% of the population have had COVID-19.[2]
-- 1.36% of the population or 733.0 people are actively fighting the virus.
+- 9.39% of the population have had COVID-19.[2]
+- 1.40% of the population or 758.0 people are actively fighting the virus.
 
 ## Synopsis
 

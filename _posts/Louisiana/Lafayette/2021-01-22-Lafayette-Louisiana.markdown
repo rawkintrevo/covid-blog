@@ -12,13 +12,13 @@ tags: [Lafayette-Louisiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *528* new cases of COVID-19
-- *11* people have died of COVID-19
-- *240* people have recovered from COVID-19[1]
+- *706* new cases of COVID-19
+- *12* people have died of COVID-19
+- *239* people have recovered from COVID-19[1]
 
 The population in this census area is 244390. By our calculations:
-- 7.98% of the population have had COVID-19.[2]
-- 1.11% of the population or 2714.0 people are actively fighting the virus.
+- 8.06% of the population have had COVID-19.[2]
+- 1.18% of the population or 2892.0 people are actively fighting the virus.
 
 ## Synopsis
 

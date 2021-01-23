@@ -12,13 +12,13 @@ tags: [Todd-South Dakota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *5* new cases of COVID-19
-- *1* people have died of COVID-19
-- *11* people have recovered from COVID-19[1]
+- *4* new cases of COVID-19
+- *2* people have died of COVID-19
+- *14* people have recovered from COVID-19[1]
 
 The population in this census area is 10177. By our calculations:
 - 11.71% of the population have had COVID-19.[2]
-- 0.28% of the population or 29.0 people are actively fighting the virus.
+- 0.24% of the population or 24.0 people are actively fighting the virus.
 
 ## Synopsis
 

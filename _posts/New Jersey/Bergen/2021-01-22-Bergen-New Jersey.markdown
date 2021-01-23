@@ -12,13 +12,13 @@ tags: [Bergen-New Jersey]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *2916* new cases of COVID-19
-- *24* people have died of COVID-19
-- *978* people have recovered from COVID-19[1]
+- *3419* new cases of COVID-19
+- *30* people have died of COVID-19
+- *1401* people have recovered from COVID-19[1]
 
 The population in this census area is 932202. By our calculations:
-- 6.66% of the population have had COVID-19.[2]
-- 1.49% of the population or 13899.0 people are actively fighting the virus.
+- 6.71% of the population have had COVID-19.[2]
+- 1.50% of the population or 13973.0 people are actively fighting the virus.
 
 ## Synopsis
 

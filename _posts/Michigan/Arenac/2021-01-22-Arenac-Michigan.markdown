@@ -12,13 +12,13 @@ tags: [Arenac-Michigan]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *23* new cases of COVID-19
+- *25* new cases of COVID-19
 - *-2* people have died of COVID-19
-- *1* people have recovered from COVID-19[1]
+- *14* people have recovered from COVID-19[1]
 
 The population in this census area is 14883. By our calculations:
-- 4.58% of the population have had COVID-19.[2]
-- 0.58% of the population or 86.0 people are actively fighting the virus.
+- 4.60% of the population have had COVID-19.[2]
+- 0.50% of the population or 75.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Coweta-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *485* new cases of COVID-19
-- *11* people have died of COVID-19
-- *401* people have recovered from COVID-19[1]
+- *576* new cases of COVID-19
+- *12* people have died of COVID-19
+- *467* people have recovered from COVID-19[1]
 
 The population in this census area is 148509. By our calculations:
-- 6.96% of the population have had COVID-19.[2]
-- 1.25% of the population or 1859.0 people are actively fighting the virus.
+- 7.02% of the population have had COVID-19.[2]
+- 1.27% of the population or 1883.0 people are actively fighting the virus.
 
 ## Synopsis
 

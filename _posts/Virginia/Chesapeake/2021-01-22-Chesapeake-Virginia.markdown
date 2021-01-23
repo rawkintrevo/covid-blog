@@ -12,13 +12,13 @@ tags: [Chesapeake-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *2212* new cases of COVID-19
-- *4* people have died of COVID-19
-- *197* people have recovered from COVID-19[1]
+- *2554* new cases of COVID-19
+- *5* people have died of COVID-19
+- *295* people have recovered from COVID-19[1]
 
 The population in this census area is 244835. By our calculations:
-- 5.48% of the population have had COVID-19.[2]
-- 1.63% of the population or 3983.0 people are actively fighting the virus.
+- 5.62% of the population have had COVID-19.[2]
+- 1.73% of the population or 4226.0 people are actively fighting the virus.
 
 ## Synopsis
 

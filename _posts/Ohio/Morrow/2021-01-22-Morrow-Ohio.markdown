@@ -12,13 +12,13 @@ tags: [Morrow-Ohio]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *111* new cases of COVID-19
+- *126* new cases of COVID-19
 - *0* people have died of COVID-19
-- *33* people have recovered from COVID-19[1]
+- *71* people have recovered from COVID-19[1]
 
 The population in this census area is 35328. By our calculations:
-- 6.47% of the population have had COVID-19.[2]
-- 1.28% of the population or 451.0 people are actively fighting the virus.
+- 6.51% of the population have had COVID-19.[2]
+- 1.21% of the population or 428.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Sunflower-Mississippi]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *121* new cases of COVID-19
-- *3* people have died of COVID-19
-- *46* people have recovered from COVID-19[1]
+- *130* new cases of COVID-19
+- *4* people have died of COVID-19
+- *60* people have recovered from COVID-19[1]
 
 The population in this census area is 25110. By our calculations:
-- 11.48% of the population have had COVID-19.[2]
-- 1.74% of the population or 436.0 people are actively fighting the virus.
+- 11.52% of the population have had COVID-19.[2]
+- 1.71% of the population or 430.0 people are actively fighting the virus.
 
 ## Synopsis
 

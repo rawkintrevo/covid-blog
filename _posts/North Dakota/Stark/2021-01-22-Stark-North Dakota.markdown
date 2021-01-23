@@ -12,13 +12,13 @@ tags: [Stark-North Dakota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *22* new cases of COVID-19
+- *32* new cases of COVID-19
 - *0* people have died of COVID-19
-- *49* people have recovered from COVID-19[1]
+- *54* people have recovered from COVID-19[1]
 
 The population in this census area is 31489. By our calculations:
-- 13.35% of the population have had COVID-19.[2]
-- 0.42% of the population or 131.0 people are actively fighting the virus.
+- 13.39% of the population have had COVID-19.[2]
+- 0.43% of the population or 136.0 people are actively fighting the virus.
 
 ## Synopsis
 

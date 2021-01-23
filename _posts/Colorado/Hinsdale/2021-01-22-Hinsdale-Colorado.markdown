@@ -12,13 +12,13 @@ tags: [Hinsdale-Colorado]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *-1* new cases of COVID-19
+- *0* new cases of COVID-19
 - *0* people have died of COVID-19
 - *2* people have recovered from COVID-19[1]
 
 The population in this census area is 820. By our calculations:
-- 1.83% of the population have had COVID-19.[2]
-- 0.12% of the population or 1.0 people are actively fighting the virus.
+- 1.95% of the population have had COVID-19.[2]
+- 0.24% of the population or 2.0 people are actively fighting the virus.
 
 ## Synopsis
 

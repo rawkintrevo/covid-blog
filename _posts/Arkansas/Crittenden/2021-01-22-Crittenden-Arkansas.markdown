@@ -12,13 +12,13 @@ tags: [Crittenden-Arkansas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *211* new cases of COVID-19
+- *240* new cases of COVID-19
 - *0* people have died of COVID-19
-- *65* people have recovered from COVID-19[1]
+- *91* people have recovered from COVID-19[1]
 
 The population in this census area is 47955. By our calculations:
-- 10.71% of the population have had COVID-19.[2]
-- 1.61% of the population or 770.0 people are actively fighting the virus.
+- 10.77% of the population have had COVID-19.[2]
+- 1.61% of the population or 773.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Whitfield-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *490* new cases of COVID-19
+- *620* new cases of COVID-19
 - *12* people have died of COVID-19
-- *367* people have recovered from COVID-19[1]
+- *469* people have recovered from COVID-19[1]
 
 The population in this census area is 104628. By our calculations:
-- 13.57% of the population have had COVID-19.[2]
-- 2.11% of the population or 2212.0 people are actively fighting the virus.
+- 13.69% of the population have had COVID-19.[2]
+- 2.14% of the population or 2240.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Maverick-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *707* new cases of COVID-19
-- *11* people have died of COVID-19
-- *36* people have recovered from COVID-19[1]
+- *766* new cases of COVID-19
+- *14* people have died of COVID-19
+- *33* people have recovered from COVID-19[1]
 
 The population in this census area is 58722. By our calculations:
-- 14.30% of the population have had COVID-19.[2]
-- 3.28% of the population or 1924.0 people are actively fighting the virus.
+- 14.40% of the population have had COVID-19.[2]
+- 3.38% of the population or 1983.0 people are actively fighting the virus.
 
 ## Synopsis
 

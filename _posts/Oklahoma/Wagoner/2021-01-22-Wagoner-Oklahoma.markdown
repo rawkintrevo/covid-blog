@@ -12,13 +12,13 @@ tags: [Wagoner-Oklahoma]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *459* new cases of COVID-19
-- *6* people have died of COVID-19
-- *81* people have recovered from COVID-19[1]
+- *530* new cases of COVID-19
+- *7* people have died of COVID-19
+- *192* people have recovered from COVID-19[1]
 
 The population in this census area is 81289. By our calculations:
-- 7.73% of the population have had COVID-19.[2]
-- 1.98% of the population or 1608.0 people are actively fighting the virus.
+- 7.81% of the population have had COVID-19.[2]
+- 1.93% of the population or 1567.0 people are actively fighting the virus.
 
 ## Synopsis
 

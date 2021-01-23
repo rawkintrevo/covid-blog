@@ -14,11 +14,11 @@ tags: [Cameron-Pennsylvania]
 In the last 7 days[3] we project there have been
 - *16* new cases of COVID-19
 - *0* people have died of COVID-19
-- *15* people have recovered from COVID-19[1]
+- *17* people have recovered from COVID-19[1]
 
 The population in this census area is 4447. By our calculations:
 - 4.97% of the population have had COVID-19.[2]
-- 1.39% of the population or 62.0 people are actively fighting the virus.
+- 1.35% of the population or 60.0 people are actively fighting the virus.
 
 ## Synopsis
 

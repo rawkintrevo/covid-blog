@@ -12,13 +12,13 @@ tags: [Florence-South Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *933* new cases of COVID-19
-- *19* people have died of COVID-19
-- *124* people have recovered from COVID-19[1]
+- *1033* new cases of COVID-19
+- *22* people have died of COVID-19
+- *345* people have recovered from COVID-19[1]
 
 The population in this census area is 138293. By our calculations:
-- 10.09% of the population have had COVID-19.[2]
-- 2.45% of the population or 3384.0 people are actively fighting the virus.
+- 10.17% of the population have had COVID-19.[2]
+- 2.36% of the population or 3260.0 people are actively fighting the virus.
 
 ## Synopsis
 

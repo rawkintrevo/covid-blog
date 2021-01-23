@@ -12,13 +12,13 @@ tags: [Westmoreland-Pennsylvania]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *874* new cases of COVID-19
-- *37* people have died of COVID-19
-- *344* people have recovered from COVID-19[1]
+- *977* new cases of COVID-19
+- *41* people have died of COVID-19
+- *694* people have recovered from COVID-19[1]
 
 The population in this census area is 348899. By our calculations:
-- 6.77% of the population have had COVID-19.[2]
-- 1.16% of the population or 4038.0 people are actively fighting the virus.
+- 6.80% of the population have had COVID-19.[2]
+- 1.09% of the population or 3787.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Los Angeles-California]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *61491* new cases of COVID-19
-- *1172* people have died of COVID-19
-- *33491* people have recovered from COVID-19[1]
+- *68549* new cases of COVID-19
+- *1397* people have died of COVID-19
+- *48764* people have recovered from COVID-19[1]
 
 The population in this census area is 10039107. By our calculations:
-- 10.35% of the population have had COVID-19.[2]
-- 2.43% of the population or 243454.0 people are actively fighting the virus.
+- 10.42% of the population have had COVID-19.[2]
+- 2.34% of the population or 235014.0 people are actively fighting the virus.
 
 ## Synopsis
 

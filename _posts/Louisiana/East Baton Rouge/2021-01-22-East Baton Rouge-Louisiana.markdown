@@ -12,13 +12,13 @@ tags: [East Baton Rouge-Louisiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *943* new cases of COVID-19
-- *22* people have died of COVID-19
-- *202* people have recovered from COVID-19[1]
+- *1173* new cases of COVID-19
+- *25* people have died of COVID-19
+- *199* people have recovered from COVID-19[1]
 
 The population in this census area is 440059. By our calculations:
-- 6.93% of the population have had COVID-19.[2]
-- 1.05% of the population or 4610.0 people are actively fighting the virus.
+- 6.98% of the population have had COVID-19.[2]
+- 1.10% of the population or 4840.0 people are actively fighting the virus.
 
 ## Synopsis
 

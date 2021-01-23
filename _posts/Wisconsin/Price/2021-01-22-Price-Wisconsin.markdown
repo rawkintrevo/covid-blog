@@ -12,13 +12,13 @@ tags: [Price-Wisconsin]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *43* new cases of COVID-19
+- *60* new cases of COVID-19
 - *1* people have died of COVID-19
 - *11* people have recovered from COVID-19[1]
 
 The population in this census area is 13351. By our calculations:
-- 8.34% of the population have had COVID-19.[2]
-- 0.73% of the population or 97.0 people are actively fighting the virus.
+- 8.47% of the population have had COVID-19.[2]
+- 0.85% of the population or 114.0 people are actively fighting the virus.
 
 ## Synopsis
 

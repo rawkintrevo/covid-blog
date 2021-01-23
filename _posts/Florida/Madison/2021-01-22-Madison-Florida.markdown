@@ -12,13 +12,13 @@ tags: [Madison-Florida]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *60* new cases of COVID-19
+- *80* new cases of COVID-19
 - *2* people have died of COVID-19
-- *7* people have recovered from COVID-19[1]
+- *40* people have recovered from COVID-19[1]
 
 The population in this census area is 18493. By our calculations:
-- 9.35% of the population have had COVID-19.[2]
-- 1.00% of the population or 185.0 people are actively fighting the virus.
+- 9.46% of the population have had COVID-19.[2]
+- 0.93% of the population or 172.0 people are actively fighting the virus.
 
 ## Synopsis
 

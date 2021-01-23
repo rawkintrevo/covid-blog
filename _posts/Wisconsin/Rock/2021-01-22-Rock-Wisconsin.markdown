@@ -12,13 +12,13 @@ tags: [Rock-Wisconsin]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *394* new cases of COVID-19
-- *7* people have died of COVID-19
-- *234* people have recovered from COVID-19[1]
+- *468* new cases of COVID-19
+- *9* people have died of COVID-19
+- *273* people have recovered from COVID-19[1]
 
 The population in this census area is 163354. By our calculations:
-- 8.96% of the population have had COVID-19.[2]
-- 0.91% of the population or 1482.0 people are actively fighting the virus.
+- 9.01% of the population have had COVID-19.[2]
+- 0.93% of the population or 1515.0 people are actively fighting the virus.
 
 ## Synopsis
 

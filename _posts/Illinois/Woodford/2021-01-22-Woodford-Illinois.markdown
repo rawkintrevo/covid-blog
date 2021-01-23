@@ -12,13 +12,13 @@ tags: [Woodford-Illinois]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *122* new cases of COVID-19
-- *2* people have died of COVID-19
-- *25* people have recovered from COVID-19[1]
+- *173* new cases of COVID-19
+- *3* people have died of COVID-19
+- *93* people have recovered from COVID-19[1]
 
 The population in this census area is 38459. By our calculations:
-- 8.37% of the population have had COVID-19.[2]
-- 1.10% of the population or 424.0 people are actively fighting the virus.
+- 8.50% of the population have had COVID-19.[2]
+- 1.06% of the population or 406.0 people are actively fighting the virus.
 
 ## Synopsis
 

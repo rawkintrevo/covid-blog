@@ -12,13 +12,13 @@ tags: [Tazewell-Illinois]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *308* new cases of COVID-19
-- *10* people have died of COVID-19
-- *154* people have recovered from COVID-19[1]
+- *389* new cases of COVID-19
+- *11* people have died of COVID-19
+- *349* people have recovered from COVID-19[1]
 
 The population in this census area is 131803. By our calculations:
-- 9.11% of the population have had COVID-19.[2]
-- 1.15% of the population or 1522.0 people are actively fighting the virus.
+- 9.17% of the population have had COVID-19.[2]
+- 1.07% of the population or 1407.0 people are actively fighting the virus.
 
 ## Synopsis
 

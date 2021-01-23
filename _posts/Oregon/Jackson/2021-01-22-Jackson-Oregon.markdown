@@ -12,13 +12,13 @@ tags: [Jackson-Oregon]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *244* new cases of COVID-19
-- *3* people have died of COVID-19
-- *103* people have recovered from COVID-19[1]
+- *278* new cases of COVID-19
+- *8* people have died of COVID-19
+- *169* people have recovered from COVID-19[1]
 
 The population in this census area is 220944. By our calculations:
-- 3.17% of the population have had COVID-19.[2]
-- 0.50% of the population or 1107.0 people are actively fighting the virus.
+- 3.19% of the population have had COVID-19.[2]
+- 0.48% of the population or 1070.0 people are actively fighting the virus.
 
 ## Synopsis
 

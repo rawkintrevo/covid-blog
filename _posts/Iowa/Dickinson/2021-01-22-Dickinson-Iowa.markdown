@@ -12,13 +12,13 @@ tags: [Dickinson-Iowa]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *28* new cases of COVID-19
-- *2* people have died of COVID-19
-- *10* people have recovered from COVID-19[1]
+- *45* new cases of COVID-19
+- *4* people have died of COVID-19
+- *11* people have recovered from COVID-19[1]
 
 The population in this census area is 17258. By our calculations:
-- 10.79% of the population have had COVID-19.[2]
-- 0.80% of the population or 138.0 people are actively fighting the virus.
+- 10.90% of the population have had COVID-19.[2]
+- 0.88% of the population or 152.0 people are actively fighting the virus.
 
 ## Synopsis
 

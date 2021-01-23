@@ -12,13 +12,13 @@ tags: [Wyoming-New York]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *269* new cases of COVID-19
+- *305* new cases of COVID-19
 - *4* people have died of COVID-19
-- *96* people have recovered from COVID-19[1]
+- *145* people have recovered from COVID-19[1]
 
 The population in this census area is 39859. By our calculations:
-- 5.55% of the population have had COVID-19.[2]
-- 1.93% of the population or 768.0 people are actively fighting the virus.
+- 5.64% of the population have had COVID-19.[2]
+- 1.89% of the population or 755.0 people are actively fighting the virus.
 
 ## Synopsis
 

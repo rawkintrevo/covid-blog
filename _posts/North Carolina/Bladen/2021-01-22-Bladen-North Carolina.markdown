@@ -12,13 +12,13 @@ tags: [Bladen-North Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *131* new cases of COVID-19
+- *144* new cases of COVID-19
 - *1* people have died of COVID-19
-- *29* people have recovered from COVID-19[1]
+- *108* people have recovered from COVID-19[1]
 
 The population in this census area is 32722. By our calculations:
-- 7.24% of the population have had COVID-19.[2]
-- 1.60% of the population or 522.0 people are actively fighting the virus.
+- 7.28% of the population have had COVID-19.[2]
+- 1.39% of the population or 456.0 people are actively fighting the virus.
 
 ## Synopsis
 

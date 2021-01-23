@@ -12,13 +12,13 @@ tags: [Amherst-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *222* new cases of COVID-19
+- *269* new cases of COVID-19
 - *0* people have died of COVID-19
-- *48* people have recovered from COVID-19[1]
+- *66* people have recovered from COVID-19[1]
 
 The population in this census area is 31605. By our calculations:
-- 6.58% of the population have had COVID-19.[2]
-- 1.93% of the population or 609.0 people are actively fighting the virus.
+- 6.73% of the population have had COVID-19.[2]
+- 2.02% of the population or 638.0 people are actively fighting the virus.
 
 ## Synopsis
 

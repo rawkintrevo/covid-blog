@@ -12,13 +12,13 @@ tags: [Clark-Arkansas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *76* new cases of COVID-19
+- *100* new cases of COVID-19
 - *3* people have died of COVID-19
-- *34* people have recovered from COVID-19[1]
+- *55* people have recovered from COVID-19[1]
 
 The population in this census area is 22320. By our calculations:
-- 7.53% of the population have had COVID-19.[2]
-- 1.26% of the population or 282.0 people are actively fighting the virus.
+- 7.63% of the population have had COVID-19.[2]
+- 1.28% of the population or 285.0 people are actively fighting the virus.
 
 ## Synopsis
 

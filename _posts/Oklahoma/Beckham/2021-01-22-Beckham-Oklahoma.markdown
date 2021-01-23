@@ -12,13 +12,13 @@ tags: [Beckham-Oklahoma]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *82* new cases of COVID-19
+- *96* new cases of COVID-19
 - *2* people have died of COVID-19
-- *15* people have recovered from COVID-19[1]
+- *28* people have recovered from COVID-19[1]
 
 The population in this census area is 21859. By our calculations:
-- 10.67% of the population have had COVID-19.[2]
-- 1.67% of the population or 364.0 people are actively fighting the virus.
+- 10.74% of the population have had COVID-19.[2]
+- 1.67% of the population or 365.0 people are actively fighting the virus.
 
 ## Synopsis
 

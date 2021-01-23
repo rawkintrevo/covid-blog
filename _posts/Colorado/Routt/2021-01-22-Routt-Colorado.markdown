@@ -12,13 +12,13 @@ tags: [Routt-Colorado]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *128* new cases of COVID-19
+- *162* new cases of COVID-19
 - *1* people have died of COVID-19
-- *27* people have recovered from COVID-19[1]
+- *37* people have recovered from COVID-19[1]
 
 The population in this census area is 25638. By our calculations:
-- 5.39% of the population have had COVID-19.[2]
-- 1.24% of the population or 318.0 people are actively fighting the virus.
+- 5.52% of the population have had COVID-19.[2]
+- 1.33% of the population or 342.0 people are actively fighting the virus.
 
 ## Synopsis
 

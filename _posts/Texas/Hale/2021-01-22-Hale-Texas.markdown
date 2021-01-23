@@ -12,13 +12,13 @@ tags: [Hale-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *104* new cases of COVID-19
-- *3* people have died of COVID-19
-- *26* people have recovered from COVID-19[1]
+- *124* new cases of COVID-19
+- *5* people have died of COVID-19
+- *24* people have recovered from COVID-19[1]
 
 The population in this census area is 33406. By our calculations:
-- 17.07% of the population have had COVID-19.[2]
-- 1.62% of the population or 542.0 people are actively fighting the virus.
+- 17.14% of the population have had COVID-19.[2]
+- 1.68% of the population or 562.0 people are actively fighting the virus.
 
 ## Synopsis
 

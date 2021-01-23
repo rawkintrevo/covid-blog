@@ -12,13 +12,13 @@ tags: [Rockbridge-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *60* new cases of COVID-19
+- *83* new cases of COVID-19
 - *13* people have died of COVID-19
-- *32* people have recovered from COVID-19[1]
+- *60* people have recovered from COVID-19[1]
 
 The population in this census area is 22573. By our calculations:
-- 4.04% of the population have had COVID-19.[2]
-- 1.22% of the population or 275.0 people are actively fighting the virus.
+- 4.14% of the population have had COVID-19.[2]
+- 1.20% of the population or 270.0 people are actively fighting the virus.
 
 ## Synopsis
 

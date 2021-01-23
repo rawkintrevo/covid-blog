@@ -12,13 +12,13 @@ tags: [Kinney-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *19* new cases of COVID-19
+- *43* new cases of COVID-19
 - *0* people have died of COVID-19
 - *1* people have recovered from COVID-19[1]
 
 The population in this census area is 3667. By our calculations:
-- 7.25% of the population have had COVID-19.[2]
-- 3.33% of the population or 122.0 people are actively fighting the virus.
+- 7.91% of the population have had COVID-19.[2]
+- 3.98% of the population or 146.0 people are actively fighting the virus.
 
 ## Synopsis
 

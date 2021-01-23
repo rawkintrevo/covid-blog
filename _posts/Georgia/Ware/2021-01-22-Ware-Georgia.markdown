@@ -12,13 +12,13 @@ tags: [Ware-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *163* new cases of COVID-19
+- *196* new cases of COVID-19
 - *14* people have died of COVID-19
-- *47* people have recovered from COVID-19[1]
+- *96* people have recovered from COVID-19[1]
 
 The population in this census area is 35734. By our calculations:
-- 11.31% of the population have had COVID-19.[2]
-- 2.02% of the population or 722.0 people are actively fighting the virus.
+- 11.40% of the population have had COVID-19.[2]
+- 1.98% of the population or 706.0 people are actively fighting the virus.
 
 ## Synopsis
 

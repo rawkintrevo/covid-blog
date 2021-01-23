@@ -12,13 +12,13 @@ tags: [Valley-Nebraska]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *9* new cases of COVID-19
+- *11* new cases of COVID-19
 - *0* people have died of COVID-19
 - *0* people have recovered from COVID-19[1]
 
 The population in this census area is 4158. By our calculations:
-- 6.93% of the population have had COVID-19.[2]
-- 0.94% of the population or 39.0 people are actively fighting the virus.
+- 6.97% of the population have had COVID-19.[2]
+- 0.99% of the population or 41.0 people are actively fighting the virus.
 
 ## Synopsis
 

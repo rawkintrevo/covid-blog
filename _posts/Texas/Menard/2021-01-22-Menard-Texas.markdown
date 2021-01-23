@@ -12,13 +12,13 @@ tags: [Menard-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *7* new cases of COVID-19
+- *14* new cases of COVID-19
 - *0* people have died of COVID-19
 - *-3* people have recovered from COVID-19[1]
 
 The population in this census area is 2138. By our calculations:
-- 8.47% of the population have had COVID-19.[2]
-- 0.47% of the population or 10.0 people are actively fighting the virus.
+- 8.79% of the population have had COVID-19.[2]
+- 0.80% of the population or 17.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Meriwether-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *87* new cases of COVID-19
+- *109* new cases of COVID-19
 - *1* people have died of COVID-19
-- *37* people have recovered from COVID-19[1]
+- *63* people have recovered from COVID-19[1]
 
 The population in this census area is 21167. By our calculations:
-- 6.90% of the population have had COVID-19.[2]
-- 1.59% of the population or 336.0 people are actively fighting the virus.
+- 7.00% of the population have had COVID-19.[2]
+- 1.57% of the population or 332.0 people are actively fighting the virus.
 
 ## Synopsis
 

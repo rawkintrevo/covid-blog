@@ -12,13 +12,13 @@ tags: [Denton-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *2820* new cases of COVID-19
-- *30* people have died of COVID-19
-- *614* people have recovered from COVID-19[1]
+- *3563* new cases of COVID-19
+- *36* people have died of COVID-19
+- *1217* people have recovered from COVID-19[1]
 
 The population in this census area is 887207. By our calculations:
-- 5.43% of the population have had COVID-19.[2]
-- 1.00% of the population or 8913.0 people are actively fighting the virus.
+- 5.52% of the population have had COVID-19.[2]
+- 1.02% of the population or 9047.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Camden-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *172* new cases of COVID-19
+- *197* new cases of COVID-19
 - *1* people have died of COVID-19
-- *72* people have recovered from COVID-19[1]
+- *108* people have recovered from COVID-19[1]
 
 The population in this census area is 54666. By our calculations:
-- 5.56% of the population have had COVID-19.[2]
-- 0.95% of the population or 519.0 people are actively fighting the virus.
+- 5.60% of the population have had COVID-19.[2]
+- 0.93% of the population or 508.0 people are actively fighting the virus.
 
 ## Synopsis
 

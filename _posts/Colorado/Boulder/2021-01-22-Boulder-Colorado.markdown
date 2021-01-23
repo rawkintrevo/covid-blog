@@ -12,12 +12,12 @@ tags: [Boulder-Colorado]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *407* new cases of COVID-19
-- *5* people have died of COVID-19
-- *205* people have recovered from COVID-19[1]
+- *473* new cases of COVID-19
+- *9* people have died of COVID-19
+- *267* people have recovered from COVID-19[1]
 
 The population in this census area is 326196. By our calculations:
-- 5.04% of the population have had COVID-19.[2]
+- 5.06% of the population have had COVID-19.[2]
 - 0.51% of the population or 1654.0 people are actively fighting the virus.
 
 ## Synopsis

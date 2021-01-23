@@ -12,13 +12,13 @@ tags: [Arlington-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *549* new cases of COVID-19
-- *5* people have died of COVID-19
-- *204* people have recovered from COVID-19[1]
+- *587* new cases of COVID-19
+- *8* people have died of COVID-19
+- *352* people have recovered from COVID-19[1]
 
 The population in this census area is 236842. By our calculations:
-- 4.61% of the population have had COVID-19.[2]
-- 0.79% of the population or 1872.0 people are actively fighting the virus.
+- 4.63% of the population have had COVID-19.[2]
+- 0.74% of the population or 1759.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Harrison-Iowa]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *37* new cases of COVID-19
+- *43* new cases of COVID-19
 - *1* people have died of COVID-19
-- *15* people have recovered from COVID-19[1]
+- *22* people have recovered from COVID-19[1]
 
 The population in this census area is 14049. By our calculations:
-- 11.15% of the population have had COVID-19.[2]
-- 0.80% of the population or 112.0 people are actively fighting the virus.
+- 11.20% of the population have had COVID-19.[2]
+- 0.79% of the population or 111.0 people are actively fighting the virus.
 
 ## Synopsis
 

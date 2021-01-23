@@ -12,13 +12,13 @@ tags: [Rush-Indiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *67* new cases of COVID-19
+- *77* new cases of COVID-19
 - *0* people have died of COVID-19
-- *50* people have recovered from COVID-19[1]
+- *68* people have recovered from COVID-19[1]
 
 The population in this census area is 16581. By our calculations:
-- 9.19% of the population have had COVID-19.[2]
-- 1.79% of the population or 297.0 people are actively fighting the virus.
+- 9.25% of the population have had COVID-19.[2]
+- 1.74% of the population or 289.0 people are actively fighting the virus.
 
 ## Synopsis
 

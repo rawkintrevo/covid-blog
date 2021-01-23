@@ -12,12 +12,12 @@ tags: [Banks-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *65* new cases of COVID-19
-- *1* people have died of COVID-19
-- *35* people have recovered from COVID-19[1]
+- *73* new cases of COVID-19
+- *2* people have died of COVID-19
+- *42* people have recovered from COVID-19[1]
 
 The population in this census area is 19234. By our calculations:
-- 7.71% of the population have had COVID-19.[2]
+- 7.76% of the population have had COVID-19.[2]
 - 1.22% of the population or 234.0 people are actively fighting the virus.
 
 ## Synopsis

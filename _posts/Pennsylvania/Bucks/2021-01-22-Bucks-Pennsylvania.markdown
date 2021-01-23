@@ -12,13 +12,13 @@ tags: [Bucks-Pennsylvania]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1499* new cases of COVID-19
-- *29* people have died of COVID-19
-- *765* people have recovered from COVID-19[1]
+- *1755* new cases of COVID-19
+- *36* people have died of COVID-19
+- *1091* people have recovered from COVID-19[1]
 
 The population in this census area is 628270. By our calculations:
-- 5.88% of the population have had COVID-19.[2]
-- 0.92% of the population or 5759.0 people are actively fighting the virus.
+- 5.92% of the population have had COVID-19.[2]
+- 0.90% of the population or 5682.0 people are actively fighting the virus.
 
 ## Synopsis
 

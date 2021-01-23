@@ -12,13 +12,13 @@ tags: [Monroe-Michigan]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *253* new cases of COVID-19
-- *-1* people have died of COVID-19
-- *1* people have recovered from COVID-19[1]
+- *305* new cases of COVID-19
+- *-2* people have died of COVID-19
+- *210* people have recovered from COVID-19[1]
 
 The population in this census area is 150500. By our calculations:
-- 5.83% of the population have had COVID-19.[2]
-- 0.76% of the population or 1149.0 people are actively fighting the virus.
+- 5.86% of the population have had COVID-19.[2]
+- 0.66% of the population or 993.0 people are actively fighting the virus.
 
 ## Synopsis
 

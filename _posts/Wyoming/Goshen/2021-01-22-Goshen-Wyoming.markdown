@@ -12,13 +12,13 @@ tags: [Goshen-Wyoming]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *29* new cases of COVID-19
+- *34* new cases of COVID-19
 - *1* people have died of COVID-19
 - *5* people have recovered from COVID-19[1]
 
 The population in this census area is 13211. By our calculations:
-- 8.29% of the population have had COVID-19.[2]
-- 0.62% of the population or 82.0 people are actively fighting the virus.
+- 8.33% of the population have had COVID-19.[2]
+- 0.66% of the population or 87.0 people are actively fighting the virus.
 
 ## Synopsis
 

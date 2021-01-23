@@ -12,13 +12,13 @@ tags: [Logan-Arkansas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *80* new cases of COVID-19
+- *107* new cases of COVID-19
 - *0* people have died of COVID-19
-- *45* people have recovered from COVID-19[1]
+- *71* people have recovered from COVID-19[1]
 
 The population in this census area is 21466. By our calculations:
-- 8.53% of the population have had COVID-19.[2]
-- 1.76% of the population or 377.0 people are actively fighting the virus.
+- 8.66% of the population have had COVID-19.[2]
+- 1.76% of the population or 378.0 people are actively fighting the virus.
 
 ## Synopsis
 

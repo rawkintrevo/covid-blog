@@ -12,13 +12,13 @@ tags: [Lampasas-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *44* new cases of COVID-19
+- *59* new cases of COVID-19
 - *1* people have died of COVID-19
 - *36* people have recovered from COVID-19[1]
 
 The population in this census area is 21428. By our calculations:
-- 4.32% of the population have had COVID-19.[2]
-- 0.80% of the population or 171.0 people are actively fighting the virus.
+- 4.39% of the population have had COVID-19.[2]
+- 0.87% of the population or 186.0 people are actively fighting the virus.
 
 ## Synopsis
 

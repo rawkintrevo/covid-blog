@@ -12,13 +12,13 @@ tags: [Charleston-South Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1640* new cases of COVID-19
-- *17* people have died of COVID-19
-- *323* people have recovered from COVID-19[1]
+- *1953* new cases of COVID-19
+- *19* people have died of COVID-19
+- *599* people have recovered from COVID-19[1]
 
 The population in this census area is 411406. By our calculations:
-- 7.20% of the population have had COVID-19.[2]
-- 1.31% of the population or 5376.0 people are actively fighting the virus.
+- 7.28% of the population have had COVID-19.[2]
+- 1.32% of the population or 5411.0 people are actively fighting the virus.
 
 ## Synopsis
 

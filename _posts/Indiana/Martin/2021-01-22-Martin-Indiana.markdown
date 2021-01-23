@@ -12,13 +12,13 @@ tags: [Martin-Indiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *30* new cases of COVID-19
+- *43* new cases of COVID-19
 - *0* people have died of COVID-19
-- *27* people have recovered from COVID-19[1]
+- *38* people have recovered from COVID-19[1]
 
 The population in this census area is 10255. By our calculations:
-- 6.92% of the population have had COVID-19.[2]
-- 1.05% of the population or 108.0 people are actively fighting the virus.
+- 7.05% of the population have had COVID-19.[2]
+- 1.07% of the population or 110.0 people are actively fighting the virus.
 
 ## Synopsis
 

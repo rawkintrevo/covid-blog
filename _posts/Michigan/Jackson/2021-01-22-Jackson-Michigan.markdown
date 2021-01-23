@@ -12,13 +12,13 @@ tags: [Jackson-Michigan]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *199* new cases of COVID-19
-- *4* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *249* new cases of COVID-19
+- *5* people have died of COVID-19
+- *175* people have recovered from COVID-19[1]
 
 The population in this census area is 158510. By our calculations:
-- 5.44% of the population have had COVID-19.[2]
-- 0.57% of the population or 897.0 people are actively fighting the virus.
+- 5.47% of the population have had COVID-19.[2]
+- 0.49% of the population or 771.0 people are actively fighting the virus.
 
 ## Synopsis
 

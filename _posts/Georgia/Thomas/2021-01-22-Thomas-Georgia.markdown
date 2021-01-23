@@ -12,13 +12,13 @@ tags: [Thomas-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *198* new cases of COVID-19
+- *230* new cases of COVID-19
 - *3* people have died of COVID-19
-- *75* people have recovered from COVID-19[1]
+- *112* people have recovered from COVID-19[1]
 
 The population in this census area is 44451. By our calculations:
-- 8.18% of the population have had COVID-19.[2]
-- 1.73% of the population or 771.0 people are actively fighting the virus.
+- 8.25% of the population have had COVID-19.[2]
+- 1.72% of the population or 766.0 people are actively fighting the virus.
 
 ## Synopsis
 

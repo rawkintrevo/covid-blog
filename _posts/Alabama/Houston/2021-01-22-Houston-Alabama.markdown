@@ -12,13 +12,13 @@ tags: [Houston-Alabama]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *308* new cases of COVID-19
+- *375* new cases of COVID-19
 - *33* people have died of COVID-19
-- *205* people have recovered from COVID-19[1]
+- *288* people have recovered from COVID-19[1]
 
 The population in this census area is 105882. By our calculations:
-- 8.26% of the population have had COVID-19.[2]
-- 1.21% of the population or 1282.0 people are actively fighting the virus.
+- 8.32% of the population have had COVID-19.[2]
+- 1.20% of the population or 1266.0 people are actively fighting the virus.
 
 ## Synopsis
 

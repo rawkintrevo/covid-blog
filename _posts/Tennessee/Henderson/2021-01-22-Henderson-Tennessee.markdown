@@ -12,13 +12,13 @@ tags: [Henderson-Tennessee]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *59* new cases of COVID-19
-- *5* people have died of COVID-19
-- *26* people have recovered from COVID-19[1]
+- *64* new cases of COVID-19
+- *6* people have died of COVID-19
+- *105* people have recovered from COVID-19[1]
 
 The population in this census area is 28117. By our calculations:
-- 11.90% of the population have had COVID-19.[2]
-- 1.38% of the population or 387.0 people are actively fighting the virus.
+- 11.92% of the population have had COVID-19.[2]
+- 1.11% of the population or 312.0 people are actively fighting the virus.
 
 ## Synopsis
 

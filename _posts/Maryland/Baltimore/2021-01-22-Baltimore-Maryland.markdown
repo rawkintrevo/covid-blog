@@ -12,13 +12,13 @@ tags: [Baltimore-Maryland]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1498* new cases of COVID-19
-- *38* people have died of COVID-19
-- *693* people have recovered from COVID-19[1]
+- *1796* new cases of COVID-19
+- *45* people have died of COVID-19
+- *1032* people have recovered from COVID-19[1]
 
 The population in this census area is 827370. By our calculations:
-- 5.40% of the population have had COVID-19.[2]
-- 0.65% of the population or 5378.0 people are actively fighting the virus.
+- 5.43% of the population have had COVID-19.[2]
+- 0.64% of the population or 5330.0 people are actively fighting the virus.
 
 ## Synopsis
 

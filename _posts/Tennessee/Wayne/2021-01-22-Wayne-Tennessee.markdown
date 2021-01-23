@@ -12,13 +12,13 @@ tags: [Wayne-Tennessee]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *67* new cases of COVID-19
-- *1* people have died of COVID-19
-- *15* people have recovered from COVID-19[1]
+- *76* new cases of COVID-19
+- *2* people have died of COVID-19
+- *50* people have recovered from COVID-19[1]
 
 The population in this census area is 16673. By our calculations:
-- 15.89% of the population have had COVID-19.[2]
-- 1.38% of the population or 230.0 people are actively fighting the virus.
+- 15.95% of the population have had COVID-19.[2]
+- 1.22% of the population or 203.0 people are actively fighting the virus.
 
 ## Synopsis
 

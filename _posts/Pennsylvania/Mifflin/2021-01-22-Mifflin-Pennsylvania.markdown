@@ -12,13 +12,13 @@ tags: [Mifflin-Pennsylvania]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *167* new cases of COVID-19
-- *5* people have died of COVID-19
-- *67* people have recovered from COVID-19[1]
+- *169* new cases of COVID-19
+- *11* people have died of COVID-19
+- *107* people have recovered from COVID-19[1]
 
 The population in this census area is 46138. By our calculations:
-- 8.80% of the population have had COVID-19.[2]
-- 1.26% of the population or 582.0 people are actively fighting the virus.
+- 8.82% of the population have had COVID-19.[2]
+- 1.17% of the population or 538.0 people are actively fighting the virus.
 
 ## Synopsis
 

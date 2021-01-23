@@ -12,13 +12,13 @@ tags: [Poinsett-Arkansas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *102* new cases of COVID-19
+- *127* new cases of COVID-19
 - *1* people have died of COVID-19
-- *31* people have recovered from COVID-19[1]
+- *39* people have recovered from COVID-19[1]
 
 The population in this census area is 23528. By our calculations:
-- 11.82% of the population have had COVID-19.[2]
-- 1.50% of the population or 353.0 people are actively fighting the virus.
+- 11.93% of the population have had COVID-19.[2]
+- 1.57% of the population or 370.0 people are actively fighting the virus.
 
 ## Synopsis
 

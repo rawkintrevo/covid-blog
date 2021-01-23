@@ -12,13 +12,13 @@ tags: [Boone-Iowa]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *53* new cases of COVID-19
+- *68* new cases of COVID-19
 - *1* people have died of COVID-19
-- *35* people have recovered from COVID-19[1]
+- *40* people have recovered from COVID-19[1]
 
 The population in this census area is 26234. By our calculations:
-- 8.37% of the population have had COVID-19.[2]
-- 1.03% of the population or 269.0 people are actively fighting the virus.
+- 8.42% of the population have had COVID-19.[2]
+- 1.06% of the population or 279.0 people are actively fighting the virus.
 
 ## Synopsis
 

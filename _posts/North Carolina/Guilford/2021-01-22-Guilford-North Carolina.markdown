@@ -12,13 +12,13 @@ tags: [Guilford-North Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *2026* new cases of COVID-19
-- *10* people have died of COVID-19
-- *292* people have recovered from COVID-19[1]
+- *2288* new cases of COVID-19
+- *15* people have died of COVID-19
+- *1226* people have recovered from COVID-19[1]
 
 The population in this census area is 537174. By our calculations:
-- 5.91% of the population have had COVID-19.[2]
-- 1.33% of the population or 7168.0 people are actively fighting the virus.
+- 5.96% of the population have had COVID-19.[2]
+- 1.21% of the population or 6491.0 people are actively fighting the virus.
 
 ## Synopsis
 

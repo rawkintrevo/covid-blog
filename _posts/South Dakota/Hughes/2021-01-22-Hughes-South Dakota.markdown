@@ -12,13 +12,13 @@ tags: [Hughes-South Dakota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *39* new cases of COVID-19
+- *56* new cases of COVID-19
 - *1* people have died of COVID-19
-- *14* people have recovered from COVID-19[1]
+- *16* people have recovered from COVID-19[1]
 
 The population in this census area is 17526. By our calculations:
-- 12.21% of the population have had COVID-19.[2]
-- 0.64% of the population or 112.0 people are actively fighting the virus.
+- 12.31% of the population have had COVID-19.[2]
+- 0.72% of the population or 127.0 people are actively fighting the virus.
 
 ## Synopsis
 

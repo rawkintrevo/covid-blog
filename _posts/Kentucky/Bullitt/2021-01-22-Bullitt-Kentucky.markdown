@@ -12,13 +12,13 @@ tags: [Bullitt-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *228* new cases of COVID-19
+- *278* new cases of COVID-19
 - *2* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *102* people have recovered from COVID-19[1]
 
 The population in this census area is 81676. By our calculations:
-- 6.22% of the population have had COVID-19.[2]
-- 1.15% of the population or 939.0 people are actively fighting the virus.
+- 6.28% of the population have had COVID-19.[2]
+- 1.09% of the population or 887.0 people are actively fighting the virus.
 
 ## Synopsis
 

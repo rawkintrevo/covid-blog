@@ -12,13 +12,13 @@ tags: [Orange-North Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *274* new cases of COVID-19
+- *326* new cases of COVID-19
 - *2* people have died of COVID-19
-- *55* people have recovered from COVID-19[1]
+- *201* people have recovered from COVID-19[1]
 
 The population in this census area is 148476. By our calculations:
-- 4.15% of the population have had COVID-19.[2]
-- 0.73% of the population or 1082.0 people are actively fighting the virus.
+- 4.18% of the population have had COVID-19.[2]
+- 0.67% of the population or 988.0 people are actively fighting the virus.
 
 ## Synopsis
 

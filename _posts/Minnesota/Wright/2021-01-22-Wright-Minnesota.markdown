@@ -12,13 +12,13 @@ tags: [Wright-Minnesota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *168* new cases of COVID-19
-- *3* people have died of COVID-19
-- *52* people have recovered from COVID-19[1]
+- *198* new cases of COVID-19
+- *5* people have died of COVID-19
+- *118* people have recovered from COVID-19[1]
 
 The population in this census area is 138377. By our calculations:
-- 8.42% of the population have had COVID-19.[2]
-- 0.58% of the population or 806.0 people are actively fighting the virus.
+- 8.45% of the population have had COVID-19.[2]
+- 0.56% of the population or 768.0 people are actively fighting the virus.
 
 ## Synopsis
 

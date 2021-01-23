@@ -12,13 +12,13 @@ tags: [Jefferson-Washington]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *15* new cases of COVID-19
+- *16* new cases of COVID-19
 - *0* people have died of COVID-19
 - *1* people have recovered from COVID-19[1]
 
 The population in this census area is 32221. By our calculations:
 - 0.86% of the population have had COVID-19.[2]
-- 0.17% of the population or 55.0 people are actively fighting the virus.
+- 0.17% of the population or 56.0 people are actively fighting the virus.
 
 ## Synopsis
 

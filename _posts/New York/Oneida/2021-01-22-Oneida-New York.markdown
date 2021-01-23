@@ -12,13 +12,13 @@ tags: [Oneida-New York]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1174* new cases of COVID-19
-- *26* people have died of COVID-19
-- *599* people have recovered from COVID-19[1]
+- *1359* new cases of COVID-19
+- *32* people have died of COVID-19
+- *891* people have recovered from COVID-19[1]
 
 The population in this census area is 228671. By our calculations:
-- 7.42% of the population have had COVID-19.[2]
-- 1.94% of the population or 4439.0 people are actively fighting the virus.
+- 7.51% of the population have had COVID-19.[2]
+- 1.89% of the population or 4326.0 people are actively fighting the virus.
 
 ## Synopsis
 

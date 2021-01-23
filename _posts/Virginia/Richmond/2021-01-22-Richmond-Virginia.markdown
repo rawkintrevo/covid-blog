@@ -12,13 +12,13 @@ tags: [Richmond-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *136* new cases of COVID-19
+- *155* new cases of COVID-19
 - *0* people have died of COVID-19
-- *10* people have recovered from COVID-19[1]
+- *22* people have recovered from COVID-19[1]
 
 The population in this census area is 9023. By our calculations:
-- 12.93% of the population have had COVID-19.[2]
-- 3.81% of the population or 344.0 people are actively fighting the virus.
+- 13.14% of the population have had COVID-19.[2]
+- 3.89% of the population or 351.0 people are actively fighting the virus.
 
 ## Synopsis
 

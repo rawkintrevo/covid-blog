@@ -12,13 +12,13 @@ tags: [Lyon-Nevada]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *75* new cases of COVID-19
+- *79* new cases of COVID-19
 - *4* people have died of COVID-19
 - *49* people have recovered from COVID-19[1]
 
 The population in this census area is 57510. By our calculations:
-- 4.30% of the population have had COVID-19.[2]
-- 0.53% of the population or 304.0 people are actively fighting the virus.
+- 4.31% of the population have had COVID-19.[2]
+- 0.54% of the population or 308.0 people are actively fighting the virus.
 
 ## Synopsis
 

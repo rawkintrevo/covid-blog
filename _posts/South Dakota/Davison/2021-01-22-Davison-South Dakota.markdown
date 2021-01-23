@@ -12,13 +12,13 @@ tags: [Davison-South Dakota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *22* new cases of COVID-19
+- *24* new cases of COVID-19
 - *2* people have died of COVID-19
-- *10* people have recovered from COVID-19[1]
+- *18* people have recovered from COVID-19[1]
 
 The population in this census area is 19775. By our calculations:
-- 14.45% of the population have had COVID-19.[2]
-- 0.70% of the population or 138.0 people are actively fighting the virus.
+- 14.46% of the population have had COVID-19.[2]
+- 0.67% of the population or 132.0 people are actively fighting the virus.
 
 ## Synopsis
 

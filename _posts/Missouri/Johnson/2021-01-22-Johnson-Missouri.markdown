@@ -12,13 +12,13 @@ tags: [Johnson-Missouri]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *63* new cases of COVID-19
+- *82* new cases of COVID-19
 - *0* people have died of COVID-19
-- *47* people have recovered from COVID-19[1]
+- *67* people have recovered from COVID-19[1]
 
 The population in this census area is 54062. By our calculations:
-- 6.58% of the population have had COVID-19.[2]
-- 0.57% of the population or 306.0 people are actively fighting the virus.
+- 6.62% of the population have had COVID-19.[2]
+- 0.56% of the population or 305.0 people are actively fighting the virus.
 
 ## Synopsis
 

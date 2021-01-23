@@ -12,13 +12,13 @@ tags: [Chicot-Arkansas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *22* new cases of COVID-19
+- *28* new cases of COVID-19
 - *1* people have died of COVID-19
-- *18* people have recovered from COVID-19[1]
+- *20* people have recovered from COVID-19[1]
 
 The population in this census area is 10118. By our calculations:
-- 14.94% of the population have had COVID-19.[2]
-- 0.87% of the population or 88.0 people are actively fighting the virus.
+- 15.00% of the population have had COVID-19.[2]
+- 0.91% of the population or 92.0 people are actively fighting the virus.
 
 ## Synopsis
 

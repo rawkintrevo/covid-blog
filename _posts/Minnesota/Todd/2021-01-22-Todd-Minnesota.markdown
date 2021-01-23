@@ -12,13 +12,13 @@ tags: [Todd-Minnesota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *21* new cases of COVID-19
+- *24* new cases of COVID-19
 - *1* people have died of COVID-19
-- *6* people have recovered from COVID-19[1]
+- *15* people have recovered from COVID-19[1]
 
 The population in this census area is 24664. By our calculations:
-- 9.41% of the population have had COVID-19.[2]
-- 0.38% of the population or 93.0 people are actively fighting the virus.
+- 9.43% of the population have had COVID-19.[2]
+- 0.35% of the population or 87.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Morrow-Oregon]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *30* new cases of COVID-19
+- *40* new cases of COVID-19
 - *1* people have died of COVID-19
-- *10* people have recovered from COVID-19[1]
+- *24* people have recovered from COVID-19[1]
 
 The population in this census area is 11603. By our calculations:
-- 8.14% of the population have had COVID-19.[2]
-- 1.10% of the population or 128.0 people are actively fighting the virus.
+- 8.23% of the population have had COVID-19.[2]
+- 1.07% of the population or 124.0 people are actively fighting the virus.
 
 ## Synopsis
 

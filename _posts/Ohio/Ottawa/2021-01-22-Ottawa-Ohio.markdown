@@ -12,13 +12,13 @@ tags: [Ottawa-Ohio]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *115* new cases of COVID-19
-- *0* people have died of COVID-19
-- *34* people have recovered from COVID-19[1]
+- *128* new cases of COVID-19
+- *9* people have died of COVID-19
+- *94* people have recovered from COVID-19[1]
 
 The population in this census area is 40525. By our calculations:
-- 7.08% of the population have had COVID-19.[2]
-- 1.30% of the population or 528.0 people are actively fighting the virus.
+- 7.14% of the population have had COVID-19.[2]
+- 1.16% of the population or 472.0 people are actively fighting the virus.
 
 ## Synopsis
 

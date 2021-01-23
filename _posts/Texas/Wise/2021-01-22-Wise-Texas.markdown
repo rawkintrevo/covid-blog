@@ -12,13 +12,13 @@ tags: [Wise-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *367* new cases of COVID-19
-- *5* people have died of COVID-19
-- *130* people have recovered from COVID-19[1]
+- *398* new cases of COVID-19
+- *8* people have died of COVID-19
+- *127* people have recovered from COVID-19[1]
 
 The population in this census area is 69984. By our calculations:
-- 8.05% of the population have had COVID-19.[2]
-- 1.81% of the population or 1270.0 people are actively fighting the virus.
+- 8.10% of the population have had COVID-19.[2]
+- 1.86% of the population or 1301.0 people are actively fighting the virus.
 
 ## Synopsis
 

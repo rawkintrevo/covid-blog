@@ -12,13 +12,13 @@ tags: [Fulton-Illinois]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *62* new cases of COVID-19
+- *68* new cases of COVID-19
 - *1* people have died of COVID-19
-- *19* people have recovered from COVID-19[1]
+- *43* people have recovered from COVID-19[1]
 
 The population in this census area is 34340. By our calculations:
-- 7.50% of the population have had COVID-19.[2]
-- 0.63% of the population or 215.0 people are actively fighting the virus.
+- 7.52% of the population have had COVID-19.[2]
+- 0.57% of the population or 197.0 people are actively fighting the virus.
 
 ## Synopsis
 

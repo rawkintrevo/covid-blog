@@ -12,13 +12,13 @@ tags: [York-Pennsylvania]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1457* new cases of COVID-19
-- *35* people have died of COVID-19
-- *621* people have recovered from COVID-19[1]
+- *1651* new cases of COVID-19
+- *46* people have died of COVID-19
+- *903* people have recovered from COVID-19[1]
 
 The population in this census area is 449058. By our calculations:
-- 6.49% of the population have had COVID-19.[2]
-- 1.21% of the population or 5436.0 people are actively fighting the virus.
+- 6.54% of the population have had COVID-19.[2]
+- 1.19% of the population or 5337.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Dorchester-South Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *880* new cases of COVID-19
-- *4* people have died of COVID-19
-- *170* people have recovered from COVID-19[1]
+- *1041* new cases of COVID-19
+- *7* people have died of COVID-19
+- *295* people have recovered from COVID-19[1]
 
 The population in this census area is 162809. By our calculations:
-- 6.83% of the population have had COVID-19.[2]
-- 1.70% of the population or 2764.0 people are actively fighting the virus.
+- 6.94% of the population have had COVID-19.[2]
+- 1.72% of the population or 2797.0 people are actively fighting the virus.
 
 ## Synopsis
 

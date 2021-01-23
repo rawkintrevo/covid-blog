@@ -12,13 +12,13 @@ tags: [Logan-Ohio]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *156* new cases of COVID-19
-- *3* people have died of COVID-19
-- *45* people have recovered from COVID-19[1]
+- *189* new cases of COVID-19
+- *4* people have died of COVID-19
+- *115* people have recovered from COVID-19[1]
 
 The population in this census area is 45672. By our calculations:
-- 6.58% of the population have had COVID-19.[2]
-- 1.34% of the population or 614.0 people are actively fighting the virus.
+- 6.66% of the population have had COVID-19.[2]
+- 1.26% of the population or 576.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Fairfax-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *3958* new cases of COVID-19
-- *13* people have died of COVID-19
-- *1081* people have recovered from COVID-19[1]
+- *4244* new cases of COVID-19
+- *17* people have died of COVID-19
+- *1707* people have recovered from COVID-19[1]
 
 The population in this census area is 1147532. By our calculations:
-- 4.82% of the population have had COVID-19.[2]
-- 0.92% of the population or 10548.0 people are actively fighting the virus.
+- 4.84% of the population have had COVID-19.[2]
+- 0.89% of the population or 10204.0 people are actively fighting the virus.
 
 ## Synopsis
 

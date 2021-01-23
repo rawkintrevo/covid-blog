@@ -12,13 +12,13 @@ tags: [Arkansas-Arkansas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *118* new cases of COVID-19
+- *146* new cases of COVID-19
 - *1* people have died of COVID-19
-- *25* people have recovered from COVID-19[1]
+- *32* people have recovered from COVID-19[1]
 
 The population in this census area is 17486. By our calculations:
-- 9.25% of the population have had COVID-19.[2]
-- 1.65% of the population or 289.0 people are actively fighting the virus.
+- 9.41% of the population have had COVID-19.[2]
+- 1.77% of the population or 310.0 people are actively fighting the virus.
 
 ## Synopsis
 

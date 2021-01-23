@@ -12,13 +12,13 @@ tags: [Sumter-South Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *501* new cases of COVID-19
+- *547* new cases of COVID-19
 - *8* people have died of COVID-19
-- *39* people have recovered from COVID-19[1]
+- *136* people have recovered from COVID-19[1]
 
 The population in this census area is 106721. By our calculations:
-- 6.69% of the population have had COVID-19.[2]
-- 1.49% of the population or 1595.0 people are actively fighting the virus.
+- 6.73% of the population have had COVID-19.[2]
+- 1.45% of the population or 1544.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Alamosa-Colorado]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *49* new cases of COVID-19
+- *59* new cases of COVID-19
 - *0* people have died of COVID-19
-- *27* people have recovered from COVID-19[1]
+- *28* people have recovered from COVID-19[1]
 
 The population in this census area is 16233. By our calculations:
-- 6.70% of the population have had COVID-19.[2]
-- 0.84% of the population or 137.0 people are actively fighting the virus.
+- 6.76% of the population have had COVID-19.[2]
+- 0.90% of the population or 146.0 people are actively fighting the virus.
 
 ## Synopsis
 

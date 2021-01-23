@@ -12,13 +12,13 @@ tags: [Owen-Indiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *61* new cases of COVID-19
+- *72* new cases of COVID-19
 - *1* people have died of COVID-19
-- *50* people have recovered from COVID-19[1]
+- *65* people have recovered from COVID-19[1]
 
 The population in this census area is 20799. By our calculations:
-- 7.77% of the population have had COVID-19.[2]
-- 1.28% of the population or 267.0 people are actively fighting the virus.
+- 7.83% of the population have had COVID-19.[2]
+- 1.26% of the population or 263.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Pemiscot-Missouri]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *15* new cases of COVID-19
+- *20* new cases of COVID-19
 - *0* people have died of COVID-19
 - *19* people have recovered from COVID-19[1]
 
 The population in this census area is 15805. By our calculations:
-- 8.57% of the population have had COVID-19.[2]
-- 0.41% of the population or 65.0 people are actively fighting the virus.
+- 8.60% of the population have had COVID-19.[2]
+- 0.44% of the population or 70.0 people are actively fighting the virus.
 
 ## Synopsis
 

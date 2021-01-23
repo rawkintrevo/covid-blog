@@ -12,13 +12,13 @@ tags: [Covington-Mississippi]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *78* new cases of COVID-19
+- *97* new cases of COVID-19
 - *1* people have died of COVID-19
-- *34* people have recovered from COVID-19[1]
+- *57* people have recovered from COVID-19[1]
 
 The population in this census area is 18636. By our calculations:
-- 11.54% of the population have had COVID-19.[2]
-- 1.53% of the population or 286.0 people are actively fighting the virus.
+- 11.64% of the population have had COVID-19.[2]
+- 1.51% of the population or 282.0 people are actively fighting the virus.
 
 ## Synopsis
 

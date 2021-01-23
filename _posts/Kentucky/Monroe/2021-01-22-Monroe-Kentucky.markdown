@@ -12,13 +12,13 @@ tags: [Monroe-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *23* new cases of COVID-19
-- *4* people have died of COVID-19
-- *-4* people have recovered from COVID-19[1]
+- *26* new cases of COVID-19
+- *5* people have died of COVID-19
+- *19* people have recovered from COVID-19[1]
 
 The population in this census area is 10650. By our calculations:
-- 10.36% of the population have had COVID-19.[2]
-- 1.43% of the population or 152.0 people are actively fighting the virus.
+- 10.39% of the population have had COVID-19.[2]
+- 1.23% of the population or 131.0 people are actively fighting the virus.
 
 ## Synopsis
 

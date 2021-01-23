@@ -12,13 +12,13 @@ tags: [Douglas-Illinois]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *25* new cases of COVID-19
-- *0* people have died of COVID-19
-- *18* people have recovered from COVID-19[1]
+- *38* new cases of COVID-19
+- *1* people have died of COVID-19
+- *39* people have recovered from COVID-19[1]
 
 The population in this census area is 19465. By our calculations:
-- 10.31% of the population have had COVID-19.[2]
-- 0.76% of the population or 148.0 people are actively fighting the virus.
+- 10.38% of the population have had COVID-19.[2]
+- 0.71% of the population or 139.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Colfax-Nebraska]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *9* new cases of COVID-19
+- *16* new cases of COVID-19
 - *0* people have died of COVID-19
-- *13* people have recovered from COVID-19[1]
+- *14* people have recovered from COVID-19[1]
 
 The population in this census area is 10709. By our calculations:
-- 14.05% of the population have had COVID-19.[2]
-- 0.53% of the population or 57.0 people are actively fighting the virus.
+- 14.12% of the population have had COVID-19.[2]
+- 0.59% of the population or 63.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Mingo-West Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *106* new cases of COVID-19
+- *114* new cases of COVID-19
 - *0* people have died of COVID-19
-- *41* people have recovered from COVID-19[1]
+- *83* people have recovered from COVID-19[1]
 
 The population in this census area is 23424. By our calculations:
-- 7.66% of the population have had COVID-19.[2]
-- 1.43% of the population or 336.0 people are actively fighting the virus.
+- 7.70% of the population have had COVID-19.[2]
+- 1.29% of the population or 302.0 people are actively fighting the virus.
 
 ## Synopsis
 

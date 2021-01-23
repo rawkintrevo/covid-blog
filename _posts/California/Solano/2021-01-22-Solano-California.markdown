@@ -12,13 +12,13 @@ tags: [Solano-California]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1690* new cases of COVID-19
-- *2* people have died of COVID-19
-- *201* people have recovered from COVID-19[1]
+- *1897* new cases of COVID-19
+- *3* people have died of COVID-19
+- *382* people have recovered from COVID-19[1]
 
 The population in this census area is 447643. By our calculations:
-- 5.80% of the population have had COVID-19.[2]
-- 1.51% of the population or 6756.0 people are actively fighting the virus.
+- 5.85% of the population have had COVID-19.[2]
+- 1.51% of the population or 6781.0 people are actively fighting the virus.
 
 ## Synopsis
 

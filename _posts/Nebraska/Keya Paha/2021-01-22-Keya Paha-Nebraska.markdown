@@ -12,13 +12,13 @@ tags: [Keya Paha-Nebraska]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *5* new cases of COVID-19
+- *4* new cases of COVID-19
 - *0* people have died of COVID-19
 - *0* people have recovered from COVID-19[1]
 
 The population in this census area is 806. By our calculations:
-- 5.33% of the population have had COVID-19.[2]
-- 0.62% of the population or 5.0 people are actively fighting the virus.
+- 5.21% of the population have had COVID-19.[2]
+- 0.50% of the population or 4.0 people are actively fighting the virus.
 
 ## Synopsis
 

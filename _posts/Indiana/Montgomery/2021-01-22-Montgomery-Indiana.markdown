@@ -12,13 +12,13 @@ tags: [Montgomery-Indiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *95* new cases of COVID-19
-- *3* people have died of COVID-19
-- *90* people have recovered from COVID-19[1]
+- *112* new cases of COVID-19
+- *4* people have died of COVID-19
+- *117* people have recovered from COVID-19[1]
 
 The population in this census area is 38338. By our calculations:
-- 8.84% of the population have had COVID-19.[2]
-- 1.28% of the population or 491.0 people are actively fighting the virus.
+- 8.89% of the population have had COVID-19.[2]
+- 1.25% of the population or 480.0 people are actively fighting the virus.
 
 ## Synopsis
 

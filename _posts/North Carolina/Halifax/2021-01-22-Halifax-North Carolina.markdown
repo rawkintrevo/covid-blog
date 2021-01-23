@@ -12,13 +12,13 @@ tags: [Halifax-North Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *245* new cases of COVID-19
-- *6* people have died of COVID-19
-- *62* people have recovered from COVID-19[1]
+- *290* new cases of COVID-19
+- *7* people have died of COVID-19
+- *169* people have recovered from COVID-19[1]
 
 The population in this census area is 50010. By our calculations:
-- 7.75% of the population have had COVID-19.[2]
-- 1.92% of the population or 959.0 people are actively fighting the virus.
+- 7.84% of the population have had COVID-19.[2]
+- 1.79% of the population or 896.0 people are actively fighting the virus.
 
 ## Synopsis
 

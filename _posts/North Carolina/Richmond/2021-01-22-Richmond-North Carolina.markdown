@@ -12,13 +12,13 @@ tags: [Richmond-North Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *164* new cases of COVID-19
+- *213* new cases of COVID-19
 - *7* people have died of COVID-19
-- *23* people have recovered from COVID-19[1]
+- *94* people have recovered from COVID-19[1]
 
 The population in this census area is 44829. By our calculations:
-- 7.43% of the population have had COVID-19.[2]
-- 1.54% of the population or 691.0 people are actively fighting the virus.
+- 7.54% of the population have had COVID-19.[2]
+- 1.49% of the population or 669.0 people are actively fighting the virus.
 
 ## Synopsis
 

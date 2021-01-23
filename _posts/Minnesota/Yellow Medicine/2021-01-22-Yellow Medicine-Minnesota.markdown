@@ -12,13 +12,13 @@ tags: [Yellow Medicine-Minnesota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *11* new cases of COVID-19
-- *1* people have died of COVID-19
-- *18* people have recovered from COVID-19[1]
+- *12* new cases of COVID-19
+- *2* people have died of COVID-19
+- *25* people have recovered from COVID-19[1]
 
 The population in this census area is 9709. By our calculations:
-- 9.65% of the population have had COVID-19.[2]
-- 0.58% of the population or 56.0 people are actively fighting the virus.
+- 9.67% of the population have had COVID-19.[2]
+- 0.50% of the population or 49.0 people are actively fighting the virus.
 
 ## Synopsis
 

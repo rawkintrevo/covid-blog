@@ -12,13 +12,13 @@ tags: [Marion-West Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *334* new cases of COVID-19
+- *380* new cases of COVID-19
 - *3* people have died of COVID-19
-- *138* people have recovered from COVID-19[1]
+- *211* people have recovered from COVID-19[1]
 
 The population in this census area is 56072. By our calculations:
-- 5.31% of the population have had COVID-19.[2]
-- 1.89% of the population or 1057.0 people are actively fighting the virus.
+- 5.39% of the population have had COVID-19.[2]
+- 1.84% of the population or 1030.0 people are actively fighting the virus.
 
 ## Synopsis
 

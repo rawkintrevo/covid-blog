@@ -12,13 +12,13 @@ tags: [Juneau-Wisconsin]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *82* new cases of COVID-19
+- *93* new cases of COVID-19
 - *4* people have died of COVID-19
-- *57* people have recovered from COVID-19[1]
+- *59* people have recovered from COVID-19[1]
 
 The population in this census area is 26687. By our calculations:
-- 10.81% of the population have had COVID-19.[2]
-- 1.30% of the population or 347.0 people are actively fighting the virus.
+- 10.85% of the population have had COVID-19.[2]
+- 1.33% of the population or 356.0 people are actively fighting the virus.
 
 ## Synopsis
 

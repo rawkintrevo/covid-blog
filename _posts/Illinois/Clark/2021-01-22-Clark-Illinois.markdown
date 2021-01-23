@@ -12,13 +12,13 @@ tags: [Clark-Illinois]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *45* new cases of COVID-19
-- *6* people have died of COVID-19
-- *9* people have recovered from COVID-19[1]
+- *60* new cases of COVID-19
+- *7* people have died of COVID-19
+- *28* people have recovered from COVID-19[1]
 
 The population in this census area is 15441. By our calculations:
-- 9.62% of the population have had COVID-19.[2]
-- 1.72% of the population or 265.0 people are actively fighting the virus.
+- 9.72% of the population have had COVID-19.[2]
+- 1.68% of the population or 260.0 people are actively fighting the virus.
 
 ## Synopsis
 

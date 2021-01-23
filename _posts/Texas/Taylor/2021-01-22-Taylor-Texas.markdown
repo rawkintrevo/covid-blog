@@ -12,13 +12,13 @@ tags: [Taylor-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *671* new cases of COVID-19
-- *27* people have died of COVID-19
-- *249* people have recovered from COVID-19[1]
+- *779* new cases of COVID-19
+- *31* people have died of COVID-19
+- *285* people have recovered from COVID-19[1]
 
 The population in this census area is 138034. By our calculations:
-- 9.67% of the population have had COVID-19.[2]
-- 1.51% of the population or 2089.0 people are actively fighting the virus.
+- 9.75% of the population have had COVID-19.[2]
+- 1.56% of the population or 2157.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Racine-Wisconsin]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *401* new cases of COVID-19
-- *9* people have died of COVID-19
-- *210* people have recovered from COVID-19[1]
+- *585* new cases of COVID-19
+- *10* people have died of COVID-19
+- *312* people have recovered from COVID-19[1]
 
 The population in this census area is 196311. By our calculations:
-- 11.02% of the population have had COVID-19.[2]
-- 1.03% of the population or 2016.0 people are actively fighting the virus.
+- 11.11% of the population have had COVID-19.[2]
+- 1.07% of the population or 2097.0 people are actively fighting the virus.
 
 ## Synopsis
 

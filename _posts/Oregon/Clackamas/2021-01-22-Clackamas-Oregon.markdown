@@ -12,13 +12,13 @@ tags: [Clackamas-Oregon]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *340* new cases of COVID-19
-- *4* people have died of COVID-19
-- *141* people have recovered from COVID-19[1]
+- *416* new cases of COVID-19
+- *5* people have died of COVID-19
+- *225* people have recovered from COVID-19[1]
 
 The population in this census area is 418187. By our calculations:
-- 2.82% of the population have had COVID-19.[2]
-- 0.41% of the population or 1701.0 people are actively fighting the virus.
+- 2.84% of the population have had COVID-19.[2]
+- 0.40% of the population or 1692.0 people are actively fighting the virus.
 
 ## Synopsis
 

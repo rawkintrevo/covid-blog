@@ -12,13 +12,13 @@ tags: [Hancock-Maine]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *40* new cases of COVID-19
+- *44* new cases of COVID-19
 - *5* people have died of COVID-19
-- *19* people have recovered from COVID-19[1]
+- *21* people have recovered from COVID-19[1]
 
 The population in this census area is 54987. By our calculations:
-- 1.28% of the population have had COVID-19.[2]
-- 0.25% of the population or 136.0 people are actively fighting the virus.
+- 1.29% of the population have had COVID-19.[2]
+- 0.25% of the population or 138.0 people are actively fighting the virus.
 
 ## Synopsis
 

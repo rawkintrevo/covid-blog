@@ -12,13 +12,13 @@ tags: [Clearfield-Pennsylvania]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *222* new cases of COVID-19
-- *16* people have died of COVID-19
-- *175* people have recovered from COVID-19[1]
+- *278* new cases of COVID-19
+- *18* people have died of COVID-19
+- *280* people have recovered from COVID-19[1]
 
 The population in this census area is 79255. By our calculations:
-- 6.58% of the population have had COVID-19.[2]
-- 1.32% of the population or 1048.0 people are actively fighting the virus.
+- 6.65% of the population have had COVID-19.[2]
+- 1.26% of the population or 997.0 people are actively fighting the virus.
 
 ## Synopsis
 

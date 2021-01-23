@@ -12,13 +12,13 @@ tags: [Montour-Pennsylvania]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *86* new cases of COVID-19
+- *105* new cases of COVID-19
 - *8* people have died of COVID-19
-- *79* people have recovered from COVID-19[1]
+- *131* people have recovered from COVID-19[1]
 
 The population in this census area is 18230. By our calculations:
-- 8.10% of the population have had COVID-19.[2]
-- 1.61% of the population or 293.0 people are actively fighting the virus.
+- 8.20% of the population have had COVID-19.[2]
+- 1.43% of the population or 260.0 people are actively fighting the virus.
 
 ## Synopsis
 

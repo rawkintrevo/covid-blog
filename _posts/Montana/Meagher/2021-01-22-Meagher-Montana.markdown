@@ -14,11 +14,11 @@ tags: [Meagher-Montana]
 In the last 7 days[3] we project there have been
 - *0* new cases of COVID-19
 - *0* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *1* people have recovered from COVID-19[1]
 
 The population in this census area is 1862. By our calculations:
 - 6.12% of the population have had COVID-19.[2]
-- 0.16% of the population or 3.0 people are actively fighting the virus.
+- 0.11% of the population or 2.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Coffee-Tennessee]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *159* new cases of COVID-19
+- *200* new cases of COVID-19
 - *1* people have died of COVID-19
-- *50* people have recovered from COVID-19[1]
+- *162* people have recovered from COVID-19[1]
 
 The population in this census area is 56520. By our calculations:
-- 10.04% of the population have had COVID-19.[2]
-- 1.31% of the population or 740.0 people are actively fighting the virus.
+- 10.11% of the population have had COVID-19.[2]
+- 1.18% of the population or 669.0 people are actively fighting the virus.
 
 ## Synopsis
 

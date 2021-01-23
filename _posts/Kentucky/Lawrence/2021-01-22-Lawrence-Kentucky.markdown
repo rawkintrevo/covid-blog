@@ -12,13 +12,13 @@ tags: [Lawrence-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *37* new cases of COVID-19
+- *44* new cases of COVID-19
 - *0* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *67* people have recovered from COVID-19[1]
 
 The population in this census area is 15317. By our calculations:
-- 6.62% of the population have had COVID-19.[2]
-- 1.67% of the population or 256.0 people are actively fighting the virus.
+- 6.67% of the population have had COVID-19.[2]
+- 1.28% of the population or 196.0 people are actively fighting the virus.
 
 ## Synopsis
 

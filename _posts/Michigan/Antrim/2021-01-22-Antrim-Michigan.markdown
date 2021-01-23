@@ -12,13 +12,13 @@ tags: [Antrim-Michigan]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *32* new cases of COVID-19
-- *2* people have died of COVID-19
-- *-2* people have recovered from COVID-19[1]
+- *33* new cases of COVID-19
+- *1* people have died of COVID-19
+- *44* people have recovered from COVID-19[1]
 
 The population in this census area is 23324. By our calculations:
 - 3.46% of the population have had COVID-19.[2]
-- 0.77% of the population or 179.0 people are actively fighting the virus.
+- 0.58% of the population or 135.0 people are actively fighting the virus.
 
 ## Synopsis
 

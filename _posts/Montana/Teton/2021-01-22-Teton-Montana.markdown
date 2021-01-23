@@ -12,13 +12,13 @@ tags: [Teton-Montana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *26* new cases of COVID-19
+- *30* new cases of COVID-19
 - *0* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *3* people have recovered from COVID-19[1]
 
 The population in this census area is 6147. By our calculations:
-- 5.86% of the population have had COVID-19.[2]
-- 0.78% of the population or 48.0 people are actively fighting the virus.
+- 5.92% of the population have had COVID-19.[2]
+- 0.80% of the population or 49.0 people are actively fighting the virus.
 
 ## Synopsis
 

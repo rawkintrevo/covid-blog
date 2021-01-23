@@ -12,13 +12,13 @@ tags: [Spencer-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *58* new cases of COVID-19
+- *71* new cases of COVID-19
 - *0* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *23* people have recovered from COVID-19[1]
 
 The population in this census area is 19351. By our calculations:
-- 6.20% of the population have had COVID-19.[2]
-- 1.10% of the population or 213.0 people are actively fighting the virus.
+- 6.27% of the population have had COVID-19.[2]
+- 1.05% of the population or 203.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Grant-Indiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *173* new cases of COVID-19
-- *4* people have died of COVID-19
-- *150* people have recovered from COVID-19[1]
+- *216* new cases of COVID-19
+- *5* people have died of COVID-19
+- *183* people have recovered from COVID-19[1]
 
 The population in this census area is 65769. By our calculations:
-- 8.96% of the population have had COVID-19.[2]
-- 1.26% of the population or 827.0 people are actively fighting the virus.
+- 9.03% of the population have had COVID-19.[2]
+- 1.27% of the population or 836.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Crawford-Missouri]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *33* new cases of COVID-19
+- *39* new cases of COVID-19
 - *2* people have died of COVID-19
-- *49* people have recovered from COVID-19[1]
+- *59* people have recovered from COVID-19[1]
 
 The population in this census area is 23920. By our calculations:
-- 8.04% of the population have had COVID-19.[2]
-- 0.78% of the population or 187.0 people are actively fighting the virus.
+- 8.06% of the population have had COVID-19.[2]
+- 0.77% of the population or 183.0 people are actively fighting the virus.
 
 ## Synopsis
 

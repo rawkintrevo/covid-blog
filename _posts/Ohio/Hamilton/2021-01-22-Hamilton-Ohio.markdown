@@ -12,13 +12,13 @@ tags: [Hamilton-Ohio]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *2601* new cases of COVID-19
-- *7* people have died of COVID-19
-- *689* people have recovered from COVID-19[1]
+- *3298* new cases of COVID-19
+- *11* people have died of COVID-19
+- *1709* people have recovered from COVID-19[1]
 
 The population in this census area is 817473. By our calculations:
-- 7.63% of the population have had COVID-19.[2]
-- 1.28% of the population or 10488.0 people are actively fighting the virus.
+- 7.72% of the population have had COVID-19.[2]
+- 1.24% of the population or 10161.0 people are actively fighting the virus.
 
 ## Synopsis
 

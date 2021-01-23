@@ -12,13 +12,13 @@ tags: [Portsmouth-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *428* new cases of COVID-19
-- *5* people have died of COVID-19
-- *123* people have recovered from COVID-19[1]
+- *469* new cases of COVID-19
+- *6* people have died of COVID-19
+- *185* people have recovered from COVID-19[1]
 
 The population in this census area is 94398. By our calculations:
-- 6.31% of the population have had COVID-19.[2]
-- 1.47% of the population or 1388.0 people are actively fighting the virus.
+- 6.35% of the population have had COVID-19.[2]
+- 1.45% of the population or 1366.0 people are actively fighting the virus.
 
 ## Synopsis
 

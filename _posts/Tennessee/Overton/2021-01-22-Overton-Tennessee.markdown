@@ -12,13 +12,13 @@ tags: [Overton-Tennessee]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *89* new cases of COVID-19
-- *3* people have died of COVID-19
-- *13* people have recovered from COVID-19[1]
+- *101* new cases of COVID-19
+- *4* people have died of COVID-19
+- *72* people have recovered from COVID-19[1]
 
 The population in this census area is 22241. By our calculations:
-- 11.51% of the population have had COVID-19.[2]
-- 1.68% of the population or 374.0 people are actively fighting the virus.
+- 11.57% of the population have had COVID-19.[2]
+- 1.47% of the population or 326.0 people are actively fighting the virus.
 
 ## Synopsis
 

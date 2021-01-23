@@ -12,13 +12,13 @@ tags: [Burke-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *119* new cases of COVID-19
-- *5* people have died of COVID-19
-- *35* people have recovered from COVID-19[1]
+- *144* new cases of COVID-19
+- *6* people have died of COVID-19
+- *46* people have recovered from COVID-19[1]
 
 The population in this census area is 22383. By our calculations:
-- 8.91% of the population have had COVID-19.[2]
-- 1.76% of the population or 394.0 people are actively fighting the virus.
+- 9.02% of the population have had COVID-19.[2]
+- 1.82% of the population or 407.0 people are actively fighting the virus.
 
 ## Synopsis
 

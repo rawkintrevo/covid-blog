@@ -12,13 +12,13 @@ tags: [Muscatine-Iowa]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *97* new cases of COVID-19
+- *105* new cases of COVID-19
 - *3* people have died of COVID-19
-- *26* people have recovered from COVID-19[1]
+- *39* people have recovered from COVID-19[1]
 
 The population in this census area is 42664. By our calculations:
-- 9.19% of the population have had COVID-19.[2]
-- 0.75% of the population or 318.0 people are actively fighting the virus.
+- 9.21% of the population have had COVID-19.[2]
+- 0.73% of the population or 313.0 people are actively fighting the virus.
 
 ## Synopsis
 

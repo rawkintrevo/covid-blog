@@ -12,13 +12,13 @@ tags: [Somerset-New Jersey]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *904* new cases of COVID-19
-- *6* people have died of COVID-19
-- *249* people have recovered from COVID-19[1]
+- *1041* new cases of COVID-19
+- *9* people have died of COVID-19
+- *393* people have recovered from COVID-19[1]
 
 The population in this census area is 328934. By our calculations:
-- 5.60% of the population have had COVID-19.[2]
-- 1.66% of the population or 5467.0 people are actively fighting the virus.
+- 5.64% of the population have had COVID-19.[2]
+- 1.66% of the population or 5457.0 people are actively fighting the virus.
 
 ## Synopsis
 

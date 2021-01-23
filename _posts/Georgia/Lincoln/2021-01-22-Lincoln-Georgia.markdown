@@ -12,13 +12,13 @@ tags: [Lincoln-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *58* new cases of COVID-19
+- *69* new cases of COVID-19
 - *1* people have died of COVID-19
-- *17* people have recovered from COVID-19[1]
+- *21* people have recovered from COVID-19[1]
 
 The population in this census area is 7921. By our calculations:
-- 7.44% of the population have had COVID-19.[2]
-- 1.83% of the population or 145.0 people are actively fighting the virus.
+- 7.57% of the population have had COVID-19.[2]
+- 1.92% of the population or 152.0 people are actively fighting the virus.
 
 ## Synopsis
 

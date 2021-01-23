@@ -12,13 +12,13 @@ tags: [Poquoson-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *59* new cases of COVID-19
+- *73* new cases of COVID-19
 - *0* people have died of COVID-19
 - *7* people have recovered from COVID-19[1]
 
 The population in this census area is 12271. By our calculations:
-- 4.00% of the population have had COVID-19.[2]
-- 1.23% of the population or 151.0 people are actively fighting the virus.
+- 4.12% of the population have had COVID-19.[2]
+- 1.34% of the population or 165.0 people are actively fighting the virus.
 
 ## Synopsis
 

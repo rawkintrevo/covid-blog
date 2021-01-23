@@ -12,13 +12,13 @@ tags: [Dauphin-Pennsylvania]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *713* new cases of COVID-19
-- *19* people have died of COVID-19
-- *272* people have recovered from COVID-19[1]
+- *797* new cases of COVID-19
+- *27* people have died of COVID-19
+- *398* people have recovered from COVID-19[1]
 
 The population in this census area is 278299. By our calculations:
-- 6.04% of the population have had COVID-19.[2]
-- 0.97% of the population or 2689.0 people are actively fighting the virus.
+- 6.07% of the population have had COVID-19.[2]
+- 0.95% of the population or 2639.0 people are actively fighting the virus.
 
 ## Synopsis
 

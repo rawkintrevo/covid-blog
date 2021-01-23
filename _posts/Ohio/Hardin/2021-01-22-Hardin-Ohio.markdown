@@ -12,13 +12,13 @@ tags: [Hardin-Ohio]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *77* new cases of COVID-19
+- *91* new cases of COVID-19
 - *1* people have died of COVID-19
-- *22* people have recovered from COVID-19[1]
+- *65* people have recovered from COVID-19[1]
 
 The population in this census area is 31365. By our calculations:
-- 6.65% of the population have had COVID-19.[2]
-- 1.05% of the population or 330.0 people are actively fighting the virus.
+- 6.70% of the population have had COVID-19.[2]
+- 0.96% of the population or 301.0 people are actively fighting the virus.
 
 ## Synopsis
 

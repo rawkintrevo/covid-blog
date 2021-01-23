@@ -12,13 +12,13 @@ tags: [Russell-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *53* new cases of COVID-19
+- *59* new cases of COVID-19
 - *0* people have died of COVID-19
-- *64* people have recovered from COVID-19[1]
+- *89* people have recovered from COVID-19[1]
 
 The population in this census area is 26586. By our calculations:
-- 6.99% of the population have had COVID-19.[2]
-- 1.15% of the population or 305.0 people are actively fighting the virus.
+- 7.01% of the population have had COVID-19.[2]
+- 1.08% of the population or 286.0 people are actively fighting the virus.
 
 ## Synopsis
 

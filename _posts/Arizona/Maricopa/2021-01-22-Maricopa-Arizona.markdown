@@ -12,13 +12,13 @@ tags: [Maricopa-Arizona]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *26433* new cases of COVID-19
-- *336* people have died of COVID-19
-- *10690* people have recovered from COVID-19[1]
+- *32011* new cases of COVID-19
+- *471* people have died of COVID-19
+- *16341* people have recovered from COVID-19[1]
 
 The population in this census area is 4485414. By our calculations:
-- 9.56% of the population have had COVID-19.[2]
-- 2.27% of the population or 101715.0 people are actively fighting the virus.
+- 9.68% of the population have had COVID-19.[2]
+- 2.26% of the population or 101507.0 people are actively fighting the virus.
 
 ## Synopsis
 

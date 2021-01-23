@@ -12,13 +12,13 @@ tags: [Miami-Indiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *106* new cases of COVID-19
+- *122* new cases of COVID-19
 - *1* people have died of COVID-19
-- *74* people have recovered from COVID-19[1]
+- *98* people have recovered from COVID-19[1]
 
 The population in this census area is 35516. By our calculations:
-- 8.89% of the population have had COVID-19.[2]
-- 1.08% of the population or 385.0 people are actively fighting the virus.
+- 8.93% of the population have had COVID-19.[2]
+- 1.06% of the population or 377.0 people are actively fighting the virus.
 
 ## Synopsis
 

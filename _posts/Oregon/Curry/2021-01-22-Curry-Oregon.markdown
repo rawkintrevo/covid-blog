@@ -14,11 +14,11 @@ tags: [Curry-Oregon]
 In the last 7 days[3] we project there have been
 - *6* new cases of COVID-19
 - *1* people have died of COVID-19
-- *1* people have recovered from COVID-19[1]
+- *10* people have recovered from COVID-19[1]
 
 The population in this census area is 22925. By our calculations:
 - 1.41% of the population have had COVID-19.[2]
-- 0.19% of the population or 43.0 people are actively fighting the virus.
+- 0.15% of the population or 34.0 people are actively fighting the virus.
 
 ## Synopsis
 

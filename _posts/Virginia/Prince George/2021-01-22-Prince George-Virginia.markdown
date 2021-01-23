@@ -12,13 +12,13 @@ tags: [Prince George-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *212* new cases of COVID-19
+- *240* new cases of COVID-19
 - *1* people have died of COVID-19
-- *27* people have recovered from COVID-19[1]
+- *36* people have recovered from COVID-19[1]
 
 The population in this census area is 38353. By our calculations:
-- 5.80% of the population have had COVID-19.[2]
-- 1.01% of the population or 389.0 people are actively fighting the virus.
+- 5.87% of the population have had COVID-19.[2]
+- 1.06% of the population or 408.0 people are actively fighting the virus.
 
 ## Synopsis
 

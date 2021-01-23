@@ -12,13 +12,13 @@ tags: [Whitman-Washington]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *65* new cases of COVID-19
-- *2* people have died of COVID-19
-- *16* people have recovered from COVID-19[1]
+- *77* new cases of COVID-19
+- *3* people have died of COVID-19
+- *15* people have recovered from COVID-19[1]
 
 The population in this census area is 50104. By our calculations:
-- 6.05% of the population have had COVID-19.[2]
-- 0.48% of the population or 241.0 people are actively fighting the virus.
+- 6.08% of the population have had COVID-19.[2]
+- 0.50% of the population or 253.0 people are actively fighting the virus.
 
 ## Synopsis
 

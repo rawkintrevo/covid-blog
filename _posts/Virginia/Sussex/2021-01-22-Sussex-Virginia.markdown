@@ -12,13 +12,13 @@ tags: [Sussex-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *95* new cases of COVID-19
+- *97* new cases of COVID-19
 - *0* people have died of COVID-19
-- *-1* people have recovered from COVID-19[1]
+- *0* people have recovered from COVID-19[1]
 
 The population in this census area is 11159. By our calculations:
-- 7.75% of the population have had COVID-19.[2]
-- 1.42% of the population or 159.0 people are actively fighting the virus.
+- 7.77% of the population have had COVID-19.[2]
+- 1.43% of the population or 160.0 people are actively fighting the virus.
 
 ## Synopsis
 

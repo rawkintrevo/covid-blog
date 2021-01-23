@@ -12,13 +12,13 @@ tags: [Adair-Iowa]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *9* new cases of COVID-19
+- *12* new cases of COVID-19
 - *0* people have died of COVID-19
-- *7* people have recovered from COVID-19[1]
+- *11* people have recovered from COVID-19[1]
 
 The population in this census area is 7152. By our calculations:
-- 9.65% of the population have had COVID-19.[2]
-- 1.08% of the population or 77.0 people are actively fighting the virus.
+- 9.69% of the population have had COVID-19.[2]
+- 1.06% of the population or 76.0 people are actively fighting the virus.
 
 ## Synopsis
 

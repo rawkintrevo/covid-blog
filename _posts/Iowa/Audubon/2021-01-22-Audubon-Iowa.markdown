@@ -12,13 +12,13 @@ tags: [Audubon-Iowa]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *4* new cases of COVID-19
+- *7* new cases of COVID-19
 - *0* people have died of COVID-19
-- *15* people have recovered from COVID-19[1]
+- *16* people have recovered from COVID-19[1]
 
 The population in this census area is 5496. By our calculations:
-- 7.55% of the population have had COVID-19.[2]
-- 0.55% of the population or 30.0 people are actively fighting the virus.
+- 7.61% of the population have had COVID-19.[2]
+- 0.58% of the population or 32.0 people are actively fighting the virus.
 
 ## Synopsis
 

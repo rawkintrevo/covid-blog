@@ -12,13 +12,13 @@ tags: [Jay-Indiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *42* new cases of COVID-19
+- *57* new cases of COVID-19
 - *1* people have died of COVID-19
-- *17* people have recovered from COVID-19[1]
+- *26* people have recovered from COVID-19[1]
 
 The population in this census area is 20436. By our calculations:
-- 8.06% of the population have had COVID-19.[2]
-- 0.67% of the population or 136.0 people are actively fighting the virus.
+- 8.14% of the population have had COVID-19.[2]
+- 0.69% of the population or 142.0 people are actively fighting the virus.
 
 ## Synopsis
 

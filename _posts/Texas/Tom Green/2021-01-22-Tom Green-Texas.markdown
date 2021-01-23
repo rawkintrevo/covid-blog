@@ -12,13 +12,13 @@ tags: [Tom Green-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *525* new cases of COVID-19
+- *624* new cases of COVID-19
 - *11* people have died of COVID-19
-- *269* people have recovered from COVID-19[1]
+- *351* people have recovered from COVID-19[1]
 
 The population in this census area is 119200. By our calculations:
-- 12.59% of the population have had COVID-19.[2]
-- 1.72% of the population or 2052.0 people are actively fighting the virus.
+- 12.67% of the population have had COVID-19.[2]
+- 1.74% of the population or 2069.0 people are actively fighting the virus.
 
 ## Synopsis
 

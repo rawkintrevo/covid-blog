@@ -12,13 +12,13 @@ tags: [Dona Ana-New Mexico]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *728* new cases of COVID-19
-- *14* people have died of COVID-19
-- *270* people have recovered from COVID-19[1]
+- *846* new cases of COVID-19
+- *18* people have died of COVID-19
+- *371* people have recovered from COVID-19[1]
 
 The population in this census area is 218195. By our calculations:
-- 9.22% of the population have had COVID-19.[2]
-- 1.12% of the population or 2443.0 people are actively fighting the virus.
+- 9.28% of the population have had COVID-19.[2]
+- 1.13% of the population or 2456.0 people are actively fighting the virus.
 
 ## Synopsis
 

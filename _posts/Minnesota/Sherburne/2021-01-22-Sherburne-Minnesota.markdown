@@ -12,13 +12,13 @@ tags: [Sherburne-Minnesota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *96* new cases of COVID-19
-- *1* people have died of COVID-19
-- *38* people have recovered from COVID-19[1]
+- *114* new cases of COVID-19
+- *2* people have died of COVID-19
+- *95* people have recovered from COVID-19[1]
 
 The population in this census area is 97238. By our calculations:
-- 8.45% of the population have had COVID-19.[2]
-- 0.57% of the population or 557.0 people are actively fighting the virus.
+- 8.47% of the population have had COVID-19.[2]
+- 0.53% of the population or 517.0 people are actively fighting the virus.
 
 ## Synopsis
 

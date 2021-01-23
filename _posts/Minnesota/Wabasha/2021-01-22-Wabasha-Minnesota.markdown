@@ -12,13 +12,13 @@ tags: [Wabasha-Minnesota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *52* new cases of COVID-19
+- *57* new cases of COVID-19
 - *1* people have died of COVID-19
-- *16* people have recovered from COVID-19[1]
+- *25* people have recovered from COVID-19[1]
 
 The population in this census area is 21627. By our calculations:
-- 7.97% of the population have had COVID-19.[2]
-- 1.03% of the population or 223.0 people are actively fighting the virus.
+- 7.99% of the population have had COVID-19.[2]
+- 1.01% of the population or 219.0 people are actively fighting the virus.
 
 ## Synopsis
 

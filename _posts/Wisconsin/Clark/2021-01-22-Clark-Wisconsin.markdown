@@ -12,13 +12,13 @@ tags: [Clark-Wisconsin]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *69* new cases of COVID-19
-- *1* people have died of COVID-19
-- *38* people have recovered from COVID-19[1]
+- *85* new cases of COVID-19
+- *2* people have died of COVID-19
+- *71* people have recovered from COVID-19[1]
 
 The population in this census area is 34774. By our calculations:
-- 9.69% of the population have had COVID-19.[2]
-- 0.69% of the population or 239.0 people are actively fighting the virus.
+- 9.73% of the population have had COVID-19.[2]
+- 0.64% of the population or 221.0 people are actively fighting the virus.
 
 ## Synopsis
 

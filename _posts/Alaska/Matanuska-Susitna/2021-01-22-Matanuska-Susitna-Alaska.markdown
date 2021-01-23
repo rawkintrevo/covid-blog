@@ -12,13 +12,13 @@ tags: [Matanuska-Susitna-Alaska]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *196* new cases of COVID-19
+- *230* new cases of COVID-19
 - *5* people have died of COVID-19
-- *25* people have recovered from COVID-19[1]
+- *132* people have recovered from COVID-19[1]
 
 The population in this census area is 108317. By our calculations:
-- 6.68% of the population have had COVID-19.[2]
-- 0.78% of the population or 849.0 people are actively fighting the virus.
+- 6.71% of the population have had COVID-19.[2]
+- 0.72% of the population or 776.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Ramsey-Minnesota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *717* new cases of COVID-19
-- *12* people have died of COVID-19
-- *182* people have recovered from COVID-19[1]
+- *802* new cases of COVID-19
+- *13* people have died of COVID-19
+- *394* people have recovered from COVID-19[1]
 
 The population in this census area is 550321. By our calculations:
-- 7.29% of the population have had COVID-19.[2]
-- 0.53% of the population or 2934.0 people are actively fighting the virus.
+- 7.31% of the population have had COVID-19.[2]
+- 0.51% of the population or 2806.0 people are actively fighting the virus.
 
 ## Synopsis
 

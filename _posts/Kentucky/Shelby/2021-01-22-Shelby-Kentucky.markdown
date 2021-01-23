@@ -12,13 +12,13 @@ tags: [Shelby-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *170* new cases of COVID-19
+- *209* new cases of COVID-19
 - *2* people have died of COVID-19
-- *-1* people have recovered from COVID-19[1]
+- *83* people have recovered from COVID-19[1]
 
 The population in this census area is 49024. By our calculations:
-- 7.38% of the population have had COVID-19.[2]
-- 1.28% of the population or 626.0 people are actively fighting the virus.
+- 7.46% of the population have had COVID-19.[2]
+- 1.19% of the population or 581.0 people are actively fighting the virus.
 
 ## Synopsis
 

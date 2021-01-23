@@ -12,13 +12,13 @@ tags: [Anderson-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *202* new cases of COVID-19
-- *5* people have died of COVID-19
-- *298* people have recovered from COVID-19[1]
+- *196* new cases of COVID-19
+- *6* people have died of COVID-19
+- *297* people have recovered from COVID-19[1]
 
 The population in this census area is 57735. By our calculations:
-- 9.87% of the population have had COVID-19.[2]
-- 1.51% of the population or 869.0 people are actively fighting the virus.
+- 9.86% of the population have had COVID-19.[2]
+- 1.49% of the population or 863.0 people are actively fighting the virus.
 
 ## Synopsis
 

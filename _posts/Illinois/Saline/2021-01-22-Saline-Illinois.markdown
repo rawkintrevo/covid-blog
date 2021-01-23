@@ -12,13 +12,13 @@ tags: [Saline-Illinois]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *50* new cases of COVID-19
-- *1* people have died of COVID-19
-- *16* people have recovered from COVID-19[1]
+- *55* new cases of COVID-19
+- *2* people have died of COVID-19
+- *43* people have recovered from COVID-19[1]
 
 The population in this census area is 23491. By our calculations:
-- 8.67% of the population have had COVID-19.[2]
-- 1.10% of the population or 259.0 people are actively fighting the virus.
+- 8.69% of the population have had COVID-19.[2]
+- 1.00% of the population or 236.0 people are actively fighting the virus.
 
 ## Synopsis
 

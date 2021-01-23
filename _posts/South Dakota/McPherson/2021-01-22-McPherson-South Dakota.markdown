@@ -12,13 +12,13 @@ tags: [McPherson-South Dakota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *9* new cases of COVID-19
+- *12* new cases of COVID-19
 - *1* people have died of COVID-19
-- *1* people have recovered from COVID-19[1]
+- *2* people have recovered from COVID-19[1]
 
 The population in this census area is 2379. By our calculations:
-- 9.46% of the population have had COVID-19.[2]
-- 1.72% of the population or 41.0 people are actively fighting the virus.
+- 9.58% of the population have had COVID-19.[2]
+- 1.81% of the population or 43.0 people are actively fighting the virus.
 
 ## Synopsis
 

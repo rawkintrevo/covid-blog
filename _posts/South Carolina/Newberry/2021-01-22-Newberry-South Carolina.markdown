@@ -12,13 +12,13 @@ tags: [Newberry-South Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *196* new cases of COVID-19
+- *220* new cases of COVID-19
 - *4* people have died of COVID-19
-- *54* people have recovered from COVID-19[1]
+- *90* people have recovered from COVID-19[1]
 
 The population in this census area is 38440. By our calculations:
-- 9.14% of the population have had COVID-19.[2]
-- 1.78% of the population or 686.0 people are actively fighting the virus.
+- 9.21% of the population have had COVID-19.[2]
+- 1.75% of the population or 674.0 people are actively fighting the virus.
 
 ## Synopsis
 

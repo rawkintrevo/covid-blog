@@ -12,13 +12,13 @@ tags: [Hendry-Florida]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *144* new cases of COVID-19
-- *1* people have died of COVID-19
-- *16* people have recovered from COVID-19[1]
+- *154* new cases of COVID-19
+- *2* people have died of COVID-19
+- *85* people have recovered from COVID-19[1]
 
 The population in this census area is 42022. By our calculations:
-- 9.18% of the population have had COVID-19.[2]
-- 1.33% of the population or 558.0 people are actively fighting the virus.
+- 9.21% of the population have had COVID-19.[2]
+- 1.19% of the population or 498.0 people are actively fighting the virus.
 
 ## Synopsis
 

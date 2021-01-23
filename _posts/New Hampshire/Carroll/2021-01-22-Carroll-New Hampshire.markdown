@@ -12,13 +12,13 @@ tags: [Carroll-New Hampshire]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *136* new cases of COVID-19
+- *160* new cases of COVID-19
 - *0* people have died of COVID-19
-- *20* people have recovered from COVID-19[1]
+- *36* people have recovered from COVID-19[1]
 
 The population in this census area is 48910. By our calculations:
-- 2.61% of the population have had COVID-19.[2]
-- 0.76% of the population or 373.0 people are actively fighting the virus.
+- 2.66% of the population have had COVID-19.[2]
+- 0.78% of the population or 381.0 people are actively fighting the virus.
 
 ## Synopsis
 

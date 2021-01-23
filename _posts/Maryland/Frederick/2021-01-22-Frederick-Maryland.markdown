@@ -12,13 +12,13 @@ tags: [Frederick-Maryland]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *729* new cases of COVID-19
-- *9* people have died of COVID-19
-- *409* people have recovered from COVID-19[1]
+- *845* new cases of COVID-19
+- *12* people have died of COVID-19
+- *540* people have recovered from COVID-19[1]
 
 The population in this census area is 259547. By our calculations:
-- 5.62% of the population have had COVID-19.[2]
-- 1.15% of the population or 2987.0 people are actively fighting the virus.
+- 5.66% of the population have had COVID-19.[2]
+- 1.14% of the population or 2969.0 people are actively fighting the virus.
 
 ## Synopsis
 

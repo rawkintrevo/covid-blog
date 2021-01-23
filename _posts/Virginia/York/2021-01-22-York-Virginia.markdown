@@ -12,13 +12,13 @@ tags: [York-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *218* new cases of COVID-19
-- *0* people have died of COVID-19
+- *254* new cases of COVID-19
+- *2* people have died of COVID-19
 - *38* people have recovered from COVID-19[1]
 
 The population in this census area is 68280. By our calculations:
-- 3.13% of the population have had COVID-19.[2]
-- 0.94% of the population or 645.0 people are actively fighting the virus.
+- 3.19% of the population have had COVID-19.[2]
+- 0.99% of the population or 679.0 people are actively fighting the virus.
 
 ## Synopsis
 

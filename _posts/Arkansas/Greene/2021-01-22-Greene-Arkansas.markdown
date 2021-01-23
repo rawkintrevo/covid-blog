@@ -12,13 +12,13 @@ tags: [Greene-Arkansas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *180* new cases of COVID-19
+- *219* new cases of COVID-19
 - *2* people have died of COVID-19
-- *63* people have recovered from COVID-19[1]
+- *79* people have recovered from COVID-19[1]
 
 The population in this census area is 45325. By our calculations:
-- 11.43% of the population have had COVID-19.[2]
-- 1.56% of the population or 709.0 people are actively fighting the virus.
+- 11.52% of the population have had COVID-19.[2]
+- 1.62% of the population or 732.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Morgan-Colorado]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *30* new cases of COVID-19
+- *47* new cases of COVID-19
 - *1* people have died of COVID-19
-- *21* people have recovered from COVID-19[1]
+- *35* people have recovered from COVID-19[1]
 
 The population in this census area is 29068. By our calculations:
-- 7.96% of the population have had COVID-19.[2]
-- 0.53% of the population or 155.0 people are actively fighting the virus.
+- 8.02% of the population have had COVID-19.[2]
+- 0.54% of the population or 158.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Starr-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *472* new cases of COVID-19
-- *3* people have died of COVID-19
-- *133* people have recovered from COVID-19[1]
+- *508* new cases of COVID-19
+- *5* people have died of COVID-19
+- *131* people have recovered from COVID-19[1]
 
 The population in this census area is 64633. By our calculations:
-- 11.73% of the population have had COVID-19.[2]
-- 2.02% of the population or 1307.0 people are actively fighting the virus.
+- 11.79% of the population have had COVID-19.[2]
+- 2.08% of the population or 1343.0 people are actively fighting the virus.
 
 ## Synopsis
 

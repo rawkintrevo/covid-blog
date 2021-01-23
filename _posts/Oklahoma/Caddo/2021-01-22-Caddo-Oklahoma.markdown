@@ -12,13 +12,13 @@ tags: [Caddo-Oklahoma]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *127* new cases of COVID-19
-- *2* people have died of COVID-19
-- *27* people have recovered from COVID-19[1]
+- *149* new cases of COVID-19
+- *3* people have died of COVID-19
+- *86* people have recovered from COVID-19[1]
 
 The population in this census area is 28762. By our calculations:
-- 11.62% of the population have had COVID-19.[2]
-- 1.91% of the population or 548.0 people are actively fighting the virus.
+- 11.70% of the population have had COVID-19.[2]
+- 1.77% of the population or 510.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Wood-West Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *239* new cases of COVID-19
-- *14* people have died of COVID-19
-- *160* people have recovered from COVID-19[1]
+- *271* new cases of COVID-19
+- *17* people have died of COVID-19
+- *265* people have recovered from COVID-19[1]
 
 The population in this census area is 83518. By our calculations:
-- 7.41% of the population have had COVID-19.[2]
-- 1.33% of the population or 1113.0 people are actively fighting the virus.
+- 7.46% of the population have had COVID-19.[2]
+- 1.24% of the population or 1037.0 people are actively fighting the virus.
 
 ## Synopsis
 

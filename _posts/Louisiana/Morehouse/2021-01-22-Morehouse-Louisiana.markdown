@@ -12,13 +12,13 @@ tags: [Morehouse-Louisiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *77* new cases of COVID-19
+- *99* new cases of COVID-19
 - *5* people have died of COVID-19
 - *30* people have recovered from COVID-19[1]
 
 The population in this census area is 24874. By our calculations:
-- 9.93% of the population have had COVID-19.[2]
-- 1.31% of the population or 325.0 people are actively fighting the virus.
+- 10.02% of the population have had COVID-19.[2]
+- 1.40% of the population or 347.0 people are actively fighting the virus.
 
 ## Synopsis
 

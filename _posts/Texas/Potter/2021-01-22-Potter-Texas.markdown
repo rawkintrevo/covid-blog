@@ -12,13 +12,13 @@ tags: [Potter-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *152* new cases of COVID-19
-- *15* people have died of COVID-19
-- *39* people have recovered from COVID-19[1]
+- *256* new cases of COVID-19
+- *19* people have died of COVID-19
+- *35* people have recovered from COVID-19[1]
 
 The population in this census area is 117415. By our calculations:
-- 13.68% of the population have had COVID-19.[2]
-- 0.71% of the population or 834.0 people are actively fighting the virus.
+- 13.77% of the population have had COVID-19.[2]
+- 0.80% of the population or 938.0 people are actively fighting the virus.
 
 ## Synopsis
 

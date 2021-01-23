@@ -14,11 +14,11 @@ tags: [Ziebach-South Dakota]
 In the last 7 days[3] we project there have been
 - *6* new cases of COVID-19
 - *0* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *10* people have recovered from COVID-19[1]
 
 The population in this census area is 2756. By our calculations:
 - 12.08% of the population have had COVID-19.[2]
-- 1.52% of the population or 42.0 people are actively fighting the virus.
+- 1.16% of the population or 32.0 people are actively fighting the virus.
 
 ## Synopsis
 

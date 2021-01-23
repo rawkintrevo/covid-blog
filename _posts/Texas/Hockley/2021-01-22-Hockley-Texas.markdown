@@ -12,13 +12,13 @@ tags: [Hockley-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *27* new cases of COVID-19
-- *2* people have died of COVID-19
-- *33* people have recovered from COVID-19[1]
+- *24* new cases of COVID-19
+- *5* people have died of COVID-19
+- *30* people have recovered from COVID-19[1]
 
 The population in this census area is 23021. By our calculations:
 - 8.91% of the population have had COVID-19.[2]
-- 0.58% of the population or 133.0 people are actively fighting the virus.
+- 0.56% of the population or 130.0 people are actively fighting the virus.
 
 ## Synopsis
 

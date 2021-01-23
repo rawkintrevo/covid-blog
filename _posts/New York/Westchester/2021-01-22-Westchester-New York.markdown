@@ -12,13 +12,13 @@ tags: [Westchester-New York]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *4798* new cases of COVID-19
-- *56* people have died of COVID-19
-- *1876* people have recovered from COVID-19[1]
+- *5716* new cases of COVID-19
+- *61* people have died of COVID-19
+- *2882* people have recovered from COVID-19[1]
 
 The population in this census area is 967506. By our calculations:
-- 8.86% of the population have had COVID-19.[2]
-- 1.51% of the population or 14576.0 people are actively fighting the virus.
+- 8.96% of the population have had COVID-19.[2]
+- 1.50% of the population or 14483.0 people are actively fighting the virus.
 
 ## Synopsis
 

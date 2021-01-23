@@ -12,13 +12,13 @@ tags: [Jersey-Illinois]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *78* new cases of COVID-19
-- *6* people have died of COVID-19
-- *3* people have recovered from COVID-19[1]
+- *93* new cases of COVID-19
+- *7* people have died of COVID-19
+- *26* people have recovered from COVID-19[1]
 
 The population in this census area is 21773. By our calculations:
-- 10.30% of the population have had COVID-19.[2]
-- 1.16% of the population or 253.0 people are actively fighting the virus.
+- 10.37% of the population have had COVID-19.[2]
+- 1.12% of the population or 244.0 people are actively fighting the virus.
 
 ## Synopsis
 

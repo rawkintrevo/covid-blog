@@ -12,13 +12,13 @@ tags: [Cole-Missouri]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *75* new cases of COVID-19
+- *99* new cases of COVID-19
 - *3* people have died of COVID-19
-- *87* people have recovered from COVID-19[1]
+- *118* people have recovered from COVID-19[1]
 
 The population in this census area is 76745. By our calculations:
-- 10.65% of the population have had COVID-19.[2]
-- 0.64% of the population or 490.0 people are actively fighting the virus.
+- 10.68% of the population have had COVID-19.[2]
+- 0.63% of the population or 483.0 people are actively fighting the virus.
 
 ## Synopsis
 

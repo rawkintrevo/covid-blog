@@ -12,13 +12,13 @@ tags: [Sublette-Wyoming]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *4* new cases of COVID-19
+- *7* new cases of COVID-19
 - *0* people have died of COVID-19
-- *4* people have recovered from COVID-19[1]
+- *5* people have recovered from COVID-19[1]
 
 The population in this census area is 9831. By our calculations:
-- 6.47% of the population have had COVID-19.[2]
-- 0.39% of the population or 38.0 people are actively fighting the virus.
+- 6.50% of the population have had COVID-19.[2]
+- 0.41% of the population or 40.0 people are actively fighting the virus.
 
 ## Synopsis
 

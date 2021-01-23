@@ -14,11 +14,11 @@ tags: [Caribou-Idaho]
 In the last 7 days[3] we project there have been
 - *20* new cases of COVID-19
 - *1* people have died of COVID-19
-- *4* people have recovered from COVID-19[1]
+- *9* people have recovered from COVID-19[1]
 
 The population in this census area is 7155. By our calculations:
 - 8.40% of the population have had COVID-19.[2]
-- 0.92% of the population or 66.0 people are actively fighting the virus.
+- 0.85% of the population or 61.0 people are actively fighting the virus.
 
 ## Synopsis
 

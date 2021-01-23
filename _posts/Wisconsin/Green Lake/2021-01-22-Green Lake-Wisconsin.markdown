@@ -12,13 +12,13 @@ tags: [Green Lake-Wisconsin]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *36* new cases of COVID-19
+- *40* new cases of COVID-19
 - *0* people have died of COVID-19
-- *11* people have recovered from COVID-19[1]
+- *18* people have recovered from COVID-19[1]
 
 The population in this census area is 18913. By our calculations:
-- 9.76% of the population have had COVID-19.[2]
-- 0.56% of the population or 106.0 people are actively fighting the virus.
+- 9.78% of the population have had COVID-19.[2]
+- 0.54% of the population or 103.0 people are actively fighting the virus.
 
 ## Synopsis
 

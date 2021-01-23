@@ -12,13 +12,13 @@ tags: [Okanogan-Washington]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *36* new cases of COVID-19
+- *47* new cases of COVID-19
 - *2* people have died of COVID-19
 - *26* people have recovered from COVID-19[1]
 
 The population in this census area is 42243. By our calculations:
-- 4.63% of the population have had COVID-19.[2]
-- 0.46% of the population or 195.0 people are actively fighting the virus.
+- 4.66% of the population have had COVID-19.[2]
+- 0.49% of the population or 206.0 people are actively fighting the virus.
 
 ## Synopsis
 

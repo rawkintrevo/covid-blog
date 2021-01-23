@@ -12,13 +12,13 @@ tags: [Carroll-Maryland]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *286* new cases of COVID-19
-- *2* people have died of COVID-19
-- *144* people have recovered from COVID-19[1]
+- *334* new cases of COVID-19
+- *5* people have died of COVID-19
+- *205* people have recovered from COVID-19[1]
 
 The population in this census area is 168447. By our calculations:
-- 3.82% of the population have had COVID-19.[2]
-- 0.68% of the population or 1138.0 people are actively fighting the virus.
+- 3.85% of the population have had COVID-19.[2]
+- 0.67% of the population or 1122.0 people are actively fighting the virus.
 
 ## Synopsis
 

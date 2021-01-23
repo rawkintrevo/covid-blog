@@ -12,13 +12,13 @@ tags: [Lee-North Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *246* new cases of COVID-19
+- *281* new cases of COVID-19
 - *1* people have died of COVID-19
-- *33* people have recovered from COVID-19[1]
+- *137* people have recovered from COVID-19[1]
 
 The population in this census area is 61779. By our calculations:
-- 7.20% of the population have had COVID-19.[2]
-- 1.51% of the population or 932.0 people are actively fighting the virus.
+- 7.26% of the population have had COVID-19.[2]
+- 1.40% of the population or 863.0 people are actively fighting the virus.
 
 ## Synopsis
 

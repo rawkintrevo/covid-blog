@@ -12,13 +12,13 @@ tags: [Cayuga-New York]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *363* new cases of COVID-19
-- *8* people have died of COVID-19
-- *250* people have recovered from COVID-19[1]
+- *444* new cases of COVID-19
+- *11* people have died of COVID-19
+- *320* people have recovered from COVID-19[1]
 
 The population in this census area is 76576. By our calculations:
-- 5.84% of the population have had COVID-19.[2]
-- 1.87% of the population or 1429.0 people are actively fighting the virus.
+- 5.95% of the population have had COVID-19.[2]
+- 1.88% of the population or 1437.0 people are actively fighting the virus.
 
 ## Synopsis
 

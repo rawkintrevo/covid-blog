@@ -12,13 +12,13 @@ tags: [Utah-Utah]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *2429* new cases of COVID-19
-- *17* people have died of COVID-19
-- *1125* people have recovered from COVID-19[1]
+- *2812* new cases of COVID-19
+- *22* people have died of COVID-19
+- *2354* people have recovered from COVID-19[1]
 
 The population in this census area is 636235. By our calculations:
-- 12.60% of the population have had COVID-19.[2]
-- 2.02% of the population or 12863.0 people are actively fighting the virus.
+- 12.66% of the population have had COVID-19.[2]
+- 1.89% of the population or 12012.0 people are actively fighting the virus.
 
 ## Synopsis
 

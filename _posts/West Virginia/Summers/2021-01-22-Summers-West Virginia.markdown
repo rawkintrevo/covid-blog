@@ -12,13 +12,13 @@ tags: [Summers-West Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *44* new cases of COVID-19
+- *45* new cases of COVID-19
 - *1* people have died of COVID-19
-- *31* people have recovered from COVID-19[1]
+- *38* people have recovered from COVID-19[1]
 
 The population in this census area is 12573. By our calculations:
-- 5.10% of the population have had COVID-19.[2]
-- 1.42% of the population or 179.0 people are actively fighting the virus.
+- 5.11% of the population have had COVID-19.[2]
+- 1.38% of the population or 173.0 people are actively fighting the virus.
 
 ## Synopsis
 

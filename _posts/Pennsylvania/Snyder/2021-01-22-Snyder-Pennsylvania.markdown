@@ -12,13 +12,13 @@ tags: [Snyder-Pennsylvania]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *112* new cases of COVID-19
-- *6* people have died of COVID-19
-- *46* people have recovered from COVID-19[1]
+- *122* new cases of COVID-19
+- *8* people have died of COVID-19
+- *68* people have recovered from COVID-19[1]
 
 The population in this census area is 40372. By our calculations:
-- 5.90% of the population have had COVID-19.[2]
-- 1.11% of the population or 450.0 people are actively fighting the virus.
+- 5.93% of the population have had COVID-19.[2]
+- 1.08% of the population or 436.0 people are actively fighting the virus.
 
 ## Synopsis
 

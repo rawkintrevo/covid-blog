@@ -12,13 +12,13 @@ tags: [Tolland-Connecticut]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *386* new cases of COVID-19
+- *428* new cases of COVID-19
 - *3* people have died of COVID-19
-- *69* people have recovered from COVID-19[1]
+- *200* people have recovered from COVID-19[1]
 
 The population in this census area is 150721. By our calculations:
-- 4.18% of the population have had COVID-19.[2]
-- 0.91% of the population or 1369.0 people are actively fighting the virus.
+- 4.21% of the population have had COVID-19.[2]
+- 0.85% of the population or 1280.0 people are actively fighting the virus.
 
 ## Synopsis
 

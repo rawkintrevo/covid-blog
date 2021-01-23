@@ -12,13 +12,13 @@ tags: [Columbia-Florida]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *221* new cases of COVID-19
-- *5* people have died of COVID-19
-- *83* people have recovered from COVID-19[1]
+- *247* new cases of COVID-19
+- *6* people have died of COVID-19
+- *208* people have recovered from COVID-19[1]
 
 The population in this census area is 71686. By our calculations:
-- 9.65% of the population have had COVID-19.[2]
-- 1.25% of the population or 895.0 people are actively fighting the virus.
+- 9.69% of the population have had COVID-19.[2]
+- 1.11% of the population or 795.0 people are actively fighting the virus.
 
 ## Synopsis
 

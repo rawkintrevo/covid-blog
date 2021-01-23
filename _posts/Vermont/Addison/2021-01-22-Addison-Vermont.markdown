@@ -12,13 +12,13 @@ tags: [Addison-Vermont]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *51* new cases of COVID-19
+- *60* new cases of COVID-19
 - *1* people have died of COVID-19
-- *14* people have recovered from COVID-19[1]
+- *41* people have recovered from COVID-19[1]
 
 The population in this census area is 36777. By our calculations:
-- 1.45% of the population have had COVID-19.[2]
-- 0.72% of the population or 263.0 people are actively fighting the virus.
+- 1.47% of the population have had COVID-19.[2]
+- 0.67% of the population or 245.0 people are actively fighting the virus.
 
 ## Synopsis
 

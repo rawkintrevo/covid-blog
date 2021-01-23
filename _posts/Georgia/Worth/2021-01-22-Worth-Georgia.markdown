@@ -12,13 +12,13 @@ tags: [Worth-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *49* new cases of COVID-19
-- *5* people have died of COVID-19
-- *64* people have recovered from COVID-19[1]
+- *62* new cases of COVID-19
+- *6* people have died of COVID-19
+- *80* people have recovered from COVID-19[1]
 
 The population in this census area is 20247. By our calculations:
-- 7.33% of the population have had COVID-19.[2]
-- 1.54% of the population or 312.0 people are actively fighting the virus.
+- 7.40% of the population have had COVID-19.[2]
+- 1.52% of the population or 308.0 people are actively fighting the virus.
 
 ## Synopsis
 

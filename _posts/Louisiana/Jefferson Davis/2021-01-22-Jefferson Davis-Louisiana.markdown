@@ -12,13 +12,13 @@ tags: [Jefferson Davis-Louisiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *65* new cases of COVID-19
-- *5* people have died of COVID-19
-- *20* people have recovered from COVID-19[1]
+- *101* new cases of COVID-19
+- *6* people have died of COVID-19
+- *19* people have recovered from COVID-19[1]
 
 The population in this census area is 31368. By our calculations:
-- 8.27% of the population have had COVID-19.[2]
-- 0.96% of the population or 300.0 people are actively fighting the virus.
+- 8.39% of the population have had COVID-19.[2]
+- 1.07% of the population or 336.0 people are actively fighting the virus.
 
 ## Synopsis
 

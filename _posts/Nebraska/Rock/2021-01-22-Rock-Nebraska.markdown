@@ -12,13 +12,13 @@ tags: [Rock-Nebraska]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *-1* new cases of COVID-19
+- *0* new cases of COVID-19
 - *0* people have died of COVID-19
 - *0* people have recovered from COVID-19[1]
 
 The population in this census area is 1357. By our calculations:
-- 7.30% of the population have had COVID-19.[2]
-- 0.00% of the population or 0.0 people are actively fighting the virus.
+- 7.37% of the population have had COVID-19.[2]
+- 0.07% of the population or 1.0 people are actively fighting the virus.
 
 ## Synopsis
 

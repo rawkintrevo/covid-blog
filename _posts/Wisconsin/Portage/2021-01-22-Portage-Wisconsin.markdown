@@ -12,13 +12,13 @@ tags: [Portage-Wisconsin]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *109* new cases of COVID-19
+- *129* new cases of COVID-19
 - *0* people have died of COVID-19
-- *72* people have recovered from COVID-19[1]
+- *85* people have recovered from COVID-19[1]
 
 The population in this census area is 70772. By our calculations:
-- 9.05% of the population have had COVID-19.[2]
-- 0.63% of the population or 445.0 people are actively fighting the virus.
+- 9.08% of the population have had COVID-19.[2]
+- 0.64% of the population or 452.0 people are actively fighting the virus.
 
 ## Synopsis
 

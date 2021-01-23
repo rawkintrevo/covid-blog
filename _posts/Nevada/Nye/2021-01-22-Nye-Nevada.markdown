@@ -12,13 +12,13 @@ tags: [Nye-Nevada]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *107* new cases of COVID-19
+- *130* new cases of COVID-19
 - *8* people have died of COVID-19
-- *-7* people have recovered from COVID-19[1]
+- *0* people have recovered from COVID-19[1]
 
 The population in this census area is 46523. By our calculations:
-- 5.18% of the population have had COVID-19.[2]
-- 0.86% of the population or 398.0 people are actively fighting the virus.
+- 5.23% of the population have had COVID-19.[2]
+- 0.89% of the population or 414.0 people are actively fighting the virus.
 
 ## Synopsis
 

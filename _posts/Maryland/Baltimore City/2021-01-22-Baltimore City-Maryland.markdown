@@ -12,13 +12,13 @@ tags: [Baltimore City-Maryland]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1126* new cases of COVID-19
-- *22* people have died of COVID-19
-- *587* people have recovered from COVID-19[1]
+- *1351* new cases of COVID-19
+- *25* people have died of COVID-19
+- *800* people have recovered from COVID-19[1]
 
 The population in this census area is 593490. By our calculations:
-- 6.08% of the population have had COVID-19.[2]
-- 0.67% of the population or 3970.0 people are actively fighting the virus.
+- 6.11% of the population have had COVID-19.[2]
+- 0.67% of the population or 3979.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Douglas-Nevada]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *66* new cases of COVID-19
+- *70* new cases of COVID-19
 - *0* people have died of COVID-19
 - *51* people have recovered from COVID-19[1]
 
 The population in this census area is 48905. By our calculations:
-- 4.65% of the population have had COVID-19.[2]
-- 0.60% of the population or 291.0 people are actively fighting the virus.
+- 4.66% of the population have had COVID-19.[2]
+- 0.60% of the population or 295.0 people are actively fighting the virus.
 
 ## Synopsis
 

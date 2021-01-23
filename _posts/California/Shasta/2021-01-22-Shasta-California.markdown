@@ -14,11 +14,11 @@ tags: [Shasta-California]
 In the last 7 days[3] we project there have been
 - *288* new cases of COVID-19
 - *12* people have died of COVID-19
-- *267* people have recovered from COVID-19[1]
+- *309* people have recovered from COVID-19[1]
 
 The population in this census area is 180080. By our calculations:
 - 5.41% of the population have had COVID-19.[2]
-- 0.91% of the population or 1644.0 people are actively fighting the virus.
+- 0.89% of the population or 1602.0 people are actively fighting the virus.
 
 ## Synopsis
 

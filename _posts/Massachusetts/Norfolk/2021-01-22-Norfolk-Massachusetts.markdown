@@ -12,13 +12,13 @@ tags: [Norfolk-Massachusetts]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *2365* new cases of COVID-19
-- *26* people have died of COVID-19
-- *528* people have recovered from COVID-19[1]
+- *2821* new cases of COVID-19
+- *39* people have died of COVID-19
+- *1266* people have recovered from COVID-19[1]
 
 The population in this census area is 706775. By our calculations:
-- 5.11% of the population have had COVID-19.[2]
-- 1.18% of the population or 8362.0 people are actively fighting the virus.
+- 5.18% of the population have had COVID-19.[2]
+- 1.14% of the population or 8067.0 people are actively fighting the virus.
 
 ## Synopsis
 

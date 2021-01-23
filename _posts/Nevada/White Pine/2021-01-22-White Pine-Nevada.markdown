@@ -12,13 +12,13 @@ tags: [White Pine-Nevada]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *10* new cases of COVID-19
-- *0* people have died of COVID-19
-- *2* people have recovered from COVID-19[1]
+- *9* new cases of COVID-19
+- *1* people have died of COVID-19
+- *1* people have recovered from COVID-19[1]
 
 The population in this census area is 9580. By our calculations:
 - 4.48% of the population have had COVID-19.[2]
-- 0.51% of the population or 49.0 people are actively fighting the virus.
+- 0.50% of the population or 48.0 people are actively fighting the virus.
 
 ## Synopsis
 

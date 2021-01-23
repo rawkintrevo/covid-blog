@@ -12,13 +12,13 @@ tags: [Hill-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *75* new cases of COVID-19
-- *7* people have died of COVID-19
-- *66* people have recovered from COVID-19[1]
+- *85* new cases of COVID-19
+- *11* people have died of COVID-19
+- *62* people have recovered from COVID-19[1]
 
 The population in this census area is 36649. By our calculations:
-- 6.60% of the population have had COVID-19.[2]
-- 0.48% of the population or 175.0 people are actively fighting the virus.
+- 6.64% of the population have had COVID-19.[2]
+- 0.50% of the population or 185.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Crook-Oregon]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *46* new cases of COVID-19
+- *48* new cases of COVID-19
 - *2* people have died of COVID-19
-- *4* people have recovered from COVID-19[1]
+- *23* people have recovered from COVID-19[1]
 
 The population in this census area is 24404. By our calculations:
-- 2.58% of the population have had COVID-19.[2]
-- 0.73% of the population or 177.0 people are actively fighting the virus.
+- 2.59% of the population have had COVID-19.[2]
+- 0.66% of the population or 160.0 people are actively fighting the virus.
 
 ## Synopsis
 

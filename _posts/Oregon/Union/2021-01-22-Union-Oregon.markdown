@@ -12,13 +12,13 @@ tags: [Union-Oregon]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *36* new cases of COVID-19
+- *42* new cases of COVID-19
 - *0* people have died of COVID-19
-- *3* people have recovered from COVID-19[1]
+- *5* people have recovered from COVID-19[1]
 
 The population in this census area is 26835. By our calculations:
-- 4.19% of the population have had COVID-19.[2]
-- 0.53% of the population or 143.0 people are actively fighting the virus.
+- 4.21% of the population have had COVID-19.[2]
+- 0.55% of the population or 147.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Polk-Arkansas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *60* new cases of COVID-19
+- *72* new cases of COVID-19
 - *2* people have died of COVID-19
-- *27* people have recovered from COVID-19[1]
+- *34* people have recovered from COVID-19[1]
 
 The population in this census area is 19964. By our calculations:
-- 7.83% of the population have had COVID-19.[2]
-- 1.40% of the population or 279.0 people are actively fighting the virus.
+- 7.89% of the population have had COVID-19.[2]
+- 1.42% of the population or 284.0 people are actively fighting the virus.
 
 ## Synopsis
 

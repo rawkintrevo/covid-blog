@@ -12,13 +12,13 @@ tags: [Grant-West Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *33* new cases of COVID-19
+- *37* new cases of COVID-19
 - *0* people have died of COVID-19
-- *21* people have recovered from COVID-19[1]
+- *29* people have recovered from COVID-19[1]
 
 The population in this census area is 11568. By our calculations:
-- 8.06% of the population have had COVID-19.[2]
-- 1.33% of the population or 154.0 people are actively fighting the virus.
+- 8.09% of the population have had COVID-19.[2]
+- 1.30% of the population or 150.0 people are actively fighting the virus.
 
 ## Synopsis
 

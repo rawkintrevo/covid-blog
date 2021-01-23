@@ -12,13 +12,13 @@ tags: [Pendleton-West Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *74* new cases of COVID-19
+- *87* new cases of COVID-19
 - *0* people have died of COVID-19
-- *29* people have recovered from COVID-19[1]
+- *34* people have recovered from COVID-19[1]
 
 The population in this census area is 6969. By our calculations:
-- 7.06% of the population have had COVID-19.[2]
-- 2.55% of the population or 178.0 people are actively fighting the virus.
+- 7.25% of the population have had COVID-19.[2]
+- 2.67% of the population or 186.0 people are actively fighting the virus.
 
 ## Synopsis
 

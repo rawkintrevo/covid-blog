@@ -12,13 +12,13 @@ tags: [Windham-Vermont]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *51* new cases of COVID-19
+- *61* new cases of COVID-19
 - *0* people have died of COVID-19
-- *12* people have recovered from COVID-19[1]
+- *54* people have recovered from COVID-19[1]
 
 The population in this census area is 42222. By our calculations:
-- 1.71% of the population have had COVID-19.[2]
-- 0.58% of the population or 245.0 people are actively fighting the virus.
+- 1.73% of the population have had COVID-19.[2]
+- 0.50% of the population or 213.0 people are actively fighting the virus.
 
 ## Synopsis
 

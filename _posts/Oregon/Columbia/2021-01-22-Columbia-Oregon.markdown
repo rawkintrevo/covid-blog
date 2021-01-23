@@ -12,13 +12,13 @@ tags: [Columbia-Oregon]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *50* new cases of COVID-19
+- *51* new cases of COVID-19
 - *0* people have died of COVID-19
-- *9* people have recovered from COVID-19[1]
+- *39* people have recovered from COVID-19[1]
 
 The population in this census area is 52354. By our calculations:
-- 2.01% of the population have had COVID-19.[2]
-- 0.41% of the population or 213.0 people are actively fighting the virus.
+- 2.02% of the population have had COVID-19.[2]
+- 0.35% of the population or 184.0 people are actively fighting the virus.
 
 ## Synopsis
 

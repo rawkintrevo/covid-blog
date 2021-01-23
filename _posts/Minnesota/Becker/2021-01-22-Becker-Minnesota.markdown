@@ -12,13 +12,13 @@ tags: [Becker-Minnesota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *67* new cases of COVID-19
+- *74* new cases of COVID-19
 - *1* people have died of COVID-19
-- *4* people have recovered from COVID-19[1]
+- *21* people have recovered from COVID-19[1]
 
 The population in this census area is 34423. By our calculations:
-- 8.31% of the population have had COVID-19.[2]
-- 0.52% of the population or 179.0 people are actively fighting the virus.
+- 8.33% of the population have had COVID-19.[2]
+- 0.49% of the population or 169.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Clay-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *63* new cases of COVID-19
+- *86* new cases of COVID-19
 - *4* people have died of COVID-19
-- *-2* people have recovered from COVID-19[1]
+- *67* people have recovered from COVID-19[1]
 
 The population in this census area is 19901. By our calculations:
-- 10.43% of the population have had COVID-19.[2]
-- 2.24% of the population or 445.0 people are actively fighting the virus.
+- 10.55% of the population have had COVID-19.[2]
+- 2.00% of the population or 399.0 people are actively fighting the virus.
 
 ## Synopsis
 

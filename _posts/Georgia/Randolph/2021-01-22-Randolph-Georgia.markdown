@@ -12,13 +12,13 @@ tags: [Randolph-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *14* new cases of COVID-19
+- *24* new cases of COVID-19
 - *0* people have died of COVID-19
 - *6* people have recovered from COVID-19[1]
 
 The population in this census area is 6778. By our calculations:
-- 7.35% of the population have had COVID-19.[2]
-- 1.00% of the population or 68.0 people are actively fighting the virus.
+- 7.49% of the population have had COVID-19.[2]
+- 1.15% of the population or 78.0 people are actively fighting the virus.
 
 ## Synopsis
 

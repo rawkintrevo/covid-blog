@@ -12,13 +12,13 @@ tags: [Rockingham-New Hampshire]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1193* new cases of COVID-19
-- *4* people have died of COVID-19
-- *154* people have recovered from COVID-19[1]
+- *1417* new cases of COVID-19
+- *7* people have died of COVID-19
+- *362* people have recovered from COVID-19[1]
 
 The population in this census area is 309769. By our calculations:
-- 4.68% of the population have had COVID-19.[2]
-- 1.13% of the population or 3514.0 people are actively fighting the virus.
+- 4.75% of the population have had COVID-19.[2]
+- 1.14% of the population or 3527.0 people are actively fighting the virus.
 
 ## Synopsis
 

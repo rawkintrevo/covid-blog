@@ -12,13 +12,13 @@ tags: [Fremont-Colorado]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *59* new cases of COVID-19
+- *55* new cases of COVID-19
 - *2* people have died of COVID-19
-- *63* people have recovered from COVID-19[1]
+- *105* people have recovered from COVID-19[1]
 
 The population in this census area is 47839. By our calculations:
-- 10.49% of the population have had COVID-19.[2]
-- 0.67% of the population or 322.0 people are actively fighting the virus.
+- 10.48% of the population have had COVID-19.[2]
+- 0.58% of the population or 276.0 people are actively fighting the virus.
 
 ## Synopsis
 

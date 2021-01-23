@@ -12,13 +12,13 @@ tags: [Sharkey-Mississippi]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *17* new cases of COVID-19
+- *19* new cases of COVID-19
 - *0* people have died of COVID-19
-- *4* people have recovered from COVID-19[1]
+- *7* people have recovered from COVID-19[1]
 
 The population in this census area is 4321. By our calculations:
-- 10.18% of the population have had COVID-19.[2]
-- 1.16% of the population or 50.0 people are actively fighting the virus.
+- 10.23% of the population have had COVID-19.[2]
+- 1.13% of the population or 49.0 people are actively fighting the virus.
 
 ## Synopsis
 

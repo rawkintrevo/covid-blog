@@ -12,13 +12,13 @@ tags: [Broward-Florida]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *6505* new cases of COVID-19
-- *53* people have died of COVID-19
-- *1550* people have recovered from COVID-19[1]
+- *7595* new cases of COVID-19
+- *59* people have died of COVID-19
+- *4029* people have recovered from COVID-19[1]
 
 The population in this census area is 1952778. By our calculations:
-- 8.28% of the population have had COVID-19.[2]
-- 1.22% of the population or 23746.0 people are actively fighting the virus.
+- 8.33% of the population have had COVID-19.[2]
+- 1.14% of the population or 22351.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,12 +12,12 @@ tags: [Appomattox-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *107* new cases of COVID-19
+- *125* new cases of COVID-19
 - *0* people have died of COVID-19
-- *36* people have recovered from COVID-19[1]
+- *54* people have recovered from COVID-19[1]
 
 The population in this census area is 15911. By our calculations:
-- 6.89% of the population have had COVID-19.[2]
+- 7.00% of the population have had COVID-19.[2]
 - 2.29% of the population or 364.0 people are actively fighting the virus.
 
 ## Synopsis

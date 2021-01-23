@@ -12,13 +12,13 @@ tags: [Seneca-New York]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *133* new cases of COVID-19
-- *2* people have died of COVID-19
-- *54* people have recovered from COVID-19[1]
+- *156* new cases of COVID-19
+- *3* people have died of COVID-19
+- *87* people have recovered from COVID-19[1]
 
 The population in this census area is 34016. By our calculations:
-- 3.64% of the population have had COVID-19.[2]
-- 1.21% of the population or 412.0 people are actively fighting the virus.
+- 3.71% of the population have had COVID-19.[2]
+- 1.18% of the population or 401.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Chilton-Alabama]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *59* new cases of COVID-19
-- *1* people have died of COVID-19
-- *90* people have recovered from COVID-19[1]
+- *73* new cases of COVID-19
+- *7* people have died of COVID-19
+- *99* people have recovered from COVID-19[1]
 
 The population in this census area is 44428. By our calculations:
-- 7.63% of the population have had COVID-19.[2]
-- 0.84% of the population or 373.0 people are actively fighting the virus.
+- 7.67% of the population have had COVID-19.[2]
+- 0.84% of the population or 372.0 people are actively fighting the virus.
 
 ## Synopsis
 

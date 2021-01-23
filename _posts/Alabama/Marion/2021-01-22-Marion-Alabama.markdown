@@ -12,13 +12,13 @@ tags: [Marion-Alabama]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *99* new cases of COVID-19
-- *4* people have died of COVID-19
-- *60* people have recovered from COVID-19[1]
+- *109* new cases of COVID-19
+- *6* people have died of COVID-19
+- *80* people have recovered from COVID-19[1]
 
 The population in this census area is 29709. By our calculations:
-- 8.38% of the population have had COVID-19.[2]
-- 1.23% of the population or 365.0 people are actively fighting the virus.
+- 8.42% of the population have had COVID-19.[2]
+- 1.19% of the population or 353.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Orleans-Louisiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *873* new cases of COVID-19
-- *6* people have died of COVID-19
-- *256* people have recovered from COVID-19[1]
+- *1070* new cases of COVID-19
+- *12* people have died of COVID-19
+- *250* people have recovered from COVID-19[1]
 
 The population in this census area is 390144. By our calculations:
-- 6.37% of the population have had COVID-19.[2]
-- 1.01% of the population or 3938.0 people are actively fighting the virus.
+- 6.42% of the population have had COVID-19.[2]
+- 1.06% of the population or 4135.0 people are actively fighting the virus.
 
 ## Synopsis
 

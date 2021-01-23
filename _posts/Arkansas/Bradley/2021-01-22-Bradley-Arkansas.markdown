@@ -12,13 +12,13 @@ tags: [Bradley-Arkansas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *45* new cases of COVID-19
+- *62* new cases of COVID-19
 - *2* people have died of COVID-19
-- *34* people have recovered from COVID-19[1]
+- *48* people have recovered from COVID-19[1]
 
 The population in this census area is 10763. By our calculations:
-- 10.89% of the population have had COVID-19.[2]
-- 1.90% of the population or 205.0 people are actively fighting the virus.
+- 11.05% of the population have had COVID-19.[2]
+- 1.93% of the population or 208.0 people are actively fighting the virus.
 
 ## Synopsis
 

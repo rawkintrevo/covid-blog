@@ -12,13 +12,13 @@ tags: [Lincoln-Maine]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *29* new cases of COVID-19
+- *36* new cases of COVID-19
 - *0* people have died of COVID-19
 - *12* people have recovered from COVID-19[1]
 
 The population in this census area is 34634. By our calculations:
-- 1.18% of the population have had COVID-19.[2]
-- 0.29% of the population or 99.0 people are actively fighting the virus.
+- 1.20% of the population have had COVID-19.[2]
+- 0.31% of the population or 106.0 people are actively fighting the virus.
 
 ## Synopsis
 

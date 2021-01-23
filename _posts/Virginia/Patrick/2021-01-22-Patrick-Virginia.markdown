@@ -12,13 +12,13 @@ tags: [Patrick-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *39* new cases of COVID-19
+- *50* new cases of COVID-19
 - *0* people have died of COVID-19
-- *34* people have recovered from COVID-19[1]
+- *52* people have recovered from COVID-19[1]
 
 The population in this census area is 17608. By our calculations:
-- 5.40% of the population have had COVID-19.[2]
-- 0.95% of the population or 167.0 people are actively fighting the virus.
+- 5.46% of the population have had COVID-19.[2]
+- 0.91% of the population or 160.0 people are actively fighting the virus.
 
 ## Synopsis
 

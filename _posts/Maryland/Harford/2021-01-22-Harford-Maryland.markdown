@@ -12,13 +12,13 @@ tags: [Harford-Maryland]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *538* new cases of COVID-19
+- *603* new cases of COVID-19
 - *12* people have died of COVID-19
-- *168* people have recovered from COVID-19[1]
+- *296* people have recovered from COVID-19[1]
 
 The population in this census area is 255441. By our calculations:
-- 4.10% of the population have had COVID-19.[2]
-- 0.69% of the population or 1773.0 people are actively fighting the virus.
+- 4.13% of the population have had COVID-19.[2]
+- 0.67% of the population or 1710.0 people are actively fighting the virus.
 
 ## Synopsis
 

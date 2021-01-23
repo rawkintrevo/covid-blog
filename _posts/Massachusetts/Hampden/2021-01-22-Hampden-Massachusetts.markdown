@@ -12,13 +12,13 @@ tags: [Hampden-Massachusetts]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *2086* new cases of COVID-19
-- *26* people have died of COVID-19
-- *491* people have recovered from COVID-19[1]
+- *2424* new cases of COVID-19
+- *34* people have died of COVID-19
+- *1078* people have recovered from COVID-19[1]
 
 The population in this census area is 466372. By our calculations:
-- 7.27% of the population have had COVID-19.[2]
-- 1.57% of the population or 7316.0 people are actively fighting the virus.
+- 7.35% of the population have had COVID-19.[2]
+- 1.51% of the population or 7059.0 people are actively fighting the virus.
 
 ## Synopsis
 

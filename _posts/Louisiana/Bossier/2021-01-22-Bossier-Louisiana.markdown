@@ -12,13 +12,13 @@ tags: [Bossier-Louisiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *358* new cases of COVID-19
-- *13* people have died of COVID-19
-- *99* people have recovered from COVID-19[1]
+- *484* new cases of COVID-19
+- *14* people have died of COVID-19
+- *98* people have recovered from COVID-19[1]
 
 The population in this census area is 127039. By our calculations:
-- 8.52% of the population have had COVID-19.[2]
-- 1.43% of the population or 1813.0 people are actively fighting the virus.
+- 8.62% of the population have had COVID-19.[2]
+- 1.53% of the population or 1939.0 people are actively fighting the virus.
 
 ## Synopsis
 

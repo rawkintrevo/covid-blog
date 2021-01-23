@@ -12,13 +12,13 @@ tags: [Union-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *46* new cases of COVID-19
+- *62* new cases of COVID-19
 - *0* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *12* people have recovered from COVID-19[1]
 
 The population in this census area is 14381. By our calculations:
-- 7.74% of the population have had COVID-19.[2]
-- 1.11% of the population or 159.0 people are actively fighting the virus.
+- 7.85% of the population have had COVID-19.[2]
+- 1.13% of the population or 163.0 people are actively fighting the virus.
 
 ## Synopsis
 

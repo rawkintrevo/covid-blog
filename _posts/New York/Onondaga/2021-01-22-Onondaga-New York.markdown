@@ -12,13 +12,13 @@ tags: [Onondaga-New York]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1772* new cases of COVID-19
-- *24* people have died of COVID-19
-- *831* people have recovered from COVID-19[1]
+- *2048* new cases of COVID-19
+- *26* people have died of COVID-19
+- *1245* people have recovered from COVID-19[1]
 
 The population in this census area is 460528. By our calculations:
-- 6.07% of the population have had COVID-19.[2]
-- 1.37% of the population or 6290.0 people are actively fighting the virus.
+- 6.13% of the population have had COVID-19.[2]
+- 1.34% of the population or 6150.0 people are actively fighting the virus.
 
 ## Synopsis
 

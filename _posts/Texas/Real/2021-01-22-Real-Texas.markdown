@@ -12,13 +12,13 @@ tags: [Real-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *8* new cases of COVID-19
+- *18* new cases of COVID-19
 - *0* people have died of COVID-19
 - *0* people have recovered from COVID-19[1]
 
 The population in this census area is 3452. By our calculations:
-- 7.71% of the population have had COVID-19.[2]
-- 1.68% of the population or 58.0 people are actively fighting the virus.
+- 8.00% of the population have had COVID-19.[2]
+- 1.97% of the population or 68.0 people are actively fighting the virus.
 
 ## Synopsis
 

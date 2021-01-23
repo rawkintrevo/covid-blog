@@ -12,13 +12,13 @@ tags: [Rockdale-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *337* new cases of COVID-19
+- *371* new cases of COVID-19
 - *4* people have died of COVID-19
-- *128* people have recovered from COVID-19[1]
+- *196* people have recovered from COVID-19[1]
 
 The population in this census area is 90896. By our calculations:
-- 5.72% of the population have had COVID-19.[2]
-- 1.23% of the population or 1118.0 people are actively fighting the virus.
+- 5.76% of the population have had COVID-19.[2]
+- 1.19% of the population or 1084.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Columbia-Pennsylvania]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *217* new cases of COVID-19
-- *11* people have died of COVID-19
-- *115* people have recovered from COVID-19[1]
+- *229* new cases of COVID-19
+- *13* people have died of COVID-19
+- *155* people have recovered from COVID-19[1]
 
 The population in this census area is 64964. By our calculations:
-- 5.88% of the population have had COVID-19.[2]
-- 1.47% of the population or 952.0 people are actively fighting the virus.
+- 5.90% of the population have had COVID-19.[2]
+- 1.42% of the population or 922.0 people are actively fighting the virus.
 
 ## Synopsis
 

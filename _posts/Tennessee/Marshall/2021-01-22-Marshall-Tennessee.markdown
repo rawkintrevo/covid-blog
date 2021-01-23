@@ -12,13 +12,13 @@ tags: [Marshall-Tennessee]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *159* new cases of COVID-19
+- *196* new cases of COVID-19
 - *2* people have died of COVID-19
-- *40* people have recovered from COVID-19[1]
+- *108* people have recovered from COVID-19[1]
 
 The population in this census area is 34375. By our calculations:
-- 10.16% of the population have had COVID-19.[2]
-- 1.81% of the population or 621.0 people are actively fighting the virus.
+- 10.27% of the population have had COVID-19.[2]
+- 1.72% of the population or 590.0 people are actively fighting the virus.
 
 ## Synopsis
 

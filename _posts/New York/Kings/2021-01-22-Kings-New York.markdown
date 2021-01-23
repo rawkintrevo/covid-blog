@@ -12,13 +12,13 @@ tags: [Kings-New York]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *10368* new cases of COVID-19
-- *122* people have died of COVID-19
-- *2919* people have recovered from COVID-19[1]
+- *12001* new cases of COVID-19
+- *150* people have died of COVID-19
+- *4480* people have recovered from COVID-19[1]
 
 The population in this census area is 2559903. By our calculations:
-- 6.13% of the population have had COVID-19.[2]
-- 1.21% of the population or 31034.0 people are actively fighting the virus.
+- 6.19% of the population have had COVID-19.[2]
+- 1.21% of the population or 31078.0 people are actively fighting the virus.
 
 ## Synopsis
 

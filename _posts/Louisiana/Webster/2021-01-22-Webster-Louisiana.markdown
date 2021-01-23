@@ -12,13 +12,13 @@ tags: [Webster-Louisiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *111* new cases of COVID-19
-- *4* people have died of COVID-19
-- *47* people have recovered from COVID-19[1]
+- *168* new cases of COVID-19
+- *5* people have died of COVID-19
+- *46* people have recovered from COVID-19[1]
 
 The population in this census area is 38340. By our calculations:
-- 9.00% of the population have had COVID-19.[2]
-- 1.61% of the population or 617.0 people are actively fighting the virus.
+- 9.15% of the population have had COVID-19.[2]
+- 1.76% of the population or 674.0 people are actively fighting the virus.
 
 ## Synopsis
 

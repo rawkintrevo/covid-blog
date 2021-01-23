@@ -12,12 +12,12 @@ tags: [McDuffie-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *149* new cases of COVID-19
-- *1* people have died of COVID-19
-- *65* people have recovered from COVID-19[1]
+- *163* new cases of COVID-19
+- *3* people have died of COVID-19
+- *77* people have recovered from COVID-19[1]
 
 The population in this census area is 21312. By our calculations:
-- 8.71% of the population have had COVID-19.[2]
+- 8.79% of the population have had COVID-19.[2]
 - 2.28% of the population or 485.0 people are actively fighting the virus.
 
 ## Synopsis

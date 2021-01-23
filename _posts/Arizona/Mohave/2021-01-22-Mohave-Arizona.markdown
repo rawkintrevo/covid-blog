@@ -12,13 +12,13 @@ tags: [Mohave-Arizona]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *660* new cases of COVID-19
-- *32* people have died of COVID-19
-- *755* people have recovered from COVID-19[1]
+- *1249* new cases of COVID-19
+- *50* people have died of COVID-19
+- *901* people have recovered from COVID-19[1]
 
 The population in this census area is 212181. By our calculations:
-- 8.00% of the population have had COVID-19.[2]
-- 1.87% of the population or 3960.0 people are actively fighting the virus.
+- 8.29% of the population have had COVID-19.[2]
+- 2.07% of the population or 4385.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Volusia-Florida]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1476* new cases of COVID-19
-- *8* people have died of COVID-19
-- *304* people have recovered from COVID-19[1]
+- *1743* new cases of COVID-19
+- *15* people have died of COVID-19
+- *823* people have recovered from COVID-19[1]
 
 The population in this census area is 553284. By our calculations:
-- 5.06% of the population have had COVID-19.[2]
-- 1.03% of the population or 5679.0 people are actively fighting the virus.
+- 5.11% of the population have had COVID-19.[2]
+- 0.98% of the population or 5420.0 people are actively fighting the virus.
 
 ## Synopsis
 

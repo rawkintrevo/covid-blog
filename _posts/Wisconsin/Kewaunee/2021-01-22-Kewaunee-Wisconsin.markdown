@@ -12,13 +12,13 @@ tags: [Kewaunee-Wisconsin]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *63* new cases of COVID-19
+- *81* new cases of COVID-19
 - *1* people have died of COVID-19
 - *22* people have recovered from COVID-19[1]
 
 The population in this census area is 20434. By our calculations:
-- 11.78% of the population have had COVID-19.[2]
-- 1.07% of the population or 219.0 people are actively fighting the virus.
+- 11.87% of the population have had COVID-19.[2]
+- 1.16% of the population or 237.0 people are actively fighting the virus.
 
 ## Synopsis
 

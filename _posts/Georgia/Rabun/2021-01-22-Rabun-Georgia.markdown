@@ -12,13 +12,13 @@ tags: [Rabun-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *59* new cases of COVID-19
-- *3* people have died of COVID-19
-- *49* people have recovered from COVID-19[1]
+- *63* new cases of COVID-19
+- *5* people have died of COVID-19
+- *64* people have recovered from COVID-19[1]
 
 The population in this census area is 17137. By our calculations:
-- 8.13% of the population have had COVID-19.[2]
-- 1.34% of the population or 229.0 people are actively fighting the virus.
+- 8.17% of the population have had COVID-19.[2]
+- 1.26% of the population or 216.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Orange-New York]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1592* new cases of COVID-19
+- *1920* new cases of COVID-19
 - *14* people have died of COVID-19
-- *646* people have recovered from COVID-19[1]
+- *1000* people have recovered from COVID-19[1]
 
 The population in this census area is 384940. By our calculations:
-- 7.55% of the population have had COVID-19.[2]
-- 1.35% of the population or 5196.0 people are actively fighting the virus.
+- 7.64% of the population have had COVID-19.[2]
+- 1.34% of the population or 5170.0 people are actively fighting the virus.
 
 ## Synopsis
 

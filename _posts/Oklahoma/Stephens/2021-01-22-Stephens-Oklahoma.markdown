@@ -12,13 +12,13 @@ tags: [Stephens-Oklahoma]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *177* new cases of COVID-19
-- *6* people have died of COVID-19
-- *46* people have recovered from COVID-19[1]
+- *205* new cases of COVID-19
+- *7* people have died of COVID-19
+- *102* people have recovered from COVID-19[1]
 
 The population in this census area is 43143. By our calculations:
-- 9.03% of the population have had COVID-19.[2]
-- 1.97% of the population or 852.0 people are actively fighting the virus.
+- 9.10% of the population have had COVID-19.[2]
+- 1.91% of the population or 823.0 people are actively fighting the virus.
 
 ## Synopsis
 

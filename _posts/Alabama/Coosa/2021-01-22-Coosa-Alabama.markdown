@@ -12,13 +12,13 @@ tags: [Coosa-Alabama]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *11* new cases of COVID-19
+- *23* new cases of COVID-19
 - *1* people have died of COVID-19
-- *18* people have recovered from COVID-19[1]
+- *22* people have recovered from COVID-19[1]
 
 The population in this census area is 10663. By our calculations:
-- 5.72% of the population have had COVID-19.[2]
-- 0.78% of the population or 83.0 people are actively fighting the virus.
+- 5.83% of the population have had COVID-19.[2]
+- 0.85% of the population or 91.0 people are actively fighting the virus.
 
 ## Synopsis
 

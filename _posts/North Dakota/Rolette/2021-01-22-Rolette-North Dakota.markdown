@@ -12,13 +12,13 @@ tags: [Rolette-North Dakota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *11* new cases of COVID-19
+- *17* new cases of COVID-19
 - *1* people have died of COVID-19
-- *36* people have recovered from COVID-19[1]
+- *41* people have recovered from COVID-19[1]
 
 The population in this census area is 14176. By our calculations:
-- 14.32% of the population have had COVID-19.[2]
-- 0.93% of the population or 132.0 people are actively fighting the virus.
+- 14.36% of the population have had COVID-19.[2]
+- 0.94% of the population or 133.0 people are actively fighting the virus.
 
 ## Synopsis
 

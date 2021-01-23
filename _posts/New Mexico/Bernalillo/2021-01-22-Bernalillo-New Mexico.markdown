@@ -12,13 +12,13 @@ tags: [Bernalillo-New Mexico]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1316* new cases of COVID-19
-- *45* people have died of COVID-19
-- *721* people have recovered from COVID-19[1]
+- *1541* new cases of COVID-19
+- *50* people have died of COVID-19
+- *975* people have recovered from COVID-19[1]
 
 The population in this census area is 679121. By our calculations:
-- 6.92% of the population have had COVID-19.[2]
-- 0.84% of the population or 5701.0 people are actively fighting the virus.
+- 6.95% of the population have had COVID-19.[2]
+- 0.83% of the population or 5667.0 people are actively fighting the virus.
 
 ## Synopsis
 

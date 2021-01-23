@@ -12,13 +12,13 @@ tags: [Lamar-Alabama]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *20* new cases of COVID-19
+- *26* new cases of COVID-19
 - *2* people have died of COVID-19
-- *26* people have recovered from COVID-19[1]
+- *30* people have recovered from COVID-19[1]
 
 The population in this census area is 13805. By our calculations:
-- 8.62% of the population have had COVID-19.[2]
-- 0.86% of the population or 119.0 people are actively fighting the virus.
+- 8.66% of the population have had COVID-19.[2]
+- 0.88% of the population or 121.0 people are actively fighting the virus.
 
 ## Synopsis
 

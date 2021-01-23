@@ -12,13 +12,13 @@ tags: [Lincoln-West Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *84* new cases of COVID-19
+- *95* new cases of COVID-19
 - *0* people have died of COVID-19
-- *51* people have recovered from COVID-19[1]
+- *67* people have recovered from COVID-19[1]
 
 The population in this census area is 20409. By our calculations:
-- 5.16% of the population have had COVID-19.[2]
-- 1.32% of the population or 269.0 people are actively fighting the virus.
+- 5.22% of the population have had COVID-19.[2]
+- 1.29% of the population or 264.0 people are actively fighting the virus.
 
 ## Synopsis
 

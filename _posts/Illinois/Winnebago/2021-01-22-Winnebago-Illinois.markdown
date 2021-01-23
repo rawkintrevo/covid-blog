@@ -12,13 +12,13 @@ tags: [Winnebago-Illinois]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *547* new cases of COVID-19
-- *5* people have died of COVID-19
-- *174* people have recovered from COVID-19[1]
+- *642* new cases of COVID-19
+- *8* people have died of COVID-19
+- *458* people have recovered from COVID-19[1]
 
 The population in this census area is 282572. By our calculations:
-- 9.34% of the population have had COVID-19.[2]
-- 0.82% of the population or 2331.0 people are actively fighting the virus.
+- 9.38% of the population have had COVID-19.[2]
+- 0.76% of the population or 2139.0 people are actively fighting the virus.
 
 ## Synopsis
 

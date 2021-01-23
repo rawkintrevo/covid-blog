@@ -12,13 +12,13 @@ tags: [Irwin-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *36* new cases of COVID-19
+- *37* new cases of COVID-19
 - *2* people have died of COVID-19
-- *24* people have recovered from COVID-19[1]
+- *39* people have recovered from COVID-19[1]
 
 The population in this census area is 9416. By our calculations:
-- 8.53% of the population have had COVID-19.[2]
-- 1.39% of the population or 131.0 people are actively fighting the virus.
+- 8.54% of the population have had COVID-19.[2]
+- 1.24% of the population or 117.0 people are actively fighting the virus.
 
 ## Synopsis
 

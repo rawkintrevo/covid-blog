@@ -12,13 +12,13 @@ tags: [Jackson-Mississippi]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *546* new cases of COVID-19
+- *641* new cases of COVID-19
 - *15* people have died of COVID-19
-- *96* people have recovered from COVID-19[1]
+- *145* people have recovered from COVID-19[1]
 
 The population in this census area is 143617. By our calculations:
-- 7.35% of the population have had COVID-19.[2]
-- 1.19% of the population or 1704.0 people are actively fighting the virus.
+- 7.42% of the population have had COVID-19.[2]
+- 1.22% of the population or 1750.0 people are actively fighting the virus.
 
 ## Synopsis
 

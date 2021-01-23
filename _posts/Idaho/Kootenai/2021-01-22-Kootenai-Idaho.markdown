@@ -12,13 +12,13 @@ tags: [Kootenai-Idaho]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *469* new cases of COVID-19
-- *9* people have died of COVID-19
-- *158* people have recovered from COVID-19[1]
+- *533* new cases of COVID-19
+- *13* people have died of COVID-19
+- *364* people have recovered from COVID-19[1]
 
 The population in this census area is 165697. By our calculations:
-- 9.07% of the population have had COVID-19.[2]
-- 1.44% of the population or 2385.0 people are actively fighting the virus.
+- 9.11% of the population have had COVID-19.[2]
+- 1.35% of the population or 2239.0 people are actively fighting the virus.
 
 ## Synopsis
 

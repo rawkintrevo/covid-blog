@@ -12,13 +12,13 @@ tags: [Darlington-South Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *502* new cases of COVID-19
+- *567* new cases of COVID-19
 - *8* people have died of COVID-19
-- *45* people have recovered from COVID-19[1]
+- *142* people have recovered from COVID-19[1]
 
 The population in this census area is 66618. By our calculations:
-- 9.33% of the population have had COVID-19.[2]
-- 2.47% of the population or 1644.0 people are actively fighting the virus.
+- 9.43% of the population have had COVID-19.[2]
+- 2.42% of the population or 1612.0 people are actively fighting the virus.
 
 ## Synopsis
 

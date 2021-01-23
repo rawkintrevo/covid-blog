@@ -12,13 +12,13 @@ tags: [Wakulla-Florida]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *137* new cases of COVID-19
-- *3* people have died of COVID-19
-- *17* people have recovered from COVID-19[1]
+- *162* new cases of COVID-19
+- *5* people have died of COVID-19
+- *92* people have recovered from COVID-19[1]
 
 The population in this census area is 33739. By our calculations:
-- 8.04% of the population have had COVID-19.[2]
-- 1.78% of the population or 599.0 people are actively fighting the virus.
+- 8.12% of the population have had COVID-19.[2]
+- 1.62% of the population or 547.0 people are actively fighting the virus.
 
 ## Synopsis
 

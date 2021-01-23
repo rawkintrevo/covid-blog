@@ -12,13 +12,13 @@ tags: [Douglas-Washington]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *61* new cases of COVID-19
-- *1* people have died of COVID-19
-- *32* people have recovered from COVID-19[1]
+- *73* new cases of COVID-19
+- *2* people have died of COVID-19
+- *31* people have recovered from COVID-19[1]
 
 The population in this census area is 43429. By our calculations:
-- 6.74% of the population have had COVID-19.[2]
-- 0.75% of the population or 326.0 people are actively fighting the virus.
+- 6.77% of the population have had COVID-19.[2]
+- 0.78% of the population or 338.0 people are actively fighting the virus.
 
 ## Synopsis
 

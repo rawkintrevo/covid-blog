@@ -12,12 +12,12 @@ tags: [Oktibbeha-Mississippi]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *132* new cases of COVID-19
+- *172* new cases of COVID-19
 - *2* people have died of COVID-19
-- *89* people have recovered from COVID-19[1]
+- *129* people have recovered from COVID-19[1]
 
 The population in this census area is 49587. By our calculations:
-- 8.02% of the population have had COVID-19.[2]
+- 8.10% of the population have had COVID-19.[2]
 - 1.04% of the population or 517.0 people are actively fighting the virus.
 
 ## Synopsis

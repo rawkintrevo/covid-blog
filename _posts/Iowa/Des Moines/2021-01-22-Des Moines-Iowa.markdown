@@ -12,13 +12,13 @@ tags: [Des Moines-Iowa]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *62* new cases of COVID-19
-- *1* people have died of COVID-19
-- *39* people have recovered from COVID-19[1]
+- *116* new cases of COVID-19
+- *3* people have died of COVID-19
+- *60* people have recovered from COVID-19[1]
 
 The population in this census area is 38967. By our calculations:
-- 9.84% of the population have had COVID-19.[2]
-- 0.72% of the population or 280.0 people are actively fighting the virus.
+- 9.99% of the population have had COVID-19.[2]
+- 0.80% of the population or 311.0 people are actively fighting the virus.
 
 ## Synopsis
 

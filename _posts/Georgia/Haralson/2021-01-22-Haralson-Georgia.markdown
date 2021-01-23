@@ -12,13 +12,13 @@ tags: [Haralson-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *76* new cases of COVID-19
+- *90* new cases of COVID-19
 - *4* people have died of COVID-19
-- *37* people have recovered from COVID-19[1]
+- *48* people have recovered from COVID-19[1]
 
 The population in this census area is 29792. By our calculations:
-- 7.24% of the population have had COVID-19.[2]
-- 0.87% of the population or 258.0 people are actively fighting the virus.
+- 7.29% of the population have had COVID-19.[2]
+- 0.88% of the population or 261.0 people are actively fighting the virus.
 
 ## Synopsis
 

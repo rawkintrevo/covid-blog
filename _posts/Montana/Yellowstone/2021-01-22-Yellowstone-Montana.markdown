@@ -12,13 +12,13 @@ tags: [Yellowstone-Montana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *197* new cases of COVID-19
+- *248* new cases of COVID-19
 - *3* people have died of COVID-19
-- *14* people have recovered from COVID-19[1]
+- *73* people have recovered from COVID-19[1]
 
 The population in this census area is 161300. By our calculations:
-- 9.19% of the population have had COVID-19.[2]
-- 0.59% of the population or 956.0 people are actively fighting the virus.
+- 9.22% of the population have had COVID-19.[2]
+- 0.59% of the population or 948.0 people are actively fighting the virus.
 
 ## Synopsis
 

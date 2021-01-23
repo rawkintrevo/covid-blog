@@ -12,13 +12,13 @@ tags: [Dawson-Nebraska]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *41* new cases of COVID-19
+- *53* new cases of COVID-19
 - *1* people have died of COVID-19
-- *23* people have recovered from COVID-19[1]
+- *29* people have recovered from COVID-19[1]
 
 The population in this census area is 23595. By our calculations:
-- 11.22% of the population have had COVID-19.[2]
-- 0.72% of the population or 169.0 people are actively fighting the virus.
+- 11.27% of the population have had COVID-19.[2]
+- 0.74% of the population or 175.0 people are actively fighting the virus.
 
 ## Synopsis
 

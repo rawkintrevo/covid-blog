@@ -14,11 +14,11 @@ tags: [Texas-Missouri]
 In the last 7 days[3] we project there have been
 - *26* new cases of COVID-19
 - *0* people have died of COVID-19
-- *42* people have recovered from COVID-19[1]
+- *49* people have recovered from COVID-19[1]
 
 The population in this census area is 25398. By our calculations:
 - 5.82% of the population have had COVID-19.[2]
-- 0.44% of the population or 112.0 people are actively fighting the virus.
+- 0.41% of the population or 105.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Houston-Tennessee]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *17* new cases of COVID-19
+- *19* new cases of COVID-19
 - *0* people have died of COVID-19
-- *1* people have recovered from COVID-19[1]
+- *26* people have recovered from COVID-19[1]
 
 The population in this census area is 8201. By our calculations:
-- 11.49% of the population have had COVID-19.[2]
-- 1.77% of the population or 145.0 people are actively fighting the virus.
+- 11.51% of the population have had COVID-19.[2]
+- 1.49% of the population or 122.0 people are actively fighting the virus.
 
 ## Synopsis
 

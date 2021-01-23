@@ -12,13 +12,13 @@ tags: [Clare-Michigan]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *49* new cases of COVID-19
-- *4* people have died of COVID-19
-- *-3* people have recovered from COVID-19[1]
+- *52* new cases of COVID-19
+- *7* people have died of COVID-19
+- *9* people have recovered from COVID-19[1]
 
 The population in this census area is 30950. By our calculations:
-- 4.57% of the population have had COVID-19.[2]
-- 0.55% of the population or 169.0 people are actively fighting the virus.
+- 4.59% of the population have had COVID-19.[2]
+- 0.51% of the population or 157.0 people are actively fighting the virus.
 
 ## Synopsis
 

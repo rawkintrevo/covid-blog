@@ -12,13 +12,13 @@ tags: [Chariton-Missouri]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *10* new cases of COVID-19
+- *18* new cases of COVID-19
 - *0* people have died of COVID-19
-- *11* people have recovered from COVID-19[1]
+- *12* people have recovered from COVID-19[1]
 
 The population in this census area is 7426. By our calculations:
-- 5.18% of the population have had COVID-19.[2]
-- 0.65% of the population or 48.0 people are actively fighting the virus.
+- 5.29% of the population have had COVID-19.[2]
+- 0.74% of the population or 55.0 people are actively fighting the virus.
 
 ## Synopsis
 

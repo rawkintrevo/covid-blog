@@ -12,13 +12,13 @@ tags: [DeKalb-Illinois]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *254* new cases of COVID-19
+- *281* new cases of COVID-19
 - *3* people have died of COVID-19
-- *62* people have recovered from COVID-19[1]
+- *156* people have recovered from COVID-19[1]
 
 The population in this census area is 104897. By our calculations:
-- 7.19% of the population have had COVID-19.[2]
-- 0.84% of the population or 883.0 people are actively fighting the virus.
+- 7.21% of the population have had COVID-19.[2]
+- 0.78% of the population or 816.0 people are actively fighting the virus.
 
 ## Synopsis
 

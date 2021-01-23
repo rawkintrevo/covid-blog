@@ -12,13 +12,13 @@ tags: [Polk-Oregon]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *124* new cases of COVID-19
+- *142* new cases of COVID-19
 - *2* people have died of COVID-19
-- *38* people have recovered from COVID-19[1]
+- *96* people have recovered from COVID-19[1]
 
 The population in this census area is 86085. By our calculations:
-- 2.89% of the population have had COVID-19.[2]
-- 0.58% of the population or 500.0 people are actively fighting the virus.
+- 2.92% of the population have had COVID-19.[2]
+- 0.53% of the population or 460.0 people are actively fighting the virus.
 
 ## Synopsis
 

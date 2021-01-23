@@ -12,13 +12,13 @@ tags: [Fresno-California]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *4858* new cases of COVID-19
+- *5249* new cases of COVID-19
 - *64* people have died of COVID-19
-- *1192* people have recovered from COVID-19[1]
+- *2234* people have recovered from COVID-19[1]
 
 The population in this census area is 999101. By our calculations:
-- 8.33% of the population have had COVID-19.[2]
-- 1.65% of the population or 16499.0 people are actively fighting the virus.
+- 8.37% of the population have had COVID-19.[2]
+- 1.59% of the population or 15848.0 people are actively fighting the virus.
 
 ## Synopsis
 

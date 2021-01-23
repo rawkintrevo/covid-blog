@@ -12,13 +12,13 @@ tags: [Smith-Tennessee]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *45* new cases of COVID-19
+- *52* new cases of COVID-19
 - *1* people have died of COVID-19
-- *23* people have recovered from COVID-19[1]
+- *51* people have recovered from COVID-19[1]
 
 The population in this census area is 20157. By our calculations:
-- 11.56% of the population have had COVID-19.[2]
-- 1.39% of the population or 281.0 people are actively fighting the virus.
+- 11.59% of the population have had COVID-19.[2]
+- 1.29% of the population or 260.0 people are actively fighting the virus.
 
 ## Synopsis
 

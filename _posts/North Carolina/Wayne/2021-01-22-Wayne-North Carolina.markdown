@@ -12,13 +12,13 @@ tags: [Wayne-North Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *298* new cases of COVID-19
-- *5* people have died of COVID-19
-- *60* people have recovered from COVID-19[1]
+- *337* new cases of COVID-19
+- *9* people have died of COVID-19
+- *215* people have recovered from COVID-19[1]
 
 The population in this census area is 123131. By our calculations:
-- 6.98% of the population have had COVID-19.[2]
-- 0.92% of the population or 1138.0 people are actively fighting the virus.
+- 7.01% of the population have had COVID-19.[2]
+- 0.83% of the population or 1018.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Cass-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *74* new cases of COVID-19
+- *76* new cases of COVID-19
 - *3* people have died of COVID-19
-- *23* people have recovered from COVID-19[1]
+- *29* people have recovered from COVID-19[1]
 
 The population in this census area is 30026. By our calculations:
-- 5.03% of the population have had COVID-19.[2]
-- 0.65% of the population or 196.0 people are actively fighting the virus.
+- 5.04% of the population have had COVID-19.[2]
+- 0.64% of the population or 192.0 people are actively fighting the virus.
 
 ## Synopsis
 

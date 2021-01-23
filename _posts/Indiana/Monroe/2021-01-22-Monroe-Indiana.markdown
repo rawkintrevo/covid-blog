@@ -12,13 +12,13 @@ tags: [Monroe-Indiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *285* new cases of COVID-19
-- *4* people have died of COVID-19
-- *134* people have recovered from COVID-19[1]
+- *361* new cases of COVID-19
+- *5* people have died of COVID-19
+- *187* people have recovered from COVID-19[1]
 
 The population in this census area is 148431. By our calculations:
-- 6.21% of the population have had COVID-19.[2]
-- 0.76% of the population or 1129.0 people are actively fighting the virus.
+- 6.26% of the population have had COVID-19.[2]
+- 0.78% of the population or 1151.0 people are actively fighting the virus.
 
 ## Synopsis
 

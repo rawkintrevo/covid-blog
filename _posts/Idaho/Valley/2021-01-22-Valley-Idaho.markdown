@@ -12,13 +12,13 @@ tags: [Valley-Idaho]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *51* new cases of COVID-19
+- *61* new cases of COVID-19
 - *0* people have died of COVID-19
-- *11* people have recovered from COVID-19[1]
+- *14* people have recovered from COVID-19[1]
 
 The population in this census area is 11392. By our calculations:
-- 5.69% of the population have had COVID-19.[2]
-- 1.45% of the population or 165.0 people are actively fighting the virus.
+- 5.78% of the population have had COVID-19.[2]
+- 1.51% of the population or 172.0 people are actively fighting the virus.
 
 ## Synopsis
 

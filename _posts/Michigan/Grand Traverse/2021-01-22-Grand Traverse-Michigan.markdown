@@ -12,13 +12,13 @@ tags: [Grand Traverse-Michigan]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *143* new cases of COVID-19
+- *174* new cases of COVID-19
 - *1* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *115* people have recovered from COVID-19[1]
 
 The population in this census area is 93088. By our calculations:
-- 4.00% of the population have had COVID-19.[2]
-- 0.75% of the population or 702.0 people are actively fighting the virus.
+- 4.03% of the population have had COVID-19.[2]
+- 0.66% of the population or 618.0 people are actively fighting the virus.
 
 ## Synopsis
 

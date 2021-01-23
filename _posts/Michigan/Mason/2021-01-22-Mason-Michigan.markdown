@@ -12,13 +12,13 @@ tags: [Mason-Michigan]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *34* new cases of COVID-19
+- *43* new cases of COVID-19
 - *1* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *16* people have recovered from COVID-19[1]
 
 The population in this census area is 29144. By our calculations:
-- 3.88% of the population have had COVID-19.[2]
-- 0.51% of the population or 149.0 people are actively fighting the virus.
+- 3.92% of the population have had COVID-19.[2]
+- 0.49% of the population or 142.0 people are actively fighting the virus.
 
 ## Synopsis
 

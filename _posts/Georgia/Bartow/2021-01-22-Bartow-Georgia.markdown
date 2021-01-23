@@ -12,13 +12,13 @@ tags: [Bartow-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *578* new cases of COVID-19
-- *5* people have died of COVID-19
-- *283* people have recovered from COVID-19[1]
+- *664* new cases of COVID-19
+- *8* people have died of COVID-19
+- *353* people have recovered from COVID-19[1]
 
 The population in this census area is 107738. By our calculations:
-- 9.47% of the population have had COVID-19.[2]
-- 1.97% of the population or 2120.0 people are actively fighting the virus.
+- 9.56% of the population have had COVID-19.[2]
+- 1.98% of the population or 2133.0 people are actively fighting the virus.
 
 ## Synopsis
 

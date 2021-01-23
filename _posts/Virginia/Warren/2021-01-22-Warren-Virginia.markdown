@@ -12,13 +12,13 @@ tags: [Warren-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *127* new cases of COVID-19
+- *142* new cases of COVID-19
 - *0* people have died of COVID-19
-- *35* people have recovered from COVID-19[1]
+- *88* people have recovered from COVID-19[1]
 
 The population in this census area is 40164. By our calculations:
-- 4.33% of the population have had COVID-19.[2]
-- 0.95% of the population or 380.0 people are actively fighting the virus.
+- 4.37% of the population have had COVID-19.[2]
+- 0.85% of the population or 342.0 people are actively fighting the virus.
 
 ## Synopsis
 

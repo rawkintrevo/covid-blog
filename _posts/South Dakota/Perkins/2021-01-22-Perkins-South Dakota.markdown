@@ -12,13 +12,13 @@ tags: [Perkins-South Dakota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *13* new cases of COVID-19
+- *14* new cases of COVID-19
 - *0* people have died of COVID-19
-- *1* people have recovered from COVID-19[1]
+- *3* people have recovered from COVID-19[1]
 
 The population in this census area is 2865. By our calculations:
-- 11.17% of the population have had COVID-19.[2]
-- 1.22% of the population or 35.0 people are actively fighting the virus.
+- 11.20% of the population have had COVID-19.[2]
+- 1.19% of the population or 34.0 people are actively fighting the virus.
 
 ## Synopsis
 

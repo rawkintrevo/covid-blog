@@ -12,13 +12,13 @@ tags: [Bureau-Illinois]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *47* new cases of COVID-19
+- *51* new cases of COVID-19
 - *2* people have died of COVID-19
-- *22* people have recovered from COVID-19[1]
+- *46* people have recovered from COVID-19[1]
 
 The population in this census area is 32628. By our calculations:
-- 9.24% of the population have had COVID-19.[2]
-- 0.58% of the population or 189.0 people are actively fighting the virus.
+- 9.25% of the population have had COVID-19.[2]
+- 0.52% of the population or 169.0 people are actively fighting the virus.
 
 ## Synopsis
 

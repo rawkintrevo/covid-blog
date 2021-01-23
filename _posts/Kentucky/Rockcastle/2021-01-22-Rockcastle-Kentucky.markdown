@@ -12,13 +12,13 @@ tags: [Rockcastle-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *60* new cases of COVID-19
+- *65* new cases of COVID-19
 - *0* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *43* people have recovered from COVID-19[1]
 
 The population in this census area is 16695. By our calculations:
-- 6.73% of the population have had COVID-19.[2]
-- 1.66% of the population or 277.0 people are actively fighting the virus.
+- 6.76% of the population have had COVID-19.[2]
+- 1.43% of the population or 239.0 people are actively fighting the virus.
 
 ## Synopsis
 

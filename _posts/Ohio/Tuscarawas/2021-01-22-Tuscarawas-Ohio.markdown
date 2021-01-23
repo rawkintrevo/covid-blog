@@ -12,13 +12,13 @@ tags: [Tuscarawas-Ohio]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *218* new cases of COVID-19
-- *6* people have died of COVID-19
-- *83* people have recovered from COVID-19[1]
+- *286* new cases of COVID-19
+- *7* people have died of COVID-19
+- *168* people have recovered from COVID-19[1]
 
 The population in this census area is 91987. By our calculations:
-- 7.84% of the population have had COVID-19.[2]
-- 1.07% of the population or 987.0 people are actively fighting the virus.
+- 7.91% of the population have had COVID-19.[2]
+- 1.05% of the population or 969.0 people are actively fighting the virus.
 
 ## Synopsis
 

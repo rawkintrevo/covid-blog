@@ -12,13 +12,13 @@ tags: [Plaquemines-Louisiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *59* new cases of COVID-19
+- *76* new cases of COVID-19
 - *1* people have died of COVID-19
 - *13* people have recovered from COVID-19[1]
 
 The population in this census area is 23197. By our calculations:
-- 8.64% of the population have had COVID-19.[2]
-- 1.27% of the population or 294.0 people are actively fighting the virus.
+- 8.71% of the population have had COVID-19.[2]
+- 1.34% of the population or 311.0 people are actively fighting the virus.
 
 ## Synopsis
 

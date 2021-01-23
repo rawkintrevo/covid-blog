@@ -14,11 +14,11 @@ tags: [Sutter-California]
 In the last 7 days[3] we project there have been
 - *386* new cases of COVID-19
 - *3* people have died of COVID-19
-- *159* people have recovered from COVID-19[1]
+- *207* people have recovered from COVID-19[1]
 
 The population in this census area is 96971. By our calculations:
 - 8.07% of the population have had COVID-19.[2]
-- 1.34% of the population or 1296.0 people are actively fighting the virus.
+- 1.29% of the population or 1248.0 people are actively fighting the virus.
 
 ## Synopsis
 

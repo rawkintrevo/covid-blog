@@ -12,13 +12,13 @@ tags: [Champaign-Illinois]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *441* new cases of COVID-19
+- *506* new cases of COVID-19
 - *13* people have died of COVID-19
-- *120* people have recovered from COVID-19[1]
+- *287* people have recovered from COVID-19[1]
 
 The population in this census area is 209689. By our calculations:
-- 7.44% of the population have had COVID-19.[2]
-- 0.84% of the population or 1752.0 people are actively fighting the virus.
+- 7.47% of the population have had COVID-19.[2]
+- 0.79% of the population or 1650.0 people are actively fighting the virus.
 
 ## Synopsis
 

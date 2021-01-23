@@ -12,13 +12,13 @@ tags: [Bradford-Florida]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *78* new cases of COVID-19
-- *3* people have died of COVID-19
-- *14* people have recovered from COVID-19[1]
+- *96* new cases of COVID-19
+- *5* people have died of COVID-19
+- *56* people have recovered from COVID-19[1]
 
 The population in this census area is 28201. By our calculations:
-- 8.99% of the population have had COVID-19.[2]
-- 1.23% of the population or 348.0 people are actively fighting the virus.
+- 9.06% of the population have had COVID-19.[2]
+- 1.14% of the population or 322.0 people are actively fighting the virus.
 
 ## Synopsis
 

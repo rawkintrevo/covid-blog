@@ -12,13 +12,13 @@ tags: [Suwannee-Florida]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *129* new cases of COVID-19
+- *156* new cases of COVID-19
 - *5* people have died of COVID-19
-- *51* people have recovered from COVID-19[1]
+- *166* people have recovered from COVID-19[1]
 
 The population in this census area is 44417. By our calculations:
-- 10.45% of the population have had COVID-19.[2]
-- 1.38% of the population or 615.0 people are actively fighting the virus.
+- 10.51% of the population have had COVID-19.[2]
+- 1.19% of the population or 527.0 people are actively fighting the virus.
 
 ## Synopsis
 

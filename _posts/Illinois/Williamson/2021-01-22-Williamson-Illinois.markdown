@@ -12,13 +12,13 @@ tags: [Williamson-Illinois]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *160* new cases of COVID-19
+- *187* new cases of COVID-19
 - *4* people have died of COVID-19
-- *81* people have recovered from COVID-19[1]
+- *172* people have recovered from COVID-19[1]
 
 The population in this census area is 66597. By our calculations:
-- 9.34% of the population have had COVID-19.[2]
-- 1.34% of the population or 892.0 people are actively fighting the virus.
+- 9.38% of the population have had COVID-19.[2]
+- 1.24% of the population or 828.0 people are actively fighting the virus.
 
 ## Synopsis
 

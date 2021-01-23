@@ -12,13 +12,13 @@ tags: [Smith-Mississippi]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *51* new cases of COVID-19
+- *82* new cases of COVID-19
 - *3* people have died of COVID-19
-- *24* people have recovered from COVID-19[1]
+- *37* people have recovered from COVID-19[1]
 
 The population in this census area is 15916. By our calculations:
-- 7.71% of the population have had COVID-19.[2]
-- 1.15% of the population or 183.0 people are actively fighting the virus.
+- 7.90% of the population have had COVID-19.[2]
+- 1.26% of the population or 201.0 people are actively fighting the virus.
 
 ## Synopsis
 

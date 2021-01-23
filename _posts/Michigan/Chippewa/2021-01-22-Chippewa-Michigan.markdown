@@ -12,13 +12,13 @@ tags: [Chippewa-Michigan]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *28* new cases of COVID-19
-- *1* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *35* new cases of COVID-19
+- *4* people have died of COVID-19
+- *62* people have recovered from COVID-19[1]
 
 The population in this census area is 37349. By our calculations:
-- 4.45% of the population have had COVID-19.[2]
-- 0.73% of the population or 272.0 people are actively fighting the virus.
+- 4.47% of the population have had COVID-19.[2]
+- 0.57% of the population or 214.0 people are actively fighting the virus.
 
 ## Synopsis
 

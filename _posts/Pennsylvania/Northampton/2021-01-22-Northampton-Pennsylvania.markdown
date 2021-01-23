@@ -12,13 +12,13 @@ tags: [Northampton-Pennsylvania]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1148* new cases of COVID-19
-- *28* people have died of COVID-19
-- *535* people have recovered from COVID-19[1]
+- *1320* new cases of COVID-19
+- *36* people have died of COVID-19
+- *846* people have recovered from COVID-19[1]
 
 The population in this census area is 305285. By our calculations:
-- 6.93% of the population have had COVID-19.[2]
-- 1.31% of the population or 4010.0 people are actively fighting the virus.
+- 6.99% of the population have had COVID-19.[2]
+- 1.27% of the population or 3863.0 people are actively fighting the virus.
 
 ## Synopsis
 

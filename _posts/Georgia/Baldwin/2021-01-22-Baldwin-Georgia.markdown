@@ -12,13 +12,13 @@ tags: [Baldwin-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *118* new cases of COVID-19
-- *4* people have died of COVID-19
-- *67* people have recovered from COVID-19[1]
+- *138* new cases of COVID-19
+- *5* people have died of COVID-19
+- *91* people have recovered from COVID-19[1]
 
 The population in this census area is 44890. By our calculations:
-- 8.31% of the population have had COVID-19.[2]
-- 1.05% of the population or 470.0 people are actively fighting the virus.
+- 8.35% of the population have had COVID-19.[2]
+- 1.04% of the population or 465.0 people are actively fighting the virus.
 
 ## Synopsis
 

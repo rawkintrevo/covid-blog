@@ -12,13 +12,13 @@ tags: [Scott-Arkansas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *38* new cases of COVID-19
+- *57* new cases of COVID-19
 - *0* people have died of COVID-19
-- *38* people have recovered from COVID-19[1]
+- *44* people have recovered from COVID-19[1]
 
 The population in this census area is 10281. By our calculations:
-- 7.74% of the population have had COVID-19.[2]
-- 1.77% of the population or 182.0 people are actively fighting the virus.
+- 7.93% of the population have had COVID-19.[2]
+- 1.90% of the population or 195.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Yakima-Washington]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *721* new cases of COVID-19
-- *1* people have died of COVID-19
-- *560* people have recovered from COVID-19[1]
+- *869* new cases of COVID-19
+- *9* people have died of COVID-19
+- *552* people have recovered from COVID-19[1]
 
 The population in this census area is 250873. By our calculations:
-- 9.27% of the population have had COVID-19.[2]
-- 1.34% of the population or 3354.0 people are actively fighting the virus.
+- 9.33% of the population have had COVID-19.[2]
+- 1.40% of the population or 3502.0 people are actively fighting the virus.
 
 ## Synopsis
 

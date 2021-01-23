@@ -12,13 +12,13 @@ tags: [Pine-Minnesota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *32* new cases of COVID-19
-- *0* people have died of COVID-19
-- *18* people have recovered from COVID-19[1]
+- *39* new cases of COVID-19
+- *1* people have died of COVID-19
+- *40* people have recovered from COVID-19[1]
 
 The population in this census area is 29579. By our calculations:
-- 9.03% of the population have had COVID-19.[2]
-- 0.67% of the population or 197.0 people are actively fighting the virus.
+- 9.05% of the population have had COVID-19.[2]
+- 0.61% of the population or 181.0 people are actively fighting the virus.
 
 ## Synopsis
 

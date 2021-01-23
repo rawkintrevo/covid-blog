@@ -12,13 +12,13 @@ tags: [Mobile-Alabama]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1185* new cases of COVID-19
-- *19* people have died of COVID-19
-- *494* people have recovered from COVID-19[1]
+- *1353* new cases of COVID-19
+- *24* people have died of COVID-19
+- *769* people have recovered from COVID-19[1]
 
 The population in this census area is 413210. By our calculations:
-- 7.45% of the population have had COVID-19.[2]
-- 1.10% of the population or 4543.0 people are actively fighting the virus.
+- 7.49% of the population have had COVID-19.[2]
+- 1.07% of the population or 4431.0 people are actively fighting the virus.
 
 ## Synopsis
 

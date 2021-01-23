@@ -12,13 +12,13 @@ tags: [Horry-South Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1719* new cases of COVID-19
-- *31* people have died of COVID-19
-- *266* people have recovered from COVID-19[1]
+- *2005* new cases of COVID-19
+- *36* people have died of COVID-19
+- *563* people have recovered from COVID-19[1]
 
 The population in this census area is 354081. By our calculations:
-- 7.40% of the population have had COVID-19.[2]
-- 1.63% of the population or 5787.0 people are actively fighting the virus.
+- 7.48% of the population have had COVID-19.[2]
+- 1.63% of the population or 5771.0 people are actively fighting the virus.
 
 ## Synopsis
 

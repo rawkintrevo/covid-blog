@@ -12,13 +12,13 @@ tags: [Vance-North Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *161* new cases of COVID-19
+- *192* new cases of COVID-19
 - *2* people have died of COVID-19
-- *28* people have recovered from COVID-19[1]
+- *97* people have recovered from COVID-19[1]
 
 The population in this census area is 44535. By our calculations:
-- 7.60% of the population have had COVID-19.[2]
-- 1.55% of the population or 689.0 people are actively fighting the virus.
+- 7.67% of the population have had COVID-19.[2]
+- 1.46% of the population or 651.0 people are actively fighting the virus.
 
 ## Synopsis
 

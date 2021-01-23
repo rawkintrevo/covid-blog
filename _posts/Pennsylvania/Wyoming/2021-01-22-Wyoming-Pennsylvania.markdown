@@ -13,12 +13,12 @@ tags: [Wyoming-Pennsylvania]
 
 In the last 7 days[3] we project there have been
 - *44* new cases of COVID-19
-- *3* people have died of COVID-19
-- *27* people have recovered from COVID-19[1]
+- *4* people have died of COVID-19
+- *39* people have recovered from COVID-19[1]
 
 The population in this census area is 26794. By our calculations:
 - 3.67% of the population have had COVID-19.[2]
-- 0.62% of the population or 167.0 people are actively fighting the virus.
+- 0.57% of the population or 154.0 people are actively fighting the virus.
 
 ## Synopsis
 

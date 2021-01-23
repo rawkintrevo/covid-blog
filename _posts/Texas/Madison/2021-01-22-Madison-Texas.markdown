@@ -12,13 +12,13 @@ tags: [Madison-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *18* new cases of COVID-19
+- *28* new cases of COVID-19
 - *3* people have died of COVID-19
 - *28* people have recovered from COVID-19[1]
 
 The population in this census area is 14284. By our calculations:
-- 8.22% of the population have had COVID-19.[2]
-- 0.33% of the population or 47.0 people are actively fighting the virus.
+- 8.29% of the population have had COVID-19.[2]
+- 0.40% of the population or 57.0 people are actively fighting the virus.
 
 ## Synopsis
 

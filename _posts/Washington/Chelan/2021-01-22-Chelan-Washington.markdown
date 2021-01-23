@@ -12,13 +12,13 @@ tags: [Chelan-Washington]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *142* new cases of COVID-19
-- *1* people have died of COVID-19
-- *58* people have recovered from COVID-19[1]
+- *178* new cases of COVID-19
+- *3* people have died of COVID-19
+- *56* people have recovered from COVID-19[1]
 
 The population in this census area is 77200. By our calculations:
-- 7.11% of the population have had COVID-19.[2]
-- 0.82% of the population or 630.0 people are actively fighting the virus.
+- 7.16% of the population have had COVID-19.[2]
+- 0.86% of the population or 666.0 people are actively fighting the virus.
 
 ## Synopsis
 

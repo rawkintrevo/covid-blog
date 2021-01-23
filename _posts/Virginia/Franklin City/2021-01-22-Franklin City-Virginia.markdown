@@ -12,13 +12,13 @@ tags: [Franklin City-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *48* new cases of COVID-19
+- *53* new cases of COVID-19
 - *2* people have died of COVID-19
-- *11* people have recovered from COVID-19[1]
+- *10* people have recovered from COVID-19[1]
 
 The population in this census area is 7967. By our calculations:
-- 9.74% of the population have had COVID-19.[2]
-- 1.15% of the population or 92.0 people are actively fighting the virus.
+- 9.80% of the population have had COVID-19.[2]
+- 1.23% of the population or 98.0 people are actively fighting the virus.
 
 ## Synopsis
 

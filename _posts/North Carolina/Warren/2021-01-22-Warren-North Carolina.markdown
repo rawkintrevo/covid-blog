@@ -12,13 +12,13 @@ tags: [Warren-North Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *57* new cases of COVID-19
+- *73* new cases of COVID-19
 - *0* people have died of COVID-19
-- *13* people have recovered from COVID-19[1]
+- *31* people have recovered from COVID-19[1]
 
 The population in this census area is 19731. By our calculations:
-- 6.64% of the population have had COVID-19.[2]
-- 1.09% of the population or 215.0 people are actively fighting the virus.
+- 6.73% of the population have had COVID-19.[2]
+- 1.08% of the population or 213.0 people are actively fighting the virus.
 
 ## Synopsis
 

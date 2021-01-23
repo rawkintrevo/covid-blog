@@ -12,13 +12,13 @@ tags: [Strafford-New Hampshire]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *402* new cases of COVID-19
-- *6* people have died of COVID-19
-- *94* people have recovered from COVID-19[1]
+- *474* new cases of COVID-19
+- *8* people have died of COVID-19
+- *223* people have recovered from COVID-19[1]
 
 The population in this census area is 130633. By our calculations:
-- 3.83% of the population have had COVID-19.[2]
-- 1.13% of the population or 1482.0 people are actively fighting the virus.
+- 3.88% of the population have had COVID-19.[2]
+- 1.09% of the population or 1423.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Morris-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *41* new cases of COVID-19
+- *43* new cases of COVID-19
 - *3* people have died of COVID-19
-- *12* people have recovered from COVID-19[1]
+- *24* people have recovered from COVID-19[1]
 
 The population in this census area is 12388. By our calculations:
-- 5.46% of the population have had COVID-19.[2]
-- 1.40% of the population or 174.0 people are actively fighting the virus.
+- 5.47% of the population have had COVID-19.[2]
+- 1.32% of the population or 164.0 people are actively fighting the virus.
 
 ## Synopsis
 

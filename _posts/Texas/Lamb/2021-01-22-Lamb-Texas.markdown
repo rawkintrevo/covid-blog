@@ -14,11 +14,11 @@ tags: [Lamb-Texas]
 In the last 7 days[3] we project there have been
 - *18* new cases of COVID-19
 - *1* people have died of COVID-19
-- *26* people have recovered from COVID-19[1]
+- *25* people have recovered from COVID-19[1]
 
 The population in this census area is 12893. By our calculations:
 - 13.97% of the population have had COVID-19.[2]
-- 1.07% of the population or 138.0 people are actively fighting the virus.
+- 1.08% of the population or 139.0 people are actively fighting the virus.
 
 ## Synopsis
 

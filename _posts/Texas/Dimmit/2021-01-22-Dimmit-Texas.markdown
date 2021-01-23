@@ -12,13 +12,13 @@ tags: [Dimmit-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *103* new cases of COVID-19
+- *173* new cases of COVID-19
 - *0* people have died of COVID-19
 - *1* people have recovered from COVID-19[1]
 
 The population in this census area is 10124. By our calculations:
-- 9.61% of the population have had COVID-19.[2]
-- 3.43% of the population or 347.0 people are actively fighting the virus.
+- 10.30% of the population have had COVID-19.[2]
+- 4.12% of the population or 417.0 people are actively fighting the virus.
 
 ## Synopsis
 

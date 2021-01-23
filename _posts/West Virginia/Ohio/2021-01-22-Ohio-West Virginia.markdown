@@ -12,13 +12,13 @@ tags: [Ohio-West Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *204* new cases of COVID-19
+- *230* new cases of COVID-19
 - *5* people have died of COVID-19
-- *62* people have recovered from COVID-19[1]
+- *97* people have recovered from COVID-19[1]
 
 The population in this census area is 41411. By our calculations:
-- 7.62% of the population have had COVID-19.[2]
-- 1.42% of the population or 590.0 people are actively fighting the virus.
+- 7.68% of the population have had COVID-19.[2]
+- 1.40% of the population or 581.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Elbert-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *93* new cases of COVID-19
-- *2* people have died of COVID-19
-- *39* people have recovered from COVID-19[1]
+- *94* new cases of COVID-19
+- *4* people have died of COVID-19
+- *46* people have recovered from COVID-19[1]
 
 The population in this census area is 19194. By our calculations:
-- 10.25% of the population have had COVID-19.[2]
-- 1.63% of the population or 312.0 people are actively fighting the virus.
+- 10.26% of the population have had COVID-19.[2]
+- 1.58% of the population or 304.0 people are actively fighting the virus.
 
 ## Synopsis
 

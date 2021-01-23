@@ -12,13 +12,13 @@ tags: [York-Maine]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *535* new cases of COVID-19
-- *8* people have died of COVID-19
-- *389* people have recovered from COVID-19[1]
+- *741* new cases of COVID-19
+- *9* people have died of COVID-19
+- *531* people have recovered from COVID-19[1]
 
 The population in this census area is 207641. By our calculations:
-- 3.62% of the population have had COVID-19.[2]
-- 1.10% of the population or 2274.0 people are actively fighting the virus.
+- 3.72% of the population have had COVID-19.[2]
+- 1.13% of the population or 2337.0 people are actively fighting the virus.
 
 ## Synopsis
 

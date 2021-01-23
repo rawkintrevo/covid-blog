@@ -12,13 +12,13 @@ tags: [Vermillion-Indiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *51* new cases of COVID-19
-- *0* people have died of COVID-19
-- *60* people have recovered from COVID-19[1]
+- *56* new cases of COVID-19
+- *1* people have died of COVID-19
+- *72* people have recovered from COVID-19[1]
 
 The population in this census area is 15498. By our calculations:
-- 9.47% of the population have had COVID-19.[2]
-- 1.23% of the population or 191.0 people are actively fighting the virus.
+- 9.50% of the population have had COVID-19.[2]
+- 1.18% of the population or 183.0 people are actively fighting the virus.
 
 ## Synopsis
 

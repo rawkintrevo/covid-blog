@@ -12,13 +12,13 @@ tags: [Lewis-West Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *50* new cases of COVID-19
+- *59* new cases of COVID-19
 - *2* people have died of COVID-19
-- *41* people have recovered from COVID-19[1]
+- *51* people have recovered from COVID-19[1]
 
 The population in this census area is 15907. By our calculations:
-- 4.63% of the population have had COVID-19.[2]
-- 1.09% of the population or 173.0 people are actively fighting the virus.
+- 4.69% of the population have had COVID-19.[2]
+- 1.08% of the population or 172.0 people are actively fighting the virus.
 
 ## Synopsis
 

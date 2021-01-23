@@ -12,13 +12,13 @@ tags: [Delaware-Oklahoma]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *192* new cases of COVID-19
-- *5* people have died of COVID-19
-- *37* people have recovered from COVID-19[1]
+- *215* new cases of COVID-19
+- *6* people have died of COVID-19
+- *98* people have recovered from COVID-19[1]
 
 The population in this census area is 43009. By our calculations:
-- 8.88% of the population have had COVID-19.[2]
-- 2.07% of the population or 889.0 people are actively fighting the virus.
+- 8.93% of the population have had COVID-19.[2]
+- 1.98% of the population or 850.0 people are actively fighting the virus.
 
 ## Synopsis
 

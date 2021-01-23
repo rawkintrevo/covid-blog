@@ -12,13 +12,13 @@ tags: [Peach-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *106* new cases of COVID-19
+- *115* new cases of COVID-19
 - *3* people have died of COVID-19
-- *56* people have recovered from COVID-19[1]
+- *77* people have recovered from COVID-19[1]
 
 The population in this census area is 27546. By our calculations:
-- 7.21% of the population have had COVID-19.[2]
-- 1.56% of the population or 429.0 people are actively fighting the virus.
+- 7.24% of the population have had COVID-19.[2]
+- 1.51% of the population or 417.0 people are actively fighting the virus.
 
 ## Synopsis
 

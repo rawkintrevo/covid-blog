@@ -12,13 +12,13 @@ tags: [James City-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *440* new cases of COVID-19
+- *512* new cases of COVID-19
 - *3* people have died of COVID-19
-- *108* people have recovered from COVID-19[1]
+- *111* people have recovered from COVID-19[1]
 
 The population in this census area is 76523. By our calculations:
-- 3.77% of the population have had COVID-19.[2]
-- 1.19% of the population or 912.0 people are actively fighting the virus.
+- 3.87% of the population have had COVID-19.[2]
+- 1.28% of the population or 981.0 people are actively fighting the virus.
 
 ## Synopsis
 

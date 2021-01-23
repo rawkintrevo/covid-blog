@@ -12,13 +12,13 @@ tags: [Baker-Oregon]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *27* new cases of COVID-19
+- *31* new cases of COVID-19
 - *0* people have died of COVID-19
-- *12* people have recovered from COVID-19[1]
+- *25* people have recovered from COVID-19[1]
 
 The population in this census area is 16124. By our calculations:
-- 3.57% of the population have had COVID-19.[2]
-- 0.65% of the population or 104.0 people are actively fighting the virus.
+- 3.60% of the population have had COVID-19.[2]
+- 0.59% of the population or 95.0 people are actively fighting the virus.
 
 ## Synopsis
 

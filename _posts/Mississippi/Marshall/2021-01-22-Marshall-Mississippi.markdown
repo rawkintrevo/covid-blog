@@ -12,13 +12,13 @@ tags: [Marshall-Mississippi]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *140* new cases of COVID-19
+- *158* new cases of COVID-19
 - *5* people have died of COVID-19
-- *46* people have recovered from COVID-19[1]
+- *71* people have recovered from COVID-19[1]
 
 The population in this census area is 35294. By our calculations:
-- 9.85% of the population have had COVID-19.[2]
-- 1.54% of the population or 542.0 people are actively fighting the virus.
+- 9.90% of the population have had COVID-19.[2]
+- 1.52% of the population or 535.0 people are actively fighting the virus.
 
 ## Synopsis
 

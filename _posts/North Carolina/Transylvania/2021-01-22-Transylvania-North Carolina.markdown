@@ -12,13 +12,13 @@ tags: [Transylvania-North Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *142* new cases of COVID-19
+- *151* new cases of COVID-19
 - *2* people have died of COVID-19
-- *7* people have recovered from COVID-19[1]
+- *59* people have recovered from COVID-19[1]
 
 The population in this census area is 34385. By our calculations:
-- 4.14% of the population have had COVID-19.[2]
-- 1.46% of the population or 503.0 people are actively fighting the virus.
+- 4.16% of the population have had COVID-19.[2]
+- 1.34% of the population or 460.0 people are actively fighting the virus.
 
 ## Synopsis
 

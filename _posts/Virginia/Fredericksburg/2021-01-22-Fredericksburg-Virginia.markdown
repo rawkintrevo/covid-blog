@@ -12,13 +12,13 @@ tags: [Fredericksburg-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *135* new cases of COVID-19
-- *1* people have died of COVID-19
-- *25* people have recovered from COVID-19[1]
+- *153* new cases of COVID-19
+- *2* people have died of COVID-19
+- *35* people have recovered from COVID-19[1]
 
 The population in this census area is 29036. By our calculations:
-- 4.59% of the population have had COVID-19.[2]
-- 0.97% of the population or 282.0 people are actively fighting the virus.
+- 4.65% of the population have had COVID-19.[2]
+- 1.00% of the population or 289.0 people are actively fighting the virus.
 
 ## Synopsis
 

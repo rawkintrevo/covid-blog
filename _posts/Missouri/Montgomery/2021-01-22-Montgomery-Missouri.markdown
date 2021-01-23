@@ -12,13 +12,13 @@ tags: [Montgomery-Missouri]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *6* new cases of COVID-19
+- *7* new cases of COVID-19
 - *1* people have died of COVID-19
-- *12* people have recovered from COVID-19[1]
+- *14* people have recovered from COVID-19[1]
 
 The population in this census area is 11551. By our calculations:
 - 4.74% of the population have had COVID-19.[2]
-- 0.36% of the population or 42.0 people are actively fighting the virus.
+- 0.35% of the population or 41.0 people are actively fighting the virus.
 
 ## Synopsis
 

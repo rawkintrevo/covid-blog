@@ -12,13 +12,13 @@ tags: [Marquette-Michigan]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *61* new cases of COVID-19
+- *72* new cases of COVID-19
 - *2* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *25* people have recovered from COVID-19[1]
 
 The population in this census area is 66699. By our calculations:
-- 5.73% of the population have had COVID-19.[2]
-- 0.39% of the population or 259.0 people are actively fighting the virus.
+- 5.75% of the population have had COVID-19.[2]
+- 0.37% of the population or 245.0 people are actively fighting the virus.
 
 ## Synopsis
 

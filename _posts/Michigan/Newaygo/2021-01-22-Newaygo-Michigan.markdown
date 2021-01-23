@@ -12,13 +12,13 @@ tags: [Newaygo-Michigan]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *61* new cases of COVID-19
+- *78* new cases of COVID-19
 - *1* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *32* people have recovered from COVID-19[1]
 
 The population in this census area is 48980. By our calculations:
-- 5.16% of the population have had COVID-19.[2]
-- 0.55% of the population or 269.0 people are actively fighting the virus.
+- 5.20% of the population have had COVID-19.[2]
+- 0.52% of the population or 254.0 people are actively fighting the virus.
 
 ## Synopsis
 

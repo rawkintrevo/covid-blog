@@ -12,13 +12,13 @@ tags: [Grady-Oklahoma]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *195* new cases of COVID-19
-- *6* people have died of COVID-19
-- *38* people have recovered from COVID-19[1]
+- *238* new cases of COVID-19
+- *8* people have died of COVID-19
+- *228* people have recovered from COVID-19[1]
 
 The population in this census area is 55834. By our calculations:
-- 8.73% of the population have had COVID-19.[2]
-- 1.82% of the population or 1016.0 people are actively fighting the virus.
+- 8.81% of the population have had COVID-19.[2]
+- 1.55% of the population or 867.0 people are actively fighting the virus.
 
 ## Synopsis
 

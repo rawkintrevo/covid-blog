@@ -12,13 +12,13 @@ tags: [Breckinridge-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *48* new cases of COVID-19
+- *79* new cases of COVID-19
 - *0* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *15* people have recovered from COVID-19[1]
 
 The population in this census area is 20477. By our calculations:
-- 4.37% of the population have had COVID-19.[2]
-- 1.15% of the population or 236.0 people are actively fighting the virus.
+- 4.52% of the population have had COVID-19.[2]
+- 1.23% of the population or 252.0 people are actively fighting the virus.
 
 ## Synopsis
 

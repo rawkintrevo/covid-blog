@@ -12,13 +12,13 @@ tags: [Berkeley-West Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *455* new cases of COVID-19
+- *517* new cases of COVID-19
 - *8* people have died of COVID-19
-- *182* people have recovered from COVID-19[1]
+- *270* people have recovered from COVID-19[1]
 
 The population in this census area is 119171. By our calculations:
-- 6.90% of the population have had COVID-19.[2]
-- 1.52% of the population or 1810.0 people are actively fighting the virus.
+- 6.96% of the population have had COVID-19.[2]
+- 1.50% of the population or 1784.0 people are actively fighting the virus.
 
 ## Synopsis
 

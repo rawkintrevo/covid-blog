@@ -12,13 +12,13 @@ tags: [Highland-Ohio]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *137* new cases of COVID-19
+- *162* new cases of COVID-19
 - *0* people have died of COVID-19
-- *34* people have recovered from COVID-19[1]
+- *71* people have recovered from COVID-19[1]
 
 The population in this census area is 43161. By our calculations:
-- 6.24% of the population have had COVID-19.[2]
-- 1.36% of the population or 589.0 people are actively fighting the virus.
+- 6.30% of the population have had COVID-19.[2]
+- 1.34% of the population or 577.0 people are actively fighting the virus.
 
 ## Synopsis
 

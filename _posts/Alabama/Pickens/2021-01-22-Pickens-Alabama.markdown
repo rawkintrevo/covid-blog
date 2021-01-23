@@ -12,13 +12,13 @@ tags: [Pickens-Alabama]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *22* new cases of COVID-19
+- *33* new cases of COVID-19
 - *0* people have died of COVID-19
-- *36* people have recovered from COVID-19[1]
+- *43* people have recovered from COVID-19[1]
 
 The population in this census area is 19930. By our calculations:
-- 9.91% of the population have had COVID-19.[2]
-- 1.07% of the population or 213.0 people are actively fighting the virus.
+- 9.96% of the population have had COVID-19.[2]
+- 1.09% of the population or 217.0 people are actively fighting the virus.
 
 ## Synopsis
 

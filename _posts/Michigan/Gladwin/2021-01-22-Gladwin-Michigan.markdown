@@ -12,13 +12,13 @@ tags: [Gladwin-Michigan]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *36* new cases of COVID-19
-- *2* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *40* new cases of COVID-19
+- *3* people have died of COVID-19
+- *24* people have recovered from COVID-19[1]
 
 The population in this census area is 25449. By our calculations:
-- 5.35% of the population have had COVID-19.[2]
-- 0.68% of the population or 173.0 people are actively fighting the virus.
+- 5.37% of the population have had COVID-19.[2]
+- 0.60% of the population or 152.0 people are actively fighting the virus.
 
 ## Synopsis
 

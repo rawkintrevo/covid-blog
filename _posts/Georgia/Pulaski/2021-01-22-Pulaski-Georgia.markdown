@@ -12,13 +12,13 @@ tags: [Pulaski-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *34* new cases of COVID-19
+- *51* new cases of COVID-19
 - *1* people have died of COVID-19
-- *14* people have recovered from COVID-19[1]
+- *25* people have recovered from COVID-19[1]
 
 The population in this census area is 11137. By our calculations:
-- 6.66% of the population have had COVID-19.[2]
-- 1.25% of the population or 139.0 people are actively fighting the virus.
+- 6.82% of the population have had COVID-19.[2]
+- 1.30% of the population or 145.0 people are actively fighting the virus.
 
 ## Synopsis
 

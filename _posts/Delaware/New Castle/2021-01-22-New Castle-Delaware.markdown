@@ -12,13 +12,13 @@ tags: [New Castle-Delaware]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *2035* new cases of COVID-19
-- *22* people have died of COVID-19
-- *734* people have recovered from COVID-19[1]
+- *2494* new cases of COVID-19
+- *23* people have died of COVID-19
+- *1152* people have recovered from COVID-19[1]
 
 The population in this census area is 558753. By our calculations:
-- 7.34% of the population have had COVID-19.[2]
-- 1.34% of the population or 7468.0 people are actively fighting the virus.
+- 7.42% of the population have had COVID-19.[2]
+- 1.34% of the population or 7508.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Suffolk-New York]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *9288* new cases of COVID-19
-- *100* people have died of COVID-19
-- *3830* people have recovered from COVID-19[1]
+- *10775* new cases of COVID-19
+- *118* people have died of COVID-19
+- *5581* people have recovered from COVID-19[1]
 
 The population in this census area is 1476601. By our calculations:
-- 8.79% of the population have had COVID-19.[2]
-- 2.09% of the population or 30847.0 people are actively fighting the virus.
+- 8.89% of the population have had COVID-19.[2]
+- 2.07% of the population or 30565.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Lincoln-Nebraska]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *61* new cases of COVID-19
+- *76* new cases of COVID-19
 - *0* people have died of COVID-19
-- *30* people have recovered from COVID-19[1]
+- *35* people have recovered from COVID-19[1]
 
 The population in this census area is 34914. By our calculations:
-- 9.45% of the population have had COVID-19.[2]
-- 0.77% of the population or 269.0 people are actively fighting the virus.
+- 9.49% of the population have had COVID-19.[2]
+- 0.80% of the population or 279.0 people are actively fighting the virus.
 
 ## Synopsis
 

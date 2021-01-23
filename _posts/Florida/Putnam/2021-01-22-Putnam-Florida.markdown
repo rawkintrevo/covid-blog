@@ -12,13 +12,13 @@ tags: [Putnam-Florida]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *324* new cases of COVID-19
+- *416* new cases of COVID-19
 - *5* people have died of COVID-19
-- *81* people have recovered from COVID-19[1]
+- *208* people have recovered from COVID-19[1]
 
 The population in this census area is 74521. By our calculations:
-- 6.83% of the population have had COVID-19.[2]
-- 1.44% of the population or 1076.0 people are actively fighting the virus.
+- 6.95% of the population have had COVID-19.[2]
+- 1.40% of the population or 1041.0 people are actively fighting the virus.
 
 ## Synopsis
 

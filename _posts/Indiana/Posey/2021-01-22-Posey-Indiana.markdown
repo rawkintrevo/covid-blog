@@ -12,13 +12,13 @@ tags: [Posey-Indiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *95* new cases of COVID-19
+- *112* new cases of COVID-19
 - *1* people have died of COVID-19
-- *81* people have recovered from COVID-19[1]
+- *107* people have recovered from COVID-19[1]
 
 The population in this census area is 25427. By our calculations:
-- 9.25% of the population have had COVID-19.[2]
-- 1.61% of the population or 410.0 people are actively fighting the virus.
+- 9.32% of the population have had COVID-19.[2]
+- 1.58% of the population or 401.0 people are actively fighting the virus.
 
 ## Synopsis
 

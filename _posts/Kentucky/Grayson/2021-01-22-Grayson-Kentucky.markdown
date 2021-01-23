@@ -12,13 +12,13 @@ tags: [Grayson-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *61* new cases of COVID-19
-- *0* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *93* new cases of COVID-19
+- *1* people have died of COVID-19
+- *21* people have recovered from COVID-19[1]
 
 The population in this census area is 26427. By our calculations:
-- 5.97% of the population have had COVID-19.[2]
-- 1.03% of the population or 272.0 people are actively fighting the virus.
+- 6.09% of the population have had COVID-19.[2]
+- 1.07% of the population or 282.0 people are actively fighting the virus.
 
 ## Synopsis
 

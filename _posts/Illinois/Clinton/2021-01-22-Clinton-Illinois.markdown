@@ -12,13 +12,13 @@ tags: [Clinton-Illinois]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *169* new cases of COVID-19
+- *194* new cases of COVID-19
 - *3* people have died of COVID-19
-- *64* people have recovered from COVID-19[1]
+- *110* people have recovered from COVID-19[1]
 
 The population in this census area is 37562. By our calculations:
-- 13.53% of the population have had COVID-19.[2]
-- 1.55% of the population or 581.0 people are actively fighting the virus.
+- 13.60% of the population have had COVID-19.[2]
+- 1.49% of the population or 560.0 people are actively fighting the virus.
 
 ## Synopsis
 

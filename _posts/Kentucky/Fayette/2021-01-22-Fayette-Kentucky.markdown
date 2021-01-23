@@ -12,13 +12,13 @@ tags: [Fayette-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1197* new cases of COVID-19
+- *1426* new cases of COVID-19
 - *2* people have died of COVID-19
-- *-1* people have recovered from COVID-19[1]
+- *678* people have recovered from COVID-19[1]
 
 The population in this census area is 323152. By our calculations:
-- 8.56% of the population have had COVID-19.[2]
-- 1.41% of the population or 4554.0 people are actively fighting the virus.
+- 8.63% of the population have had COVID-19.[2]
+- 1.27% of the population or 4104.0 people are actively fighting the virus.
 
 ## Synopsis
 

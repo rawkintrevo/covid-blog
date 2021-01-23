@@ -12,13 +12,13 @@ tags: [Payette-Idaho]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *49* new cases of COVID-19
-- *1* people have died of COVID-19
-- *22* people have recovered from COVID-19[1]
+- *55* new cases of COVID-19
+- *2* people have died of COVID-19
+- *37* people have recovered from COVID-19[1]
 
 The population in this census area is 23951. By our calculations:
-- 9.42% of the population have had COVID-19.[2]
-- 0.80% of the population or 192.0 people are actively fighting the virus.
+- 9.45% of the population have had COVID-19.[2]
+- 0.76% of the population or 182.0 people are actively fighting the virus.
 
 ## Synopsis
 

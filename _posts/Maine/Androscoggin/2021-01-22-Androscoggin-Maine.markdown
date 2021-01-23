@@ -12,13 +12,13 @@ tags: [Androscoggin-Maine]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *382* new cases of COVID-19
+- *451* new cases of COVID-19
 - *3* people have died of COVID-19
-- *102* people have recovered from COVID-19[1]
+- *113* people have recovered from COVID-19[1]
 
 The population in this census area is 108277. By our calculations:
-- 3.55% of the population have had COVID-19.[2]
-- 1.04% of the population or 1121.0 people are actively fighting the virus.
+- 3.62% of the population have had COVID-19.[2]
+- 1.09% of the population or 1179.0 people are actively fighting the virus.
 
 ## Synopsis
 

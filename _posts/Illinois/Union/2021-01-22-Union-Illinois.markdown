@@ -12,13 +12,13 @@ tags: [Union-Illinois]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *53* new cases of COVID-19
+- *58* new cases of COVID-19
 - *0* people have died of COVID-19
-- *34* people have recovered from COVID-19[1]
+- *54* people have recovered from COVID-19[1]
 
 The population in this census area is 16653. By our calculations:
-- 12.00% of the population have had COVID-19.[2]
-- 1.80% of the population or 300.0 people are actively fighting the virus.
+- 12.03% of the population have had COVID-19.[2]
+- 1.71% of the population or 285.0 people are actively fighting the virus.
 
 ## Synopsis
 

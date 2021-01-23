@@ -12,13 +12,13 @@ tags: [Floyd-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *142* new cases of COVID-19
-- *0* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *157* new cases of COVID-19
+- *2* people have died of COVID-19
+- *102* people have recovered from COVID-19[1]
 
 The population in this census area is 35589. By our calculations:
-- 6.74% of the population have had COVID-19.[2]
-- 1.67% of the population or 594.0 people are actively fighting the virus.
+- 6.79% of the population have had COVID-19.[2]
+- 1.42% of the population or 505.0 people are actively fighting the virus.
 
 ## Synopsis
 

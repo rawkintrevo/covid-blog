@@ -12,13 +12,13 @@ tags: [Oglethorpe-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *63* new cases of COVID-19
+- *74* new cases of COVID-19
 - *0* people have died of COVID-19
-- *43* people have recovered from COVID-19[1]
+- *65* people have recovered from COVID-19[1]
 
 The population in this census area is 15259. By our calculations:
-- 7.71% of the population have had COVID-19.[2]
-- 1.79% of the population or 273.0 people are actively fighting the virus.
+- 7.78% of the population have had COVID-19.[2]
+- 1.72% of the population or 262.0 people are actively fighting the virus.
 
 ## Synopsis
 

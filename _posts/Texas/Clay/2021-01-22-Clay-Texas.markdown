@@ -12,13 +12,13 @@ tags: [Clay-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *43* new cases of COVID-19
+- *47* new cases of COVID-19
 - *0* people have died of COVID-19
 - *14* people have recovered from COVID-19[1]
 
 The population in this census area is 10471. By our calculations:
-- 8.65% of the population have had COVID-19.[2]
-- 1.80% of the population or 188.0 people are actively fighting the virus.
+- 8.69% of the population have had COVID-19.[2]
+- 1.83% of the population or 192.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Dougherty-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *254* new cases of COVID-19
-- *20* people have died of COVID-19
-- *154* people have recovered from COVID-19[1]
+- *307* new cases of COVID-19
+- *21* people have died of COVID-19
+- *170* people have recovered from COVID-19[1]
 
 The population in this census area is 87956. By our calculations:
-- 6.84% of the population have had COVID-19.[2]
-- 1.30% of the population or 1140.0 people are actively fighting the virus.
+- 6.90% of the population have had COVID-19.[2]
+- 1.34% of the population or 1176.0 people are actively fighting the virus.
 
 ## Synopsis
 

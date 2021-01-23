@@ -12,13 +12,13 @@ tags: [Prowers-Colorado]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *17* new cases of COVID-19
-- *0* people have died of COVID-19
-- *13* people have recovered from COVID-19[1]
+- *16* new cases of COVID-19
+- *1* people have died of COVID-19
+- *14* people have recovered from COVID-19[1]
 
 The population in this census area is 12172. By our calculations:
 - 8.94% of the population have had COVID-19.[2]
-- 0.67% of the population or 81.0 people are actively fighting the virus.
+- 0.64% of the population or 78.0 people are actively fighting the virus.
 
 ## Synopsis
 

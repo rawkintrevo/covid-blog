@@ -12,13 +12,13 @@ tags: [Cumberland-North Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1121* new cases of COVID-19
-- *8* people have died of COVID-19
-- *105* people have recovered from COVID-19[1]
+- *1344* new cases of COVID-19
+- *12* people have died of COVID-19
+- *523* people have recovered from COVID-19[1]
 
 The population in this census area is 335509. By our calculations:
-- 5.35% of the population have had COVID-19.[2]
-- 1.20% of the population or 4037.0 people are actively fighting the virus.
+- 5.42% of the population have had COVID-19.[2]
+- 1.14% of the population or 3838.0 people are actively fighting the virus.
 
 ## Synopsis
 

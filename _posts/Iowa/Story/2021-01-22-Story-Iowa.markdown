@@ -12,13 +12,13 @@ tags: [Story-Iowa]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *136* new cases of COVID-19
-- *2* people have died of COVID-19
-- *51* people have recovered from COVID-19[1]
+- *178* new cases of COVID-19
+- *3* people have died of COVID-19
+- *65* people have recovered from COVID-19[1]
 
 The population in this census area is 97117. By our calculations:
-- 8.97% of the population have had COVID-19.[2]
-- 0.69% of the population or 674.0 people are actively fighting the virus.
+- 9.01% of the population have had COVID-19.[2]
+- 0.72% of the population or 701.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Gage-Nebraska]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *35* new cases of COVID-19
+- *42* new cases of COVID-19
 - *1* people have died of COVID-19
-- *17* people have recovered from COVID-19[1]
+- *23* people have recovered from COVID-19[1]
 
 The population in this census area is 21513. By our calculations:
-- 9.16% of the population have had COVID-19.[2]
-- 0.59% of the population or 127.0 people are actively fighting the virus.
+- 9.19% of the population have had COVID-19.[2]
+- 0.59% of the population or 128.0 people are actively fighting the virus.
 
 ## Synopsis
 

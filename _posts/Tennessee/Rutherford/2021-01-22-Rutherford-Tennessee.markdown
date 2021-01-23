@@ -12,13 +12,13 @@ tags: [Rutherford-Tennessee]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1038* new cases of COVID-19
-- *7* people have died of COVID-19
-- *342* people have recovered from COVID-19[1]
+- *1203* new cases of COVID-19
+- *13* people have died of COVID-19
+- *966* people have recovered from COVID-19[1]
 
 The population in this census area is 332285. By our calculations:
-- 10.09% of the population have had COVID-19.[2]
-- 1.46% of the population or 4845.0 people are actively fighting the virus.
+- 10.14% of the population have had COVID-19.[2]
+- 1.32% of the population or 4380.0 people are actively fighting the virus.
 
 ## Synopsis
 

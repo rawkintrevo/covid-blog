@@ -12,13 +12,13 @@ tags: [Randolph-West Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *331* new cases of COVID-19
+- *355* new cases of COVID-19
 - *0* people have died of COVID-19
-- *74* people have recovered from COVID-19[1]
+- *80* people have recovered from COVID-19[1]
 
 The population in this census area is 28695. By our calculations:
-- 7.00% of the population have had COVID-19.[2]
-- 2.79% of the population or 801.0 people are actively fighting the virus.
+- 7.08% of the population have had COVID-19.[2]
+- 2.85% of the population or 819.0 people are actively fighting the virus.
 
 ## Synopsis
 

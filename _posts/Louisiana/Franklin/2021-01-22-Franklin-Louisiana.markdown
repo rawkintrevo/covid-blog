@@ -12,13 +12,13 @@ tags: [Franklin-Louisiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *59* new cases of COVID-19
+- *72* new cases of COVID-19
 - *1* people have died of COVID-19
 - *20* people have recovered from COVID-19[1]
 
 The population in this census area is 20015. By our calculations:
-- 11.37% of the population have had COVID-19.[2]
-- 1.09% of the population or 218.0 people are actively fighting the virus.
+- 11.44% of the population have had COVID-19.[2]
+- 1.15% of the population or 231.0 people are actively fighting the virus.
 
 ## Synopsis
 

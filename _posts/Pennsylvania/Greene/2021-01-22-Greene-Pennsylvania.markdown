@@ -12,13 +12,13 @@ tags: [Greene-Pennsylvania]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *170* new cases of COVID-19
-- *1* people have died of COVID-19
-- *57* people have recovered from COVID-19[1]
+- *189* new cases of COVID-19
+- *2* people have died of COVID-19
+- *87* people have recovered from COVID-19[1]
 
 The population in this census area is 36233. By our calculations:
-- 6.20% of the population have had COVID-19.[2]
-- 1.43% of the population or 518.0 people are actively fighting the virus.
+- 6.26% of the population have had COVID-19.[2]
+- 1.40% of the population or 506.0 people are actively fighting the virus.
 
 ## Synopsis
 

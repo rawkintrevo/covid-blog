@@ -12,13 +12,13 @@ tags: [Saline-Arkansas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *463* new cases of COVID-19
+- *540* new cases of COVID-19
 - *10* people have died of COVID-19
-- *247* people have recovered from COVID-19[1]
+- *315* people have recovered from COVID-19[1]
 
 The population in this census area is 122437. By our calculations:
-- 7.86% of the population have had COVID-19.[2]
-- 1.51% of the population or 1847.0 people are actively fighting the virus.
+- 7.93% of the population have had COVID-19.[2]
+- 1.52% of the population or 1856.0 people are actively fighting the virus.
 
 ## Synopsis
 

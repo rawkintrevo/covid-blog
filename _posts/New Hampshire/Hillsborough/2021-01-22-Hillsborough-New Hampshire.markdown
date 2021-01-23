@@ -12,13 +12,13 @@ tags: [Hillsborough-New Hampshire]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1677* new cases of COVID-19
-- *18* people have died of COVID-19
-- *291* people have recovered from COVID-19[1]
+- *1998* new cases of COVID-19
+- *21* people have died of COVID-19
+- *516* people have recovered from COVID-19[1]
 
 The population in this census area is 417025. By our calculations:
-- 5.60% of the population have had COVID-19.[2]
-- 1.35% of the population or 5627.0 people are actively fighting the virus.
+- 5.68% of the population have had COVID-19.[2]
+- 1.37% of the population or 5720.0 people are actively fighting the virus.
 
 ## Synopsis
 

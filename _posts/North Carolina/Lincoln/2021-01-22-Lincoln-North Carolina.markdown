@@ -12,13 +12,13 @@ tags: [Lincoln-North Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *477* new cases of COVID-19
+- *534* new cases of COVID-19
 - *1* people have died of COVID-19
-- *39* people have recovered from COVID-19[1]
+- *246* people have recovered from COVID-19[1]
 
 The population in this census area is 86111. By our calculations:
-- 8.33% of the population have had COVID-19.[2]
-- 2.06% of the population or 1771.0 people are actively fighting the virus.
+- 8.39% of the population have had COVID-19.[2]
+- 1.88% of the population or 1621.0 people are actively fighting the virus.
 
 ## Synopsis
 

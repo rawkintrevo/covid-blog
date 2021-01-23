@@ -12,13 +12,13 @@ tags: [San Miguel-New Mexico]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *56* new cases of COVID-19
+- *63* new cases of COVID-19
 - *1* people have died of COVID-19
-- *26* people have recovered from COVID-19[1]
+- *42* people have recovered from COVID-19[1]
 
 The population in this census area is 27277. By our calculations:
-- 3.86% of the population have had COVID-19.[2]
-- 0.69% of the population or 189.0 people are actively fighting the virus.
+- 3.89% of the population have had COVID-19.[2]
+- 0.66% of the population or 180.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Sullivan-New York]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *232* new cases of COVID-19
+- *268* new cases of COVID-19
 - *1* people have died of COVID-19
-- *96* people have recovered from COVID-19[1]
+- *145* people have recovered from COVID-19[1]
 
 The population in this census area is 75432. By our calculations:
-- 5.15% of the population have had COVID-19.[2]
-- 0.93% of the population or 698.0 people are actively fighting the virus.
+- 5.20% of the population have had COVID-19.[2]
+- 0.91% of the population or 685.0 people are actively fighting the virus.
 
 ## Synopsis
 

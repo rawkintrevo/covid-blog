@@ -12,13 +12,13 @@ tags: [Rockwall-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *461* new cases of COVID-19
-- *12* people have died of COVID-19
-- *148* people have recovered from COVID-19[1]
+- *522* new cases of COVID-19
+- *15* people have died of COVID-19
+- *145* people have recovered from COVID-19[1]
 
 The population in this census area is 104915. By our calculations:
-- 8.12% of the population have had COVID-19.[2]
-- 2.11% of the population or 2218.0 people are actively fighting the virus.
+- 8.18% of the population have had COVID-19.[2]
+- 2.17% of the population or 2279.0 people are actively fighting the virus.
 
 ## Synopsis
 

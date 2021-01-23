@@ -12,13 +12,13 @@ tags: [Santa Fe-New Mexico]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *285* new cases of COVID-19
-- *8* people have died of COVID-19
-- *126* people have recovered from COVID-19[1]
+- *319* new cases of COVID-19
+- *13* people have died of COVID-19
+- *169* people have recovered from COVID-19[1]
 
 The population in this census area is 150358. By our calculations:
-- 5.73% of the population have had COVID-19.[2]
-- 0.78% of the population or 1180.0 people are actively fighting the virus.
+- 5.76% of the population have had COVID-19.[2]
+- 0.78% of the population or 1166.0 people are actively fighting the virus.
 
 ## Synopsis
 

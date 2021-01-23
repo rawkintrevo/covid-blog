@@ -12,13 +12,13 @@ tags: [Clark-Nevada]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *6986* new cases of COVID-19
-- *172* people have died of COVID-19
-- *3392* people have recovered from COVID-19[1]
+- *8023* new cases of COVID-19
+- *212* people have died of COVID-19
+- *5132* people have recovered from COVID-19[1]
 
 The population in this census area is 2266715. By our calculations:
-- 8.97% of the population have had COVID-19.[2]
-- 1.36% of the population or 30782.0 people are actively fighting the virus.
+- 9.02% of the population have had COVID-19.[2]
+- 1.33% of the population or 30039.0 people are actively fighting the virus.
 
 ## Synopsis
 

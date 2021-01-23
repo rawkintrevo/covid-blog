@@ -12,13 +12,13 @@ tags: [Kerr-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *59* new cases of COVID-19
-- *13* people have died of COVID-19
-- *74* people have recovered from COVID-19[1]
+- *142* new cases of COVID-19
+- *16* people have died of COVID-19
+- *71* people have recovered from COVID-19[1]
 
 The population in this census area is 52600. By our calculations:
-- 5.80% of the population have had COVID-19.[2]
-- 1.23% of the population or 647.0 people are actively fighting the virus.
+- 5.97% of the population have had COVID-19.[2]
+- 1.39% of the population or 730.0 people are actively fighting the virus.
 
 ## Synopsis
 

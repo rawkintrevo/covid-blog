@@ -12,13 +12,13 @@ tags: [Noble-Oklahoma]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *48* new cases of COVID-19
+- *49* new cases of COVID-19
 - *1* people have died of COVID-19
-- *11* people have recovered from COVID-19[1]
+- *29* people have recovered from COVID-19[1]
 
 The population in this census area is 11131. By our calculations:
-- 10.56% of the population have had COVID-19.[2]
-- 1.71% of the population or 190.0 people are actively fighting the virus.
+- 10.57% of the population have had COVID-19.[2]
+- 1.55% of the population or 173.0 people are actively fighting the virus.
 
 ## Synopsis
 

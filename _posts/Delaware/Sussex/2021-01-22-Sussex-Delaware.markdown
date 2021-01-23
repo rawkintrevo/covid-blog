@@ -12,13 +12,13 @@ tags: [Sussex-Delaware]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *989* new cases of COVID-19
+- *1160* new cases of COVID-19
 - *5* people have died of COVID-19
-- *405* people have recovered from COVID-19[1]
+- *635* people have recovered from COVID-19[1]
 
 The population in this census area is 234225. By our calculations:
-- 8.10% of the population have had COVID-19.[2]
-- 1.59% of the population or 3733.0 people are actively fighting the virus.
+- 8.18% of the population have had COVID-19.[2]
+- 1.57% of the population or 3674.0 people are actively fighting the virus.
 
 ## Synopsis
 

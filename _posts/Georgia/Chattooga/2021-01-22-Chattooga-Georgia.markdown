@@ -12,13 +12,13 @@ tags: [Chattooga-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *102* new cases of COVID-19
-- *3* people have died of COVID-19
-- *67* people have recovered from COVID-19[1]
+- *113* new cases of COVID-19
+- *4* people have died of COVID-19
+- *88* people have recovered from COVID-19[1]
 
 The population in this census area is 24789. By our calculations:
-- 8.99% of the population have had COVID-19.[2]
-- 1.59% of the population or 394.0 people are actively fighting the virus.
+- 9.04% of the population have had COVID-19.[2]
+- 1.55% of the population or 383.0 people are actively fighting the virus.
 
 ## Synopsis
 

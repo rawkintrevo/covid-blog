@@ -12,13 +12,13 @@ tags: [Otero-Colorado]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *15* new cases of COVID-19
-- *0* people have died of COVID-19
-- *47* people have recovered from COVID-19[1]
+- *19* new cases of COVID-19
+- *1* people have died of COVID-19
+- *48* people have recovered from COVID-19[1]
 
 The population in this census area is 18278. By our calculations:
-- 9.62% of the population have had COVID-19.[2]
-- 0.50% of the population or 92.0 people are actively fighting the virus.
+- 9.65% of the population have had COVID-19.[2]
+- 0.51% of the population or 94.0 people are actively fighting the virus.
 
 ## Synopsis
 

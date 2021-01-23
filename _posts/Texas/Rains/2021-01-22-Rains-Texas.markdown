@@ -12,13 +12,13 @@ tags: [Rains-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *32* new cases of COVID-19
+- *38* new cases of COVID-19
 - *1* people have died of COVID-19
 - *16* people have recovered from COVID-19[1]
 
 The population in this census area is 12514. By our calculations:
-- 5.15% of the population have had COVID-19.[2]
-- 0.88% of the population or 110.0 people are actively fighting the virus.
+- 5.19% of the population have had COVID-19.[2]
+- 0.93% of the population or 116.0 people are actively fighting the virus.
 
 ## Synopsis
 

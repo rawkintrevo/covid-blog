@@ -12,13 +12,13 @@ tags: [Licking-Ohio]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *589* new cases of COVID-19
-- *1* people have died of COVID-19
-- *175* people have recovered from COVID-19[1]
+- *709* new cases of COVID-19
+- *5* people have died of COVID-19
+- *361* people have recovered from COVID-19[1]
 
 The population in this census area is 176862. By our calculations:
-- 7.32% of the population have had COVID-19.[2]
-- 1.36% of the population or 2399.0 people are actively fighting the virus.
+- 7.39% of the population have had COVID-19.[2]
+- 1.32% of the population or 2329.0 people are actively fighting the virus.
 
 ## Synopsis
 

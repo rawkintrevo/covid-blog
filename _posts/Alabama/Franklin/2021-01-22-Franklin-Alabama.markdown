@@ -12,13 +12,13 @@ tags: [Franklin-Alabama]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *75* new cases of COVID-19
+- *95* new cases of COVID-19
 - *3* people have died of COVID-19
-- *66* people have recovered from COVID-19[1]
+- *83* people have recovered from COVID-19[1]
 
 The population in this census area is 31362. By our calculations:
-- 11.79% of the population have had COVID-19.[2]
-- 1.23% of the population or 386.0 people are actively fighting the virus.
+- 11.86% of the population have had COVID-19.[2]
+- 1.24% of the population or 389.0 people are actively fighting the virus.
 
 ## Synopsis
 

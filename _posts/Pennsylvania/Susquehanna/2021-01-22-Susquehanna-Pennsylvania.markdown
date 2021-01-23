@@ -12,13 +12,13 @@ tags: [Susquehanna-Pennsylvania]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *89* new cases of COVID-19
+- *108* new cases of COVID-19
 - *2* people have died of COVID-19
-- *39* people have recovered from COVID-19[1]
+- *48* people have recovered from COVID-19[1]
 
 The population in this census area is 40328. By our calculations:
-- 3.39% of the population have had COVID-19.[2]
-- 0.77% of the population or 309.0 people are actively fighting the virus.
+- 3.44% of the population have had COVID-19.[2]
+- 0.79% of the population or 319.0 people are actively fighting the virus.
 
 ## Synopsis
 

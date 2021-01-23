@@ -12,13 +12,13 @@ tags: [Essex-Vermont]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *6* new cases of COVID-19
+- *8* new cases of COVID-19
 - *0* people have died of COVID-19
 - *0* people have recovered from COVID-19[1]
 
 The population in this census area is 6163. By our calculations:
-- 1.80% of the population have had COVID-19.[2]
-- 0.50% of the population or 31.0 people are actively fighting the virus.
+- 1.83% of the population have had COVID-19.[2]
+- 0.54% of the population or 33.0 people are actively fighting the virus.
 
 ## Synopsis
 

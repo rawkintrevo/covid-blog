@@ -12,12 +12,12 @@ tags: [Jasper-Indiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *112* new cases of COVID-19
+- *126* new cases of COVID-19
 - *1* people have died of COVID-19
-- *49* people have recovered from COVID-19[1]
+- *63* people have recovered from COVID-19[1]
 
 The population in this census area is 33562. By our calculations:
-- 8.53% of the population have had COVID-19.[2]
+- 8.57% of the population have had COVID-19.[2]
 - 1.10% of the population or 368.0 people are actively fighting the virus.
 
 ## Synopsis

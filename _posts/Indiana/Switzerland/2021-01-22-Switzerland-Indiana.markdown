@@ -12,13 +12,13 @@ tags: [Switzerland-Indiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *29* new cases of COVID-19
+- *42* new cases of COVID-19
 - *0* people have died of COVID-19
-- *15* people have recovered from COVID-19[1]
+- *20* people have recovered from COVID-19[1]
 
 The population in this census area is 10751. By our calculations:
-- 5.88% of the population have had COVID-19.[2]
-- 1.15% of the population or 124.0 people are actively fighting the virus.
+- 6.00% of the population have had COVID-19.[2]
+- 1.23% of the population or 132.0 people are actively fighting the virus.
 
 ## Synopsis
 

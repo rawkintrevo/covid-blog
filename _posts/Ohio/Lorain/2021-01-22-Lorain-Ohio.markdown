@@ -12,13 +12,13 @@ tags: [Lorain-Ohio]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1031* new cases of COVID-19
-- *5* people have died of COVID-19
-- *236* people have recovered from COVID-19[1]
+- *1188* new cases of COVID-19
+- *16* people have died of COVID-19
+- *670* people have recovered from COVID-19[1]
 
 The population in this census area is 309833. By our calculations:
-- 6.00% of the population have had COVID-19.[2]
-- 1.21% of the population or 3737.0 people are actively fighting the virus.
+- 6.06% of the population have had COVID-19.[2]
+- 1.11% of the population or 3449.0 people are actively fighting the virus.
 
 ## Synopsis
 

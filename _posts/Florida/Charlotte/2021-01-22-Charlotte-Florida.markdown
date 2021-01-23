@@ -12,13 +12,13 @@ tags: [Charlotte-Florida]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *375* new cases of COVID-19
+- *432* new cases of COVID-19
 - *14* people have died of COVID-19
-- *127* people have recovered from COVID-19[1]
+- *359* people have recovered from COVID-19[1]
 
 The population in this census area is 188910. By our calculations:
-- 4.84% of the population have had COVID-19.[2]
-- 0.88% of the population or 1666.0 people are actively fighting the virus.
+- 4.87% of the population have had COVID-19.[2]
+- 0.79% of the population or 1491.0 people are actively fighting the virus.
 
 ## Synopsis
 

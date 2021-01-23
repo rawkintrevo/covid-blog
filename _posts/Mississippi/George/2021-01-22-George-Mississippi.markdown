@@ -12,13 +12,13 @@ tags: [George-Mississippi]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *58* new cases of COVID-19
+- *66* new cases of COVID-19
 - *2* people have died of COVID-19
-- *12* people have recovered from COVID-19[1]
+- *16* people have recovered from COVID-19[1]
 
 The population in this census area is 24500. By our calculations:
-- 8.24% of the population have had COVID-19.[2]
-- 1.12% of the population or 275.0 people are actively fighting the virus.
+- 8.27% of the population have had COVID-19.[2]
+- 1.14% of the population or 279.0 people are actively fighting the virus.
 
 ## Synopsis
 

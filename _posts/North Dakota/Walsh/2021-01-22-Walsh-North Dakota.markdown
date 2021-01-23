@@ -12,13 +12,13 @@ tags: [Walsh-North Dakota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *25* new cases of COVID-19
-- *1* people have died of COVID-19
+- *28* new cases of COVID-19
+- *2* people have died of COVID-19
 - *37* people have recovered from COVID-19[1]
 
 The population in this census area is 10641. By our calculations:
-- 16.12% of the population have had COVID-19.[2]
-- 0.70% of the population or 75.0 people are actively fighting the virus.
+- 16.15% of the population have had COVID-19.[2]
+- 0.72% of the population or 77.0 people are actively fighting the virus.
 
 ## Synopsis
 

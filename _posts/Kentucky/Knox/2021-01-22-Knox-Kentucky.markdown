@@ -12,13 +12,13 @@ tags: [Knox-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *110* new cases of COVID-19
+- *152* new cases of COVID-19
 - *0* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *89* people have recovered from COVID-19[1]
 
 The population in this census area is 31145. By our calculations:
-- 7.43% of the population have had COVID-19.[2]
-- 1.77% of the population or 552.0 people are actively fighting the virus.
+- 7.57% of the population have had COVID-19.[2]
+- 1.62% of the population or 505.0 people are actively fighting the virus.
 
 ## Synopsis
 

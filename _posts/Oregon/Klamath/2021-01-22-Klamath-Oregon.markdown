@@ -12,13 +12,13 @@ tags: [Klamath-Oregon]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *103* new cases of COVID-19
+- *122* new cases of COVID-19
 - *14* people have died of COVID-19
-- *28* people have recovered from COVID-19[1]
+- *108* people have recovered from COVID-19[1]
 
 The population in this census area is 68238. By our calculations:
-- 3.62% of the population have had COVID-19.[2]
-- 0.78% of the population or 533.0 people are actively fighting the virus.
+- 3.65% of the population have had COVID-19.[2]
+- 0.69% of the population or 472.0 people are actively fighting the virus.
 
 ## Synopsis
 

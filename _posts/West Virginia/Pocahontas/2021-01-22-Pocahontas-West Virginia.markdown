@@ -12,13 +12,13 @@ tags: [Pocahontas-West Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *70* new cases of COVID-19
+- *78* new cases of COVID-19
 - *0* people have died of COVID-19
-- *9* people have recovered from COVID-19[1]
+- *13* people have recovered from COVID-19[1]
 
 The population in this census area is 8247. By our calculations:
-- 6.32% of the population have had COVID-19.[2]
-- 1.95% of the population or 161.0 people are actively fighting the virus.
+- 6.41% of the population have had COVID-19.[2]
+- 2.00% of the population or 165.0 people are actively fighting the virus.
 
 ## Synopsis
 

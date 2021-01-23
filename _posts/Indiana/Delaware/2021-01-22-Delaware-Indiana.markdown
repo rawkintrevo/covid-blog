@@ -12,13 +12,13 @@ tags: [Delaware-Indiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *339* new cases of COVID-19
+- *412* new cases of COVID-19
 - *5* people have died of COVID-19
-- *172* people have recovered from COVID-19[1]
+- *200* people have recovered from COVID-19[1]
 
 The population in this census area is 114135. By our calculations:
-- 7.87% of the population have had COVID-19.[2]
-- 1.10% of the population or 1250.0 people are actively fighting the virus.
+- 7.93% of the population have had COVID-19.[2]
+- 1.13% of the population or 1295.0 people are actively fighting the virus.
 
 ## Synopsis
 

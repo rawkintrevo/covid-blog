@@ -12,13 +12,13 @@ tags: [Greenlee-Arizona]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *25* new cases of COVID-19
-- *1* people have died of COVID-19
-- *9* people have recovered from COVID-19[1]
+- *27* new cases of COVID-19
+- *2* people have died of COVID-19
+- *14* people have recovered from COVID-19[1]
 
 The population in this census area is 9498. By our calculations:
-- 5.21% of the population have had COVID-19.[2]
-- 0.96% of the population or 91.0 people are actively fighting the virus.
+- 5.24% of the population have had COVID-19.[2]
+- 0.92% of the population or 87.0 people are actively fighting the virus.
 
 ## Synopsis
 

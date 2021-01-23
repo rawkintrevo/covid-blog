@@ -12,13 +12,13 @@ tags: [LaGrange-Indiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *40* new cases of COVID-19
+- *43* new cases of COVID-19
 - *0* people have died of COVID-19
-- *39* people have recovered from COVID-19[1]
+- *45* people have recovered from COVID-19[1]
 
 The population in this census area is 39614. By our calculations:
 - 5.71% of the population have had COVID-19.[2]
-- 0.49% of the population or 195.0 people are actively fighting the virus.
+- 0.48% of the population or 192.0 people are actively fighting the virus.
 
 ## Synopsis
 

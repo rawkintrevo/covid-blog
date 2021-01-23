@@ -12,13 +12,13 @@ tags: [Penobscot-Maine]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *317* new cases of COVID-19
-- *18* people have died of COVID-19
-- *167* people have recovered from COVID-19[1]
+- *343* new cases of COVID-19
+- *19* people have died of COVID-19
+- *194* people have recovered from COVID-19[1]
 
 The population in this census area is 152148. By our calculations:
-- 1.99% of the population have had COVID-19.[2]
-- 0.56% of the population or 854.0 people are actively fighting the virus.
+- 2.01% of the population have had COVID-19.[2]
+- 0.56% of the population or 852.0 people are actively fighting the virus.
 
 ## Synopsis
 

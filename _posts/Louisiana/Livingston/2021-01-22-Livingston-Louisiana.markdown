@@ -12,13 +12,13 @@ tags: [Livingston-Louisiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *391* new cases of COVID-19
-- *8* people have died of COVID-19
-- *74* people have recovered from COVID-19[1]
+- *479* new cases of COVID-19
+- *10* people have died of COVID-19
+- *72* people have recovered from COVID-19[1]
 
 The population in this census area is 140789. By our calculations:
-- 7.47% of the population have had COVID-19.[2]
-- 1.22% of the population or 1724.0 people are actively fighting the virus.
+- 7.54% of the population have had COVID-19.[2]
+- 1.29% of the population or 1812.0 people are actively fighting the virus.
 
 ## Synopsis
 

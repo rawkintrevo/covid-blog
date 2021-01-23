@@ -12,13 +12,13 @@ tags: [Ward-North Dakota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *85* new cases of COVID-19
-- *5* people have died of COVID-19
-- *67* people have recovered from COVID-19[1]
+- *86* new cases of COVID-19
+- *6* people have died of COVID-19
+- *76* people have recovered from COVID-19[1]
 
 The population in this census area is 67641. By our calculations:
 - 12.99% of the population have had COVID-19.[2]
-- 0.47% of the population or 320.0 people are actively fighting the virus.
+- 0.46% of the population or 311.0 people are actively fighting the virus.
 
 ## Synopsis
 

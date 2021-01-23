@@ -12,13 +12,13 @@ tags: [Lowndes-Mississippi]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *227* new cases of COVID-19
-- *12* people have died of COVID-19
-- *145* people have recovered from COVID-19[1]
+- *264* new cases of COVID-19
+- *13* people have died of COVID-19
+- *188* people have recovered from COVID-19[1]
 
 The population in this census area is 58595. By our calculations:
-- 9.26% of the population have had COVID-19.[2]
-- 1.60% of the population or 939.0 people are actively fighting the virus.
+- 9.32% of the population have had COVID-19.[2]
+- 1.59% of the population or 932.0 people are actively fighting the virus.
 
 ## Synopsis
 

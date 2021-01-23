@@ -12,13 +12,13 @@ tags: [Adams-Mississippi]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *73* new cases of COVID-19
+- *96* new cases of COVID-19
 - *5* people have died of COVID-19
-- *13* people have recovered from COVID-19[1]
+- *18* people have recovered from COVID-19[1]
 
 The population in this census area is 30693. By our calculations:
-- 6.77% of the population have had COVID-19.[2]
-- 0.82% of the population or 253.0 people are actively fighting the virus.
+- 6.85% of the population have had COVID-19.[2]
+- 0.88% of the population or 271.0 people are actively fighting the virus.
 
 ## Synopsis
 

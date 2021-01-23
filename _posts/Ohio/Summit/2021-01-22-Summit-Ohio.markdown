@@ -12,13 +12,13 @@ tags: [Summit-Ohio]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1616* new cases of COVID-19
-- *46* people have died of COVID-19
-- *400* people have recovered from COVID-19[1]
+- *1860* new cases of COVID-19
+- *57* people have died of COVID-19
+- *877* people have recovered from COVID-19[1]
 
 The population in this census area is 541013. By our calculations:
-- 6.31% of the population have had COVID-19.[2]
-- 1.09% of the population or 5908.0 people are actively fighting the virus.
+- 6.36% of the population have had COVID-19.[2]
+- 1.05% of the population or 5664.0 people are actively fighting the virus.
 
 ## Synopsis
 

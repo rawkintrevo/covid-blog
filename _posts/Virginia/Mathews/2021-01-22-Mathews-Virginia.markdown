@@ -12,13 +12,13 @@ tags: [Mathews-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *11* new cases of COVID-19
-- *1* people have died of COVID-19
+- *15* new cases of COVID-19
+- *2* people have died of COVID-19
 - *4* people have recovered from COVID-19[1]
 
 The population in this census area is 8834. By our calculations:
-- 4.41% of the population have had COVID-19.[2]
-- 0.87% of the population or 77.0 people are actively fighting the virus.
+- 4.47% of the population have had COVID-19.[2]
+- 0.91% of the population or 80.0 people are actively fighting the virus.
 
 ## Synopsis
 

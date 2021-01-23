@@ -12,13 +12,13 @@ tags: [Sebastian-Arkansas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *558* new cases of COVID-19
-- *19* people have died of COVID-19
-- *372* people have recovered from COVID-19[1]
+- *763* new cases of COVID-19
+- *26* people have died of COVID-19
+- *446* people have recovered from COVID-19[1]
 
 The population in this census area is 127827. By our calculations:
-- 9.82% of the population have had COVID-19.[2]
-- 2.14% of the population or 2735.0 people are actively fighting the virus.
+- 9.99% of the population have had COVID-19.[2]
+- 2.24% of the population or 2859.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Pinal-Arizona]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *2179* new cases of COVID-19
-- *33* people have died of COVID-19
-- *912* people have recovered from COVID-19[1]
+- *2881* new cases of COVID-19
+- *46* people have died of COVID-19
+- *1245* people have recovered from COVID-19[1]
 
 The population in this census area is 462789. By our calculations:
-- 8.16% of the population have had COVID-19.[2]
-- 2.05% of the population or 9477.0 people are actively fighting the virus.
+- 8.31% of the population have had COVID-19.[2]
+- 2.12% of the population or 9833.0 people are actively fighting the virus.
 
 ## Synopsis
 

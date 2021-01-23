@@ -12,13 +12,13 @@ tags: [Osceola-Florida]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1467* new cases of COVID-19
-- *5* people have died of COVID-19
-- *347* people have recovered from COVID-19[1]
+- *1759* new cases of COVID-19
+- *6* people have died of COVID-19
+- *1113* people have recovered from COVID-19[1]
 
 The population in this census area is 375751. By our calculations:
-- 8.30% of the population have had COVID-19.[2]
-- 1.55% of the population or 5811.0 people are actively fighting the virus.
+- 8.38% of the population have had COVID-19.[2]
+- 1.42% of the population or 5336.0 people are actively fighting the virus.
 
 ## Synopsis
 

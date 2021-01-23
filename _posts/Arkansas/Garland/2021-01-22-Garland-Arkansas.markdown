@@ -12,13 +12,13 @@ tags: [Garland-Arkansas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *372* new cases of COVID-19
-- *9* people have died of COVID-19
-- *156* people have recovered from COVID-19[1]
+- *502* new cases of COVID-19
+- *12* people have died of COVID-19
+- *189* people have recovered from COVID-19[1]
 
 The population in this census area is 99386. By our calculations:
-- 7.70% of the population have had COVID-19.[2]
-- 1.73% of the population or 1719.0 people are actively fighting the virus.
+- 7.83% of the population have had COVID-19.[2]
+- 1.82% of the population or 1813.0 people are actively fighting the virus.
 
 ## Synopsis
 

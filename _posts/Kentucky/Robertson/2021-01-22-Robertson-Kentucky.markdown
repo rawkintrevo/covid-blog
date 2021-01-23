@@ -12,13 +12,13 @@ tags: [Robertson-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *-1* new cases of COVID-19
+- *0* new cases of COVID-19
 - *1* people have died of COVID-19
-- *-1* people have recovered from COVID-19[1]
+- *4* people have recovered from COVID-19[1]
 
 The population in this census area is 2108. By our calculations:
-- 7.73% of the population have had COVID-19.[2]
-- 1.00% of the population or 21.0 people are actively fighting the virus.
+- 7.78% of the population have had COVID-19.[2]
+- 0.81% of the population or 17.0 people are actively fighting the virus.
 
 ## Synopsis
 

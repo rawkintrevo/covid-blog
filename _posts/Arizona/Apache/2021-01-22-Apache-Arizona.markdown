@@ -12,13 +12,13 @@ tags: [Apache-Arizona]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *304* new cases of COVID-19
+- *349* new cases of COVID-19
 - *13* people have died of COVID-19
-- *243* people have recovered from COVID-19[1]
+- *310* people have recovered from COVID-19[1]
 
 The population in this census area is 71887. By our calculations:
-- 12.14% of the population have had COVID-19.[2]
-- 1.52% of the population or 1092.0 people are actively fighting the virus.
+- 12.20% of the population have had COVID-19.[2]
+- 1.49% of the population or 1070.0 people are actively fighting the virus.
 
 ## Synopsis
 

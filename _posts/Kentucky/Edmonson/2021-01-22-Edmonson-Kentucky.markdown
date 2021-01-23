@@ -12,13 +12,13 @@ tags: [Edmonson-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *28* new cases of COVID-19
+- *30* new cases of COVID-19
 - *0* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *8* people have recovered from COVID-19[1]
 
 The population in this census area is 12150. By our calculations:
-- 5.33% of the population have had COVID-19.[2]
-- 0.86% of the population or 104.0 people are actively fighting the virus.
+- 5.34% of the population have had COVID-19.[2]
+- 0.81% of the population or 98.0 people are actively fighting the virus.
 
 ## Synopsis
 

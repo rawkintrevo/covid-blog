@@ -12,13 +12,13 @@ tags: [Medina-Ohio]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *546* new cases of COVID-19
+- *621* new cases of COVID-19
 - *3* people have died of COVID-19
-- *104* people have recovered from COVID-19[1]
+- *307* people have recovered from COVID-19[1]
 
 The population in this census area is 179746. By our calculations:
-- 6.32% of the population have had COVID-19.[2]
-- 1.11% of the population or 1994.0 people are actively fighting the virus.
+- 6.36% of the population have had COVID-19.[2]
+- 1.04% of the population or 1866.0 people are actively fighting the virus.
 
 ## Synopsis
 

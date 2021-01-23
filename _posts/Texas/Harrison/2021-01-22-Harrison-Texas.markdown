@@ -12,13 +12,13 @@ tags: [Harrison-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *394* new cases of COVID-19
-- *3* people have died of COVID-19
-- *129* people have recovered from COVID-19[1]
+- *419* new cases of COVID-19
+- *4* people have died of COVID-19
+- *172* people have recovered from COVID-19[1]
 
 The population in this census area is 66553. By our calculations:
-- 5.42% of the population have had COVID-19.[2]
-- 1.56% of the population or 1040.0 people are actively fighting the virus.
+- 5.46% of the population have had COVID-19.[2]
+- 1.53% of the population or 1021.0 people are actively fighting the virus.
 
 ## Synopsis
 

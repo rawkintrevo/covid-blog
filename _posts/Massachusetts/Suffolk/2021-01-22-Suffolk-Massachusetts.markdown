@@ -12,13 +12,13 @@ tags: [Suffolk-Massachusetts]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *2955* new cases of COVID-19
-- *39* people have died of COVID-19
-- *845* people have recovered from COVID-19[1]
+- *3485* new cases of COVID-19
+- *47* people have died of COVID-19
+- *1853* people have recovered from COVID-19[1]
 
 The population in this census area is 803907. By our calculations:
-- 8.27% of the population have had COVID-19.[2]
-- 1.41% of the population or 11340.0 people are actively fighting the virus.
+- 8.33% of the population have had COVID-19.[2]
+- 1.35% of the population or 10854.0 people are actively fighting the virus.
 
 ## Synopsis
 

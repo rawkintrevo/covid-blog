@@ -12,13 +12,13 @@ tags: [Monroe-New York]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *2504* new cases of COVID-19
-- *50* people have died of COVID-19
-- *1483* people have recovered from COVID-19[1]
+- *2864* new cases of COVID-19
+- *61* people have died of COVID-19
+- *2085* people have recovered from COVID-19[1]
 
 The population in this census area is 741770. By our calculations:
-- 6.02% of the population have had COVID-19.[2]
-- 1.32% of the population or 9771.0 people are actively fighting the virus.
+- 6.07% of the population have had COVID-19.[2]
+- 1.28% of the population or 9518.0 people are actively fighting the virus.
 
 ## Synopsis
 

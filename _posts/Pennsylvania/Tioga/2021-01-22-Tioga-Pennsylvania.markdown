@@ -12,13 +12,13 @@ tags: [Tioga-Pennsylvania]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *47* new cases of COVID-19
+- *52* new cases of COVID-19
 - *4* people have died of COVID-19
-- *24* people have recovered from COVID-19[1]
+- *43* people have recovered from COVID-19[1]
 
 The population in this census area is 40591. By our calculations:
-- 5.35% of the population have had COVID-19.[2]
-- 0.54% of the population or 219.0 people are actively fighting the virus.
+- 5.36% of the population have had COVID-19.[2]
+- 0.51% of the population or 205.0 people are actively fighting the virus.
 
 ## Synopsis
 

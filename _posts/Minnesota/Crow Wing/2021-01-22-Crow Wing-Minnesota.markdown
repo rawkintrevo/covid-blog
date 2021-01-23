@@ -12,13 +12,13 @@ tags: [Crow Wing-Minnesota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *79* new cases of COVID-19
+- *99* new cases of COVID-19
 - *4* people have died of COVID-19
-- *11* people have recovered from COVID-19[1]
+- *28* people have recovered from COVID-19[1]
 
 The population in this census area is 65055. By our calculations:
-- 7.45% of the population have had COVID-19.[2]
-- 0.50% of the population or 325.0 people are actively fighting the virus.
+- 7.48% of the population have had COVID-19.[2]
+- 0.50% of the population or 328.0 people are actively fighting the virus.
 
 ## Synopsis
 

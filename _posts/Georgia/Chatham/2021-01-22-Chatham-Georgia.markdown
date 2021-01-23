@@ -12,13 +12,13 @@ tags: [Chatham-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *966* new cases of COVID-19
-- *9* people have died of COVID-19
-- *267* people have recovered from COVID-19[1]
+- *1166* new cases of COVID-19
+- *10* people have died of COVID-19
+- *377* people have recovered from COVID-19[1]
 
 The population in this census area is 289430. By our calculations:
-- 5.73% of the population have had COVID-19.[2]
-- 0.98% of the population or 2834.0 people are actively fighting the virus.
+- 5.80% of the population have had COVID-19.[2]
+- 1.01% of the population or 2923.0 people are actively fighting the virus.
 
 ## Synopsis
 

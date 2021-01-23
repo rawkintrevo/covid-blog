@@ -14,11 +14,11 @@ tags: [Tehama-California]
 In the last 7 days[3] we project there have been
 - *413* new cases of COVID-19
 - *2* people have died of COVID-19
-- *66* people have recovered from COVID-19[1]
+- *117* people have recovered from COVID-19[1]
 
 The population in this census area is 65084. By our calculations:
 - 6.66% of the population have had COVID-19.[2]
-- 1.59% of the population or 1032.0 people are actively fighting the virus.
+- 1.51% of the population or 981.0 people are actively fighting the virus.
 
 ## Synopsis
 

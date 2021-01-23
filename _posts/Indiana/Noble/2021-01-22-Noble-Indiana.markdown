@@ -12,13 +12,13 @@ tags: [Noble-Indiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *121* new cases of COVID-19
+- *143* new cases of COVID-19
 - *1* people have died of COVID-19
-- *101* people have recovered from COVID-19[1]
+- *148* people have recovered from COVID-19[1]
 
 The population in this census area is 47744. By our calculations:
-- 9.76% of the population have had COVID-19.[2]
-- 1.19% of the population or 567.0 people are actively fighting the virus.
+- 9.81% of the population have had COVID-19.[2]
+- 1.14% of the population or 542.0 people are actively fighting the virus.
 
 ## Synopsis
 

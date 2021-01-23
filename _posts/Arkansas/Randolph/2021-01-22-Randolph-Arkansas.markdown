@@ -12,13 +12,13 @@ tags: [Randolph-Arkansas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *72* new cases of COVID-19
+- *89* new cases of COVID-19
 - *0* people have died of COVID-19
-- *32* people have recovered from COVID-19[1]
+- *36* people have recovered from COVID-19[1]
 
 The population in this census area is 17958. By our calculations:
-- 9.77% of the population have had COVID-19.[2]
-- 1.56% of the population or 280.0 people are actively fighting the virus.
+- 9.87% of the population have had COVID-19.[2]
+- 1.63% of the population or 293.0 people are actively fighting the virus.
 
 ## Synopsis
 

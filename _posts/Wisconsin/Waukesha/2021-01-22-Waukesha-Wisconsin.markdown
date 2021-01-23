@@ -12,13 +12,13 @@ tags: [Waukesha-Wisconsin]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *897* new cases of COVID-19
-- *28* people have died of COVID-19
-- *340* people have recovered from COVID-19[1]
+- *1084* new cases of COVID-19
+- *33* people have died of COVID-19
+- *336* people have recovered from COVID-19[1]
 
 The population in this census area is 404198. By our calculations:
-- 10.31% of the population have had COVID-19.[2]
-- 1.08% of the population or 4357.0 people are actively fighting the virus.
+- 10.36% of the population have had COVID-19.[2]
+- 1.12% of the population or 4543.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -14,11 +14,11 @@ tags: [Kauai-Hawaii]
 In the last 7 days[3] we project there have been
 - *6* new cases of COVID-19
 - *0* people have died of COVID-19
-- *1* people have recovered from COVID-19[1]
+- *3* people have recovered from COVID-19[1]
 
 The population in this census area is 72293. By our calculations:
 - 0.24% of the population have had COVID-19.[2]
-- 0.04% of the population or 30.0 people are actively fighting the virus.
+- 0.04% of the population or 28.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Warren-New Jersey]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *328* new cases of COVID-19
+- *371* new cases of COVID-19
 - *4* people have died of COVID-19
-- *102* people have recovered from COVID-19[1]
+- *171* people have recovered from COVID-19[1]
 
 The population in this census area is 105267. By our calculations:
-- 5.25% of the population have had COVID-19.[2]
-- 1.42% of the population or 1490.0 people are actively fighting the virus.
+- 5.29% of the population have had COVID-19.[2]
+- 1.39% of the population or 1464.0 people are actively fighting the virus.
 
 ## Synopsis
 

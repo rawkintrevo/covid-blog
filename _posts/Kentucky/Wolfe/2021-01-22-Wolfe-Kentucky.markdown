@@ -12,13 +12,13 @@ tags: [Wolfe-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *13* new cases of COVID-19
+- *14* new cases of COVID-19
 - *0* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *5* people have recovered from COVID-19[1]
 
 The population in this census area is 7157. By our calculations:
-- 5.07% of the population have had COVID-19.[2]
-- 0.87% of the population or 62.0 people are actively fighting the virus.
+- 5.09% of the population have had COVID-19.[2]
+- 0.81% of the population or 58.0 people are actively fighting the virus.
 
 ## Synopsis
 

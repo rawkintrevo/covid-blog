@@ -12,13 +12,13 @@ tags: [Clay-Minnesota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *104* new cases of COVID-19
+- *111* new cases of COVID-19
 - *3* people have died of COVID-19
-- *19* people have recovered from COVID-19[1]
+- *44* people have recovered from COVID-19[1]
 
 The population in this census area is 64222. By our calculations:
-- 10.18% of the population have had COVID-19.[2]
-- 0.56% of the population or 359.0 people are actively fighting the virus.
+- 10.19% of the population have had COVID-19.[2]
+- 0.53% of the population or 341.0 people are actively fighting the virus.
 
 ## Synopsis
 

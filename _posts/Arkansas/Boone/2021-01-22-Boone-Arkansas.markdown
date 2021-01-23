@@ -12,13 +12,13 @@ tags: [Boone-Arkansas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *135* new cases of COVID-19
-- *0* people have died of COVID-19
-- *46* people have recovered from COVID-19[1]
+- *175* new cases of COVID-19
+- *1* people have died of COVID-19
+- *71* people have recovered from COVID-19[1]
 
 The population in this census area is 37432. By our calculations:
-- 8.18% of the population have had COVID-19.[2]
-- 1.24% of the population or 466.0 people are actively fighting the virus.
+- 8.29% of the population have had COVID-19.[2]
+- 1.28% of the population or 480.0 people are actively fighting the virus.
 
 ## Synopsis
 

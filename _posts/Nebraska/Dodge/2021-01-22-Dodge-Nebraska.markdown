@@ -12,12 +12,12 @@ tags: [Dodge-Nebraska]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *68* new cases of COVID-19
+- *85* new cases of COVID-19
 - *1* people have died of COVID-19
-- *69* people have recovered from COVID-19[1]
+- *86* people have recovered from COVID-19[1]
 
 The population in this census area is 36565. By our calculations:
-- 11.55% of the population have had COVID-19.[2]
+- 11.60% of the population have had COVID-19.[2]
 - 1.14% of the population or 418.0 people are actively fighting the virus.
 
 ## Synopsis

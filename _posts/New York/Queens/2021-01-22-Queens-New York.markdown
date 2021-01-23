@@ -12,13 +12,13 @@ tags: [Queens-New York]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *10426* new cases of COVID-19
-- *132* people have died of COVID-19
-- *2999* people have recovered from COVID-19[1]
+- *11882* new cases of COVID-19
+- *165* people have died of COVID-19
+- *4743* people have recovered from COVID-19[1]
 
 The population in this census area is 2253858. By our calculations:
-- 7.10% of the population have had COVID-19.[2]
-- 1.44% of the population or 32554.0 people are actively fighting the virus.
+- 7.17% of the population have had COVID-19.[2]
+- 1.43% of the population or 32233.0 people are actively fighting the virus.
 
 ## Synopsis
 

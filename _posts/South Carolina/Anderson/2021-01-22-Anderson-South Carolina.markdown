@@ -12,13 +12,13 @@ tags: [Anderson-South Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1257* new cases of COVID-19
-- *21* people have died of COVID-19
-- *157* people have recovered from COVID-19[1]
+- *1433* new cases of COVID-19
+- *22* people have died of COVID-19
+- *389* people have recovered from COVID-19[1]
 
 The population in this census area is 202558. By our calculations:
-- 7.79% of the population have had COVID-19.[2]
-- 1.81% of the population or 3666.0 people are actively fighting the virus.
+- 7.88% of the population have had COVID-19.[2]
+- 1.78% of the population or 3609.0 people are actively fighting the virus.
 
 ## Synopsis
 

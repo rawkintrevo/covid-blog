@@ -12,13 +12,13 @@ tags: [Tooele-Utah]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *195* new cases of COVID-19
-- *1* people have died of COVID-19
-- *96* people have recovered from COVID-19[1]
+- *229* new cases of COVID-19
+- *3* people have died of COVID-19
+- *188* people have recovered from COVID-19[1]
 
 The population in this census area is 72259. By our calculations:
-- 7.74% of the population have had COVID-19.[2]
-- 1.45% of the population or 1046.0 people are actively fighting the virus.
+- 7.79% of the population have had COVID-19.[2]
+- 1.36% of the population or 986.0 people are actively fighting the virus.
 
 ## Synopsis
 

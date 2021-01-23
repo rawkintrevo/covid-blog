@@ -12,13 +12,13 @@ tags: [Talladega-Alabama]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *273* new cases of COVID-19
-- *0* people have died of COVID-19
-- *98* people have recovered from COVID-19[1]
+- *310* new cases of COVID-19
+- *1* people have died of COVID-19
+- *140* people have recovered from COVID-19[1]
 
 The population in this census area is 79978. By our calculations:
-- 7.89% of the population have had COVID-19.[2]
-- 1.33% of the population or 1066.0 people are actively fighting the virus.
+- 7.94% of the population have had COVID-19.[2]
+- 1.33% of the population or 1060.0 people are actively fighting the virus.
 
 ## Synopsis
 

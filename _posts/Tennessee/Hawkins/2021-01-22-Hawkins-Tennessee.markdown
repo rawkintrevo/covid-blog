@@ -12,13 +12,13 @@ tags: [Hawkins-Tennessee]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *163* new cases of COVID-19
-- *3* people have died of COVID-19
-- *33* people have recovered from COVID-19[1]
+- *188* new cases of COVID-19
+- *5* people have died of COVID-19
+- *178* people have recovered from COVID-19[1]
 
 The population in this census area is 56786. By our calculations:
-- 7.92% of the population have had COVID-19.[2]
-- 1.50% of the population or 854.0 people are actively fighting the virus.
+- 7.97% of the population have had COVID-19.[2]
+- 1.29% of the population or 732.0 people are actively fighting the virus.
 
 ## Synopsis
 

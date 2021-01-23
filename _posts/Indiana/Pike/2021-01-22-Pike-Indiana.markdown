@@ -12,13 +12,13 @@ tags: [Pike-Indiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *32* new cases of COVID-19
+- *42* new cases of COVID-19
 - *1* people have died of COVID-19
-- *36* people have recovered from COVID-19[1]
+- *42* people have recovered from COVID-19[1]
 
 The population in this census area is 12389. By our calculations:
-- 9.25% of the population have had COVID-19.[2]
-- 1.60% of the population or 198.0 people are actively fighting the virus.
+- 9.33% of the population have had COVID-19.[2]
+- 1.63% of the population or 202.0 people are actively fighting the virus.
 
 ## Synopsis
 

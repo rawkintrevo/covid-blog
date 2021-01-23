@@ -12,13 +12,13 @@ tags: [Brunswick-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *92* new cases of COVID-19
+- *146* new cases of COVID-19
 - *1* people have died of COVID-19
-- *19* people have recovered from COVID-19[1]
+- *22* people have recovered from COVID-19[1]
 
 The population in this census area is 16231. By our calculations:
-- 5.81% of the population have had COVID-19.[2]
-- 1.80% of the population or 292.0 people are actively fighting the virus.
+- 6.14% of the population have had COVID-19.[2]
+- 2.11% of the population or 343.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Tippah-Mississippi]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *101* new cases of COVID-19
+- *115* new cases of COVID-19
 - *5* people have died of COVID-19
-- *58* people have recovered from COVID-19[1]
+- *67* people have recovered from COVID-19[1]
 
 The population in this census area is 22015. By our calculations:
-- 11.10% of the population have had COVID-19.[2]
-- 1.84% of the population or 404.0 people are actively fighting the virus.
+- 11.17% of the population have had COVID-19.[2]
+- 1.86% of the population or 409.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Wright-Missouri]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *41* new cases of COVID-19
+- *46* new cases of COVID-19
 - *0* people have died of COVID-19
-- *61* people have recovered from COVID-19[1]
+- *69* people have recovered from COVID-19[1]
 
 The population in this census area is 18289. By our calculations:
-- 6.98% of the population have had COVID-19.[2]
-- 0.98% of the population or 180.0 people are actively fighting the virus.
+- 7.00% of the population have had COVID-19.[2]
+- 0.97% of the population or 177.0 people are actively fighting the virus.
 
 ## Synopsis
 

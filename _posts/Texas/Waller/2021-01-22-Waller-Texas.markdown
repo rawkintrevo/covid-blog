@@ -12,13 +12,13 @@ tags: [Waller-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *204* new cases of COVID-19
+- *214* new cases of COVID-19
 - *4* people have died of COVID-19
-- *30* people have recovered from COVID-19[1]
+- *46* people have recovered from COVID-19[1]
 
 The population in this census area is 55246. By our calculations:
-- 4.87% of the population have had COVID-19.[2]
-- 1.13% of the population or 627.0 people are actively fighting the virus.
+- 4.89% of the population have had COVID-19.[2]
+- 1.12% of the population or 621.0 people are actively fighting the virus.
 
 ## Synopsis
 

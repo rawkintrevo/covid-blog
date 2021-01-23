@@ -12,13 +12,13 @@ tags: [Washington-Florida]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *69* new cases of COVID-19
+- *89* new cases of COVID-19
 - *0* people have died of COVID-19
-- *35* people have recovered from COVID-19[1]
+- *81* people have recovered from COVID-19[1]
 
 The population in this census area is 25473. By our calculations:
-- 9.01% of the population have had COVID-19.[2]
-- 1.27% of the population or 324.0 people are actively fighting the virus.
+- 9.09% of the population have had COVID-19.[2]
+- 1.17% of the population or 298.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Tate-Mississippi]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *93* new cases of COVID-19
+- *117* new cases of COVID-19
 - *3* people have died of COVID-19
-- *46* people have recovered from COVID-19[1]
+- *61* people have recovered from COVID-19[1]
 
 The population in this census area is 28321. By our calculations:
-- 9.69% of the population have had COVID-19.[2]
-- 1.14% of the population or 323.0 people are actively fighting the virus.
+- 9.77% of the population have had COVID-19.[2]
+- 1.17% of the population or 332.0 people are actively fighting the virus.
 
 ## Synopsis
 

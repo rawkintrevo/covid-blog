@@ -12,13 +12,13 @@ tags: [Morton-North Dakota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *28* new cases of COVID-19
+- *32* new cases of COVID-19
 - *0* people have died of COVID-19
-- *29* people have recovered from COVID-19[1]
+- *39* people have recovered from COVID-19[1]
 
 The population in this census area is 31364. By our calculations:
-- 15.28% of the population have had COVID-19.[2]
-- 0.48% of the population or 152.0 people are actively fighting the virus.
+- 15.29% of the population have had COVID-19.[2]
+- 0.47% of the population or 146.0 people are actively fighting the virus.
 
 ## Synopsis
 

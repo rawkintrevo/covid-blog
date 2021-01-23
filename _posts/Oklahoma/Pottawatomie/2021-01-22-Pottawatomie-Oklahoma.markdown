@@ -12,13 +12,13 @@ tags: [Pottawatomie-Oklahoma]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *221* new cases of COVID-19
-- *4* people have died of COVID-19
-- *76* people have recovered from COVID-19[1]
+- *265* new cases of COVID-19
+- *5* people have died of COVID-19
+- *144* people have recovered from COVID-19[1]
 
 The population in this census area is 72592. By our calculations:
-- 9.28% of the population have had COVID-19.[2]
-- 1.62% of the population or 1173.0 people are actively fighting the virus.
+- 9.34% of the population have had COVID-19.[2]
+- 1.58% of the population or 1148.0 people are actively fighting the virus.
 
 ## Synopsis
 

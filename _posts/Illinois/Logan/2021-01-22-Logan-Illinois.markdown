@@ -12,13 +12,13 @@ tags: [Logan-Illinois]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *77* new cases of COVID-19
+- *86* new cases of COVID-19
 - *1* people have died of COVID-19
-- *23* people have recovered from COVID-19[1]
+- *59* people have recovered from COVID-19[1]
 
 The population in this census area is 28618. By our calculations:
-- 10.85% of the population have had COVID-19.[2]
-- 1.38% of the population or 395.0 people are actively fighting the virus.
+- 10.88% of the population have had COVID-19.[2]
+- 1.29% of the population or 368.0 people are actively fighting the virus.
 
 ## Synopsis
 

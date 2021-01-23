@@ -14,11 +14,11 @@ tags: [Kern-California]
 In the last 7 days[3] we project there have been
 - *4821* new cases of COVID-19
 - *21* people have died of COVID-19
-- *1662* people have recovered from COVID-19[1]
+- *2177* people have recovered from COVID-19[1]
 
 The population in this census area is 900202. By our calculations:
 - 9.69% of the population have had COVID-19.[2]
-- 2.02% of the population or 18200.0 people are actively fighting the virus.
+- 1.96% of the population or 17685.0 people are actively fighting the virus.
 
 ## Synopsis
 

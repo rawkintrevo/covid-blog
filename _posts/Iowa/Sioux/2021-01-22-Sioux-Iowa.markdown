@@ -12,13 +12,13 @@ tags: [Sioux-Iowa]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *31* new cases of COVID-19
+- *57* new cases of COVID-19
 - *6* people have died of COVID-19
-- *21* people have recovered from COVID-19[1]
+- *31* people have recovered from COVID-19[1]
 
 The population in this census area is 34855. By our calculations:
-- 13.09% of the population have had COVID-19.[2]
-- 0.55% of the population or 193.0 people are actively fighting the virus.
+- 13.16% of the population have had COVID-19.[2]
+- 0.60% of the population or 209.0 people are actively fighting the virus.
 
 ## Synopsis
 

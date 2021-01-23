@@ -12,13 +12,13 @@ tags: [Judith Basin-Montana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1* new cases of COVID-19
+- *2* new cases of COVID-19
 - *0* people have died of COVID-19
 - *0* people have recovered from COVID-19[1]
 
 The population in this census area is 2007. By our calculations:
-- 4.04% of the population have had COVID-19.[2]
-- 0.20% of the population or 4.0 people are actively fighting the virus.
+- 4.09% of the population have had COVID-19.[2]
+- 0.25% of the population or 5.0 people are actively fighting the virus.
 
 ## Synopsis
 

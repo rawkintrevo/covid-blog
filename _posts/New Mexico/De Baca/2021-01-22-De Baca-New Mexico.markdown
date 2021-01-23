@@ -12,12 +12,12 @@ tags: [De Baca-New Mexico]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *6* new cases of COVID-19
+- *7* new cases of COVID-19
 - *0* people have died of COVID-19
-- *5* people have recovered from COVID-19[1]
+- *6* people have recovered from COVID-19[1]
 
 The population in this census area is 1748. By our calculations:
-- 6.98% of the population have had COVID-19.[2]
+- 7.04% of the population have had COVID-19.[2]
 - 1.43% of the population or 25.0 people are actively fighting the virus.
 
 ## Synopsis

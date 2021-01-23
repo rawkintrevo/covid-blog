@@ -12,13 +12,13 @@ tags: [Montezuma-Colorado]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *94* new cases of COVID-19
-- *1* people have died of COVID-19
-- *21* people have recovered from COVID-19[1]
+- *109* new cases of COVID-19
+- *0* people have died of COVID-19
+- *36* people have recovered from COVID-19[1]
 
 The population in this census area is 26183. By our calculations:
-- 5.89% of the population have had COVID-19.[2]
-- 1.12% of the population or 294.0 people are actively fighting the virus.
+- 5.94% of the population have had COVID-19.[2]
+- 1.13% of the population or 295.0 people are actively fighting the virus.
 
 ## Synopsis
 

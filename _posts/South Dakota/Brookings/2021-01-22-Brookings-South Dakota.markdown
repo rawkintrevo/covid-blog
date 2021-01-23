@@ -12,13 +12,13 @@ tags: [Brookings-South Dakota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *75* new cases of COVID-19
+- *87* new cases of COVID-19
 - *0* people have died of COVID-19
-- *24* people have recovered from COVID-19[1]
+- *42* people have recovered from COVID-19[1]
 
 The population in this census area is 35077. By our calculations:
-- 9.49% of the population have had COVID-19.[2]
-- 0.99% of the population or 346.0 people are actively fighting the virus.
+- 9.52% of the population have had COVID-19.[2]
+- 0.97% of the population or 340.0 people are actively fighting the virus.
 
 ## Synopsis
 

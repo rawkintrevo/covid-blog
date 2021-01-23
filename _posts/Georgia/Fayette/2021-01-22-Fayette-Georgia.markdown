@@ -12,13 +12,13 @@ tags: [Fayette-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *339* new cases of COVID-19
-- *11* people have died of COVID-19
-- *193* people have recovered from COVID-19[1]
+- *416* new cases of COVID-19
+- *12* people have died of COVID-19
+- *234* people have recovered from COVID-19[1]
 
 The population in this census area is 114421. By our calculations:
-- 5.34% of the population have had COVID-19.[2]
-- 1.02% of the population or 1169.0 people are actively fighting the virus.
+- 5.41% of the population have had COVID-19.[2]
+- 1.05% of the population or 1204.0 people are actively fighting the virus.
 
 ## Synopsis
 

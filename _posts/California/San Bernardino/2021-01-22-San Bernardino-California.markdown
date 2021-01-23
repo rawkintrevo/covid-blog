@@ -12,13 +12,13 @@ tags: [San Bernardino-California]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *15391* new cases of COVID-19
-- *0* people have died of COVID-19
-- *5898* people have recovered from COVID-19[1]
+- *17218* new cases of COVID-19
+- *1* people have died of COVID-19
+- *10433* people have recovered from COVID-19[1]
 
 The population in this census area is 2180085. By our calculations:
-- 11.78% of the population have had COVID-19.[2]
-- 2.64% of the population or 57636.0 people are actively fighting the virus.
+- 11.87% of the population have had COVID-19.[2]
+- 2.52% of the population or 54927.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Madison-Nebraska]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *49* new cases of COVID-19
+- *60* new cases of COVID-19
 - *0* people have died of COVID-19
-- *41* people have recovered from COVID-19[1]
+- *45* people have recovered from COVID-19[1]
 
 The population in this census area is 35099. By our calculations:
-- 11.33% of the population have had COVID-19.[2]
-- 0.56% of the population or 197.0 people are actively fighting the virus.
+- 11.36% of the population have had COVID-19.[2]
+- 0.58% of the population or 204.0 people are actively fighting the virus.
 
 ## Synopsis
 

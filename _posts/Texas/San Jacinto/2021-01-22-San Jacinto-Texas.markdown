@@ -12,13 +12,13 @@ tags: [San Jacinto-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *52* new cases of COVID-19
+- *66* new cases of COVID-19
 - *0* people have died of COVID-19
-- *8* people have recovered from COVID-19[1]
+- *16* people have recovered from COVID-19[1]
 
 The population in this census area is 28859. By our calculations:
-- 2.22% of the population have had COVID-19.[2]
-- 0.71% of the population or 205.0 people are actively fighting the virus.
+- 2.27% of the population have had COVID-19.[2]
+- 0.73% of the population or 211.0 people are actively fighting the virus.
 
 ## Synopsis
 

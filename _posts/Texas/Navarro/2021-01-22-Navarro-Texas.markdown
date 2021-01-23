@@ -12,13 +12,13 @@ tags: [Navarro-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *187* new cases of COVID-19
-- *5* people have died of COVID-19
-- *188* people have recovered from COVID-19[1]
+- *185* new cases of COVID-19
+- *7* people have died of COVID-19
+- *186* people have recovered from COVID-19[1]
 
 The population in this census area is 50113. By our calculations:
 - 9.87% of the population have had COVID-19.[2]
-- 1.81% of the population or 907.0 people are actively fighting the virus.
+- 1.81% of the population or 905.0 people are actively fighting the virus.
 
 ## Synopsis
 

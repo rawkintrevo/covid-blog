@@ -12,13 +12,13 @@ tags: [Natrona-Wyoming]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *210* new cases of COVID-19
+- *260* new cases of COVID-19
 - *7* people have died of COVID-19
-- *25* people have recovered from COVID-19[1]
+- *34* people have recovered from COVID-19[1]
 
 The population in this census area is 79858. By our calculations:
-- 9.06% of the population have had COVID-19.[2]
-- 0.93% of the population or 741.0 people are actively fighting the virus.
+- 9.13% of the population have had COVID-19.[2]
+- 0.98% of the population or 782.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Warren-Indiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *21* new cases of COVID-19
+- *33* new cases of COVID-19
 - *0* people have died of COVID-19
-- *25* people have recovered from COVID-19[1]
+- *36* people have recovered from COVID-19[1]
 
 The population in this census area is 8265. By our calculations:
-- 8.02% of the population have had COVID-19.[2]
-- 1.43% of the population or 118.0 people are actively fighting the virus.
+- 8.17% of the population have had COVID-19.[2]
+- 1.44% of the population or 119.0 people are actively fighting the virus.
 
 ## Synopsis
 

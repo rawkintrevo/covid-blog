@@ -12,13 +12,13 @@ tags: [Cumberland-Tennessee]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *204* new cases of COVID-19
-- *2* people have died of COVID-19
-- *39* people have recovered from COVID-19[1]
+- *231* new cases of COVID-19
+- *4* people have died of COVID-19
+- *274* people have recovered from COVID-19[1]
 
 The population in this census area is 60520. By our calculations:
-- 8.99% of the population have had COVID-19.[2]
-- 1.69% of the population or 1020.0 people are actively fighting the virus.
+- 9.04% of the population have had COVID-19.[2]
+- 1.34% of the population or 810.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Powhatan-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *105* new cases of COVID-19
-- *0* people have died of COVID-19
-- *22* people have recovered from COVID-19[1]
+- *104* new cases of COVID-19
+- *1* people have died of COVID-19
+- *31* people have recovered from COVID-19[1]
 
 The population in this census area is 29652. By our calculations:
 - 3.96% of the population have had COVID-19.[2]
-- 1.02% of the population or 301.0 people are actively fighting the virus.
+- 0.98% of the population or 290.0 people are actively fighting the virus.
 
 ## Synopsis
 

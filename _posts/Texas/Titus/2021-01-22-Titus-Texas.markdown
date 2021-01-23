@@ -12,13 +12,13 @@ tags: [Titus-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *114* new cases of COVID-19
-- *8* people have died of COVID-19
-- *17* people have recovered from COVID-19[1]
+- *117* new cases of COVID-19
+- *10* people have died of COVID-19
+- *61* people have recovered from COVID-19[1]
 
 The population in this census area is 32750. By our calculations:
-- 9.60% of the population have had COVID-19.[2]
-- 1.79% of the population or 586.0 people are actively fighting the virus.
+- 9.62% of the population have had COVID-19.[2]
+- 1.66% of the population or 543.0 people are actively fighting the virus.
 
 ## Synopsis
 

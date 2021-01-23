@@ -12,13 +12,13 @@ tags: [Buchanan-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *12* new cases of COVID-19
+- *21* new cases of COVID-19
 - *2* people have died of COVID-19
-- *41* people have recovered from COVID-19[1]
+- *62* people have recovered from COVID-19[1]
 
 The population in this census area is 21004. By our calculations:
-- 4.77% of the population have had COVID-19.[2]
-- 0.61% of the population or 128.0 people are actively fighting the virus.
+- 4.81% of the population have had COVID-19.[2]
+- 0.55% of the population or 116.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Yolo-California]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *849* new cases of COVID-19
+- *912* new cases of COVID-19
 - *7* people have died of COVID-19
-- *162* people have recovered from COVID-19[1]
+- *322* people have recovered from COVID-19[1]
 
 The population in this census area is 220500. By our calculations:
-- 4.89% of the population have had COVID-19.[2]
-- 1.11% of the population or 2457.0 people are actively fighting the virus.
+- 4.92% of the population have had COVID-19.[2]
+- 1.07% of the population or 2360.0 people are actively fighting the virus.
 
 ## Synopsis
 

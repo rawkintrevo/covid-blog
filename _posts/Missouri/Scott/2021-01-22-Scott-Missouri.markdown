@@ -12,13 +12,13 @@ tags: [Scott-Missouri]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *45* new cases of COVID-19
+- *61* new cases of COVID-19
 - *0* people have died of COVID-19
-- *48* people have recovered from COVID-19[1]
+- *61* people have recovered from COVID-19[1]
 
 The population in this census area is 38280. By our calculations:
-- 9.38% of the population have had COVID-19.[2]
-- 0.61% of the population or 234.0 people are actively fighting the virus.
+- 9.43% of the population have had COVID-19.[2]
+- 0.62% of the population or 237.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Brown-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *184* new cases of COVID-19
-- *3* people have died of COVID-19
-- *102* people have recovered from COVID-19[1]
+- *218* new cases of COVID-19
+- *4* people have died of COVID-19
+- *101* people have recovered from COVID-19[1]
 
 The population in this census area is 37864. By our calculations:
-- 9.22% of the population have had COVID-19.[2]
-- 1.76% of the population or 666.0 people are actively fighting the virus.
+- 9.31% of the population have had COVID-19.[2]
+- 1.85% of the population or 700.0 people are actively fighting the virus.
 
 ## Synopsis
 

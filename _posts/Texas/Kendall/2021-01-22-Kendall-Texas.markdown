@@ -12,13 +12,13 @@ tags: [Kendall-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *129* new cases of COVID-19
-- *6* people have died of COVID-19
-- *29* people have recovered from COVID-19[1]
+- *230* new cases of COVID-19
+- *7* people have died of COVID-19
+- *28* people have recovered from COVID-19[1]
 
 The population in this census area is 47431. By our calculations:
-- 4.12% of the population have had COVID-19.[2]
-- 1.04% of the population or 494.0 people are actively fighting the virus.
+- 4.33% of the population have had COVID-19.[2]
+- 1.25% of the population or 595.0 people are actively fighting the virus.
 
 ## Synopsis
 

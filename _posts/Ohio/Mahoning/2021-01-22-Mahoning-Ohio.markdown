@@ -12,13 +12,13 @@ tags: [Mahoning-Ohio]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *602* new cases of COVID-19
+- *730* new cases of COVID-19
 - *3* people have died of COVID-19
-- *166* people have recovered from COVID-19[1]
+- *413* people have recovered from COVID-19[1]
 
 The population in this census area is 228683. By our calculations:
-- 7.45% of the population have had COVID-19.[2]
-- 0.94% of the population or 2146.0 people are actively fighting the virus.
+- 7.51% of the population have had COVID-19.[2]
+- 0.89% of the population or 2027.0 people are actively fighting the virus.
 
 ## Synopsis
 

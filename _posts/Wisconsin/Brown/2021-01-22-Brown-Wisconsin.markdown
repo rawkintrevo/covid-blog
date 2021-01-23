@@ -12,13 +12,13 @@ tags: [Brown-Wisconsin]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *580* new cases of COVID-19
-- *11* people have died of COVID-19
-- *192* people have recovered from COVID-19[1]
+- *695* new cases of COVID-19
+- *18* people have died of COVID-19
+- *189* people have recovered from COVID-19[1]
 
 The population in this census area is 264542. By our calculations:
-- 11.51% of the population have had COVID-19.[2]
-- 0.98% of the population or 2586.0 people are actively fighting the virus.
+- 11.55% of the population have had COVID-19.[2]
+- 1.02% of the population or 2697.0 people are actively fighting the virus.
 
 ## Synopsis
 

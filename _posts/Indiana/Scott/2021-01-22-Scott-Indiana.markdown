@@ -12,13 +12,13 @@ tags: [Scott-Indiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *66* new cases of COVID-19
+- *89* new cases of COVID-19
 - *1* people have died of COVID-19
-- *44* people have recovered from COVID-19[1]
+- *55* people have recovered from COVID-19[1]
 
 The population in this census area is 23873. By our calculations:
-- 9.19% of the population have had COVID-19.[2]
-- 1.09% of the population or 260.0 people are actively fighting the virus.
+- 9.29% of the population have had COVID-19.[2]
+- 1.14% of the population or 272.0 people are actively fighting the virus.
 
 ## Synopsis
 

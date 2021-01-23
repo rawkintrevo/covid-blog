@@ -12,13 +12,13 @@ tags: [Wise-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *85* new cases of COVID-19
+- *101* new cases of COVID-19
 - *6* people have died of COVID-19
-- *61* people have recovered from COVID-19[1]
+- *114* people have recovered from COVID-19[1]
 
 The population in this census area is 37383. By our calculations:
-- 6.79% of the population have had COVID-19.[2]
-- 1.26% of the population or 470.0 people are actively fighting the virus.
+- 6.83% of the population have had COVID-19.[2]
+- 1.16% of the population or 433.0 people are actively fighting the virus.
 
 ## Synopsis
 

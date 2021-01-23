@@ -12,13 +12,13 @@ tags: [Lawrence-Ohio]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *256* new cases of COVID-19
+- *298* new cases of COVID-19
 - *2* people have died of COVID-19
-- *70* people have recovered from COVID-19[1]
+- *162* people have recovered from COVID-19[1]
 
 The population in this census area is 59463. By our calculations:
-- 7.45% of the population have had COVID-19.[2]
-- 1.52% of the population or 905.0 people are actively fighting the virus.
+- 7.52% of the population have had COVID-19.[2]
+- 1.44% of the population or 855.0 people are actively fighting the virus.
 
 ## Synopsis
 

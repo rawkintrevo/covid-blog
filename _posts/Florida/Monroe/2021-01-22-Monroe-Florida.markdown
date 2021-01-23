@@ -12,13 +12,13 @@ tags: [Monroe-Florida]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *205* new cases of COVID-19
-- *0* people have died of COVID-19
-- *29* people have recovered from COVID-19[1]
+- *235* new cases of COVID-19
+- *3* people have died of COVID-19
+- *133* people have recovered from COVID-19[1]
 
 The population in this census area is 74228. By our calculations:
-- 6.77% of the population have had COVID-19.[2]
-- 1.07% of the population or 796.0 people are actively fighting the virus.
+- 6.81% of the population have had COVID-19.[2]
+- 0.97% of the population or 719.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Iron-Wisconsin]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *13* new cases of COVID-19
+- *11* new cases of COVID-19
 - *0* people have died of COVID-19
-- *2* people have recovered from COVID-19[1]
+- *3* people have recovered from COVID-19[1]
 
 The population in this census area is 5687. By our calculations:
-- 9.90% of the population have had COVID-19.[2]
-- 0.58% of the population or 33.0 people are actively fighting the virus.
+- 9.86% of the population have had COVID-19.[2]
+- 0.53% of the population or 30.0 people are actively fighting the virus.
 
 ## Synopsis
 

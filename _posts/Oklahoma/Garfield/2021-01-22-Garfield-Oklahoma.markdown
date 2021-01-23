@@ -12,13 +12,13 @@ tags: [Garfield-Oklahoma]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *203* new cases of COVID-19
+- *242* new cases of COVID-19
 - *8* people have died of COVID-19
-- *19* people have recovered from COVID-19[1]
+- *125* people have recovered from COVID-19[1]
 
 The population in this census area is 61056. By our calculations:
-- 10.50% of the population have had COVID-19.[2]
-- 1.64% of the population or 1002.0 people are actively fighting the virus.
+- 10.56% of the population have had COVID-19.[2]
+- 1.53% of the population or 935.0 people are actively fighting the virus.
 
 ## Synopsis
 

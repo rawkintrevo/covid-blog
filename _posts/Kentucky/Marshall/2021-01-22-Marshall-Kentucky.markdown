@@ -12,13 +12,13 @@ tags: [Marshall-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *97* new cases of COVID-19
-- *5* people have died of COVID-19
-- *-3* people have recovered from COVID-19[1]
+- *128* new cases of COVID-19
+- *7* people have died of COVID-19
+- *56* people have recovered from COVID-19[1]
 
 The population in this census area is 31100. By our calculations:
-- 6.45% of the population have had COVID-19.[2]
-- 1.41% of the population or 437.0 people are actively fighting the virus.
+- 6.56% of the population have had COVID-19.[2]
+- 1.31% of the population or 407.0 people are actively fighting the virus.
 
 ## Synopsis
 

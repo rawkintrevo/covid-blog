@@ -12,13 +12,13 @@ tags: [Hoke-North Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *162* new cases of COVID-19
+- *188* new cases of COVID-19
 - *0* people have died of COVID-19
-- *30* people have recovered from COVID-19[1]
+- *117* people have recovered from COVID-19[1]
 
 The population in this census area is 55234. By our calculations:
-- 6.13% of the population have had COVID-19.[2]
-- 1.13% of the population or 624.0 people are actively fighting the virus.
+- 6.17% of the population have had COVID-19.[2]
+- 1.02% of the population or 563.0 people are actively fighting the virus.
 
 ## Synopsis
 

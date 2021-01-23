@@ -12,13 +12,13 @@ tags: [Nacogdoches-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *120* new cases of COVID-19
-- *6* people have died of COVID-19
-- *36* people have recovered from COVID-19[1]
+- *131* new cases of COVID-19
+- *10* people have died of COVID-19
+- *59* people have recovered from COVID-19[1]
 
 The population in this census area is 65204. By our calculations:
-- 5.40% of the population have had COVID-19.[2]
-- 0.73% of the population or 473.0 people are actively fighting the virus.
+- 5.42% of the population have had COVID-19.[2]
+- 0.70% of the population or 457.0 people are actively fighting the virus.
 
 ## Synopsis
 

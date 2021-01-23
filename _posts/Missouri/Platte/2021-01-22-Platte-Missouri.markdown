@@ -12,13 +12,13 @@ tags: [Platte-Missouri]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *58* new cases of COVID-19
-- *4* people have died of COVID-19
-- *79* people have recovered from COVID-19[1]
+- *71* new cases of COVID-19
+- *7* people have died of COVID-19
+- *86* people have recovered from COVID-19[1]
 
 The population in this census area is 104418. By our calculations:
-- 2.68% of the population have had COVID-19.[2]
-- 0.31% of the population or 325.0 people are actively fighting the virus.
+- 2.70% of the population have had COVID-19.[2]
+- 0.31% of the population or 328.0 people are actively fighting the virus.
 
 ## Synopsis
 

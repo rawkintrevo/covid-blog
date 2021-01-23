@@ -12,13 +12,13 @@ tags: [Fentress-Tennessee]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *55* new cases of COVID-19
+- *61* new cases of COVID-19
 - *3* people have died of COVID-19
-- *8* people have recovered from COVID-19[1]
+- *74* people have recovered from COVID-19[1]
 
 The population in this census area is 18523. By our calculations:
-- 11.56% of the population have had COVID-19.[2]
-- 1.39% of the population or 258.0 people are actively fighting the virus.
+- 11.60% of the population have had COVID-19.[2]
+- 1.07% of the population or 198.0 people are actively fighting the virus.
 
 ## Synopsis
 

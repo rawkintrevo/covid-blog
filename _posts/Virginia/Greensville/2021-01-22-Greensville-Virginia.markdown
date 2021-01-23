@@ -12,13 +12,13 @@ tags: [Greensville-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *67* new cases of COVID-19
+- *74* new cases of COVID-19
 - *0* people have died of COVID-19
-- *5* people have recovered from COVID-19[1]
+- *9* people have recovered from COVID-19[1]
 
 The population in this census area is 11336. By our calculations:
-- 10.11% of the population have had COVID-19.[2]
-- 1.09% of the population or 123.0 people are actively fighting the virus.
+- 10.17% of the population have had COVID-19.[2]
+- 1.11% of the population or 126.0 people are actively fighting the virus.
 
 ## Synopsis
 

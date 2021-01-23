@@ -12,13 +12,13 @@ tags: [Currituck-North Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *94* new cases of COVID-19
+- *101* new cases of COVID-19
 - *2* people have died of COVID-19
-- *11* people have recovered from COVID-19[1]
+- *35* people have recovered from COVID-19[1]
 
 The population in this census area is 27763. By our calculations:
-- 3.48% of the population have had COVID-19.[2]
-- 1.13% of the population or 314.0 people are actively fighting the virus.
+- 3.50% of the population have had COVID-19.[2]
+- 1.07% of the population or 297.0 people are actively fighting the virus.
 
 ## Synopsis
 

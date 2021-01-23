@@ -12,13 +12,13 @@ tags: [Jasper-Iowa]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *77* new cases of COVID-19
+- *122* new cases of COVID-19
 - *4* people have died of COVID-19
-- *66* people have recovered from COVID-19[1]
+- *70* people have recovered from COVID-19[1]
 
 The population in this census area is 37185. By our calculations:
-- 8.71% of the population have had COVID-19.[2]
-- 0.84% of the population or 312.0 people are actively fighting the virus.
+- 8.83% of the population have had COVID-19.[2]
+- 0.95% of the population or 353.0 people are actively fighting the virus.
 
 ## Synopsis
 

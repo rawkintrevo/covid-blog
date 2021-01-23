@@ -12,13 +12,13 @@ tags: [Wythe-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *71* new cases of COVID-19
+- *116* new cases of COVID-19
 - *2* people have died of COVID-19
 - *40* people have recovered from COVID-19[1]
 
 The population in this census area is 28684. By our calculations:
-- 5.72% of the population have had COVID-19.[2]
-- 1.06% of the population or 304.0 people are actively fighting the virus.
+- 5.88% of the population have had COVID-19.[2]
+- 1.22% of the population or 349.0 people are actively fighting the virus.
 
 ## Synopsis
 

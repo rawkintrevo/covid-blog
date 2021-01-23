@@ -12,13 +12,13 @@ tags: [Madison-Idaho]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *130* new cases of COVID-19
+- *142* new cases of COVID-19
 - *0* people have died of COVID-19
-- *33* people have recovered from COVID-19[1]
+- *51* people have recovered from COVID-19[1]
 
 The population in this census area is 39907. By our calculations:
-- 14.31% of the population have had COVID-19.[2]
-- 1.16% of the population or 461.0 people are actively fighting the virus.
+- 14.34% of the population have had COVID-19.[2]
+- 1.14% of the population or 455.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Sandoval-New Mexico]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *306* new cases of COVID-19
-- *12* people have died of COVID-19
-- *221* people have recovered from COVID-19[1]
+- *353* new cases of COVID-19
+- *16* people have died of COVID-19
+- *284* people have recovered from COVID-19[1]
 
 The population in this census area is 146748. By our calculations:
-- 6.58% of the population have had COVID-19.[2]
-- 0.92% of the population or 1350.0 people are actively fighting the virus.
+- 6.62% of the population have had COVID-19.[2]
+- 0.91% of the population or 1330.0 people are actively fighting the virus.
 
 ## Synopsis
 

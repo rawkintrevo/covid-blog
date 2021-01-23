@@ -12,13 +12,13 @@ tags: [Pearl River-Mississippi]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *179* new cases of COVID-19
-- *12* people have died of COVID-19
-- *92* people have recovered from COVID-19[1]
+- *229* new cases of COVID-19
+- *13* people have died of COVID-19
+- *144* people have recovered from COVID-19[1]
 
 The population in this census area is 55535. By our calculations:
-- 5.99% of the population have had COVID-19.[2]
-- 1.19% of the population or 660.0 people are actively fighting the virus.
+- 6.09% of the population have had COVID-19.[2]
+- 1.18% of the population or 657.0 people are actively fighting the virus.
 
 ## Synopsis
 

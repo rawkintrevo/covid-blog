@@ -12,12 +12,12 @@ tags: [Martinsville-Virginia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *88* new cases of COVID-19
+- *98* new cases of COVID-19
 - *1* people have died of COVID-19
-- *23* people have recovered from COVID-19[1]
+- *33* people have recovered from COVID-19[1]
 
 The population in this census area is 12554. By our calculations:
-- 10.06% of the population have had COVID-19.[2]
+- 10.14% of the population have had COVID-19.[2]
 - 1.97% of the population or 247.0 people are actively fighting the virus.
 
 ## Synopsis

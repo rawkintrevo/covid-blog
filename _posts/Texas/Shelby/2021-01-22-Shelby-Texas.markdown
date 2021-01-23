@@ -12,13 +12,13 @@ tags: [Shelby-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *69* new cases of COVID-19
+- *83* new cases of COVID-19
 - *5* people have died of COVID-19
-- *9* people have recovered from COVID-19[1]
+- *18* people have recovered from COVID-19[1]
 
 The population in this census area is 25274. By our calculations:
-- 5.09% of the population have had COVID-19.[2]
-- 0.82% of the population or 207.0 people are actively fighting the virus.
+- 5.14% of the population have had COVID-19.[2]
+- 0.84% of the population or 212.0 people are actively fighting the virus.
 
 ## Synopsis
 

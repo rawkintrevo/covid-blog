@@ -12,13 +12,13 @@ tags: [Decatur-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *90* new cases of COVID-19
-- *0* people have died of COVID-19
-- *41* people have recovered from COVID-19[1]
+- *104* new cases of COVID-19
+- *1* people have died of COVID-19
+- *50* people have recovered from COVID-19[1]
 
 The population in this census area is 26404. By our calculations:
-- 8.96% of the population have had COVID-19.[2]
-- 1.26% of the population or 332.0 people are actively fighting the virus.
+- 9.02% of the population have had COVID-19.[2]
+- 1.27% of the population or 336.0 people are actively fighting the virus.
 
 ## Synopsis
 

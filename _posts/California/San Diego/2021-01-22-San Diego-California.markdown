@@ -12,13 +12,13 @@ tags: [San Diego-California]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *14211* new cases of COVID-19
-- *169* people have died of COVID-19
-- *2950* people have recovered from COVID-19[1]
+- *15339* new cases of COVID-19
+- *217* people have died of COVID-19
+- *11749* people have recovered from COVID-19[1]
 
 The population in this census area is 3338330. By our calculations:
-- 6.55% of the population have had COVID-19.[2]
-- 1.86% of the population or 62241.0 people are actively fighting the virus.
+- 6.58% of the population have had COVID-19.[2]
+- 1.63% of the population or 54522.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Crawford-Wisconsin]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *7* new cases of COVID-19
+- *8* new cases of COVID-19
 - *1* people have died of COVID-19
-- *7* people have recovered from COVID-19[1]
+- *10* people have recovered from COVID-19[1]
 
 The population in this census area is 16131. By our calculations:
-- 10.33% of the population have had COVID-19.[2]
-- 0.41% of the population or 66.0 people are actively fighting the virus.
+- 10.34% of the population have had COVID-19.[2]
+- 0.40% of the population or 64.0 people are actively fighting the virus.
 
 ## Synopsis
 

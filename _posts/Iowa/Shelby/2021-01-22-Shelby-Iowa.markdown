@@ -12,12 +12,12 @@ tags: [Shelby-Iowa]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *23* new cases of COVID-19
+- *29* new cases of COVID-19
 - *1* people have died of COVID-19
-- *2* people have recovered from COVID-19[1]
+- *8* people have recovered from COVID-19[1]
 
 The population in this census area is 11454. By our calculations:
-- 9.03% of the population have had COVID-19.[2]
+- 9.08% of the population have had COVID-19.[2]
 - 0.71% of the population or 81.0 people are actively fighting the virus.
 
 ## Synopsis

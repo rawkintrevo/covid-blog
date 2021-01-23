@@ -12,13 +12,13 @@ tags: [Marengo-Alabama]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *65* new cases of COVID-19
+- *89* new cases of COVID-19
 - *0* people have died of COVID-19
-- *36* people have recovered from COVID-19[1]
+- *45* people have recovered from COVID-19[1]
 
 The population in this census area is 18863. By our calculations:
-- 10.75% of the population have had COVID-19.[2]
-- 1.12% of the population or 212.0 people are actively fighting the virus.
+- 10.88% of the population have had COVID-19.[2]
+- 1.20% of the population or 227.0 people are actively fighting the virus.
 
 ## Synopsis
 

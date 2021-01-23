@@ -12,13 +12,13 @@ tags: [McKean-Pennsylvania]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *158* new cases of COVID-19
-- *9* people have died of COVID-19
-- *81* people have recovered from COVID-19[1]
+- *174* new cases of COVID-19
+- *10* people have died of COVID-19
+- *150* people have recovered from COVID-19[1]
 
 The population in this census area is 40625. By our calculations:
-- 5.74% of the population have had COVID-19.[2]
-- 1.41% of the population or 571.0 people are actively fighting the virus.
+- 5.78% of the population have had COVID-19.[2]
+- 1.27% of the population or 517.0 people are actively fighting the virus.
 
 ## Synopsis
 

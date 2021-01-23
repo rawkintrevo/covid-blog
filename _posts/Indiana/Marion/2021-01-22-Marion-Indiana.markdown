@@ -12,13 +12,13 @@ tags: [Marion-Indiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *2714* new cases of COVID-19
-- *35* people have died of COVID-19
-- *1646* people have recovered from COVID-19[1]
+- *3189* new cases of COVID-19
+- *40* people have died of COVID-19
+- *2415* people have recovered from COVID-19[1]
 
 The population in this census area is 964582. By our calculations:
-- 8.57% of the population have had COVID-19.[2]
-- 1.12% of the population or 10774.0 people are actively fighting the virus.
+- 8.62% of the population have had COVID-19.[2]
+- 1.09% of the population or 10475.0 people are actively fighting the virus.
 
 ## Synopsis
 

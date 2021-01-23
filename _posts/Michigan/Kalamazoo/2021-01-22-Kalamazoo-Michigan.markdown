@@ -12,13 +12,13 @@ tags: [Kalamazoo-Michigan]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *291* new cases of COVID-19
-- *10* people have died of COVID-19
-- *-3* people have recovered from COVID-19[1]
+- *330* new cases of COVID-19
+- *15* people have died of COVID-19
+- *190* people have recovered from COVID-19[1]
 
 The population in this census area is 265066. By our calculations:
-- 5.18% of the population have had COVID-19.[2]
-- 0.54% of the population or 1443.0 people are actively fighting the virus.
+- 5.20% of the population have had COVID-19.[2]
+- 0.48% of the population or 1284.0 people are actively fighting the virus.
 
 ## Synopsis
 

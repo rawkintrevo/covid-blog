@@ -12,12 +12,12 @@ tags: [Palo Alto-Iowa]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *12* new cases of COVID-19
-- *1* people have died of COVID-19
-- *10* people have recovered from COVID-19[1]
+- *16* new cases of COVID-19
+- *2* people have died of COVID-19
+- *13* people have recovered from COVID-19[1]
 
 The population in this census area is 8886. By our calculations:
-- 10.23% of the population have had COVID-19.[2]
+- 10.29% of the population have had COVID-19.[2]
 - 0.99% of the population or 88.0 people are actively fighting the virus.
 
 ## Synopsis

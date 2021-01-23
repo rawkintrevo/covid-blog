@@ -12,13 +12,13 @@ tags: [Seneca-Ohio]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *152* new cases of COVID-19
-- *7* people have died of COVID-19
-- *58* people have recovered from COVID-19[1]
+- *180* new cases of COVID-19
+- *11* people have died of COVID-19
+- *112* people have recovered from COVID-19[1]
 
 The population in this census area is 55178. By our calculations:
-- 7.62% of the population have had COVID-19.[2]
-- 1.27% of the population or 701.0 people are actively fighting the virus.
+- 7.67% of the population have had COVID-19.[2]
+- 1.22% of the population or 671.0 people are actively fighting the virus.
 
 ## Synopsis
 

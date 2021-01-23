@@ -12,13 +12,13 @@ tags: [Mason-Illinois]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *21* new cases of COVID-19
+- *29* new cases of COVID-19
 - *1* people have died of COVID-19
-- *14* people have recovered from COVID-19[1]
+- *26* people have recovered from COVID-19[1]
 
 The population in this census area is 13359. By our calculations:
-- 8.77% of the population have had COVID-19.[2]
-- 1.07% of the population or 143.0 people are actively fighting the virus.
+- 8.83% of the population have had COVID-19.[2]
+- 1.04% of the population or 139.0 people are actively fighting the virus.
 
 ## Synopsis
 

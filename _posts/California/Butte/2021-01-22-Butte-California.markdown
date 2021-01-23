@@ -12,13 +12,13 @@ tags: [Butte-California]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *507* new cases of COVID-19
+- *561* new cases of COVID-19
 - *8* people have died of COVID-19
-- *214* people have recovered from COVID-19[1]
+- *398* people have recovered from COVID-19[1]
 
 The population in this census area is 219186. By our calculations:
-- 4.35% of the population have had COVID-19.[2]
-- 0.95% of the population or 2091.0 people are actively fighting the virus.
+- 4.37% of the population have had COVID-19.[2]
+- 0.89% of the population or 1961.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Randall-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *142* new cases of COVID-19
-- *15* people have died of COVID-19
-- *226* people have recovered from COVID-19[1]
+- *218* new cases of COVID-19
+- *18* people have died of COVID-19
+- *221* people have recovered from COVID-19[1]
 
 The population in this census area is 137713. By our calculations:
-- 11.01% of the population have had COVID-19.[2]
-- 0.82% of the population or 1125.0 people are actively fighting the virus.
+- 11.07% of the population have had COVID-19.[2]
+- 0.87% of the population or 1203.0 people are actively fighting the virus.
 
 ## Synopsis
 

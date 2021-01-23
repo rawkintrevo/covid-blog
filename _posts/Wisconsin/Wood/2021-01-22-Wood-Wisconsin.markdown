@@ -12,13 +12,13 @@ tags: [Wood-Wisconsin]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *128* new cases of COVID-19
+- *154* new cases of COVID-19
 - *2* people have died of COVID-19
-- *79* people have recovered from COVID-19[1]
+- *93* people have recovered from COVID-19[1]
 
 The population in this census area is 72999. By our calculations:
-- 8.98% of the population have had COVID-19.[2]
-- 0.67% of the population or 490.0 people are actively fighting the virus.
+- 9.02% of the population have had COVID-19.[2]
+- 0.69% of the population or 502.0 people are actively fighting the virus.
 
 ## Synopsis
 

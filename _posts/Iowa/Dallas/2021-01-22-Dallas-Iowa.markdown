@@ -12,13 +12,13 @@ tags: [Dallas-Iowa]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *221* new cases of COVID-19
+- *274* new cases of COVID-19
 - *3* people have died of COVID-19
-- *113* people have recovered from COVID-19[1]
+- *129* people have recovered from COVID-19[1]
 
 The population in this census area is 93453. By our calculations:
-- 9.59% of the population have had COVID-19.[2]
-- 1.04% of the population or 970.0 people are actively fighting the virus.
+- 9.65% of the population have had COVID-19.[2]
+- 1.08% of the population or 1007.0 people are actively fighting the virus.
 
 ## Synopsis
 

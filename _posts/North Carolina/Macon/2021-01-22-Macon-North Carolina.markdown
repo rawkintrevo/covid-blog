@@ -12,13 +12,13 @@ tags: [Macon-North Carolina]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *167* new cases of COVID-19
+- *177* new cases of COVID-19
 - *0* people have died of COVID-19
-- *30* people have recovered from COVID-19[1]
+- *127* people have recovered from COVID-19[1]
 
 The population in this census area is 35858. By our calculations:
-- 5.71% of the population have had COVID-19.[2]
-- 1.80% of the population or 644.0 people are actively fighting the virus.
+- 5.74% of the population have had COVID-19.[2]
+- 1.55% of the population or 557.0 people are actively fighting the virus.
 
 ## Synopsis
 

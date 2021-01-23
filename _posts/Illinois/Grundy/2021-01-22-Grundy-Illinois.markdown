@@ -12,13 +12,13 @@ tags: [Grundy-Illinois]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *161* new cases of COVID-19
+- *184* new cases of COVID-19
 - *0* people have died of COVID-19
-- *36* people have recovered from COVID-19[1]
+- *113* people have recovered from COVID-19[1]
 
 The population in this census area is 51054. By our calculations:
-- 8.66% of the population have had COVID-19.[2]
-- 1.09% of the population or 555.0 people are actively fighting the virus.
+- 8.71% of the population have had COVID-19.[2]
+- 0.98% of the population or 501.0 people are actively fighting the virus.
 
 ## Synopsis
 

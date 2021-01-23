@@ -12,13 +12,13 @@ tags: [Taos-New Mexico]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *69* new cases of COVID-19
+- *78* new cases of COVID-19
 - *0* people have died of COVID-19
-- *13* people have recovered from COVID-19[1]
+- *33* people have recovered from COVID-19[1]
 
 The population in this census area is 32723. By our calculations:
-- 4.19% of the population have had COVID-19.[2]
-- 0.66% of the population or 215.0 people are actively fighting the virus.
+- 4.21% of the population have had COVID-19.[2]
+- 0.62% of the population or 204.0 people are actively fighting the virus.
 
 ## Synopsis
 

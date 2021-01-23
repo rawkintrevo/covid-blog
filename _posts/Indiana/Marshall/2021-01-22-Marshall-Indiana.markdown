@@ -12,13 +12,13 @@ tags: [Marshall-Indiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *107* new cases of COVID-19
+- *128* new cases of COVID-19
 - *0* people have died of COVID-19
-- *69* people have recovered from COVID-19[1]
+- *150* people have recovered from COVID-19[1]
 
 The population in this census area is 46258. By our calculations:
-- 10.76% of the population have had COVID-19.[2]
-- 0.97% of the population or 451.0 people are actively fighting the virus.
+- 10.80% of the population have had COVID-19.[2]
+- 0.85% of the population or 391.0 people are actively fighting the virus.
 
 ## Synopsis
 

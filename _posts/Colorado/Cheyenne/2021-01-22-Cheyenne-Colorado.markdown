@@ -12,13 +12,13 @@ tags: [Cheyenne-Colorado]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *6* new cases of COVID-19
+- *7* new cases of COVID-19
 - *0* people have died of COVID-19
 - *1* people have recovered from COVID-19[1]
 
 The population in this census area is 1831. By our calculations:
-- 6.12% of the population have had COVID-19.[2]
-- 1.26% of the population or 23.0 people are actively fighting the virus.
+- 6.17% of the population have had COVID-19.[2]
+- 1.31% of the population or 24.0 people are actively fighting the virus.
 
 ## Synopsis
 

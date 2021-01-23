@@ -12,13 +12,13 @@ tags: [Chippewa-Minnesota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *10* new cases of COVID-19
+- *11* new cases of COVID-19
 - *0* people have died of COVID-19
-- *7* people have recovered from COVID-19[1]
+- *13* people have recovered from COVID-19[1]
 
 The population in this census area is 11800. By our calculations:
-- 11.15% of the population have had COVID-19.[2]
-- 0.32% of the population or 38.0 people are actively fighting the virus.
+- 11.16% of the population have had COVID-19.[2]
+- 0.28% of the population or 33.0 people are actively fighting the virus.
 
 ## Synopsis
 

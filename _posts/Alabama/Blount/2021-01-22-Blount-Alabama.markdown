@@ -12,13 +12,13 @@ tags: [Blount-Alabama]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *154* new cases of COVID-19
-- *3* people have died of COVID-19
-- *109* people have recovered from COVID-19[1]
+- *186* new cases of COVID-19
+- *6* people have died of COVID-19
+- *142* people have recovered from COVID-19[1]
 
 The population in this census area is 57826. By our calculations:
-- 9.30% of the population have had COVID-19.[2]
-- 1.15% of the population or 663.0 people are actively fighting the virus.
+- 9.36% of the population have had COVID-19.[2]
+- 1.14% of the population or 659.0 people are actively fighting the virus.
 
 ## Synopsis
 

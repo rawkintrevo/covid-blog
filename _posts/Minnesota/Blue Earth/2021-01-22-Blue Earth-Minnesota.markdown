@@ -12,13 +12,13 @@ tags: [Blue Earth-Minnesota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *94* new cases of COVID-19
+- *110* new cases of COVID-19
 - *0* people have died of COVID-19
-- *14* people have recovered from COVID-19[1]
+- *46* people have recovered from COVID-19[1]
 
 The population in this census area is 67653. By our calculations:
-- 8.03% of the population have had COVID-19.[2]
-- 0.57% of the population or 387.0 people are actively fighting the virus.
+- 8.05% of the population have had COVID-19.[2]
+- 0.55% of the population or 371.0 people are actively fighting the virus.
 
 ## Synopsis
 

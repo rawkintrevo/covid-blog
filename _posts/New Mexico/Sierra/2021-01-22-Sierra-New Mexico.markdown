@@ -13,12 +13,12 @@ tags: [Sierra-New Mexico]
 
 In the last 7 days[3] we project there have been
 - *14* new cases of COVID-19
-- *2* people have died of COVID-19
-- *12* people have recovered from COVID-19[1]
+- *4* people have died of COVID-19
+- *31* people have recovered from COVID-19[1]
 
 The population in this census area is 10791. By our calculations:
-- 6.05% of the population have had COVID-19.[2]
-- 1.03% of the population or 111.0 people are actively fighting the virus.
+- 6.07% of the population have had COVID-19.[2]
+- 0.83% of the population or 90.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Nevada-Arkansas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *25* new cases of COVID-19
+- *32* new cases of COVID-19
 - *0* people have died of COVID-19
-- *8* people have recovered from COVID-19[1]
+- *11* people have recovered from COVID-19[1]
 
 The population in this census area is 8252. By our calculations:
-- 7.99% of the population have had COVID-19.[2]
-- 0.71% of the population or 59.0 people are actively fighting the virus.
+- 8.07% of the population have had COVID-19.[2]
+- 0.76% of the population or 63.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Lincoln-Louisiana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *113* new cases of COVID-19
-- *2* people have died of COVID-19
-- *39* people have recovered from COVID-19[1]
+- *141* new cases of COVID-19
+- *4* people have died of COVID-19
+- *37* people have recovered from COVID-19[1]
 
 The population in this census area is 46742. By our calculations:
-- 8.10% of the population have had COVID-19.[2]
-- 0.92% of the population or 432.0 people are actively fighting the virus.
+- 8.17% of the population have had COVID-19.[2]
+- 0.98% of the population or 460.0 people are actively fighting the virus.
 
 ## Synopsis
 

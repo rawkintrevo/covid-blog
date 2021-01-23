@@ -12,13 +12,13 @@ tags: [Ouachita-Arkansas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *94* new cases of COVID-19
-- *5* people have died of COVID-19
-- *43* people have recovered from COVID-19[1]
+- *112* new cases of COVID-19
+- *6* people have died of COVID-19
+- *61* people have recovered from COVID-19[1]
 
 The population in this census area is 23382. By our calculations:
-- 7.61% of the population have had COVID-19.[2]
-- 1.60% of the population or 375.0 people are actively fighting the virus.
+- 7.69% of the population have had COVID-19.[2]
+- 1.60% of the population or 374.0 people are actively fighting the virus.
 
 ## Synopsis
 

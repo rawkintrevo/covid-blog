@@ -12,13 +12,13 @@ tags: [Butler-Missouri]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *79* new cases of COVID-19
+- *94* new cases of COVID-19
 - *5* people have died of COVID-19
-- *63* people have recovered from COVID-19[1]
+- *74* people have recovered from COVID-19[1]
 
 The population in this census area is 42478. By our calculations:
-- 7.34% of the population have had COVID-19.[2]
-- 0.61% of the population or 261.0 people are actively fighting the virus.
+- 7.38% of the population have had COVID-19.[2]
+- 0.62% of the population or 265.0 people are actively fighting the virus.
 
 ## Synopsis
 

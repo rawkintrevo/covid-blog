@@ -12,13 +12,13 @@ tags: [Stanislaus-California]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *2380* new cases of COVID-19
-- *46* people have died of COVID-19
-- *299* people have recovered from COVID-19[1]
+- *2644* new cases of COVID-19
+- *53* people have died of COVID-19
+- *1290* people have recovered from COVID-19[1]
 
 The population in this census area is 550660. By our calculations:
-- 7.83% of the population have had COVID-19.[2]
-- 1.54% of the population or 8489.0 people are actively fighting the virus.
+- 7.88% of the population have had COVID-19.[2]
+- 1.41% of the population or 7755.0 people are actively fighting the virus.
 
 ## Synopsis
 

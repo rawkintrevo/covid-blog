@@ -12,13 +12,13 @@ tags: [Door-Wisconsin]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *67* new cases of COVID-19
-- *1* people have died of COVID-19
-- *42* people have recovered from COVID-19[1]
+- *70* new cases of COVID-19
+- *3* people have died of COVID-19
+- *40* people have recovered from COVID-19[1]
 
 The population in this census area is 27668. By our calculations:
-- 8.99% of the population have had COVID-19.[2]
-- 1.00% of the population or 276.0 people are actively fighting the virus.
+- 9.01% of the population have had COVID-19.[2]
+- 1.01% of the population or 279.0 people are actively fighting the virus.
 
 ## Synopsis
 

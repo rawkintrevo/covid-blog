@@ -12,13 +12,13 @@ tags: [McLean-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *38* new cases of COVID-19
-- *1* people have died of COVID-19
-- *0* people have recovered from COVID-19[1]
+- *46* new cases of COVID-19
+- *2* people have died of COVID-19
+- *10* people have recovered from COVID-19[1]
 
 The population in this census area is 9207. By our calculations:
-- 7.61% of the population have had COVID-19.[2]
-- 1.63% of the population or 150.0 people are actively fighting the virus.
+- 7.71% of the population have had COVID-19.[2]
+- 1.60% of the population or 147.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Cumberland-New Jersey]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *605* new cases of COVID-19
-- *25* people have died of COVID-19
-- *221* people have recovered from COVID-19[1]
+- *724* new cases of COVID-19
+- *28* people have died of COVID-19
+- *323* people have recovered from COVID-19[1]
 
 The population in this census area is 149527. By our calculations:
-- 7.75% of the population have had COVID-19.[2]
-- 2.37% of the population or 3544.0 people are actively fighting the virus.
+- 7.83% of the population have had COVID-19.[2]
+- 2.38% of the population or 3558.0 people are actively fighting the virus.
 
 ## Synopsis
 

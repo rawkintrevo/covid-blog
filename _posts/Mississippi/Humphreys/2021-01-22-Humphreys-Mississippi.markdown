@@ -12,13 +12,13 @@ tags: [Humphreys-Mississippi]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *30* new cases of COVID-19
+- *33* new cases of COVID-19
 - *0* people have died of COVID-19
 - *27* people have recovered from COVID-19[1]
 
 The population in this census area is 8064. By our calculations:
-- 10.33% of the population have had COVID-19.[2]
-- 1.13% of the population or 91.0 people are actively fighting the virus.
+- 10.37% of the population have had COVID-19.[2]
+- 1.17% of the population or 94.0 people are actively fighting the virus.
 
 ## Synopsis
 

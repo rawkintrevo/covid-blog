@@ -12,13 +12,13 @@ tags: [Fairbanks North Star-Alaska]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *149* new cases of COVID-19
+- *178* new cases of COVID-19
 - *3* people have died of COVID-19
-- *35* people have recovered from COVID-19[1]
+- *144* people have recovered from COVID-19[1]
 
 The population in this census area is 96849. By our calculations:
-- 5.87% of the population have had COVID-19.[2]
-- 0.77% of the population or 746.0 people are actively fighting the virus.
+- 5.90% of the population have had COVID-19.[2]
+- 0.69% of the population or 666.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Dale-Alabama]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *144* new cases of COVID-19
-- *3* people have died of COVID-19
-- *88* people have recovered from COVID-19[1]
+- *168* new cases of COVID-19
+- *4* people have died of COVID-19
+- *120* people have recovered from COVID-19[1]
 
 The population in this census area is 49172. By our calculations:
-- 8.19% of the population have had COVID-19.[2]
-- 1.30% of the population or 640.0 people are actively fighting the virus.
+- 8.24% of the population have had COVID-19.[2]
+- 1.28% of the population or 631.0 people are actively fighting the virus.
 
 ## Synopsis
 

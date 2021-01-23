@@ -12,13 +12,13 @@ tags: [Queen Anne's-Maryland]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *152* new cases of COVID-19
+- *160* new cases of COVID-19
 - *0* people have died of COVID-19
-- *87* people have recovered from COVID-19[1]
+- *111* people have recovered from COVID-19[1]
 
 The population in this census area is 50381. By our calculations:
-- 4.39% of the population have had COVID-19.[2]
-- 0.99% of the population or 497.0 people are actively fighting the virus.
+- 4.40% of the population have had COVID-19.[2]
+- 0.95% of the population or 481.0 people are actively fighting the virus.
 
 ## Synopsis
 

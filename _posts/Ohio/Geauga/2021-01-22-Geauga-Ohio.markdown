@@ -12,13 +12,13 @@ tags: [Geauga-Ohio]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *272* new cases of COVID-19
+- *312* new cases of COVID-19
 - *0* people have died of COVID-19
-- *58* people have recovered from COVID-19[1]
+- *149* people have recovered from COVID-19[1]
 
 The population in this census area is 93649. By our calculations:
-- 5.31% of the population have had COVID-19.[2]
-- 1.00% of the population or 937.0 people are actively fighting the virus.
+- 5.35% of the population have had COVID-19.[2]
+- 0.95% of the population or 886.0 people are actively fighting the virus.
 
 ## Synopsis
 

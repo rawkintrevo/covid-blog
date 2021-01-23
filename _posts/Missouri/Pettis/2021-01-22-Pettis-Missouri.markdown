@@ -12,13 +12,13 @@ tags: [Pettis-Missouri]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *53* new cases of COVID-19
+- *85* new cases of COVID-19
 - *0* people have died of COVID-19
-- *91* people have recovered from COVID-19[1]
+- *96* people have recovered from COVID-19[1]
 
 The population in this census area is 42339. By our calculations:
-- 10.56% of the population have had COVID-19.[2]
-- 0.86% of the population or 366.0 people are actively fighting the virus.
+- 10.64% of the population have had COVID-19.[2]
+- 0.93% of the population or 393.0 people are actively fighting the virus.
 
 ## Synopsis
 

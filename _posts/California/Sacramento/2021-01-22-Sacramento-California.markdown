@@ -12,13 +12,13 @@ tags: [Sacramento-California]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *2849* new cases of COVID-19
+- *3353* new cases of COVID-19
 - *66* people have died of COVID-19
-- *667* people have recovered from COVID-19[1]
+- *1806* people have recovered from COVID-19[1]
 
 The population in this census area is 1552058. By our calculations:
-- 5.23% of the population have had COVID-19.[2]
-- 0.97% of the population or 15081.0 people are actively fighting the virus.
+- 5.26% of the population have had COVID-19.[2]
+- 0.93% of the population or 14446.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Calhoun-Alabama]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *425* new cases of COVID-19
-- *4* people have died of COVID-19
-- *153* people have recovered from COVID-19[1]
+- *494* new cases of COVID-19
+- *8* people have died of COVID-19
+- *257* people have recovered from COVID-19[1]
 
 The population in this census area is 113605. By our calculations:
-- 9.94% of the population have had COVID-19.[2]
-- 1.46% of the population or 1664.0 people are actively fighting the virus.
+- 10.00% of the population have had COVID-19.[2]
+- 1.43% of the population or 1625.0 people are actively fighting the virus.
 
 ## Synopsis
 

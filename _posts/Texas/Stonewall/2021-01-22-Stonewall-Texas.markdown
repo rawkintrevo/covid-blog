@@ -12,13 +12,13 @@ tags: [Stonewall-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *11* new cases of COVID-19
-- *1* people have died of COVID-19
-- *3* people have recovered from COVID-19[1]
+- *16* new cases of COVID-19
+- *2* people have died of COVID-19
+- *2* people have recovered from COVID-19[1]
 
 The population in this census area is 1350. By our calculations:
-- 10.22% of the population have had COVID-19.[2]
-- 3.63% of the population or 49.0 people are actively fighting the virus.
+- 10.67% of the population have had COVID-19.[2]
+- 4.00% of the population or 54.0 people are actively fighting the virus.
 
 ## Synopsis
 

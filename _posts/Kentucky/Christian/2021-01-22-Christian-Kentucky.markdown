@@ -12,13 +12,13 @@ tags: [Christian-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *268* new cases of COVID-19
+- *347* new cases of COVID-19
 - *5* people have died of COVID-19
-- *-2* people have recovered from COVID-19[1]
+- *200* people have recovered from COVID-19[1]
 
 The population in this census area is 70461. By our calculations:
-- 7.61% of the population have had COVID-19.[2]
-- 1.55% of the population or 1092.0 people are actively fighting the virus.
+- 7.72% of the population have had COVID-19.[2]
+- 1.38% of the population or 969.0 people are actively fighting the virus.
 
 ## Synopsis
 

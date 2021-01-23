@@ -12,13 +12,13 @@ tags: [Chautauqua-New York]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *551* new cases of COVID-19
-- *18* people have died of COVID-19
-- *212* people have recovered from COVID-19[1]
+- *631* new cases of COVID-19
+- *20* people have died of COVID-19
+- *304* people have recovered from COVID-19[1]
 
 The population in this census area is 126903. By our calculations:
-- 4.46% of the population have had COVID-19.[2]
-- 1.57% of the population or 1991.0 people are actively fighting the virus.
+- 4.52% of the population have had COVID-19.[2]
+- 1.56% of the population or 1977.0 people are actively fighting the virus.
 
 ## Synopsis
 

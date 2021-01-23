@@ -12,13 +12,13 @@ tags: [Gallia-Ohio]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *72* new cases of COVID-19
+- *85* new cases of COVID-19
 - *0* people have died of COVID-19
-- *29* people have recovered from COVID-19[1]
+- *63* people have recovered from COVID-19[1]
 
 The population in this census area is 29898. By our calculations:
-- 6.47% of the population have had COVID-19.[2]
-- 0.88% of the population or 263.0 people are actively fighting the virus.
+- 6.51% of the population have had COVID-19.[2]
+- 0.81% of the population or 242.0 people are actively fighting the virus.
 
 ## Synopsis
 

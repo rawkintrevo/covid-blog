@@ -12,13 +12,13 @@ tags: [Monroe-Tennessee]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *206* new cases of COVID-19
+- *219* new cases of COVID-19
 - *1* people have died of COVID-19
-- *57* people have recovered from COVID-19[1]
+- *129* people have recovered from COVID-19[1]
 
 The population in this census area is 46545. By our calculations:
-- 9.94% of the population have had COVID-19.[2]
-- 1.59% of the population or 740.0 people are actively fighting the virus.
+- 9.97% of the population have had COVID-19.[2]
+- 1.46% of the population or 681.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Macon-Illinois]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *220* new cases of COVID-19
+- *250* new cases of COVID-19
 - *4* people have died of COVID-19
-- *43* people have recovered from COVID-19[1]
+- *129* people have recovered from COVID-19[1]
 
 The population in this census area is 104009. By our calculations:
-- 8.52% of the population have had COVID-19.[2]
-- 0.85% of the population or 887.0 people are actively fighting the virus.
+- 8.55% of the population have had COVID-19.[2]
+- 0.80% of the population or 831.0 people are actively fighting the virus.
 
 ## Synopsis
 

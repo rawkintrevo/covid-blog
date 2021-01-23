@@ -12,13 +12,13 @@ tags: [Lee-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *141* new cases of COVID-19
+- *169* new cases of COVID-19
 - *2* people have died of COVID-19
-- *74* people have recovered from COVID-19[1]
+- *85* people have recovered from COVID-19[1]
 
 The population in this census area is 29992. By our calculations:
-- 7.06% of the population have had COVID-19.[2]
-- 1.80% of the population or 540.0 people are actively fighting the virus.
+- 7.15% of the population have had COVID-19.[2]
+- 1.86% of the population or 557.0 people are actively fighting the virus.
 
 ## Synopsis
 

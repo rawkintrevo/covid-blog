@@ -12,13 +12,13 @@ tags: [Jefferson-Pennsylvania]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *117* new cases of COVID-19
-- *8* people have died of COVID-19
-- *27* people have recovered from COVID-19[1]
+- *144* new cases of COVID-19
+- *9* people have died of COVID-19
+- *55* people have recovered from COVID-19[1]
 
 The population in this census area is 43425. By our calculations:
-- 5.37% of the population have had COVID-19.[2]
-- 0.93% of the population or 406.0 people are actively fighting the virus.
+- 5.43% of the population have had COVID-19.[2]
+- 0.93% of the population or 404.0 people are actively fighting the virus.
 
 ## Synopsis
 

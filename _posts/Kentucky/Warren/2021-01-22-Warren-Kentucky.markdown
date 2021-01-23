@@ -12,13 +12,13 @@ tags: [Warren-Kentucky]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *562* new cases of COVID-19
+- *690* new cases of COVID-19
 - *7* people have died of COVID-19
-- *-3* people have recovered from COVID-19[1]
+- *186* people have recovered from COVID-19[1]
 
 The population in this census area is 132896. By our calculations:
-- 9.36% of the population have had COVID-19.[2]
-- 1.74% of the population or 2319.0 people are actively fighting the virus.
+- 9.45% of the population have had COVID-19.[2]
+- 1.70% of the population or 2258.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Trumbull-Ohio]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *494* new cases of COVID-19
-- *14* people have died of COVID-19
-- *120* people have recovered from COVID-19[1]
+- *568* new cases of COVID-19
+- *16* people have died of COVID-19
+- *267* people have recovered from COVID-19[1]
 
 The population in this census area is 197974. By our calculations:
-- 6.37% of the population have had COVID-19.[2]
-- 0.86% of the population or 1700.0 people are actively fighting the virus.
+- 6.40% of the population have had COVID-19.[2]
+- 0.82% of the population or 1625.0 people are actively fighting the virus.
 
 ## Synopsis
 

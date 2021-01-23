@@ -12,13 +12,13 @@ tags: [Jones-Mississippi]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *367* new cases of COVID-19
+- *436* new cases of COVID-19
 - *4* people have died of COVID-19
-- *123* people have recovered from COVID-19[1]
+- *176* people have recovered from COVID-19[1]
 
 The population in this census area is 68098. By our calculations:
-- 9.52% of the population have had COVID-19.[2]
-- 1.73% of the population or 1175.0 people are actively fighting the virus.
+- 9.62% of the population have had COVID-19.[2]
+- 1.75% of the population or 1191.0 people are actively fighting the virus.
 
 ## Synopsis
 

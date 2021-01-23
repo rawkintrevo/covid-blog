@@ -12,13 +12,13 @@ tags: [Sumter-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *109* new cases of COVID-19
-- *0* people have died of COVID-19
-- *30* people have recovered from COVID-19[1]
+- *125* new cases of COVID-19
+- *2* people have died of COVID-19
+- *36* people have recovered from COVID-19[1]
 
 The population in this census area is 29524. By our calculations:
-- 7.07% of the population have had COVID-19.[2]
-- 1.13% of the population or 334.0 people are actively fighting the virus.
+- 7.13% of the population have had COVID-19.[2]
+- 1.16% of the population or 342.0 people are actively fighting the virus.
 
 ## Synopsis
 

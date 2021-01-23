@@ -12,13 +12,13 @@ tags: [Darke-Ohio]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *121* new cases of COVID-19
-- *0* people have died of COVID-19
-- *43* people have recovered from COVID-19[1]
+- *148* new cases of COVID-19
+- *2* people have died of COVID-19
+- *78* people have recovered from COVID-19[1]
 
 The population in this census area is 51113. By our calculations:
-- 9.05% of the population have had COVID-19.[2]
-- 0.94% of the population or 480.0 people are actively fighting the virus.
+- 9.11% of the population have had COVID-19.[2]
+- 0.92% of the population or 470.0 people are actively fighting the virus.
 
 ## Synopsis
 

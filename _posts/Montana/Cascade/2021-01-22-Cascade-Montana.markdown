@@ -12,13 +12,13 @@ tags: [Cascade-Montana]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *103* new cases of COVID-19
-- *3* people have died of COVID-19
-- *-8* people have recovered from COVID-19[1]
+- *112* new cases of COVID-19
+- *5* people have died of COVID-19
+- *-5* people have recovered from COVID-19[1]
 
 The population in this census area is 81366. By our calculations:
-- 8.83% of the population have had COVID-19.[2]
-- 0.66% of the population or 533.0 people are actively fighting the virus.
+- 8.84% of the population have had COVID-19.[2]
+- 0.66% of the population or 537.0 people are actively fighting the virus.
 
 ## Synopsis
 

@@ -12,13 +12,13 @@ tags: [Somerset-Maine]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *82* new cases of COVID-19
+- *108* new cases of COVID-19
 - *1* people have died of COVID-19
-- *13* people have recovered from COVID-19[1]
+- *14* people have recovered from COVID-19[1]
 
 The population in this census area is 50484. By our calculations:
-- 1.96% of the population have had COVID-19.[2]
-- 0.47% of the population or 236.0 people are actively fighting the virus.
+- 2.01% of the population have had COVID-19.[2]
+- 0.52% of the population or 261.0 people are actively fighting the virus.
 
 ## Synopsis
 

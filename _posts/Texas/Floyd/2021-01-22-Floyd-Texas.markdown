@@ -12,13 +12,13 @@ tags: [Floyd-Texas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *11* new cases of COVID-19
-- *0* people have died of COVID-19
-- *44* people have recovered from COVID-19[1]
+- *10* new cases of COVID-19
+- *1* people have died of COVID-19
+- *43* people have recovered from COVID-19[1]
 
 The population in this census area is 5712. By our calculations:
 - 11.13% of the population have had COVID-19.[2]
-- 1.24% of the population or 71.0 people are actively fighting the virus.
+- 1.23% of the population or 70.0 people are actively fighting the virus.
 
 ## Synopsis
 

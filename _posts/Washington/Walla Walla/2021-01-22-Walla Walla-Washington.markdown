@@ -12,13 +12,13 @@ tags: [Walla Walla-Washington]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *153* new cases of COVID-19
-- *3* people have died of COVID-19
-- *56* people have recovered from COVID-19[1]
+- *180* new cases of COVID-19
+- *6* people have died of COVID-19
+- *53* people have recovered from COVID-19[1]
 
 The population in this census area is 60760. By our calculations:
-- 6.90% of the population have had COVID-19.[2]
-- 1.09% of the population or 662.0 people are actively fighting the virus.
+- 6.95% of the population have had COVID-19.[2]
+- 1.13% of the population or 689.0 people are actively fighting the virus.
 
 ## Synopsis
 

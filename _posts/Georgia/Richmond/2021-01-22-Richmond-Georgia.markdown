@@ -12,13 +12,13 @@ tags: [Richmond-Georgia]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *1127* new cases of COVID-19
-- *24* people have died of COVID-19
-- *562* people have recovered from COVID-19[1]
+- *1350* new cases of COVID-19
+- *27* people have died of COVID-19
+- *697* people have recovered from COVID-19[1]
 
 The population in this census area is 202518. By our calculations:
-- 9.29% of the population have had COVID-19.[2]
-- 1.84% of the population or 3718.0 people are actively fighting the virus.
+- 9.40% of the population have had COVID-19.[2]
+- 1.88% of the population or 3803.0 people are actively fighting the virus.
 
 ## Synopsis
 

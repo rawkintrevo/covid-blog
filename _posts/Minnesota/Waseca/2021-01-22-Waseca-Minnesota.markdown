@@ -12,13 +12,13 @@ tags: [Waseca-Minnesota]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *25* new cases of COVID-19
+- *31* new cases of COVID-19
 - *1* people have died of COVID-19
-- *7* people have recovered from COVID-19[1]
+- *24* people have recovered from COVID-19[1]
 
 The population in this census area is 18612. By our calculations:
-- 10.21% of the population have had COVID-19.[2]
-- 0.77% of the population or 143.0 people are actively fighting the virus.
+- 10.25% of the population have had COVID-19.[2]
+- 0.71% of the population or 132.0 people are actively fighting the virus.
 
 ## Synopsis
 

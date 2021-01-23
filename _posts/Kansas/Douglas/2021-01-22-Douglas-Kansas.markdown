@@ -12,13 +12,13 @@ tags: [Douglas-Kansas]
 ## Quick Facts
 
 In the last 7 days[3] we project there have been
-- *475* new cases of COVID-19
+- *649* new cases of COVID-19
 - *3* people have died of COVID-19
 - *54* people have recovered from COVID-19[1]
 
 The population in this census area is 122259. By our calculations:
-- 6.23% of the population have had COVID-19.[2]
-- 0.91% of the population or 1107.0 people are actively fighting the virus.
+- 6.37% of the population have had COVID-19.[2]
+- 1.05% of the population or 1281.0 people are actively fighting the virus.
 
 ## Synopsis
 
